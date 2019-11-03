@@ -5,6 +5,7 @@
 * [Hyper Island](hyper-island/README.md)
   * [Workshops](hyper-island/workshops.md)
   * [People](hyper-island/people.md)
+  * [Forum](hyper-island/forum.md)
 
 ## Software
 
