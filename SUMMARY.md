@@ -48,7 +48,6 @@
     * [Communication](hardware/arduino/advanced/communication.md)
   * [Electronics](hardware/arduino/electronics/README.md)
     * [Reference](hardware/arduino/electronics/reference.md)
-  * [Cheat sheets](hardware/arduino/cheat-sheets.md)
   * [Distributors](hardware/arduino/distributors.md)
   * [Dictionary](hardware/arduino/dictionary.md)
   * [🎵 Learning Challenge](hardware/arduino/learning-challenge.md)
@@ -65,6 +64,7 @@
 
 ## TBD
 
+* [Glitch](tbd/glitch.md)
 * [Pepakura](tbd/pepakura.md)
 * [Web Development](tbd/web-development/README.md)
   * [Javascript](tbd/web-development/javascript/README.md)
@@ -75,5 +75,4 @@
   * [References](tbd/web-development/references.md)
   * [🥈Mini Challenge](tbd/web-development/mini-challenge.md)
   * [🥇 Learning Challenge](tbd/web-development/learning-challenge.md)
-* [Glitch](tbd/glitch.md)
 
