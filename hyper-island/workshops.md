@@ -17,19 +17,47 @@
 
 ### Bodystorming
 
+Do, or do not, there is no try.
+
 ### TBD
 
 ### Laser Basics
 
+Introduction to the laser cutter where participants will co-create skill badges and their team symbols. 
+
+**Required for joining Laser Advanced.**
+
 ### Laser Advanced
+
+Something something dark side.
 
 ### A-Frame AR/VR
 
+Browser based world building and mixed reality. With A-Frame and Glitch participants learn the basics of web powered graphics development while hacking their environment using augmented reality.
+
 ### Arduino Basics
+
+Build interactive objects using the worlds most famous micro-controller, the Arduino Uno! This three-hour workshop get participants learning the basics of electronics, buttons, potentiometers, sensors and how to make annoying sounds. 
+
+**Required for joining Arduino Advanced.**
 
 ### Arduino Advanced
 
+Further exploration into the world of sensory equipment. 
+
+**Required for joining Arduino Special.**
+
 ### Arduino Special
+
+Build absurd and ludic custom music interfaces! This specialised workshop makes use of all things previously learnt, and combines it with our own senses.
+
+### Generative design
+
+Through p5.js participants learn about generative art while making their own!
+
+### Machine Learning
+
+
 
 ### 
 

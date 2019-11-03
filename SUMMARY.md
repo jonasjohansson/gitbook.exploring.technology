@@ -6,7 +6,6 @@
   * [Workshops](hyper-island/workshops.md)
   * [Talks](hyper-island/talks.md)
   * [Team](hyper-island/people.md)
-  * [Forum](hyper-island/forum.md)
 
 ## Software
 
