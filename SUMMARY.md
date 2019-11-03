@@ -80,13 +80,3 @@
   * [Materials](hardware/laser-cutting/materials.md)
   * [📿 Learning challenge](hardware/laser-cutting/learning-challenge.md)
 
-## Other
-
-## Legacy
-
-* [Workshops](legacy/workshops/README.md)
-  * [Future Protest Signs](legacy/workshops/future-protest-signs.md)
-  * [Principles of Technology](legacy/workshops/principles-of-technology.md)
-  * [DIY Laser](legacy/workshops/diy-laser.md)
-* [Machine Learning](legacy/machine-learning.md)
-
