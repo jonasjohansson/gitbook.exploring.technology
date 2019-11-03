@@ -4,7 +4,7 @@ Laserskärarens potential går inte obemärkt fram. Verktyget ger snabb möjligh
 
 [Beckmans designhögskola](https://beckmans.se) tillsammans med [Folk Lab](https://www.folklab.nu) erbjuder en möjlighet att arbeta med detta fantastiska verktyg samtidigt som vi gemensamt arbetar mot [Mål 12 Hållbar konsumption och produktion](https://www.globalamalen.se/om-globala-malen/mal-12-hallbar-konsumtion-och-produktion/). Det krävs ingen förkunskap i laser-skärare eller digital mjukvara.
 
-{% page-ref page="../../h/laser-cutting/learning-challenge.md" %}
+{% page-ref page="../../hardware/laser-cutting/learning-challenge.md" %}
 
 ### Onsdag
 

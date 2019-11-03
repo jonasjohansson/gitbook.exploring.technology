@@ -1,4 +1,4 @@
-# Documentation
+# Tips & Trix
 
 ## Screen recording
 

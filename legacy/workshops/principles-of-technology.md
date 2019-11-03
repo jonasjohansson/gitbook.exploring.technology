@@ -13,9 +13,9 @@ An introduction to Javascript, generative art and drawing with code.
 | 16.00-17.00 | Wrap-up |
 | 17.00-22.00 | Prepare for next day presentation |
 
-{% page-ref page="../../s/generative-design/" %}
+{% page-ref page="../../software/generative-design/" %}
 
-{% page-ref page="../../s/generative-design/learning-challenge.md" %}
+{% page-ref page="../../software/generative-design/learning-challenge.md" %}
 
 ### Day 2 WWWitchraft
 
@@ -29,9 +29,9 @@ An introduction to HTML, CSS, DOM manipulation with Javascript.
 | 13.00-17.00 | Learning challenge |
 | 17.00-22.00 | Prepare for next day presentation |
 
-{% page-ref page="../../s/web-development/" %}
+{% page-ref page="../../software/web-development/" %}
 
-{% page-ref page="../../s/web-development/learning-challenge.md" %}
+{% page-ref page="../../software/web-development/learning-challenge.md" %}
 
 ### Day 3 Radical Augmented Reality
 
@@ -43,5 +43,5 @@ An introduction to HTML, CSS, DOM manipulation with Javascript.
 | 13.00-17.00 | Learning challenge |
 | 17.00 | Day 3 presentations |
 
-{% page-ref page="../../s/a-frame/" %}
+{% page-ref page="../../software/a-frame/" %}
 
