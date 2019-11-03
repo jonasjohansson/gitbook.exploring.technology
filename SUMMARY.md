@@ -9,20 +9,6 @@
 
 ## Software
 
-* [Node.js](software/node.js/README.md)
-  * [Electron](software/node.js/electron.md)
-* [P5.js](software/generative-design/README.md)
-  * [References](software/generative-design/references.md)
-  * [🥇 Learning Challenge](software/generative-design/learning-challenge.md)
-* [Web Development](software/web-development/README.md)
-  * [Javascript](software/web-development/javascript/README.md)
-    * [API](software/web-development/javascript/api.md)
-    * [Device API](software/web-development/javascript/device-api.md)
-  * [HTML](software/web-development/html.md)
-  * [CSS](software/web-development/getting-started.md)
-  * [References](software/web-development/references.md)
-  * [🥈Mini Challenge](software/web-development/mini-challenge.md)
-  * [🥇 Learning Challenge](software/web-development/learning-challenge.md)
 * [A-Frame](software/a-frame/README.md)
   * [Basics](software/a-frame/basics/README.md)
     * [Animation](software/a-frame/basics/animation.md)
@@ -47,12 +33,9 @@
   * [References](software/a-frame/references.md)
   * [🔥 VR Learning Challenge](software/a-frame/vr-learning-challenge.md)
   * [⚡ AR Learning Challenge](software/a-frame/ar-learning-challenge.md)
-* [Cinema4d](software/cinema4d/README.md)
-  * [Getting started](software/cinema4d/getting-started.md)
-  * [Advanced](software/cinema4d/advanced/README.md)
-    * [Pepakura](software/cinema4d/advanced/pepakura.md)
-  * [Motion capture](software/cinema4d/motion-capture.md)
-* [Glitch](software/glitch.md)
+* [P5.js](software/generative-design/README.md)
+  * [References](software/generative-design/references.md)
+  * [🥇 Learning Challenge](software/generative-design/learning-challenge.md)
 
 ## Hardware
 
@@ -79,4 +62,18 @@
   * [Machines](hardware/laser-cutting/machines.md)
   * [Materials](hardware/laser-cutting/materials.md)
   * [📿 Learning challenge](hardware/laser-cutting/learning-challenge.md)
+
+## TBD
+
+* [Pepakura](tbd/pepakura.md)
+* [Web Development](tbd/web-development/README.md)
+  * [Javascript](tbd/web-development/javascript/README.md)
+    * [API](tbd/web-development/javascript/api.md)
+    * [Device API](tbd/web-development/javascript/device-api.md)
+  * [HTML](tbd/web-development/html.md)
+  * [CSS](tbd/web-development/getting-started.md)
+  * [References](tbd/web-development/references.md)
+  * [🥈Mini Challenge](tbd/web-development/mini-challenge.md)
+  * [🥇 Learning Challenge](tbd/web-development/learning-challenge.md)
+* [Glitch](tbd/glitch.md)
 
