@@ -2,10 +2,10 @@
 
 * [Welcome](README.md)
 * [Tips & Trix](tips-and-trix.md)
-* [Team](people.md)
 * [Hyper Island](hyper-island/README.md)
   * [Workshops](hyper-island/workshops.md)
   * [Talks](hyper-island/talks.md)
+  * [Team](hyper-island/people.md)
   * [Forum](hyper-island/forum.md)
 
 ## Software
