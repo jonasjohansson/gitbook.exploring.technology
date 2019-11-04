@@ -42,9 +42,7 @@ Further exploration into the world of sensory equipment.  **Required for joining
 
 ### Bitsy
 
-Game design, Bitsy and Non-linear Narratives.
-
-_Jonas Johansson_
+Game design, Bitsy and Non-linear Narratives. _Jonas Johansson_
 
 ## Tuesday
 
@@ -58,13 +56,7 @@ Hack the controls of existing games and game like experiences by building your o
 
 ### Machine learning
 
-An introduction to a range of simple-to-use machine learning techniques that allow people to use \(mainly\) camera inputs to control outputs. Techniques such as:
-
-1. Training classification and regression models, and using these as outputs.
-2. Track bodies and body parts with webcams.
-3.  Track faces, and perform age, gender and expression estimations.
-
-_Andreas Refsgaard_
+An introduction to a range of simple-to-use machine learning techniques that allow people to use \(mainly\) camera inputs to control outputs. _Andreas Refsgaard_
 
 ### 
 
