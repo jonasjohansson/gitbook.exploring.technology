@@ -15,6 +15,10 @@ For more info on local distributors of laser cutters look visit [Indukta](https:
 
 Below are guideline values based on [Material Test Card for Laser Cutting and Engraving](https://www.thingiverse.com/thing:2243854).
 
+{% file src="../../.gitbook/assets/laser-test-pattern-0.1.ai" %}
+
+{% file src="../../.gitbook/assets/laser-test-pattern-0.1.dxf" %}
+
 ### RS 1390X
 
 [Olle Bjerkås](http://ollebjerkas.se/) has written a guide which can be found [here](https://docs.google.com/presentation/d/1fHrc7wqKD7gSvvFFkr96qB5bv28JouMyUnTcuN89DL8/edit#slide=id.p).
@@ -24,6 +28,4 @@ Below are guideline values based on [Material Test Card for Laser Cutting and En
 | Plywood \(3mm\) | 25 | 70 | 400 | 10 |
 | Plywood \(6.35mm\) | 25 | 95 |  |  |
 | Acrylic \(3mm\) | 30 | 50 |  |  |
-
-
 
