@@ -82,4 +82,5 @@
   * [References](tbd/web-development/references.md)
   * [🥈Mini Challenge](tbd/web-development/mini-challenge.md)
   * [🥇 Learning Challenge](tbd/web-development/learning-challenge.md)
+* [Inspiration](tbd/inspiration.md)
 
