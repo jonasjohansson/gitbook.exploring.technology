@@ -2,11 +2,9 @@
 
 ### [IR Proximity](https://www.adafruit.com/product/164)
 
-{% tabs %}
-{% tab title="Image" %}
 ![](https://cdn-shop.adafruit.com/970x728/164-00.jpg)
-{% endtab %}
 
+{% tabs %}
 {% tab title="Schematic" %}
 ![](../../.gitbook/assets/ir-proximity.png)
 {% endtab %}
@@ -32,19 +30,11 @@ void loop() {
 
 ### [Maxbotix Ultrasonic Rangefinder](https://www.adafruit.com/product/172)
 
-{% tabs %}
-{% tab title="Image" %}
 ![](https://cdn-shop.adafruit.com/970x728/172-00.jpg)
-{% endtab %}
-{% endtabs %}
 
 ### [Force Sensitive Resistor \(FSR\)](https://www.adafruit.com/product/1075)
 
-{% tabs %}
-{% tab title="Image" %}
 ![](https://cdn-shop.adafruit.com/970x728/1075-01.jpg)
-{% endtab %}
-{% endtabs %}
 
 
 

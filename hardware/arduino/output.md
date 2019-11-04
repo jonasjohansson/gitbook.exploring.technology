@@ -2,9 +2,13 @@
 
 ### Servo
 
+There are two distinctly different types of servo motors; those that spin 60-80 degrees in each direction, and those that can spin continuously in both directions. It's difficult to know the type just by looking, so you can try to spin the top with your fingers. A full turn mean it's continuous.
+
+![](https://cdn-shop.adafruit.com/970x728/154-03.jpg)
+
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../.gitbook/assets/servo.png)
+![](../../.gitbook/assets/servo.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -31,7 +35,7 @@ void loop() {
 ```
 {% endtab %}
 
-{% tab title="Continouous" %}
+{% tab title="Code Continouous" %}
 ```csharp
 #include <Servo.h>
 
@@ -58,7 +62,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../.gitbook/assets/servo-button.png)
+![](../../.gitbook/assets/servo-button.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -90,7 +94,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../.gitbook/assets/servo-potentiometer.png)
+![](../../.gitbook/assets/servo-potentiometer.png)
 {% endtab %}
 
 {% tab title="Code" %}
