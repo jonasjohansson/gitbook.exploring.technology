@@ -55,9 +55,13 @@ Build absurd and ludic custom music interfaces! This specialised workshop makes 
 
 Through p5.js participants learn about generative art while making their own!
 
-### Machine Learning
+### Machine learning
 
+An introduction to a range of simple-to-use machine learning techniques that allow people to use \(mainly\) camera inputs to control outputs. Techniques such as:
 
+1. Training classification and regression models, and using these as outputs.
+2. Track bodies and body parts with webcams.
+3.  Track faces, and perform age, gender and expression estimations.
 
 ### 
 
