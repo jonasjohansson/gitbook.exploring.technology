@@ -41,7 +41,11 @@
 
 * [Arduino](hardware/arduino/README.md)
   * [Basics](hardware/arduino/input.md)
-  * [Sensors](hardware/arduino/sensors.md)
+  * [Sensors](hardware/arduino/sensors/README.md)
+    * [Proximity](hardware/arduino/sensors/proximity.md)
+    * [Motion](hardware/arduino/sensors/motion.md)
+    * [Force](hardware/arduino/sensors/force.md)
+    * [Sound](hardware/arduino/sensors/sound.md)
   * [Motors](hardware/arduino/output.md)
   * [Communication](hardware/arduino/communication.md)
   * [Electronics](hardware/arduino/electronics/README.md)

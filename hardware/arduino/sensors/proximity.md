@@ -1,4 +1,4 @@
-# Sensors
+# Proximity
 
 ### [Sharp Distance Sensor](https://www.adafruit.com/product/164)
 
@@ -8,7 +8,7 @@
 {% endtab %}
 
 {% tab title="Schematic" %}
-![](../../.gitbook/assets/ir-proximity.png)
+![](../../../.gitbook/assets/ir-proximity.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -34,17 +34,7 @@ void loop() {
 
 ![](https://cdn-shop.adafruit.com/970x728/172-00.jpg)
 
-### [Force Sensitive Resistor \(FSR\)](https://www.adafruit.com/product/1075)
-
-![](https://cdn-shop.adafruit.com/970x728/1075-01.jpg)
-
 ### [Parallax Wide Angle PIR](https://www.adafruit.com/product/189)
 
 ![](https://cdn-shop.adafruit.com/970x728/189-00.jpg)
-
-### [Electret Microphone Amplifier](https://www.adafruit.com/product/1713)
-
-![](https://cdn-shop.adafruit.com/970x728/1713-00.jpg)
-
-
 
