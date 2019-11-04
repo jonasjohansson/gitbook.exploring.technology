@@ -16,11 +16,11 @@
 
 ### [Half Scheidl](https://hscheidl.com/)
 
-### Ana Shcherbakova
-
-## Guest lecturers
-
-### Gunnlaugur Egilsson
+### [Gunnlaugur Egilsson](https://www.instagram.com/gunnlaugr/)
 
 ### [Andreas Refsgaard](https://andreasrefsgaard.dk/)
+
+### [Linnéa Östedt Harrison](https://www.linkedin.com/in/linnea-harrison-4323552b/)
+
+### Ana Shcherbakova
 
