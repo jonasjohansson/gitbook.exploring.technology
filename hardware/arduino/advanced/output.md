@@ -8,7 +8,7 @@ There are two distinctly different types of servo motors; those that spin 60-80 
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../.gitbook/assets/servo.png)
+![](../../../.gitbook/assets/servo.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -62,7 +62,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../.gitbook/assets/servo-button.png)
+![](../../../.gitbook/assets/servo-button.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -94,7 +94,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../.gitbook/assets/servo-potentiometer.png)
+![](../../../.gitbook/assets/servo-potentiometer.png)
 {% endtab %}
 
 {% tab title="Code" %}

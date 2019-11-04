@@ -75,7 +75,7 @@ It's not possible to have the Serial Monitor running at the same time as the scr
 
 To map keys to MIDI within Ableton Live use [this guide](https://docs.google.com/presentation/d/1xjRhla6aTVtzeQlrOa1kbYAJJDvl3UsJot2TUJzc7BY/edit#slide=id.g707c928d06_0_63) by Francesco Torelli.
 
-{% page-ref page="../makey-makey/output.md" %}
+{% page-ref page="../../makey-makey/output.md" %}
 
 ### Flashing firmware
 

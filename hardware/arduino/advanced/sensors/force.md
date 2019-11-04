@@ -4,5 +4,7 @@
 
 ![](https://cdn-shop.adafruit.com/970x728/1075-01.jpg)
 
-### 
+### [Flex Sensors](https://www.adafruit.com/products/182)
+
+![](https://cdn-shop.adafruit.com/970x728/182-00.jpg)
 

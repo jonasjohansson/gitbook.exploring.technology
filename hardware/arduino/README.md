@@ -1,8 +1,8 @@
 # Arduino
 
-Arduino is a brand of open-source electronics platforms, based on easy-to-use hardware and software. Arduino boards can read inputs: light on a sensor, a finger on a button, or a Twitter message, and turn it into an output: activating a motor, turning on an LED or publishing something online. You can tell your board what to do by sending a set of instructions \(the code\).  
+Arduino is a brand of open-source electronics platforms, based on easy-to-use hardware and software. Arduino boards can read inputs: light on a sensor, a finger on a button, or a Twitter message, and turn it into an output: activating a motor, turning on an LED or publishing something online. You can tell your board what to do by sending a set of instructions \(the code\). 
 
-![](https://cdn-blog.adafruit.com/uploads/2018/08/microcontrollers.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Pinout_of_ARDUINO_Board_and_ATMega328PU.svg)
 
 Arduino comes in many shapes with various purposes, and other brands exist as well. However, the traditional Arduino Uno is a staple in education, and useful even though it's been around since 2005.
 

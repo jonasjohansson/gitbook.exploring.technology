@@ -1,20 +1,105 @@
 # Dictionary
 
-## Micro controllers
-
-### Arduino Uno
-
-![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Pinout_of_ARDUINO_Board_and_ATMega328PU.svg)
-
-## Prototyping
-
-### Wires
-
-### Soldering
+## Components
 
 ### Breadboard
 
+A breadboard is a construction base for prototyping of electronics. Originally it was literally a bread board, a polished piece of wood used for slicing bread. In the 1970s the solderless breadboard became available and nowadays the term "breadboard" is commonly used to refer to these.
+
+* [https://learn.adafruit.com/breadboards-for-beginners](https://learn.adafruit.com/breadboards-for-beginners)
+* [https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
+
 {% embed url="https://www.youtube.com/watch?v=w0c3t0fJhXU" %}
 
+### Wires
 
+There are lots of little connections inside of your breadboard but they only go along in rows, basically making each pin or wire of a part have 5 total connection points. To wire up the parts you'll need to, um, wire the parts...with wire!
+
+* [https://learn.adafruit.com/wires-and-connections](https://learn.adafruit.com/wires-and-connections)
+* [https://learn.sparkfun.com/tutorials/working-with-wire](https://learn.sparkfun.com/tutorials/working-with-wire)
+
+## Code
+
+### Functions
+
+### Curly brackets {}
+
+### void
+
+"void" is written before
+
+### Setup
+
+Setup is a mandatory function that must exist before the Loop function. Setup is the first function to run and is only run once.
+
+### Loop
+
+Loop is a mandatory function that must exist _after_ the Setup function. Loop happens over and over again with a speed decided by the processing power of the Arduino.
+
+### Square brackets \[\]
+
+### Debug
+
+To help debug our code we use the _Serial monitor_ and the _Serial plotter_.
+
+We can tell our Arduino to send information about what is happening in the code. We do this using "serial communication" and by typing Serial.begin\(9600\) in the Setup function. 9600 is the baudrate, the speed which the computer and the Arduino communicates, and 9600 is the standard rate.
+
+To print information type `Serial.println()` and within the parentheses you can print out variables, strings, numbers and more.
+
+```csharp
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int buttonState = digitalRead(2);
+  if (buttonState == 1){
+    Serial.println("button is pressed!");
+  } else {
+    Serial.println("button is released!")
+  }
+}
+```
+
+### PinMode
+
+[https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/](https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/)
+
+### analogWrite
+
+[https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/)
+
+### digitalWrite
+
+[https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/)
+
+### analogRead
+
+[https://www.arduino.cc/en/Tutorial/AnalogReadSerial](https://www.arduino.cc/en/Tutorial/AnalogReadSerial)
+
+### digitalRead
+
+[https://www.arduino.cc/en/Tutorial/DigitalReadSerial](https://www.arduino.cc/en/Tutorial/DigitalReadSerial)
+
+### delay
+
+[https://www.arduino.cc/reference/en/language/functions/time/delay/](https://www.arduino.cc/reference/en/language/functions/time/delay/)
+
+### High / Low
+
+### Millis
+
+[https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
+
+### Analog inputs
+
+### Analog outputs
+
+### Breadboard
+
+Refer to gitbook
+
+### Jumper wires
+
+Refer to gitbook
 
