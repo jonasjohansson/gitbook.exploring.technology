@@ -13,7 +13,7 @@
 | Arduino Advanced | Mickey van Olst, Maria Euler, Duncan Gidney |
 | Arduino Special | Jonas Johansson, Maria Euler |
 | Generative design | Half Scheidl, Mickey van Olst \(Ana Shcherbakova\) |
-| Machine Learning | Andreas Refsgaard, Jonas Johansson |
+| Machine Learning | Andreas Refsgaard |
 
 ### Bodystorming
 
