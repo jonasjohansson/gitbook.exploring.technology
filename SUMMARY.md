@@ -36,6 +36,16 @@
 * [P5.js](software/generative-design/README.md)
   * [References](software/generative-design/references.md)
   * [🥇 Learning Challenge](software/generative-design/learning-challenge.md)
+* [Web Development](software/web-development/README.md)
+  * [Javascript](software/web-development/javascript/README.md)
+    * [API](software/web-development/javascript/api.md)
+    * [Device API](software/web-development/javascript/device-api.md)
+  * [HTML](software/web-development/html.md)
+  * [CSS](software/web-development/getting-started.md)
+  * [References](software/web-development/references.md)
+  * [🥈Mini Challenge](software/web-development/mini-challenge.md)
+  * [🥇 Learning Challenge](software/web-development/learning-challenge.md)
+* [Glitch](software/glitch.md)
 
 ## Hardware
 
@@ -65,22 +75,4 @@
   * [Machines & Settings](hardware/laser-cutting/machines.md)
   * [Materials](hardware/laser-cutting/materials.md)
   * [📿 Learning challenge](hardware/laser-cutting/learning-challenge.md)
-
-## TBD
-
-* [Resolume](tbd/resolume/README.md)
-  * [Preparing content](tbd/resolume/preparing-content.md)
-  * [Projectors](tbd/resolume/projectors.md)
-* [Glitch](tbd/glitch.md)
-* [Pepakura](tbd/pepakura.md)
-* [Web Development](tbd/web-development/README.md)
-  * [Javascript](tbd/web-development/javascript/README.md)
-    * [API](tbd/web-development/javascript/api.md)
-    * [Device API](tbd/web-development/javascript/device-api.md)
-  * [HTML](tbd/web-development/html.md)
-  * [CSS](tbd/web-development/getting-started.md)
-  * [References](tbd/web-development/references.md)
-  * [🥈Mini Challenge](tbd/web-development/mini-challenge.md)
-  * [🥇 Learning Challenge](tbd/web-development/learning-challenge.md)
-* [Inspiration](tbd/inspiration.md)
 
