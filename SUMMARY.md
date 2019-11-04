@@ -68,6 +68,9 @@
 
 ## TBD
 
+* [Resolume](tbd/resolume/README.md)
+  * [Preparing content](tbd/resolume/preparing-content.md)
+  * [Projectors](tbd/resolume/projectors.md)
 * [Glitch](tbd/glitch.md)
 * [Pepakura](tbd/pepakura.md)
 * [Web Development](tbd/web-development/README.md)
