@@ -1,4 +1,4 @@
-# Machines
+# Machines & Settings
 
 | Model | Engraving area \(mm\) | Laser power \(W\) | Location |
 | :--- | :--- | :--- | :--- |
@@ -11,11 +11,13 @@ For more info on local distributors of laser cutters look visit [Indukta](https:
 
 [Lasercutter-Stugan-Knowledge-List.pdf - 92KB](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LFNtKzfzIWfc8anmKip%2F-Ls61_L5Rp_8u0R2HCQQ%2F-Ls61dNtRLnoUH1uEWLV%2FLasercutter-Stugan-Knowledge-List.pdf?alt=media&token=6afc03c3-a9f2-400b-9fdb-fadc512b49c6)
 
-## RS 1390X
+## Settings
+
+Below are guideline values based on [Material Test Card for Laser Cutting and Engraving](https://www.thingiverse.com/thing:2243854).
+
+### RS 1390X
 
 [Olle Bjerkås](http://ollebjerkas.se/) has written a guide which can be found [here](https://docs.google.com/presentation/d/1fHrc7wqKD7gSvvFFkr96qB5bv28JouMyUnTcuN89DL8/edit#slide=id.p).
-
-### Settings
 
 | Material | Cut Speed | Cut Power | Carve Speed | Carve Power |
 | :--- | :--- | :--- | :--- | :--- |

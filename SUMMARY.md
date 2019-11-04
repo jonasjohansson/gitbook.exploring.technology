@@ -58,7 +58,7 @@
   * [Getting started](hardware/laser-cutting/getting-started.md)
   * [Advanced](hardware/laser-cutting/advanced.md)
   * [Resources](hardware/laser-cutting/software.md)
-  * [Machines](hardware/laser-cutting/machines.md)
+  * [Machines & Settings](hardware/laser-cutting/machines.md)
   * [Materials](hardware/laser-cutting/materials.md)
   * [📿 Learning challenge](hardware/laser-cutting/learning-challenge.md)
 
