@@ -1,20 +1,26 @@
 # Team
 
-### Jonas Johansson
+## Industry Leaders
 
-### Mickey van Olst
+### [Jonas Johansson](https://jonasjohansson.se/)
 
-### Maria Euler
+### [Mickey van Olst](https://mickeyvanolst.com/)
 
-### Duncan Gidney
+## Lecturers
 
-### Anne Obel
+### [Maria Euler](http://mariaeuler.com/)
 
-### Half Scheidl
+### [Duncan Gidney](https://duncangidney.com/)
+
+### [Anne Obel](https://www.instagram.com/annie.script4/)
+
+### [Half Scheidl](https://hscheidl.com/)
 
 ### Ana Shcherbakova
 
+## Guest lecturers
+
 ### Gunnlaugur Egilsson
 
-### Andreas Refsgaard
+### [Andreas Refsgaard](https://andreasrefsgaard.dk/)
 
