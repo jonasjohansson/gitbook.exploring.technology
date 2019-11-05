@@ -58,7 +58,7 @@
       * [Force](hardware/arduino/advanced/sensors/force.md)
       * [Sound](hardware/arduino/advanced/sensors/sound.md)
     * [Motors](hardware/arduino/advanced/output.md)
-    * [Communication](hardware/arduino/advanced/communication.md)
+  * [Communication](hardware/arduino/communication.md)
   * [Electronics](hardware/arduino/electronics/README.md)
     * [Reference](hardware/arduino/electronics/reference.md)
   * [Distributors](hardware/arduino/distributors.md)
