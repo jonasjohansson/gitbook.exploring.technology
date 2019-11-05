@@ -4,11 +4,11 @@
 
 There are two distinctly different types of servo motors; those that **spin 60-80 degrees in each direction**, and those that can spin **continuously in both directions**. It's difficult to know the type just by looking, so you can try to spin the top with your fingers or attach an adapter and spin that. A full turn mean it's continuous.
 
-{% embed url="https://cdn-shop.adafruit.com/product-videos/1024x768/2442-02.mp4" %}
-
-
-
 ![](https://cdn-shop.adafruit.com/970x728/154-03.jpg)
+
+![](https://cdn-shop.adafruit.com/970x728/154-04.jpg)
+
+
 
 {% tabs %}
 {% tab title="Schematic" %}
