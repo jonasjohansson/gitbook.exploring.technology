@@ -1,4 +1,4 @@
-# 🎵 Learning Challenge
+# ✨ Learning Challenge
 
 Work in **teams of two** and create a **music interface** using at least a button and a sensor. The interface should trigger music using the tool of your choice.
 

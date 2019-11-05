@@ -1,4 +1,4 @@
-# 🥇 Learning Challenge
+# ✨ Learning Challenge
 
 Have you ever complained on the look or content of a website or you just want to see some sites burn? Now is your chance to not only criticise the work of others but actively make a change! Work in **teams of two**, download and unzip the [Chrome Extension Template](https://github.com/jonasjohansson/template-chrome-extension) and improve the chosen site according to your standards. When finished, publish a screenshot of the site before and after.
 
