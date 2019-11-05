@@ -62,7 +62,7 @@
   * [Electronics](hardware/arduino/electronics/README.md)
     * [Reference](hardware/arduino/electronics/reference.md)
   * [Distributors](hardware/arduino/distributors.md)
-  * [Dictionary](hardware/arduino/dictionary.md)
+  * [Code](hardware/arduino/dictionary.md)
   * [FAQ](hardware/arduino/faq.md)
   * [🎵 Learning Challenge](hardware/arduino/learning-challenge.md)
 * [Makey Makey](hardware/makey-makey/README.md)

@@ -1,26 +1,4 @@
-# Dictionary
-
-## Components
-
-### Breadboard
-
-A breadboard is a construction base for prototyping of electronics. Originally it was literally a bread board, a polished piece of wood used for slicing bread. In the 1970s the solderless breadboard became available and nowadays the term "breadboard" is commonly used to refer to these.
-
-* [https://learn.adafruit.com/breadboards-for-beginners](https://learn.adafruit.com/breadboards-for-beginners)
-* [https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
-
-{% embed url="https://www.youtube.com/watch?v=w0c3t0fJhXU" %}
-
-### Wires
-
-There are lots of little connections inside of your breadboard but they only go along in rows, basically making each pin or wire of a part have 5 total connection points. To wire up the parts you'll need to, um, wire the parts...with wire!
-
-* [https://learn.adafruit.com/wires-and-connections](https://learn.adafruit.com/wires-and-connections)
-* [https://learn.sparkfun.com/tutorials/working-with-wire](https://learn.sparkfun.com/tutorials/working-with-wire)
-
-## Code
-
-### Functions
+# Code
 
 ### Curly brackets {}
 
