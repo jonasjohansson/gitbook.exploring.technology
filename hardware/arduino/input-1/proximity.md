@@ -8,7 +8,7 @@
 {% endtab %}
 
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/ir-proximity.png)
+![](../../../.gitbook/assets/ir-proximity.png)
 {% endtab %}
 
 {% tab title="Code" %}

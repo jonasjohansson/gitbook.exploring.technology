@@ -1,4 +1,4 @@
-# Communication
+# Keyboard & MIDI
 
 The Arduino Uno is not recognised as a HID \(keyboard, mouse\) which disables the functionality of being able to trigger keyboard presses or mouse movements. To use the Arduino Uno as a keyboard there are two options; running a custom software listening to the serial communication, and flashing the controller with keyboard enabled firmware.
 
@@ -75,7 +75,7 @@ It's not possible to have the Serial Monitor running at the same time as the scr
 
 To map keys to MIDI within Ableton Live use [this guide](https://docs.google.com/presentation/d/1xjRhla6aTVtzeQlrOa1kbYAJJDvl3UsJot2TUJzc7BY/edit#slide=id.g707c928d06_0_63) by Francesco Torelli.
 
-{% page-ref page="../makey-makey/output.md" %}
+{% page-ref page="../../makey-makey/output.md" %}
 
 ### Flashing firmware
 
