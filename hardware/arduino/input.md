@@ -12,7 +12,7 @@
 | Wire Male-to-Male \(any color\) | 5 |
 | Resistor 10k | 2 |
 
-### Blink
+### [Blink](https://www.arduino.cc/en/tutorial/blink)
 
 {% tabs %}
 {% tab title="Code" %}
@@ -52,7 +52,7 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-### Button
+### [Button](https://www.arduino.cc/en/tutorial/button)
 
 {% tabs %}
 {% tab title="Schematic" %}
@@ -107,7 +107,7 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-### Fade
+### [Fade](https://www.arduino.cc/en/tutorial/fade)
 
 {% tabs %}
 {% tab title="Schematic" %}
@@ -150,7 +150,7 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-### Potentiometer
+### [Potentiometer](https://www.arduino.cc/en/tutorial/potentiometer)
 
 {% tabs %}
 {% tab title="Schematic" %}
@@ -198,7 +198,7 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-### Photo resistor
+### [Photocell](https://learn.adafruit.com/photocells/arduino-code)
 
 {% tabs %}
 {% tab title="Schematic" %}

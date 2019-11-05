@@ -8,8 +8,6 @@ There are two distinctly different types of servo motors; those that **spin 60-8
 
 ![](https://cdn-shop.adafruit.com/970x728/154-04.jpg)
 
-
-
 {% tabs %}
 {% tab title="Schematic" %}
 ![](../../../.gitbook/assets/servo.png)
@@ -36,6 +34,14 @@ void loop() {
 ```
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %}
+Depending on the servo used, the code will mean different things.  For instance, telling a continuous servo to be at position 0 will make it go reverse, and 180 will spin it forward. A regular servo would instead rotate to the intended position. 
+{% endhint %}
+
+{% hint style="danger" %}
+Some servos use the colors Brown/Red/Orange instead of Black/Red/White. 
+{% endhint %}
 
 ### Servo + Button
 
