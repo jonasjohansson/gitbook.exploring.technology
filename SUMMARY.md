@@ -66,7 +66,7 @@
   * [FAQ](hardware/arduino/faq.md)
   * [🎵 Learning Challenge](hardware/arduino/learning-challenge.md)
 * [Makey Makey](hardware/makey-makey/README.md)
-  * [Input](hardware/makey-makey/inspiration.md)
+  * [Input](hardware/makey-makey/input.md)
   * [Output](hardware/makey-makey/output.md)
 * [Laser Cutting](hardware/laser-cutting/README.md)
   * [Getting started](hardware/laser-cutting/getting-started.md)
