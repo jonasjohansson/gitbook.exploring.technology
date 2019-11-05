@@ -2,7 +2,7 @@
 
 ### Servo
 
-There are two distinctly different types of servo motors; those that spin 60-80 degrees in each direction, and those that can spin continuously in both directions. It's difficult to know the type just by looking, so you can try to spin the top with your fingers. A full turn mean it's continuous.
+There are two distinctly different types of servo motors; those that **spin 60-80 degrees in each direction**, and those that can spin **continuously in both directions**. It's difficult to know the type just by looking, so you can try to spin the top with your fingers or attach an adapter and spin that. A full turn mean it's continuous.
 
 ![](https://cdn-shop.adafruit.com/970x728/154-03.jpg)
 
@@ -16,43 +16,18 @@ There are two distinctly different types of servo motors; those that spin 60-80 
 #include <Servo.h>
 
 Servo myservo;
-int pos = 0;
 
 void setup() {
   myservo.attach(9);
 }
 
 void loop() {
-  for (pos = 0; pos <= 180; pos += 1) {
-    myservo.write(pos);
-    delay(15);
-  }
-  for (pos = 180; pos >= 0; pos -= 1) {
-    myservo.write(pos);
-    delay(15);
-  }
-}
-```
-{% endtab %}
-
-{% tab title="Code Continouous" %}
-```csharp
-#include <Servo.h>
-
-Servo myservo;
-
-int potpin = 0;
-int val;
-
-void setup() {
-  myservo.attach(9);
-}
-
-void loop() {
-  val = analogRead(potpin);
-  val = map(val, 0, 1023, 0, 180);
-  myservo.write(val);
-  delay(15);
+  myservo.write(0);
+  delay(1000);
+  myservo.write(90);
+  delay(1000);
+  myservo.write(180);
+  delay(1000);
 }
 ```
 {% endtab %}
