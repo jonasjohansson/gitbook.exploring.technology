@@ -36,6 +36,16 @@ Anywhere based artist transforming light + technology through → play, biology 
 
 ### [Anne Obel](https://www.instagram.com/annie.script4/)
 
+Fun gal that loves to get her hands dirty, and building stuff that hasn’t been made before. Is passionate about problem solving, and solving that problem to be inclusive to every different kind of user. Beckmans and Krabbesholm alumni. Half Danish and Norwegian, and now speaks every Scandinavian language… Worked with product and furniture design, interior architecture, web development, video and radio production. Jonas likes Final Fantasy, but like, everyone knows Zelda is the best.
+
+**Ask me about**
+
+* Laser Cutting
+* Building and realising your idea
+*  Crushing the tech patriarchy
+* Good coffee
+* Not the meaning of life, that’s a bit much
+
 ### Ana Shcherbakova
 
 ### Johanna Nordin
