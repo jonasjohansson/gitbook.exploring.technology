@@ -24,8 +24,6 @@ Anywhere based artist transforming light + technology through → play, biology 
 
 ### [Duncan Gidney](https://duncangidney.com/)
 
-### [Anne Obel](https://www.instagram.com/annie.script4/)
-
 ### [Half Scheidl](https://hscheidl.com/)
 
 ### [Gunnlaugur Egilsson](https://www.instagram.com/gunnlaugr/)
@@ -34,5 +32,13 @@ Anywhere based artist transforming light + technology through → play, biology 
 
 ### [Linnéa Östedt Harrison](https://www.linkedin.com/in/linnea-harrison-4323552b/)
 
+## Assistant lecturers
+
+### [Anne Obel](https://www.instagram.com/annie.script4/)
+
 ### Ana Shcherbakova
+
+### Johanna Nordin
+
+### 
 
