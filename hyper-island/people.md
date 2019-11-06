@@ -4,7 +4,15 @@
 
 ### [Jonas Johansson](https://jonasjohansson.se/)
 
-Anywhere based artist transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader for Exploring Technology since 2016. Country-side boy born and raised, studied graphic design, and has been coding and gaming since Final Fantasy 7 \(that's 1997 yo\). Currently deep into self-grown textiles, augmented reality, speculative design and audiovisual adventures.
+Anywhere based artist transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader for Exploring Technology since 2016. Country-side boy born and raised, studied graphic design, and has been coding and gaming since Final Fantasy 7 \(that's 1997 yo\).
+
+**Ask me about**
+
+* The Exploring Technology project
+* Software/Hardware coding and engineering
+* Mixed reality experiences
+* Audiovisual and interactive experiences/installations
+* Solar punk activism
 
 ![](../.gitbook/assets/jj-2.jpg)
 
