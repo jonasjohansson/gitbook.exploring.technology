@@ -1,14 +1,8 @@
 # Workshops
 
-## Obligatory
-
 ### Mega games
 
-_Maria Euler, Linnéa Östedt Harrison_
-
 ### Bodystorming
-
-_Gunnlaugur Egilson_
 
 ## Optional
 
@@ -72,7 +66,7 @@ An introduction to a range of simple-to-use machine learning techniques that all
 
 ### Bitsy game development
 
-Game design, Bitsy and Non-linear Narratives.
+Game design, Bitsy and Non-linear Narratives or let's create a lo-fi game experience in a day! Bitsy is  focused on the poetry of game design, and encourages thought, reflection and decision making. Welcome to getting stuck on all the right details!
 
 
 
