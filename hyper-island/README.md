@@ -12,6 +12,8 @@ In order to further facilitate learning and reflection, a mid delivery in the sh
 
 [https://www.instagram.com/exploring\_technology/](https://www.instagram.com/exploring_technology/)
 
+Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach. Each member in your team must use the [Workshop Character Signup Sheet](https://forms.gle/MuMrCgQEwZ9kEjWX8) when required.
+
 
 
 
