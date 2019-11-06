@@ -2,7 +2,7 @@
 
 An additional way of handling text, or any kind of content, is to use a shader that turns HTML into canvas, ready to be used as a texture.
 
-```markup
+```
 <html>
   <head>
     <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>

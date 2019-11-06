@@ -2,7 +2,7 @@
 
 ## Augmented Reality Video
 
-```markup
+```
 <html>
   <head>
     <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>

@@ -28,7 +28,7 @@ We can tell our Arduino to send information about what is happening in the code.
 
 To print information type _Serial.println\(\)_ and within the paranthesis you can print out variables, strings, numbers and more.
 
-```text
+```
 void setup() {
   Serial.begin(9600);
 }

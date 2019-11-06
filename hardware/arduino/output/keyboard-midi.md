@@ -26,7 +26,7 @@ Combining Arduino with MIDI is a popular route for creating interactive audio ob
 
 To include the MIDI library in the Arduino sketch use the following code:
 
-```cpp
+```
 #include <MIDI.h>
 MIDI_CREATE_DEFAULT_INSTANCE();
 
@@ -52,7 +52,7 @@ void loop() {
    3. Type `node main.js`
 4. Run the following Arduino code:
 
-```cpp
+```
 void setup() {
   Serial.begin(9600);
 }

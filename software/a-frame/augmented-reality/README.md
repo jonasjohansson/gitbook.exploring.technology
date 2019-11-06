@@ -8,7 +8,7 @@ For many years great augmented reality has been only available for native apps a
 
 You can also [create your own AR code with a QR code embedded](%20https://jeromeetienne.github.io/AR.js/three.js/examples/arcode.html).
 
-```markup
+```
 <html>
 <head>
 	<script src="https://unpkg.com/aframe@0.9.2/dist/aframe-master.js"></script>

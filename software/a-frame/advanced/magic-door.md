@@ -8,7 +8,7 @@ What's happening here is that there's actually invisible walls placed around the
 
 First we have to add a custom component which, when applied, will occlude everything _behind_ it.
 
-```markup
+```
 <html>
   <head>
     <script src="https://unpkg.com/aframe@0.9.2/dist/aframe-master.js"></script>
@@ -80,7 +80,7 @@ As you can see this code uses a custom component which, when applied, will occlu
 
 ### Create a Frame
 
-```markup
+```
 <a-entity id="frame" scale="0.5 1 0.5" position="0 0.1 0">
   <a-plane
     rotation="-90 0 0"

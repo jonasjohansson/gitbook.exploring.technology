@@ -24,7 +24,7 @@ Glitch now uses the fabulous [Prettier](https://prettier.io/) library for this, 
 
 When using secure services such as camera, GPS and device API you will need visitors to use HTTPS and not HTTP \(which is the standard protocol on Glitch\). You can either explicitly mention to add 'https://' or include this script:
 
-```markup
+```
 <script>
   if (location.protocol != "https:") {
     location.href =

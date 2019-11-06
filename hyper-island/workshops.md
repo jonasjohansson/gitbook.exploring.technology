@@ -16,9 +16,7 @@
 | **Machine Learning** | An introduction to a range of simple-to-use machine learning techniques that allow people to use \(mainly\) camera inputs to control outputs. | Andreas |
 | **Bitsy** | Game design, Bitsy and Non-linear Narratives. | Jonas |
 
-### 
-
-
+### Bodystorming
 
 
 

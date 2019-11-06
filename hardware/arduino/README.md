@@ -19,7 +19,7 @@ When ready, open the app and find a new window, named with the current date, con
 
 A document in Arduino is called a **sketch**, and the default example includes the following:
 
-```javascript
+```
 void setup() {
 }
 
