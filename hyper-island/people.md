@@ -4,7 +4,7 @@
 
 ### [Jonas Johansson](https://jonasjohansson.se/)
 
-Anywhere based artist transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader for Exploring Technology since 2016. Country-side boy born and raised, studied graphic design, and has been coding and gaming since Final Fantasy 7 \(that's 1997 yo\).
+Anywhere based artist, designer and programmer transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader for Exploring Technology since 2016.  Part of [Nordic Audiovisual Artists](https://nava.community/) and [Svartljus](https://svartljus.se/).
 
 **Ask me about**
 
@@ -46,11 +46,11 @@ Explorer of alternative worlds, wether that is within the confines of augmented 
 
 ### [Anne Obel](https://www.instagram.com/annie.script4/)
 
-Fun gal that loves to get her hands dirty, and building stuff that hasn’t been made before. Is passionate about problem solving, and finding solutions that are inclusive. Beckmans and Krabbesholm alumni. Half Danish and Norwegian, and now speaks every Scandinavian language… Worked with product and furniture design, interior architecture, web development, video and radio production. Jonas likes Final Fantasy, but like, everyone knows Zelda is the best.
+Fun gal that loves to get her hands dirty, and building stuff that hasn’t been made before. Is passionate about problem solving, and finding solutions that are inclusive. Beckmans and Krabbesholm alumni. Half Danish and Norwegian, and now speaks every Scandinavian language… Worked with product and furniture design, interior architecture, web development, video and radio production.
 
 **Ask me about**
 
-* Laser Cutting
+* Laser cutting
 * Building and realising your idea
 *  Crushing the tech patriarchy
 * Good coffee
