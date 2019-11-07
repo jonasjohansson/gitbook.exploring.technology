@@ -28,6 +28,16 @@ Anywhere based artist transforming light + technology through → play, biology 
 
 ### [Gunnlaugur Egilsson](https://www.instagram.com/gunnlaugr/)
 
+Explorer of alternative worlds, wether that is within the confines of augmented or virtual reality, digital design, escape games, devised theatre or choreography. Retired ballet & modern dancer born in Iceland that left the theatre scene for the digital one. Freelance front-end developer and digital designer and a Hyper alumni currently studying Virtual Reality development. Been playing roleplaying games since 1987 and computer games since Sinclair spectrum.
+
+**Ask me about**
+
+* Virtual Reality development and production
+* Roleplaying Games
+* Dramaturgi, Dance and Choreography
+* Crossfit
+* Fermented foods
+
 ### [Andreas Refsgaard](https://andreasrefsgaard.dk/)
 
 ### [Linnéa Östedt Harrison](https://www.linkedin.com/in/linnea-harrison-4323552b/)
