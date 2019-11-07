@@ -36,7 +36,7 @@ Anywhere based artist transforming light + technology through → play, biology 
 
 ### [Anne Obel](https://www.instagram.com/annie.script4/)
 
-Fun gal that loves to get her hands dirty, and building stuff that hasn’t been made before. Is passionate about problem solving, and solving that problem to be inclusive to every different kind of user. Beckmans and Krabbesholm alumni. Half Danish and Norwegian, and now speaks every Scandinavian language… Worked with product and furniture design, interior architecture, web development, video and radio production. Jonas likes Final Fantasy, but like, everyone knows Zelda is the best.
+Fun gal that loves to get her hands dirty, and building stuff that hasn’t been made before. Is passionate about problem solving, and finding solutions that are inclusive. Beckmans and Krabbesholm alumni. Half Danish and Norwegian, and now speaks every Scandinavian language… Worked with product and furniture design, interior architecture, web development, video and radio production. Jonas likes Final Fantasy, but like, everyone knows Zelda is the best.
 
 **Ask me about**
 
@@ -44,11 +44,10 @@ Fun gal that loves to get her hands dirty, and building stuff that hasn’t been
 * Building and realising your idea
 *  Crushing the tech patriarchy
 * Good coffee
-* Not the meaning of life, that’s a bit much
 
 ### Ana Shcherbakova
 
-An elfish \(kinda\) human being. I came a long way from linguistics to web development and now my mind is set on design. I speak four languages, but when learning them wasn’t enough I turned to programming languages \(technology is the future, y’all\). Now I am trying to use my passion for design and programming skills to become the best developer/designer I can be!
+An elfish \(kinda\) human being. I came a long way from linguistics to web development and now my mind is set on design. I speak four languages, but when learning them wasn’t enough I turned to programming. Now I am trying to use my passion for design and programming skills to become the best developer/designer I can be!
 
 **Ask me about**
 
