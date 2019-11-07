@@ -48,6 +48,16 @@ Fun gal that loves to get her hands dirty, and building stuff that hasn’t been
 
 ### Ana Shcherbakova
 
+An elfish \(kinda\) human being. I came a long way from linguistics to web development and now my mind is set on design. I speak four languages, but when learning them wasn’t enough I turned to programming languages \(technology is the future, y’all\). Now I am trying to use my passion for design and programming skills to become the best developer/designer I can be!
+
+**Ask me about**
+
+* Programming basics
+* Orienting objects
+* Adobe package
+* Best Instagram spots in Stockholm/Moscow
+* How to raise lil’ monsters \(don’t think corgis are all that cute\)
+
 ### Johanna Nordin
 
 ### 

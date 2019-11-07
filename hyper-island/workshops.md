@@ -6,17 +6,19 @@
 
 ## Optional
 
-| Title | Max participants | Hosted by |
-| :--- | :---: | :--- |
-| A-Frame AR/VR | 25 | Jonas Johansson, Ana Shcherbakova |
-| Generative design | 25 | Half Scheidl, Ana Shcherbakova |
-| Laser Basic | 10 | Duncan Gidney |
-| Laser Advanced | 10 | Duncan Gidney, Anne Obel |
-| Arduino Basic | 25 | Mickey van Olst, Maria Euler |
-| Arduino Advanced | 50 | Mickey van Olst, Maria Euler, Duncan Gidney |
-| Arduino Special | 40 | Jonas Johansson, Maria Euler |
-| Machine Learning | 40 | Andreas Refsgaard, Jonas Johansson |
-| Bitsy game development | 50 | Jonas Johansson |
+| Title | Optional | Max participants | Hosted by |
+| :--- | :--- | :---: | :--- |
+| Mega games | No | 50 | Maria Euler, Linnéa Östedt Harrison |
+| Bodystorming | No | 50 | Gunnlaugur Egilsson |
+| A-Frame AR/VR | Yes | 25 | Jonas Johansson, Ana Shcherbakova |
+| Generative design |  | 25 | Half Scheidl, Ana Shcherbakova |
+| Laser Basic |  | 10 | Duncan Gidney |
+| Laser Advanced |  | 10 | Duncan Gidney, Anne Obel |
+| Arduino Basic |  | 25 | Mickey van Olst, Maria Euler |
+| Arduino Advanced |  | 50 | Mickey van Olst, Maria Euler, Duncan Gidney |
+| Arduino Special |  | 40 | Jonas Johansson, Maria Euler |
+| Machine Learning |  | 40 | Andreas Refsgaard, Jonas Johansson |
+| Bitsy game development |  | 50 | Jonas Johansson |
 
 ### A-Frame AR/VR
 
