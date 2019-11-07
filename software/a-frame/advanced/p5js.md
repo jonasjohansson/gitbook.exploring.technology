@@ -2,7 +2,9 @@
 
 Want to create a generative Frankenstein? Here you go, Processing and A-Frame working together!
 
-```
+{% tabs %}
+{% tab title="index.html" %}
+```markup
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,6 +30,11 @@ Want to create a generative Frankenstein? Here you go, Processing and A-Frame wo
   </body>
 </html>
 
+```
+{% endtab %}
+
+{% tab title="script.js" %}
+```javascript
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
@@ -41,6 +48,8 @@ function draw() {
   ellipse(mouseX, mouseY, 80, 80);
 }
 ```
+{% endtab %}
+{% endtabs %}
 
 
 

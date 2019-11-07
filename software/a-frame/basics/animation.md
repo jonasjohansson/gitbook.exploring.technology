@@ -2,7 +2,7 @@
 
 It is possible to add the component "animation" to all our entities.
 
-```
+```markup
 <a-cylinder color="orange" radius="0.1" position="0 2 -5"
      animation="property: position; dir: alternate; dur: 2000;
           easing: easeInSine; loop: true; to: 0 3 -5"></a-cylinder>
@@ -18,7 +18,7 @@ We tell `<a-animation>` to:
 
 You can also add multiple animations:
 
-```
+```markup
 <a-cylinder color="orange" radius="0.1" position="0 2 -5"
      animation="property: to: 0 3 -5"
      animation__radius="property: radius; to: 0.5"></a-cylinder>

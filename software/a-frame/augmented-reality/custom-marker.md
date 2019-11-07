@@ -8,7 +8,7 @@ In case the preset default marker is not special enough it's possible to design 
 4. Upload the pattern file to Glitch and reference it in the code.
 5. Print the Image
 
-```
+```markup
 <html>
 <head>
 	<script src="https://unpkg.com/aframe@0.9.2/dist/aframe-master.js"></script>
@@ -30,7 +30,7 @@ In case the preset default marker is not special enough it's possible to design 
 
 It is possible to have a higher ratio than the default 0.5, but by doing so it's also imperative to tell A-Frame that the new marker has changed. By adding the _patternRatio_ to the _arjs_ attribute of `<a-scene>` this can be accomplished!
 
-```
+```markup
 <a-scene embedded arjs="patternRatio: 0.7">
 ```
 

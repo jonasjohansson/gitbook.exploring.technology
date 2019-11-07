@@ -1,6 +1,6 @@
 # API
 
-```
+```markup
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -38,45 +38,47 @@
 
 
 
-    <!DOCTYPE html>
-    <html lang="en">
-      <head>
-        <title>Hello!</title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-      </head>  
-      <body>
+```markup
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>  
+  <body>
+    
+    <div id="data">
+      HELLO
+    </div>
+    
 
-        <div id="data">
-          HELLO
-        </div>
+    <script>
+        const url = `https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=${55.6704726}&lon=${13.1226753}`;
+        fetch(url)
+            .then(response => {
+                return response.text();
+            })
+            .then(responseBody => new window.DOMParser().parseFromString(responseBody, 'text/xml'))
+            .then(responseBody => {
+                var windSpeed = responseBody.getElementsByTagName('windSpeed')[0].getAttribute('mps');
+                var data = document.querySelector("#data");      
+                data.innerHTML = windSpeed; 
+                data.style.fontSize = (windSpeed*10)+'px';
+            });
 
+    </script>
+  </body>
+</html>
 
-        <script>
-            const url = `https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=${55.6704726}&lon=${13.1226753}`;
-            fetch(url)
-                .then(response => {
-                    return response.text();
-                })
-                .then(responseBody => new window.DOMParser().parseFromString(responseBody, 'text/xml'))
-                .then(responseBody => {
-                    var windSpeed = responseBody.getElementsByTagName('windSpeed')[0].getAttribute('mps');
-                    var data = document.querySelector("#data");      
-                    data.innerHTML = windSpeed; 
-                    data.style.fontSize = (windSpeed*10)+'px';
-                });
-
-        </script>
-      </body>
-    </html>
-
+```
 
 
 
 ## Magnetometer
 
-```
+```markup
 <!DOCTYPE html>
 <html lang="en">
   <head>

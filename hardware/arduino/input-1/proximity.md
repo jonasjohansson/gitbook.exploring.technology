@@ -12,7 +12,7 @@
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
   Serial.begin(9600);
 }

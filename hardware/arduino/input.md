@@ -16,7 +16,7 @@
 
 {% tabs %}
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
   pinMode(13, OUTPUT);
 }
@@ -34,7 +34,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Solution" %}
-```
+```cpp
 int ledPin = 13;
 int wait = 500;
 
@@ -60,7 +60,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
   pinMode(2, INPUT);
   Serial.begin(9600);
@@ -86,7 +86,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
   pinMode(2, INPUT);
   pinMode(13, OUTPUT);
@@ -115,7 +115,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 int brightness = 0;
 int fadeAmount = 5;
 
@@ -135,7 +135,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Advanced" %}
-```
+```cpp
 void setup() {
   pinMode(9, OUTPUT);
 }
@@ -158,7 +158,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
   Serial.begin(9600);
 }
@@ -182,7 +182,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
   Serial.begin(9600);
 }
@@ -206,7 +206,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
   Serial.begin(9600);
 }
@@ -228,7 +228,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
 }
 
@@ -247,7 +247,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```cpp
 void setup() {
   Serial.begin(9600);
 }

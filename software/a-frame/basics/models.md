@@ -2,7 +2,7 @@
 
 In order to have 3d models in your scene there are two scripts that need to be included.o
 
-```
+```markup
 <script src="//cdn.rawgit.com/donmccurdy/aframe-extras/v4.2.0/dist/aframe-extras.min.js"></script>
 <script src="https://unpkg.com/three@0.95.0/examples/js/libs/inflate.min.js"></script>
 ```
@@ -11,7 +11,7 @@ In order to have 3d models in your scene there are two scripts that need to be i
 
 This file is often seen when downloading from 3d asset sites, and loading an object file is  straightforward. Check out the [a-obj-model documentation](https://github.com/aframevr/aframe/blob/master/docs/components/obj-model.md) for more information! 
 
-```
+```markup
 <a-obj-model src="object.obj" mtl="object.mtl"></a-obj-model>
 ```
 
@@ -23,7 +23,7 @@ Beware that the .mtl file will often point to a texture which is local. Make sur
 
 The filmbox  is a proprietary format created by Autodesk for 3d file transfers. The files are generally large but contain a lot of useful information and work well! 
 
-```
+```markup
 <a-entity animation-mixer="clip: *;" 
     scale="0.005 0.005 0.005"
     position="0 0 -2"
@@ -47,7 +47,7 @@ It is possible to export complete scenes from Cinema4D or Blender and use them i
 
 It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\):
 
-```
+```markup
 <a-gltf-model src="model.gltf">
 ```
 

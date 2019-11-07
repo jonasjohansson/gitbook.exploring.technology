@@ -2,7 +2,7 @@
 
 {% embed url="https://github.com/oscarmarinmiro/aframe-stereo-component" %}
 
-```
+```markup
 <!DOCTYPE html>
 <html>
 <head>

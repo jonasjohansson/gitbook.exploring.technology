@@ -26,7 +26,7 @@ Combining Arduino with MIDI is a popular route for creating interactive audio ob
 
 To include the MIDI library in the Arduino sketch use the following code:
 
-```
+```cpp
 #include <MIDI.h>
 MIDI_CREATE_DEFAULT_INSTANCE();
 
@@ -52,7 +52,9 @@ void loop() {
    3. Type `node main.js`
 4. Run the following Arduino code:
 
-```
+{% tabs %}
+{% tab title="" %}
+```cpp
 void setup() {
   Serial.begin(9600);
 }
@@ -68,6 +70,8 @@ void loop() {
   delay(500);
 }
 ```
+{% endtab %}
+{% endtabs %}
 
 {% hint style="danger" %}
 It's not possible to have the Serial Monitor running at the same time as the script. Either close the monitor, or close the script. The script can be closed by focusing the terminal window and pressing Ctrl+C.

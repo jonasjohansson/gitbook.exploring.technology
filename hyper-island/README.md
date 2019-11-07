@@ -24,6 +24,10 @@ Documentation is important! We will encourage all teams to share their current p
 
 Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach. Each member in your team must use the [Workshop Character Signup Sheet](https://forms.gle/MuMrCgQEwZ9kEjWX8) when required.
 
+{% embed url="https://forms.gle/xcDdiyxSYXin486t9" %}
+
+
+
 ![](https://i.redd.it/yl9u6fan1rkz.png)
 
 

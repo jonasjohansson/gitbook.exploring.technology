@@ -2,7 +2,7 @@
 
 Rendering text in 3D is not trivial, bu the `<a-text>` component does make things breezy!
 
-```
+```markup
 <a-text value="AaBb"
         position="0 1 -2"
         color="red"
@@ -22,7 +22,7 @@ By adding the above in your `<a-scene>` you will see a text block which can be u
 
 In situations where you require a background color to make the text legible, add a `plane` or `box` geometry with a coloured material. To have the geometry automatically scale with the text, set the geometry component’s `width` and `height` properties to `auto`.
 
-```
+```markup
 <a-text value="And as he was falling down the cliff he thought 'Finally, something is happening to me!'"
         position="0 1 -2"
         color="white"
@@ -47,7 +47,7 @@ Here's where it gets a bit tricky as you can't include non-standard fonts like y
 
 As you unarchive the font you will see it is now split into a JSON and a PNG file. The JSON references the PNG so they need to stay together. If you are using Glitch you must reference the PNG explicitly using the _font-image_ attribute.
 
-```
+```markup
 <a-text value="CcDd"
         font="Underdog-Regular-msdf.json"
         font-image="https://cdn.glitch.com/c9111e7d-1d31-41a0-8e15-78b57caa9816%2FUnderdog-msdf.png?v=1570442732551"
@@ -61,13 +61,13 @@ As you unarchive the font you will see it is now split into a JSON and a PNG fil
 
 You may have noticed that the previous example appears flat and lacks 3d geometry. Luckily, the [A-Frame Text Geometry Component](https://www.npmjs.com/package/aframe-text-geometry-component) can remedy this situation along with the [Facetype font converter](http://gero3.github.io/facetype.js/) \(follow the same steps as above but using this site instead\). 
 
-```
+```markup
 <script src="https://unpkg.com/aframe-text-geometry-component@^0.5.0/dist/aframe-text-geometry-component.min.js"></script> 
 ```
 
 Create an entity using the new component and reference the new JSON type file, no fontImage needed:
 
-```
+```markup
 <a-entity
     text-geometry="value: EeFf; font: Underdog-Regular-msdf.json;"
     material="color: orange">

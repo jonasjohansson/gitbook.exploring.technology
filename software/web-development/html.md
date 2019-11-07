@@ -4,7 +4,7 @@ Every web experience is built using HTML, or HyperText Markup Language, as it pr
 
 {% tabs %}
 {% tab title="Original" %}
-```
+```markup
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -36,7 +36,7 @@ Every web experience is built using HTML, or HyperText Markup Language, as it pr
 {% endtab %}
 
 {% tab title="Updated" %}
-```
+```markup
 <!DOCTYPE html>
 <html>
   <head>
@@ -78,13 +78,13 @@ One of the most important tags is the &lt;a&gt; tag and boy does it come packed 
 
 {% tabs %}
 {% tab title="HREF" %}
-```
+```markup
 <a href="https://dn.se/">Visit Dagens Nyheter!</a>
 ```
 {% endtab %}
 
 {% tab title="TARGET" %}
-```
+```markup
 <a href="https://dn.se/" target="_blank">Visit Dagens Nyheter!</a>
 ```
 {% endtab %}

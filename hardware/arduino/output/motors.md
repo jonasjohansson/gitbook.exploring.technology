@@ -14,7 +14,7 @@ There are two distinctly different types of servo motors; those that **spin 60-8
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```csharp
 #include <Servo.h>
 
 Servo myservo;
@@ -51,7 +51,7 @@ Some servos use the colors Brown/Red/Orange instead of Black/Red/White.
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```csharp
 #include <Servo.h>
 
 Servo myservo;
@@ -83,7 +83,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-```
+```csharp
 #include <Servo.h>
 
 Servo myservo;
