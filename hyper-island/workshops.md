@@ -2,27 +2,35 @@
 
 ## Overview
 
-| Title | Optional | Max participants | Hosted by |
-| :--- | :---: | :---: | :--- |
-| Mega games | ✕ | 50 | Maria Euler, Linnéa Östedt Harrison |
-| Bodystorming | ✕ | 50 | Gunnlaugur Egilsson |
-| A-Frame AR/VR | ✓ | 25 | Jonas Johansson, Ana Shcherbakova |
-| Generative design | ✓ | 25 | Half Scheidl, Ana Shcherbakova |
-| Laser Basic | ✓ | 10 | Duncan Gidney |
-| Laser Advanced | ✓ | 10 | Duncan Gidney, Anne Obel |
-| Arduino Basic | ✓ | 25 | Mickey van Olst, Maria Euler |
-| Arduino Advanced | ✓ | 50 | Mickey van Olst, Maria Euler, Duncan Gidney |
-| Arduino Special | ✓ | 40 | Jonas Johansson, Maria Euler |
-| Machine Learning | ✓ | 40 | Andreas Refsgaard, Jonas Johansson |
-| Bitsy game development | ✓ | 50 | Jonas Johansson |
+| Title | Optional | Occurs | Participants | Hosted by |
+| :--- | :---: | :---: | :---: | :--- |
+| Mega games | ✕ | 1 | 50 | Maria Euler, Linnéa Östedt Harrison |
+| Bodystorming | ✕ | 1 | 50 | Gunnlaugur Egilsson |
+| A-Frame AR/VR | ✓ | 1 | 25 | Jonas Johansson, Ana Shcherbakova |
+| Generative design | ✓ | 1 | 25 | Half Scheidl, Ana Shcherbakova |
+| Laser Basic | ✓ | 4 | 10 | Duncan Gidney |
+| Laser Advanced | ✓ | 1 | 10 | Duncan Gidney, Anne Obel |
+| Arduino Basic | ✓ | 4 | 25 | Mickey van Olst, Maria Euler |
+| Arduino Advanced | ✓ | 1 | 50 | Mickey van Olst, Maria Euler, Duncan Gidney |
+| Arduino Special | ✓ | 1 | 40 | Jonas Johansson, Maria Euler |
+| Machine Learning | ✓ | 1 | 40 | Andreas Refsgaard, Jonas Johansson |
+| Bitsy game development | ✓ | 1 | 50 | Jonas Johansson |
 
-### A-Frame AR/VR
+### Mega games
 
-Browser based world building and mixed reality. With A-Frame and Glitch participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
+…
 
-### Generative design
+### Bodystorming
 
-Through p5.js participants learn about generative art while making their own!
+…
+
+### [Mixed reality](../software/a-frame/)
+
+Browser based world building and mixed reality. With A-Frame and [Glitch](../software/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
+
+### [Generative design](../software/p5/)
+
+Through [p5.js](https://p5js.org/) participants learn about generative art while making their own!
 
 ### Laser Basics
 
@@ -34,15 +42,11 @@ Introduction to the laser cutter where participants will co-create skill badges 
 **Requires Laser Basic**
 {% endhint %}
 
-### **Arduino Basic**
+### \*\*\*\*[**Arduino Basic**](../hardware/arduino/)\*\*\*\*
 
 Build interactive objects using the worlds most famous micro-controller, the Arduino Uno! This three-hour workshop get participants learning the basics of electronics, buttons, potentiometers, sensors and how to make annoying sounds.
 
-{% hint style="danger" %}
-**Requires Arduino Basic**
-{% endhint %}
-
-### **Arduino Advanced**
+### \*\*\*\*[**Arduino Advanced**](../hardware/arduino/)\*\*\*\*
 
 Further exploration into the world of sensory equipment.
 
@@ -62,9 +66,9 @@ Hack the controls of existing games and game like experiences by building your o
 
 An introduction to a range of simple-to-use machine learning techniques that allow people to use \(mainly\) camera inputs to control outputs.
 
-### Bitsy game development
+### [Bitsy game development](../software/bitsy.md)
 
-Game design, Bitsy and Non-linear Narratives or let's create a lo-fi game experience in a day! Bitsy is  focused on the poetry of game design, and encourages thought, reflection and decision making. Welcome to getting stuck on all the right details!
+A crash course in rules of play, ergodic literature and [Bitsy](https://ledoux.itch.io/bitsy), a game creation tool focused on the poetry of game design, encouraging thought, reflection and decision making. Welcome to getting stuck on all the right details!
 
 
 
