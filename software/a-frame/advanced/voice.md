@@ -1,10 +1,6 @@
 # Voice recognition
 
-Do you want to control your visuals through voice? That's a rhetorical question, of course you do, and with the Annyang voice recognition library it's dead simple!
-
-{% hint style="danger" %}
-Does not work on mobile!
-{% endhint %}
+Do you want to control your visuals through voice? That's a rhetorical question, of course you do, and with the Annyang voice recognition library it's dead simple! **Does not work on mobile!**
 
 ```markup
 <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.5.0/annyang.min.js"></script>
