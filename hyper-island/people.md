@@ -20,7 +20,20 @@ Anywhere based artist, designer and programmer transforming light + technology t
 
 ## Lecturers
 
-### [Maria Euler](http://mariaeuler.com/)
+### [Maria Euler Kling](http://mariaeuler.com/)
+
+An artists researcher living and loving the interdisciplinary. Alumni of the Royal College of Art in London with a Master in [Information Experience Design](https://www.rca.ac.uk/schools/school-of-communication/ied/), who also studied Physics and Fine Art. Builds tangible, transformative and joyful experiences based on complex scientific concepts, ideas and experiments from electromagnetic sculptures to virtual galleries of quantum teleported art pieces. Searching and finding meaningful experiences and inspiration in science fiction, games and in collaborations with researchers of various disciplines.
+
+**Ask me about**
+
+* Concept Feedback
+* Prototyping
+* Art-Science Collaborations
+* Information Experience Design
+* Science Fiction
+* Games
+* Magnets
+* Quantum Physics \(If only those who fully understand it talk about, potentially nobody does\)
 
 ### [Duncan Gidney](https://duncangidney.com/)
 
