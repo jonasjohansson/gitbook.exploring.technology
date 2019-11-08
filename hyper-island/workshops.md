@@ -4,21 +4,21 @@
 
 | Title | Optional | Occurs | Participants | Hosted by |
 | :--- | :---: | :---: | :---: | :--- |
-| Mega games | ✕ | 1 | 50 | Maria Euler, Linnéa Östedt Harrison |
-| Bodystorming | ✕ | 1 | 50 | Gunnlaugur Egilsson |
-| A-Frame AR/VR | ✓ | 1 | 25 | Jonas Johansson, Ana Shcherbakova |
-| Generative design | ✓ | 1 | 25 | Half Scheidl, Ana Shcherbakova |
-| Laser Basic | ✓ | 4 | 10 | Duncan Gidney |
-| Laser Advanced | ✓ | 1 | 10 | Duncan Gidney, Anne Obel |
-| Arduino Basic | ✓ | 4 | 25 | Mickey van Olst, Maria Euler |
-| Arduino Advanced | ✓ | 1 | 50 | Mickey van Olst, Maria Euler, Duncan Gidney |
-| Arduino Special | ✓ | 1 | 40 | Jonas Johansson, Maria Euler |
-| Machine Learning | ✓ | 1 | 40 | Andreas Refsgaard, Jonas Johansson |
-| Bitsy game development | ✓ | 1 | 50 | Jonas Johansson |
+| Mega games | ✕ | 1 | 50 | Maria & Linnéa |
+| Bodystorming | ✕ | 1 | 50 | Gunnlaugur |
+| A-Frame AR/VR | ✓ | 1 | 25 | Jonas & Ana |
+| Generative design | ✓ | 1 | 25 | Half & Ana |
+| Laser Basic | ✓ | 4 | 10 | Duncan |
+| Laser Advanced | ✓ | 1 | 10 | Duncan & Anne |
+| Arduino Basic | ✓ | 4 | 25 | Mickey & Maria Euler |
+| Arduino Advanced | ✓ | 1 | 50 | Mickey, Maria & Duncan |
+| Arduino Special | ✓ | 1 | 40 | Jonas & Maria |
+| Machine Learning | ✓ | 1 | 40 | Andreas & Jonas |
+| Bitsy game development | ✓ | 1 | 50 | Jonas |
 
-### TBD Maria Euler
+### Bodystorming
 
-### TBD Gunnlaugur Egilsson
+### Mega games
 
 ### [Mixed reality](../software/a-frame/)
 
