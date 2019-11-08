@@ -18,6 +18,7 @@
     * [Text](software/a-frame/basics/text.md)
     * [Controls](software/a-frame/basics/controls.md)
   * [Advanced](software/a-frame/advanced/README.md)
+    * [Webcam texture](software/a-frame/advanced/webcam-texture.md)
     * [HTML](software/a-frame/advanced/html.md)
     * [Particles](software/a-frame/advanced/extras.md)
     * [Voice recognition](software/a-frame/advanced/voice.md)
