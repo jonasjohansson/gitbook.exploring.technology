@@ -2,6 +2,10 @@
 
 Do you want to control your visuals through voice? That's a rhetorical question, of course you do, and with the Annyang voice recognition library it's dead simple!
 
+{% hint style="danger" %}
+Does not work on mobile!
+{% endhint %}
+
 ```markup
 <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.5.0/annyang.min.js"></script>
 <script src="https://rawgit.com/lmalave/aframe-speech-command-component/master/dist/aframe-speech-command-component.min.js"></script>
