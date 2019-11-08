@@ -24,6 +24,15 @@ Anywhere based artist, designer and programmer transforming light + technology t
 
 ### [Duncan Gidney](https://duncangidney.com/)
 
+A creative artist and designer interested in play, music and surprising people. A Hyper alumni from Canada, currently based in Amsterdam! I have done projects based on the Internet of things, furniture design, and a skateboard that shoots flames.
+
+**Ask me about**
+
+* Laser cutting
+* Arduino
+* Computer music and sampling
+* Video game narratives
+
 ### [Half Scheidl](https://hscheidl.com/)
 
 ### [Gunnlaugur Egilsson](https://www.instagram.com/gunnlaugr/)

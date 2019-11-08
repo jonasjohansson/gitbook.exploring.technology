@@ -19,7 +19,9 @@
 {% endtab %}
 {% endtabs %}
 
- We include A-Frame as a script tag in the `<head>`. This has to be included _before_ the `<a-scene>`. Next, we include `<a-scene>` in the `<body>`.
+ 
+
+We include A-Frame as a script tag in the `<head>`. This has to be included _before_ the `<a-scene>`. Next, we include `<a-scene>` in the `<body>`.
 
 {% hint style="info" %}
 Notice `<meta name="viewport">` in the top! It ensures that content will look as expected on mobile devices.
