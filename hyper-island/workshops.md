@@ -66,5 +66,3 @@ An introduction to a range of simple-to-use machine learning techniques that all
 
 A crash course in rules of play, ergodic literature and [Bitsy](https://ledoux.itch.io/bitsy), a game creation tool focused on the poetry of game design, encouraging thought, reflection and decision making. Welcome to getting stuck on all the right details!
 
-
-

@@ -48,6 +48,8 @@ A creative artist and designer interested in play, music and surprising people. 
 
 ### [Half Scheidl](https://hscheidl.com/)
 
+…
+
 ### [Gunnlaugur Egilsson](https://www.instagram.com/gunnlaugr/)
 
 Explorer of alternative worlds, wether that is within the confines of augmented or virtual reality, digital design, escape games, devised theatre or choreography. Retired ballet & modern dancer born in Iceland that left the theatre scene for the digital one. Freelance front-end developer and digital designer and a Hyper alumni currently studying Virtual Reality development. Been playing roleplaying games since 1987 and computer games since Sinclair spectrum.
@@ -62,7 +64,11 @@ Explorer of alternative worlds, wether that is within the confines of augmented 
 
 ### [Andreas Refsgaard](https://andreasrefsgaard.dk/)
 
+…
+
 ### [Linnéa Östedt Harrison](https://www.linkedin.com/in/linnea-harrison-4323552b/)
+
+…
 
 ## Assistant lecturers
 
@@ -90,6 +96,8 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
 * How to raise lil’ monsters \(don’t think corgis are all that cute\)
 
 ### Johanna Nordin
+
+…
 
 ### 
 
