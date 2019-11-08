@@ -22,11 +22,15 @@ A creative artist and designer interested in play, music and surprising people. 
 
 ### [Half Scheidl](https://hscheidl.com/)
 
+Digital artist who combines code and technology to create illustrations, animations and interactive installations. Grew up in Brazil, lived in Finland for 8 years and a Swede since 2017. He is the organiser of the Creative Coding Stockholm Meetup group, and a big fan of Processing.
+
 ### [Gunnlaugur Egilsson](https://www.instagram.com/gunnlaugr/)
 
 Explorer of alternative worlds, wether that is within the confines of augmented or virtual reality, digital design, escape games, devised theatre or choreography. Retired ballet & modern dancer born in Iceland that left the theatre scene for the digital one. Freelance front-end developer and digital designer and a Hyper alumni currently studying Virtual Reality development. Been playing roleplaying games since 1987 and computer games since Sinclair spectrum.
 
 ### [Andreas Refsgaard](https://andreasrefsgaard.dk/)
+
+Artist and creative coder based in Copenhagen. Uses algorithms and machine learning to allows people to play music using only eye movement and facial gestures, control games by making silly sounds or transform drawings of musical instruments on paper into real compositions. Copenhagen Institute of Interaction Design alumni. Contributor to [Machine Learning for Artists](https://ml4a.github.io/).
 
 ### [Linnéa Östedt Harrison](https://www.linkedin.com/in/linnea-harrison-4323552b/)
 
@@ -56,6 +60,7 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       <td style="text-align:left"><b>Jonas</b>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
           <li>The Exploring Technology project</li>
           <li>Software/Hardware coding and engineering</li>
@@ -74,6 +79,7 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       <td style="text-align:left"><b>Maria</b>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
           <li>Concept Feedback</li>
           <li>Prototyping</li>
@@ -91,6 +97,7 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       <td style="text-align:left"><b>Duncan</b>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
           <li>Laser cutting</li>
           <li>Arduino</li>
@@ -102,12 +109,20 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
     <tr>
       <td style="text-align:left"><b>Half</b>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Processing</li>
+          <li>Javascript</li>
+          <li>Applying mathematics to code and drawing</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Gunnlaugur</b>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
           <li>Virtual Reality development and production</li>
           <li>Roleplaying Games</li>
@@ -118,19 +133,10 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Andreas</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Linn&#xE9;a</b>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left"><b>Anne</b>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
           <li>Laser cutting</li>
           <li>Building and realising your idea</li>
@@ -143,6 +149,7 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       <td style="text-align:left"><b>Ana</b>
       </td>
       <td style="text-align:left">
+        <p></p>
         <ul>
           <li>Programming basics</li>
           <li>Orienting objects</li>
