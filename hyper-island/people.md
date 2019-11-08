@@ -42,7 +42,7 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
 
 ### Johanna Nordi
 
-## Ask me about
+## Ask us about
 
 <table>
   <thead>
