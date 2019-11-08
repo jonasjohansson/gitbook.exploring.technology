@@ -16,13 +16,9 @@
 | Machine Learning | ✓ | 1 | 40 | Andreas Refsgaard, Jonas Johansson |
 | Bitsy game development | ✓ | 1 | 50 | Jonas Johansson |
 
-### Mega games
+### TBD Maria Euler
 
-…
-
-### Bodystorming
-
-…
+### TBD Gunnlaugur Egilsson
 
 ### [Mixed reality](../software/a-frame/)
 
@@ -39,7 +35,7 @@ Introduction to the laser cutter where participants will co-create skill badges 
 ### Laser Advanced
 
 {% hint style="danger" %}
-**Requires Laser Basic**
+**Requires Laser Basics**
 {% endhint %}
 
 ### \*\*\*\*[**Arduino Basic**](../hardware/arduino/)\*\*\*\*
