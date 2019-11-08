@@ -134,5 +134,3 @@ Instead of adding the textures above directly as sources we can use A-Frame's bu
 Add `shader="standard"` to `a-sky` in order to have it react to the lighting in the scene.
 {% endhint %}
 
-
-
