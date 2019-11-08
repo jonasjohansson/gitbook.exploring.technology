@@ -40,20 +40,21 @@ Fun gal that loves to get her hands dirty, and building stuff that hasn’t been
 
 An elfish \(kinda\) human being. I came a long way from linguistics to web development and now my mind is set on design. I speak four languages, but when learning them wasn’t enough I turned to programming. Now I am trying to use my passion for design and programming skills to become the best developer/designer I can be!
 
-### Johanna Nordi
+### Johanna Nordin
 
 ## Ask us about
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Who</th>
+      <th style="text-align:left">What</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Jonas</td>
+      <td style="text-align:left"><b>Jonas</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>The Exploring Technology project</li>
@@ -65,11 +66,13 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Mickey</td>
+      <td style="text-align:left"><b>Mickey</b>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Maria</td>
+      <td style="text-align:left"><b>Maria</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Concept Feedback</li>
@@ -85,7 +88,8 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Duncan</td>
+      <td style="text-align:left"><b>Duncan</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Laser cutting</li>
@@ -96,11 +100,13 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Half</td>
+      <td style="text-align:left"><b>Half</b>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Gunnlaugur</td>
+      <td style="text-align:left"><b>Gunnlaugur</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Virtual Reality development and production</li>
@@ -112,15 +118,18 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Andreas</td>
+      <td style="text-align:left"><b>Andreas</b>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Linn&#xE9;a</td>
+      <td style="text-align:left"><b>Linn&#xE9;a</b>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Anne</td>
+      <td style="text-align:left"><b>Anne</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Laser cutting</li>
@@ -131,7 +140,8 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Ana</td>
+      <td style="text-align:left"><b>Ana</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Programming basics</li>
@@ -144,7 +154,8 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Johanna</td>
+      <td style="text-align:left"><b>Johanna</b>
+      </td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
