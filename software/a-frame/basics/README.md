@@ -91,32 +91,28 @@ We can apply a texture to our entities with an **image** or **video** using the 
 To tile our texture, we can use the `repeat` attribute. `repeat` takes two numbers, how many times to repeat in the X direction and how many times to repeat in the Y direction \(commonly referred to as U and V for textures\).
 {% endhint %}
 
-### Ground
+### Sky
 
-To add a ground, we can use `<a-plane>`. By default, planes are oriented parallel to the XY axis. To make it parallel to the ground, we need to orient it along the XZ axis. We can do so by rotating the plane negative 90° on the X-axis.
+We can add a background with `<a-sky>` that surrounds the scene. `<a-sky>`, which is a material applied to the inside of a large sphere, can be a flat color, a 360° image, or a 360° video.
 
 ```markup
-<a-plane rotation="-90 0 0"></a-plane>
+<a-sky color="#6EBAA7"></a-sky>
+```
+
+### Ground
+
+To add a ground, we can use `<a-plane>`. By default, planes are oriented parallel to the XY axis. To make it parallel to the ground, we need to orient it along the XZ axis. We can do so by rotating the plane negative 90° on the X-axis. 
+
+```markup
+<a-plane rotation="-90 0 0" color="gray" width="30" height="30" ></a-plane>
 ```
 
 We’ll want the ground to be large, so we can increase the `width` and `height`. Let’s make it 30-meters in each direction:
-
-```markup
-<a-plane rotation="-90 0 0" width="30" height="30"></a-plane>
-```
 
 Then we can apply an image texture to our ground:
 
 ```markup
 <a-plane src="https://cdn.aframe.io/a-painter/images/floor.jpg" rotation="-90 0 0" width="30" height="30"></a-plane>
-```
-
-### Sky
-
-We can add a background with `<a-sky>` that surrounds the scene. `<a-sky>`, which is a material applied to the inside of a large sphere, can be a flat color, a 360° image, or a 360° video. For example, a dark gray background would be:
-
-```markup
-<a-sky color="#6EBAA7"></a-sky>
 ```
 
 ### Lighting
