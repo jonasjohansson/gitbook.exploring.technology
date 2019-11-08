@@ -2,8 +2,6 @@
 
 ## Create your scene
 
-{% tabs %}
-{% tab title="" %}
 ```markup
 <html>
   <head>
@@ -16,10 +14,6 @@
   </body>
 </html>
 ```
-{% endtab %}
-{% endtabs %}
-
- 
 
 We include A-Frame as a script tag in the `<head>`. This has to be included _before_ the `<a-scene>`. Next, we include `<a-scene>` in the `<body>`.
 
@@ -120,8 +114,8 @@ Then we can apply an image texture to our ground:
 We can change how the scene is lit by using `<a-light>`. By default if we don’t specify any lights, A-Frame adds an ambient light and a directional light. If A-Frame didn’t add lights for us, the scene would be black. Once we add lights of our own, however, the default lighting setup is removed and replaced with our setup.
 
 ```markup
-<a-light type="ambient" color="#445451"></a-light>
-<a-light type="point" intensity="2" position="2 4 4"></a-light>
+<a-light type="ambient" color="red"></a-light>
+<a-light type="point" intensity="2" position="0 0 -2"></a-light>
 ```
 
 ### Assets
