@@ -1,14 +1,11 @@
 # Audio
 
-Audio is important for providing immersion and presence in VR. Even adding simple white noise in the background goes a long way. We recommend having some audio for every scene. One way would be to add an `<audio>` element to to our HTML \(preferably under `<a-assets>`\) to play an audio file:
+Audio is important for providing immersion and presence in VR. Even adding simple white noise in the background goes a long way. To accomplish this add an `<audio>` element to to our HTML \(preferably under `<a-assets>`\) to play an audio file.
 
 ```markup
-<a-scene>
-  <a-assets>
-    <audio src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav" autoplay
-      autoplay loop preload crossorigin="anonymous"></audio>
-  </a-assets>
-</a-scene>
+<a-assets>
+  <audio src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav" autoplay loop preload crossorigin="anonymous"></audio>
+</a-assets>
 ```
 
 {% hint style="danger" %}
@@ -18,10 +15,7 @@ The `crossorigin="anonymous"` is  important to add!
 Or we can add positional audio using `<a-sound>`. This makes the sound get louder as we approach it and get softer as we distance from it. We could place the sound in our scene using `position`.
 
 ```markup
-<a-scene>
-  <a-sound src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav" autoplay="true"
-    position="-3 1 -4"></a-sound>
-</a-scene>
+<a-sound src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav" autoplay="true" position="-3 1 -4"></a-sound>
 ```
 
 ### Audio does not work on mobile when running AR

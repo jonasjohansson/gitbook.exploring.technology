@@ -1,6 +1,6 @@
 # Models
 
-In order to have 3d models in your scene there are two scripts that need to be included.o
+In order to have 3d models in your scene there are two scripts that need to be included.
 
 ```markup
 <script src="//cdn.rawgit.com/donmccurdy/aframe-extras/v4.2.0/dist/aframe-extras.min.js"></script>
@@ -12,7 +12,7 @@ In order to have 3d models in your scene there are two scripts that need to be i
 This file is often seen when downloading from 3d asset sites, and loading an object file is  straightforward. Check out the [a-obj-model documentation](https://github.com/aframevr/aframe/blob/master/docs/components/obj-model.md) for more information! 
 
 ```markup
-<a-obj-model src="object.obj" mtl="object.mtl"></a-obj-model>
+<a-obj-model src="LINK_TO_OBJ" mtl="LINK_TO_MTL"></a-obj-model>
 ```
 
 {% hint style="danger" %}
@@ -48,16 +48,10 @@ It is possible to export complete scenes from Cinema4D or Blender and use them i
 It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\):
 
 ```markup
-<a-gltf-model src="model.gltf">
+<a-gltf-model src="LINK_TO_GLTF">
 ```
 
 ## Test your model
 
-Verify that your model look and behave as intended using any of the many previewing tools, some of which allows you test various lighting as well as exporting to other formats.
-
-* [https://www.creators3d.com/online-viewer](https://www.creators3d.com/online-viewer)
-* [https://www.autodesk.com/products/fbx/fbx-review](https://www.autodesk.com/products/fbx/fbx-review)
-* [https://gltf-viewer.donmccurdy.com/](https://gltf-viewer.donmccurdy.com/)
-* [https://gltf.insimo.com/](https://gltf.insimo.com/)
-* [https://3dviewer.net/](https://3dviewer.net/)
+Verify that your model look and behave as intended using the [Creators 3d Online Viewer](https://www.creators3d.com/online-viewer). If it works there, it **should** work in A-Frame.
 

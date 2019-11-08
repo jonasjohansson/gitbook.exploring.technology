@@ -3,17 +3,13 @@
 You know already that the src of an entity can be both an image and a video, but you could also use the `<a-video>` entity, let's try it!
 
 ```markup
-<a-scene>
-  <a-video src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"></a-video>
-</a-scene>
+<a-video src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"></a-video>
 ```
 
 Or we can add an `<a-videosphere>` which will wrap a video around a sphere, perfect for 360 content.
 
 ```markup
-<a-scene>
-  <a-videosphere src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"></a-videosphere>
-</a-scene>
+<a-videosphere src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"></a-videosphere>
 ```
 
 ### Video without sound does not work on mobile

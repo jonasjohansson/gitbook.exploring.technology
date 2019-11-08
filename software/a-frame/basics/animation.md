@@ -34,5 +34,4 @@ You can also add multiple animations:
 | dur | How long \(milliseconds\) each cycle of the animation is. | 1000 |  |
 | easing | Easing function of animation. To ease in, ease out, ease in and out. | easeInQuad | See [easings](https://www.npmjs.com/package/aframe-animation-component#easings) |
 | loop | How many times the animation should repeat. If the value is `true`, the animation will repeat infinitely. | 0 |  |
-| enabled | Toggle startEvents effect. |  |  |
 
