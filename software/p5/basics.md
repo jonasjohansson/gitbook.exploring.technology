@@ -53,9 +53,9 @@ The first two values tell the circle where to be, and the last provides the diam
 
 ![](../../.gitbook/assets/p5-circle.png)
 
-It is highly recommended to read up on each function using the [Processing References](https://processing.org/reference/), as they are not all the same.
+It is highly recommended to read up on each function using the Processing References, as they are not all the same.
 
-Besides a circles we can also add squares. After the circle line, make a new line by pressing Enter, then type:
+Besides circles we can also add squares. After the circle line, make a new line by pressing Enter, then type:
 
 ```javascript
 square(200, 200, 200);
@@ -78,7 +78,7 @@ The draw function does not reset itself, and remembers the values set the last t
 
 ### Stroke
 
-Let us make outline of the circle red by typing `stroke(255,0,0)` **before** the circle, and our squares green by typing `stroke(0,255,0)` before the squares. We can also increase the stroke thickness  using the **strokeWeight** function with a value in pixels.
+Let us make outline of the circle red by typing `stroke(255,0,0)` **before** the circle, and our squares green by typing `stroke(0,255,0)` before the squares. We can also increase the stroke thickness  using the [**strokeWeight** ](https://p5js.org/reference/#/p5/strokeWeight)function with a value in pixels.
 
 ![](../../.gitbook/assets/p5-stroke%20%281%29.png)
 
@@ -95,6 +95,12 @@ The shape background color works similarly to stroke. Let us turn our circle blu
 ### Alpha
 
 So far, we know that we can choose the amount of Red, Green and Blue, but there is also a fourth value: Alpha. The alpha decides the opacity, the amount of "see-through" which our color can have.
+
+The alpha value by default is also a value between 0 and 255. For example at line 12 we set the color to be yellow \(a mix of **R**ed and **G**reen, without **Blue**\), with a alpha \(transparency\) of 128:
+
+```javascript
+fill(255,255,0,128);
+```
 
 ![](../../.gitbook/assets/p5-fill-alpha.png)
 
