@@ -35,6 +35,7 @@
   * [✨ VR Learning Challenge](software/a-frame/vr-learning-challenge.md)
   * [✨ AR Learning Challenge](software/a-frame/ar-learning-challenge.md)
 * [P5.js](software/p5/README.md)
+  * [Basics](software/p5/basics.md)
   * [References](software/p5/references.md)
   * [✨ Learning Challenge](software/p5/learning-challenge.md)
 * [Bitsy](software/bitsy.md)
