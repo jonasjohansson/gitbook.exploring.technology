@@ -26,5 +26,15 @@ Daniel Schiffman is the fire and soul within the Processing community and releas
 
 
 
+### 
 
+{% embed url="https://editor.p5js.org/mehow\_one/sketches/tqNDiAHJj?fbclid=IwAR3\_31z90C4696H8iZocsbs9T6XFbi5BgSlMGpNDVJBR-ANg0PAEgLUYfus" %}
+
+{% embed url="https://timrodenbroeker.github.io/propos/1\_creative\_coding/index.html?fbclid=IwAR22b011vZQRtNq4I3IvoypqWTOfjmpOr0MQj6OYB4YmnhQhDjBBMmNnyiA" %}
+
+{% embed url="http://formandcode.com/bibliography?fbclid=IwAR30GTc3LySro0WGUm9uCEzMZPIPX8sbaH45hw-WgnxfCIKbiBQxpxpODAk" %}
+
+{% embed url="http://cmuems.com/2018/60212f/?fbclid=IwAR1vR8nuqJVO2nNmkBjO21dBIr7BnLHBTQv-Xinwr4vrKHcxIyMUqt22yoA" %}
+
+{% embed url="https://www.instagram.com/symmetryinchaosart/?fbclid=IwAR0WF7mOTWeWQDJVHL-GmjnAn2uiwYEw82\_ZQ99WXucQQG7QvKojAzUGIaI" %}
 
