@@ -140,7 +140,7 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
         <ul>
           <li>Virtual Reality development and production</li>
           <li>Roleplaying Games</li>
-          <li>Dramaturgi, Dance and Choreography</li>
+          <li>Dramaturgy, Dance and Choreography</li>
           <li>Crossfit</li>
           <li>Fermented foods</li>
         </ul>
