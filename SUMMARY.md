@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Tips & Trix](tips-and-trix.md)
 * [Hyper Island](hyper-island/README.md)
   * [Workshops](hyper-island/workshops.md)
   * [Talks](hyper-island/talks.md)
@@ -78,4 +77,5 @@
   * [Resources](hardware/laser-cutting/software.md)
   * [Machines & Settings](hardware/laser-cutting/machines.md)
   * [Materials](hardware/laser-cutting/materials.md)
+* [Tips & Trix](tips-and-trix.md)
 
