@@ -10,6 +10,10 @@ Anywhere based artist, designer and programmer transforming light + technology t
 
 ### [Mickey van Olst](https://mickeyvanolst.com/)
 
+A Dutch artist based in Berlin operating with a variety of media often involving experimentation through technology. His work is driven by a somewhat naive curiosity for electronics, programming and design paired with the need for communication through unlikely and unwieldy formats.
+
+By placing a strong focus on conceptual thinking forged with a dynamic understanding of design and hands-on technical knowledge, Mickey works on interactive art installations, prototyping and computer generated visuals.
+
 ## Lecturers
 
 ### [Maria Euler Kling](http://mariaeuler.com/)
@@ -18,7 +22,7 @@ An artists researcher living and loving the interdisciplinary. Alumni of the Roy
 
 ### [Duncan Gidney](https://duncangidney.com/)
 
-A creative artist and designer interested in play, music and surprising people. A Hyper alumni from Canada, currently based in Amsterdam! I have done projects based on the Internet of things, furniture design, and a skateboard that shoots flames.
+A creative artist and designer interested in play, music and surprising people. A Hyper alumni from Canada, currently based in Amsterdam! Duncan have done projects based on the Internet of things, furniture design, and a skateboard that shoots flames.
 
 ### [Half Scheidl](https://hscheidl.com/)
 
