@@ -26,7 +26,9 @@ Browser based world building and mixed reality. With A-Frame and [Glitch](../sof
 
 ### [Generative design](../software/p5/)
 
-Through [p5.js](https://p5js.org/) participants learn about generative art while making their own!
+Through [p5.js](https://p5js.org/) participants learn about generative art while making their own! ****
+
+**Preparations:** [Creating an account](https://editor.p5js.org/).
 
 ### Laser Basics
 
@@ -40,7 +42,9 @@ Introduction to the laser cutter where participants will co-create skill badges 
 
 ### \*\*\*\*[**Arduino Basic**](../hardware/arduino/)\*\*\*\*
 
-Build interactive objects using the worlds most famous micro-controller, the Arduino Uno! This three-hour workshop get participants learning the basics of electronics, buttons, potentiometers, sensors and how to make annoying sounds.
+Build interactive objects using the worlds most famous micro-controller, the Arduino Uno! This three-hour workshop get participants learning the basics of electronics, buttons, potentiometers, sensors and how to make annoying sounds. 
+
+Come prepared by [installing Arduino](https://www.arduino.cc/en/main/software), and a USB adapter if your computer lacks normal USB ports.
 
 ### \*\*\*\*[**Arduino Advanced**](../hardware/arduino/)\*\*\*\*
 
@@ -65,4 +69,8 @@ An introduction to a range of simple-to-use machine learning techniques that all
 ### [Bitsy game development](../software/bitsy.md)
 
 A crash course in rules of play, ergodic literature and [Bitsy](https://ledoux.itch.io/bitsy), a game creation tool focused on the poetry of game design, encouraging thought, reflection and decision making. Welcome to getting stuck on all the right details!
+
+## Preparations
+
+For all workshops, bring your computer and charger.
 

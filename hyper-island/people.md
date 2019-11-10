@@ -10,9 +10,9 @@ Anywhere based artist, designer and programmer transforming light + technology t
 
 ### [Mickey van Olst](https://mickeyvanolst.com/)
 
-A Dutch artist based in Berlin operating with a variety of media often involving experimentation through technology. His work is driven by a somewhat naive curiosity for electronics, programming and design paired with the need for communication through unlikely and unwieldy formats.
+Berlin-based artist, designer and programmer.  Dabbles in between kinetic art installations and generative real-time visuals. Studied Art & Technology at Utrecht University of the Arts and IAD at Hyper Island. Strongly connected with various studios such as [onformative](http://onformative.com) and [Waltz Binaire](http://waltzbinaire.com).  For the past years co-lecturing the Exploring Technology course at Hyper Island.
 
-By placing a strong focus on conceptual thinking forged with a dynamic understanding of design and hands-on technical knowledge, Mickey works on interactive art installations, prototyping and computer generated visuals.
+![](../.gitbook/assets/mickbike1.jpg)
 
 ## Lecturers
 
