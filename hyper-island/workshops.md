@@ -5,7 +5,7 @@
 | Title | Optional | Occurs | Hours | Participants | Hosted by |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | Functions of Fun and Space | ✕ | 1 | 3 | 50 | Maria & Linnéa |
-| Bodystorming | ✕ | 1 | 3 | 50 | Gunnlaugur |
+| Physical nonlinear prototyping | ✕ | 1 | 3 | 50 | Gunnlaugur |
 | A-Frame AR/VR | ✓ | 1 | 6 | 25 | Jonas & Ana |
 | Generative design | ✓ | 1 | 6 | 25 | Half & Ana |
 | Laser Basic | ✓ | 4 | 3 | 10 | Duncan |
@@ -16,11 +16,13 @@
 | Machine Learning | ✓ | 1 | 6 | 40 | Andreas & Jonas |
 | Bitsy game development | ✓ | 1 | 6 | 50 | Jonas |
 
-### Bodystorming
-
 ### Functions of Fun and Space
 
 After an introduction on new and alternative game mechanics, holistic game design and the use of space for storytelling, the participants will design their own games in a playful design sprint. The main game assets will be themselves as well as nearby physical resources.
+
+### Physical nonlinear prototyping
+
+In this workshop we will challenge our creativity and explore physical prototyping by creating a nonlinear storyboard matrix. We will use body storming as a way to test and validate our concepts. We will take action away from the chair and the desk and work with the body as a source of inspiration.
 
 ### [Mixed reality](../software/a-frame/)
 
