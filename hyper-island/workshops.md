@@ -2,19 +2,19 @@
 
 ## Overview
 
-| Title | Optional | Occurs | Participants | Hosted by |
-| :--- | :---: | :---: | :---: | :--- |
-| Functions of Fun and Space | ✕ | 1 | 50 | Maria & Linnéa |
-| Bodystorming | ✕ | 1 | 50 | Gunnlaugur |
-| A-Frame AR/VR | ✓ | 1 | 25 | Jonas & Ana |
-| Generative design | ✓ | 1 | 25 | Half & Ana |
-| Laser Basic | ✓ | 4 | 10 | Duncan |
-| Laser Advanced | ✓ | 1 | 10 | Duncan & Anne |
-| Arduino Basic | ✓ | 4 | 25 | Mickey & Maria Euler |
-| Arduino Advanced | ✓ | 1 | 50 | Mickey, Maria & Duncan |
-| Arduino Special | ✓ | 1 | 40 | Jonas & Maria |
-| Machine Learning | ✓ | 1 | 40 | Andreas & Jonas |
-| Bitsy game development | ✓ | 1 | 50 | Jonas |
+| Title | Optional | Occurs | Hours | Participants | Hosted by |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| Functions of Fun and Space | ✕ | 1 | 3 | 50 | Maria & Linnéa |
+| Bodystorming | ✕ | 1 | 3 | 50 | Gunnlaugur |
+| A-Frame AR/VR | ✓ | 1 | 6 | 25 | Jonas & Ana |
+| Generative design | ✓ | 1 | 6 | 25 | Half & Ana |
+| Laser Basic | ✓ | 4 | 3 | 10 | Duncan |
+| Laser Advanced | ✓ | 1 | 6 | 10 | Duncan & Anne |
+| Arduino Basic | ✓ | 4 | 3 | 25 | Mickey & Maria Euler |
+| Arduino Advanced | ✓ | 1 | 6 | 50 | Mickey, Maria & Duncan |
+| Arduino Special | ✓ | 1 | 6 | 40 | Jonas & Maria |
+| Machine Learning | ✓ | 1 | 6 | 40 | Andreas & Jonas |
+| Bitsy game development | ✓ | 1 | 6 | 50 | Jonas |
 
 ### Bodystorming
 
