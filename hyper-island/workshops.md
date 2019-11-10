@@ -24,7 +24,7 @@ After an introduction on new and alternative game mechanics, holistic game desig
 
 In this workshop we will challenge our creativity and explore physical prototyping by creating a nonlinear storyboard matrix. We will use body storming as a way to test and validate our concepts. We will take action away from the chair and the desk and work with the body as a source of inspiration.
 
-### [Mixed reality](../software/a-frame/)
+### [A-Frame AR/VR](../software/a-frame/)
 
 Browser based world building and mixed reality. With A-Frame and [Glitch](../software/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
 
@@ -73,8 +73,4 @@ An introduction to a range of simple-to-use machine learning techniques that all
 ### [Bitsy game development](../software/bitsy.md)
 
 A crash course in rules of play, ergodic literature and [Bitsy](https://ledoux.itch.io/bitsy), a game creation tool focused on the poetry of game design, encouraging thought, reflection and decision making. Welcome to getting stuck on all the right details!
-
-## Preparations
-
-For all workshops, bring your computer and charger.
 
