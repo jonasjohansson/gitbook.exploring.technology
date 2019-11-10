@@ -6,13 +6,13 @@
 
 Anywhere based artist, designer and programmer transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader for Exploring Technology since 2016.  Part of [Nordic Audiovisual Artists](https://nava.community/) and [Svartljus](https://svartljus.se/).
 
-![](../.gitbook/assets/jonas%20%281%29.jpg)
+![](../.gitbook/assets/jonas-trim.jpg)
 
 ### [Mickey van Olst](https://mickeyvanolst.com/)
 
 Berlin-based artist, designer and programmer.  Dabbles in between kinetic art installations and generative real-time visuals. Studied Art & Technology at Utrecht University of the Arts and IAD at Hyper Island. Strongly connected with various studios such as [onformative](http://onformative.com) and [Waltz Binaire](http://waltzbinaire.com).  For the past years co-lecturing the Exploring Technology course at Hyper Island.
 
-![](../.gitbook/assets/mickey.jpg)
+![](../.gitbook/assets/mickey-trim.jpg)
 
 ## Lecturers
 
@@ -47,8 +47,6 @@ Fun gal that loves to get her hands dirty, and building stuff that hasn’t been
 ### Ana Shcherbakova
 
 An elfish \(kinda\) human being. I came a long way from linguistics to web development and now my mind is set on design. I speak four languages, but when learning them wasn’t enough I turned to programming. Now I am trying to use my passion for design and programming skills to become the best developer/designer I can be!
-
-### Johanna Nordin
 
 ## Ask us about
 
@@ -173,11 +171,6 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
             cute)</li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Johanna</b>
-      </td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
