@@ -12,7 +12,7 @@ Anywhere based artist, designer and programmer transforming light + technology t
 
 Berlin-based artist, designer and programmer.  Dabbles in between kinetic art installations and generative real-time visuals. Studied Art & Technology at Utrecht University of the Arts and IAD at Hyper Island. Strongly connected with various studios such as [onformative](http://onformative.com) and [Waltz Binaire](http://waltzbinaire.com).  For the past years co-lecturing the Exploring Technology course at Hyper Island.
 
-![](../.gitbook/assets/mickbike1.jpg)
+![](../.gitbook/assets/screen-shot-2015-11-18-at-18.05.54.png)
 
 ## Lecturers
 
@@ -77,7 +77,16 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
     <tr>
       <td style="text-align:left"><b>Mickey</b>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>The Exploring Technology project</li>
+          <li>Software/Hardware coding and engineering (ie. anything Arduino/Physical)</li>
+          <li>3D design (ie. Cinema 4D, Fusion 360)</li>
+          <li>Programming visuals (ie. TouchDesigner, openFrameworks, Processing)</li>
+          <li>Prototyping</li>
+          <li>Climate change and sustainable diets</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Maria</b>
