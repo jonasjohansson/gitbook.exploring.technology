@@ -10,7 +10,7 @@
 | Generative design | ✓ | 1 | 6 | 25 | Half & Ana |
 | Laser Basic | ✓ | 4 | 3 | 10 | Duncan |
 | Laser Advanced | ✓ | 1 | 6 | 10 | Duncan & Anne |
-| Arduino Basic | ✓ | 4 | 3 | 25 | Mickey & Maria Euler |
+| Arduino Basic | ✓ | 4 | 3 | 25 | Mickey & Maria |
 | Arduino Advanced | ✓ | 1 | 6 | 50 | Mickey, Maria & Duncan |
 | Arduino Special | ✓ | 1 | 6 | 40 | Jonas & Maria |
 | Machine Learning | ✓ | 1 | 6 | 40 | Andreas & Jonas |
