@@ -14,6 +14,8 @@ Together, we will create the **Hyper Arcade**, a playground of ideas and experie
 
 ### Deliverable
 
-Each team will create 1 game-like experience, which may or may not use Arduino. The game can be an extension of the Bitsy challenge, but this is not required. It can use tools presented in the workshops, but may also be made in other ways. This project is about using your skills as designers to invite participants into **your world**. Technology has many faces, and we want you to make choices based on the experience you want to get across.  
+Each team will create 1 game-like experience, which may or may not use Arduino. The game can be an extension of the Bitsy challenge, but this is not required. It can use tools presented in the workshops, but may also be made in other ways. This project is about using your skills as designers to invite participants into **your world**. Technology has many faces, and we want you to make choices based on the experience you want to get across.
+
+In order to promote the game, each team will also create a  website. It's up to the teams how they want to launch the site, and what content it has. Traditionally, game developers continuously release updates, create teasers and trailers, until the final launch.  
 
 

@@ -10,27 +10,41 @@ In order to further facilitate learning and reflection, a mid delivery in the sh
 
 > The answer that came to me again and again was pay. Every human society in recorded history has games. We don't just solve problems out of necessity. We do it for fun. Even as adults. Leave a human being alone with a knotted rope and they will unravel it. Leave a human being alone with blocks, and they will build something. Games are part of what makes us human. We see the world as a mystery, a puzzle, because we've always been a species of problem-solvers. — Alexandra Drennan, The Talos Principle.
 
-### Asking questions
+### Questions
 
 In order to facilitate situations where neither Internet nor the self is able to find the way forward, there is the shared forum! Use it to share your questions, and potentially answer others. The Industry Leaders will often answer well formed questions with equally qualitative answers.
 
 → [Visit the forum!](https://forum.exploring.technology/)
 
-### Sharing progress
+### Documentation
 
-Documentation is important! We will encourage all teams to share their current progress on Instagram, and it's also what we will use for workshop deliverables. Get used to sharing your work, without the risk \(or chance\) of anyone knowing it is you!
+All teams are encouraged to share their current progress on Instagram, and it's also what we will use for workshop deliverables. Get used to sharing your work, without the risk \(or chance\) of anyone knowing it is you. Release early, release often!
 
 → [Post on \(y\)our Instagram](https://www.instagram.com/exploring_technology/)!
 
-### Attending workshops
+### Workshops
 
 Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach. Each member in your team must use the [Workshop Character Signup Sheet](https://forms.gle/MuMrCgQEwZ9kEjWX8) when required.
 
+→ [Read up on the workshops!](workshops.md)
+
 {% embed url="https://forms.gle/xcDdiyxSYXin486t9" %}
 
+### Course goals
 
+Below are the goals we have drawn inspiration from.
 
-![](https://i.redd.it/yl9u6fan1rkz.png)
+#### **Design Lead**
+
+* K2 Industry relevant platforms, software, techniques, and tools for development and distribution
+* S1 Produce relevant and effective documentation
+* S3 Use appropriate tools and methods to developer user-centred design
+* S4 Create design strategies and business solutions
+
+#### **Digital Media Creative**
+
+* K6 Societal norms and their impact on communication and the digital industry
+* S14 Solve unfamiliar problems using creative problem-solving and innovative thinking 
 
 
 

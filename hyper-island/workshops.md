@@ -4,7 +4,7 @@
 
 | Title | Optional | Occurs | Participants | Hosted by |
 | :--- | :---: | :---: | :---: | :--- |
-| Mega games | ✕ | 1 | 50 | Maria & Linnéa |
+| Functions of Fun and Space | ✕ | 1 | 50 | Maria & Linnéa |
 | Bodystorming | ✕ | 1 | 50 | Gunnlaugur |
 | A-Frame AR/VR | ✓ | 1 | 25 | Jonas & Ana |
 | Generative design | ✓ | 1 | 25 | Half & Ana |
@@ -18,7 +18,9 @@
 
 ### Bodystorming
 
-### Mega games
+### Functions of Fun and Space
+
+After an introduction on new and alternative game mechanics, holistic game design and the use of space for storytelling, the participants will design their own games in a playful design sprint. The main game assets will be themselves as well as nearby physical resources.
 
 ### [Mixed reality](../software/a-frame/)
 

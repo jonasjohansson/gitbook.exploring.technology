@@ -6,7 +6,7 @@ In the early days of computer and video games only monthly magazines provided ne
 
 Due to those boundaries we were given classics like Tetris, Pong and Return to Monkey Island. Easy to play, difficult to master. 30 years later the lust for "better graphics" have decreased, and there has been for many years a re-surge of story driven experiences, and games that are built solely on minimal mechanics.
 
-In order to practice constructing narratives in a game like world, teams will work with [Bitsy](https://ledoux.itch.io/bitsy); a small game editor for making worlds to explore.  It requires no programming, and no skill in special software. What it does require is imagination, an eye for design and narrative.
+In order to practice constructing narratives in a game like world, teams will work with [Bitsy](https://ledoux.itch.io/bitsy); a small game editor for making \([amazing](https://itch.io/c/201121/bitsy-faves)\) worlds to explore.  It requires no programming, and no special software skill. What it does require is imagination, an eye for design and narrative.
 
 ![](../.gitbook/assets/bitsy.png)
 
@@ -16,5 +16,5 @@ You are encouraged to look at the world of events as reference, or stories alrea
 
 ### Deliverable
 
-Each team will create 1 Bitsy game, with at least 1 Arduino interface, to be released on [Itch.io](https://itch.io/games/tag-bitsy). The game will also be presented by the end of the week, inviting others to play!
+Each team will create 1 Bitsy game, with at least 1 Arduino interface, to be released on [Itch.io](https://itch.io/games/tag-bitsy). The game should include music \(we suggest [BeepBox](https://www.beepbox.co/)\) and be presented by the end of the week, inviting others to play!
 

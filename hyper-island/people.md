@@ -38,6 +38,8 @@ Artist and creative coder based in Copenhagen. Uses algorithms and machine learn
 
 ### [Linnéa Östedt Harrison](https://www.linkedin.com/in/linnea-harrison-4323552b/)
 
+Linnea began playing games during the ’90s, and through a passion for creating experiences, she discovered that she also had a passion for making games. After shipping games in the Call of Duty, Battlefield, Star Wars and Mirror’s Edge franchises, Linnea now works as Creative Director at the VR studio Neat Corporation.
+
 ## Assistant lecturers
 
 ### [Anne Obel](https://www.instagram.com/annie.script4/)
@@ -141,6 +143,19 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
           <li>Dramaturgy, Dance and Choreography</li>
           <li>Crossfit</li>
           <li>Fermented foods</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Linn&#xE9;a</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Real-time graphics and technology</li>
+          <li>Video game development</li>
+          <li>Virtual reality</li>
+          <li>Game design</li>
+          <li>Tech art and design for real-time rendering.</li>
         </ul>
       </td>
     </tr>
