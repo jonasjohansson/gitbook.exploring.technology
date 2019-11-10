@@ -46,7 +46,7 @@ Introduction to the laser cutter where participants will co-create skill badges 
 
 Build interactive objects using the worlds most famous micro-controller, the Arduino Uno! This three-hour workshop get participants learning the basics of electronics, buttons, potentiometers, sensors and how to make annoying sounds. 
 
-Come prepared by [installing Arduino](https://www.arduino.cc/en/main/software), and a USB adapter if your computer lacks normal USB ports.
+Come prepared by [installing Arduino](https://www.arduino.cc/en/main/software), and bring a USB adapter if your computer lacks normal USB ports.
 
 ### \*\*\*\*[**Arduino Advanced**](../hardware/arduino/)\*\*\*\*
 
