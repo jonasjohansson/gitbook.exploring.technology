@@ -7,6 +7,8 @@
   * [Talks](hyper-island/talks.md)
   * [Team](hyper-island/people.md)
   * [References](hyper-island/references.md)
+  * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
+  * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
 
 ## Software
 
