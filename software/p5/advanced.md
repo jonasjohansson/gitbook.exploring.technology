@@ -2,7 +2,7 @@
 
 ## **Variables**
 
-Programming uses “variables” to pass information. It’s how it "remembers”, and for us to make tiny changes with massive impact. Imagine that you want to create a circle and a rectangle. The rectangle must have its width and height be half of the circle diameter. You could “hard code” it in like this:
+Programming uses “variables” to pass information effectively. Imagine that you want to create a circle and a rectangle. The rectangle must have its width and height be half of the circle diameter. You could “hard code” it in like this:
 
 ```javascript
 circle(100,100,200);
@@ -12,36 +12,31 @@ rect(0,0,100,100);
 Or you could use a variable:
 
 ```javascript
-diameter = 200;
+var diameter = 200;
 circle(100,100,diameter);
 rect(0,0,diameter/2,diameter/2);
 ```
 
-The variable, in this case “diameter” is assigned a value. Later on, the circle and rect-function references this variable. If the variable were to change, the value in the functions change as well.  
+Variables are initiated by typing "var" or "let" followed by the name of the variable. Names should follow the English Alphabet,  avoiding numbers and special characters. If your variable has several words, try to type it in "camel case", for instance **myNewFunction**.
 
+Notice that the variables are sometimes inside of a function, such as diameter, and sometimes outside in the top. This is has to do with something called “scope”. Anything that is declared at the top is “global”, meaning it can be accessed from anywhere in the code. In the example here “diameter” is local, and can only be read from within the draw-function. In most cases you can use global variables, but it is good practice to only have variables be available where they are needed.
 
-![](https://lh4.googleusercontent.com/OwPk4ilJYRqPeaGhnEK5Wrom0lrMA-vx99MzqxYig37KCBo_6UEMiskQ4Yz_1U-cEngNFZf2ojZtP9umSbZJk90jjZpm4F7zsaUwHk0rUomKlpHOWUwk7tQWXQGYrds5uT-OrPbysxw)
+```javascript
+var global = "I am available everywhere!";
 
-In most coding situations variables must be declared with a “type”. The type would inform the programming interpreter what kind of value the variable would have, making it more efficient. It would also help in troubleshooting as there would be an error message if the variable was used in an unexpected way.
+function setup(){
+    var local = "I'm only available in here…";
+}
 
-The most common types are:
-
-* `int` for integer number
-* `float` for decimal number
-* `String` for… strings of characters
-* `bool` \(boolean\) for true/false
-* `Array` for lists
-
-Javascript however, which P5.js is using, does not use types, but it is useful to be aware of as you will see it when reading about programming.
-
-Notice that the variables are sometimes inside of a function, such as diameter, and sometimes outside in the top. This is has to do with something called “scope”. Anything that is declared at the top is “global”, meaning it can be accessed from anywhere in the code. In the example here “diameter” is local, and can only be read from within the draw-function. In most cases you can use global variables, but it’s good practice to only have variables be available where they are needed.  
-
-
-![](https://lh5.googleusercontent.com/tLuuaerwqO5WuKpWqU3z_goxqUlOLlj-MQe8uUTmjvSazVm8dUHFvpt-8YFBRJcsU5oQeHIffUTqbX9FVXUtFLjENCLd61Htu91zqH5F-6x8lt_hPzA3bIbpOx9cP_URj5ZCCRhu82s)
+function draw(){
+    println(global); // this will work
+    println(local); // this will not
+}
+```
 
 ## **Logic**
 
-We use logic to tell the code what to do in specific situations. For instance, if the mouse is clicked, or a number reaches a certain value. Once you code a bit you can actually start to think in these logic ways!  
+We use logic to tell the code what to do in specific situations. For instance, if the mouse is clicked, or a number reaches a certain value. Once you code a bit you can actually start to think in these logic ways \(think of yourself becoming Vulcan, rather than a machine\)!  
 The most common logical statements are:
 
 * If
@@ -50,18 +45,18 @@ The most common logical statements are:
 
 You will use these no matter the coding syntax or language, or level of advancement, as it’s pure logic!
 
-### I**F**
+### If
 
 “If” is your bread and butter, so you better learn it well. It looks like this:
 
 ```javascript
-myVariable = 2;
+var myVariable = 2;
 if (myVariable == 2){
  background(0,255,0);
 }
 ```
 
-What it does is verifying if the statement within the parentheses is true or not. In this case it’s checking whether myVariable is 2. The “==” is a comparison operator meaning “equal”, and there are many more:
+When the statement within the parentheses is true, whatever is inside will happen. The “==” is a comparison operator meaning “equal”, and there are others:
 
 * Equal \(==\)
 * Not equal \(!=\)
@@ -71,15 +66,12 @@ What it does is verifying if the statement within the parentheses is true or not
 * Less than or equal \(&lt;=\)
 * Strict equal \(===\)
 
-They all have their place, for instance if you wanted to see if an incoming sensor value was above a certain threshold, you could use “greater than”.  
-
-
-### **IF/ELSE**
+### **If/else**
 
 An addition to “if”, used like this:
 
 ```javascript
-myVariable = 3;
+var myVariable = 3;
 if (myVariable == 2){
  background(0,255,0);
 } else {
@@ -87,11 +79,10 @@ if (myVariable == 2){
 }
 ```
 
-**You can actually continue this thread:**  
-
+You can include more conditions by adding "else if" between "if" and "else":
 
 ```javascript
-myVariable = 4;
+var myVariable = 4;
 if (myVariable == 2){
  background(0,255,0);
 } else if (myVariable == 3) {
@@ -101,22 +92,15 @@ if (myVariable == 2){
 }
 ```
 
-
-
-![](https://lh3.googleusercontent.com/tL15XoPSWPahAKgImc7Qie8_AYMOMVcHsxK_yIvjxTT7N5IvD89z8fDdTHLEw_IzPdmf-UHfnO53YtI0X8zeZlt2_GUKGehMsowqVPif0ZZ0UmFusHJYMCdSg1tE5MHtfvswRLBMjHE)
-
 ### **Combining variables and logic**
 
-Let’s combine the logic and variables using P5.js interactive function `mouseClicked()`. Here we use a combination of global variables, which are used in the draw function, but set in the `mouseClicked()` function. MouseClicked is “called” when someone clicks with the mouse in the preview area.
+Let’s combine the logic and variables using the interactive function `mouseClicked()`. Here we initiate a combination of global variables, which are used in the draw function, but set in the `mouseClicked()` function. MouseClicked is “called” when someone clicks with the mouse in the preview area.
 
-First it checks if the variable “r” is equal to 0, and it does this by three equal signs. Why? Because 0 could also mean false, but in this case we only want to check whether “r” is equal to the number zero. This is called a “strict equal”.  
-
-
-![](https://lh4.googleusercontent.com/Mf9OYWX497ffJdQ9GUEis5PxeZn3_oaqRg1cNI9eQBtUaQKHQxj5WMTJPMixzL8J_YfwrxIdZmkLGgyFoLi_mmNmhOf7Z5XdjR9-ZtycqwHjsE7-B8z7odll6kZq0K1cT16SeuA2xLA)
+First it checks if the variable “r” is equal to 0, and it does this by three equal signs. Why? Because 0 could also mean false, but in this case we only want to check whether “r” is equal to the number zero. This is called a “strict equal”.
 
 The next time there is a click, it will instead go to the “else” part of the function, and make the background blue.
 
-### FOR
+### For
 
 Let’s say you want to create three circles, each a bit smaller than the previous one, you could do this:
 
@@ -129,13 +113,14 @@ circle(200,200,50);
 But you could also do this:
 
 ```javascript
-for (i = 0; i < 3; i++){
+var numberOfCircles = 3;
+for (i = 0; i < numberOfCircles; i++){
     diameter = 150 - (i * 50)
     circle(200,200,diameter);
 }
 ```
 
-What happens is that, as long as the statement is true, whatever is inside the curly brackets will happen. It starts with defining a variable, in this case “i” with the value of 0. And then continues by saying that “as long as x is less than 3, increment i with 1. This will happen until i reaches 2, after which it will exit the for loop.
+As long as the statement is true, whatever is inside the curly brackets will happen. It starts with defining a variable, in this case “i” with the value of 0. And then continues by saying that “as long as x is less than 3, increment i with 1. This will happen until i reaches 2, after which it will exit the for loop.
 
 ![](https://lh6.googleusercontent.com/ZuCd82ST3Ypfa0O3oR-LlAyP_ax_fwnqpsVOaph3vaQMj2baSFObwhEVpU8IQnnJBDSRwsd6SWxe5gEDy64RnY2C2rt-oqcFeVjc3i_5RfmCWb5Y1vzg04dq68iTCu7K7Sgd72cQi-I)
 
@@ -205,6 +190,4 @@ We create a variable called “weather”, and then use the preload function whi
 
 
 ![](https://lh4.googleusercontent.com/EDKxDL2fPp1LCY1FDb7t_7KudVEoZnLa4M9eiaVs_OZkd9SnhWxlG_YrOSJED7XXMnkh_StIZtAxcvs_2K5bkN1yg9aFe08zTgp3OsHFl6XFpocyys0hxasJBiDdc3woBUoyI2YE6qA)
-
-\*\*\*\*
 

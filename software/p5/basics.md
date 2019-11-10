@@ -43,6 +43,8 @@ Notice the semicolon at the end, this tells the code interpreter that the line h
 
 ## Shapes
 
+It is possibly to draw all kinds of vector shapes; circles, squares, rectangles, lines and curves.
+
 Let us begin drawing by adding a circle. The circle function takes three parameters: x, y and diameter. Type the following **inside draw**:
 
 ```javascript
@@ -89,8 +91,6 @@ To remove a stroke, type `noStroke()` before the shapes that should be without.
 The shape background color works similarly to stroke. Let us turn our circle blue by typing `fill(0,0,255)` and the squares yellow by typing `fill(255,255,0)` 
 
 ![](../../.gitbook/assets/p5-fill.png)
-
-
 
 ### Alpha
 
@@ -141,11 +141,97 @@ Several new things are happening here:
 
 ![](../../.gitbook/assets/p5-translate.png)
 
-## Push and Pop
+### Push and Pop
 
 It is possible to _negate_ the effect of a rotation or translate by using the same value but negative, for instance by typing `rotate(-10)` after `rotate(10)`. But, there is also a completely different way of ensuring that functions **only** happen to specific shapes.
 
 Code doesn't have _layers_ like most design software, but we can simulate the effect of a layer using two functions: `push` and `pop`.  Anything that happens inside of these, will not be _seen_ by anyone else. what happens in push and pop, stays in push and pop.
 
 ![](../../.gitbook/assets/p5-pushpop%20%281%29.png)
+
+## Time
+
+It’s possible to use time as a variable for creating events that happen after a certain amount of time, or for animations.
+
+### Millis
+
+Our good friend  `millis()` counts the amount of **milliseconds** that has transpired since the sketch began running. We can understand this better by creating a variable, and printing it to the console:
+
+```javascript
+function draw() {
+  var time = millis();
+  print('Time elapsed: '+time);
+}
+```
+
+After 5 seconds, _time_  will have reached 5000. To use time to control the amount of red in the background we would have to divide it:
+
+```javascript
+function draw() {
+  var time = millis();
+  var red = time/40;
+  background(red,0,0,0);
+}
+```
+
+### Sin and cos
+
+Since time \(in programming\) only goes forward it’s great for creating timers and all kinds of things, but it can’t reverse. So if we want our background to go back and forth we can use `sin()` and `cos()` which creates a sine and cosine wave.
+
+![](https://lh3.googleusercontent.com/e-BDb0YwSPabn_2B5TgoKADAIPg6riF8YJNRPPFBdxQULQ68bRMJdlbJqQjAtrUlqAunOrBqZt7j7ReHUzGi45uM2n2PiOz8MfK6Bd4TBCt04Wwt_plugKpSEjWQLvtWrMEyoLkNOsw)
+
+Without going into specifics, we can see that the values generated move between 1 and -1.
+
+```javascript
+function draw() {
+  var sine = sin();
+  print('Sine value: '+sine);
+}
+```
+
+To move the sine wave, we can provide it with time, and to receive a smooth value we have to divide by at least 1000.
+
+```javascript
+function draw() {
+  var time = millis()/1000;
+  var sine = sin(time);
+  print('Sine value: '+sine);
+}
+```
+
+This will provide us with a smooth transition between 1 and -1, moving forward along time. However, this range is of little use controlling color, which ranges from 0-255. For that, we have to map one range to another.
+
+### Map
+
+Map is used most often converting a sensor input reading into a useful output, but is extremely useful for animations. It takes the **minimum and maximum input** and transforms into to the **minimum and maximum output**
+
+```javascript
+function draw() {
+  var time = millis()/1000;
+  var sine = sin(time);
+  var mapped = map(sine,-1,1,0,255);
+  print('Mapped value: '+mapped);
+  background(mapped,0,0);
+}
+```
+
+## Curves
+
+It is possible to make curved lines, and to turn them into a shape! The function `curveVertex()` takes 2 parameters: x and y.
+
+```javascript
+strokeWeight(5);
+point(84, 91);
+point(68, 19);
+point(21, 17);
+point(32, 91);
+strokeWeight(1);
+function draw() {
+  var time = millis()/1000;
+  var sine = sin(time);
+  var mapped = map(sine,-1,1,0,255);
+  print('Mapped value: '+mapped);
+  background(mapped,0,0);
+}
+```
 
