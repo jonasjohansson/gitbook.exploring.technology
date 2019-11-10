@@ -85,6 +85,7 @@ An elfish \(kinda\) human being. I came a long way from linguistics to web devel
           <li>Programming visuals (ie. TouchDesigner, openFrameworks, Processing)</li>
           <li>Prototyping</li>
           <li>Climate change and sustainable diets</li>
+          <li>Building your own furniture</li>
         </ul>
       </td>
     </tr>
