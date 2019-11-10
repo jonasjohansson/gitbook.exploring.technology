@@ -10,9 +10,9 @@ In order to practice constructing narratives in a game like world, teams will wo
 
 ![](../.gitbook/assets/bitsy.png)
 
-To help make matters worse, the way the game is being played should be **out of the ordinary**. Create your own interface using Arduino, entangle it into your experience, make **it** the experience. **The medium is the message**. Our only requirement is that it's not being played with a conventional keyboard or video game controller.
+To help make matters worse, the way the game is being played should be **out of the ordinary**. Create your own interface using Arduino, entangle it into your experience, make **it** the experience. **The medium is the message**. The only requirement is that **it will not** be played with a conventional keyboard or controller!
 
-You are encouraged to look at the world of events as reference, or stories already found in literature, history, cinema. Avoid getting stuck in coming up with something completely new, as this is an exercise in "keeping it simple" where the choices around you are intentionally limited.
+You are encouraged to look at the world of events as reference, or stories already found in literature, history, cinema. Avoid getting stuck in coming up with an original story \(get stuck on making an original experience\) as this is an exercise in "keeping it simple" where the choices around you are intentionally limited.
 
 ### Deliverable
 
