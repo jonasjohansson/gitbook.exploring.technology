@@ -74,6 +74,7 @@
   * [Output](hardware/arduino/output/README.md)
     * [Motors](hardware/arduino/output/motors.md)
     * [Keyboard & MIDI](hardware/arduino/output/keyboard-midi.md)
+    * [12V](hardware/arduino/output/12v.md)
   * [Distributors](hardware/arduino/distributors.md)
   * [Code](hardware/arduino/dictionary.md)
   * [FAQ](hardware/arduino/faq.md)
