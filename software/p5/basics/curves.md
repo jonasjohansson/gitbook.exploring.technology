@@ -23,12 +23,14 @@ It is also possible to use `bezier()` and `curve()` but these are much more comp
 
 ```javascript
 function draw() {
-    noFill();
-    stroke(255, 102, 0);
-    line(85, 20, 10, 10);
-    line(90, 90, 15, 80);
-    stroke(0, 0, 0);
-    bezier(85, 20, 10, 10, 90, 90, 15, 80);
+  noFill();
+  stroke(255, 100, 0);
+  line(300, 10, 10, 10);
+  line(300, 300, 0, 300);
+  stroke(0, 0, 0);
+  bezier(300, 10, 10, 10, 300, 300, 0, 300);
 }
 ```
+
+![](../../../.gitbook/assets/p5-bezier.png)
 
