@@ -27,10 +27,12 @@ function setup(){
 }
 
 function draw(){
-    println(global); // this will work
-    println(local); // this will not
+    print(global); // this will work
+    print(local); // this will not
 }
 ```
 
-## 
+## Print
+
+Noticed the `print()` function above? It is a fantastic tool for debugging and letting the programmer know what is going on. Provide it with a variable, and it will print out to the console the value of that variable. This is useful when the variable contains information that is changing fast, or when there are different "states" within your program.
 
