@@ -28,7 +28,7 @@ In this workshop we will challenge our creativity and explore physical prototypi
 
 Browser based world building and mixed reality. With A-Frame and [Glitch](../software/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
 
-_🙋🏻‍♂️10 spots open for Motion Creative and Content Developer_
+🙋🏻‍♂️10 spots open for Motion Creative and Content Developer
 
 ### [Generative design](../software/p5/)
 
@@ -36,7 +36,7 @@ Through [p5.js](https://p5js.org/) participants learn about generative art while
 
 → [Creat](https://editor.p5js.org/)[e an account](https://editor.p5js.org/)
 
-_🙋🏽10 spots open for Motion Creative and Content Developer_
+🙋🏽10 spots open for Motion Creative and Content Developer
 
 ### Laser Basics
 
@@ -70,11 +70,11 @@ Hack the controls of existing games and game like experiences by building your o
 **Requires Arduino Advanced**
 {% endhint %}
 
-### Machine Learning
-
-An introduction to a range of simple-to-use machine learning techniques that allow people to use \(mainly\) camera inputs to control outputs.
-
 ### [Bitsy game development](../software/bitsy.md)
 
 A crash course in rules of play, ergodic literature and [Bitsy](https://ledoux.itch.io/bitsy), a game creation tool focused on the poetry of game design, encouraging thought, reflection and decision making. Welcome to getting stuck on all the right details!
+
+### Machine Learning
+
+An introduction to a range of simple-to-use machine learning techniques that allow people to use \(mainly\) camera inputs to control outputs.
 
