@@ -4,9 +4,11 @@
 
 Learning to unlearn, a both dystopian and optimistic outlook on ourselves and the world we have created, incentivising imagination and re-imagination. 
 
-![](../.gitbook/assets/ha-kanlidbo.jpg)
+![](../.gitbook/assets/ha-kanlidbo3.jpg)
 
 ### [Jasmine Isdrake](http://isdrake.com/): Game Culture
 
 An overview of game culture, game design and the importance of diversity and inclusion, through examples ranging from big bugs to cyborg interfaces.
+
+![](../.gitbook/assets/jasmineisdrake2.jpg)
 
