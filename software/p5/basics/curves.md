@@ -1,29 +1,25 @@
 # Curves
 
-It is possible to make curved lines using `curveVertex()` and then turn them into a shape!
+It is possible to make curved lines using `curveVertex()` and then use `beginShape()` and `endShape()` to solidify them. The first and last vertices define the direction of the vertices to come, as illustrated by the two lines.
 
 ```javascript
 function draw() {
-  background(220);
-  strokeWeight(5);
-  point(84, 91);
-  point(68, 19);
-  point(21, 17);
-  point(32, 91);
-  strokeWeight(1);
+  line(100, 200, 100, 300);
+  line(300, 200, 300, 300);
+
   fill(255, 0, 0);
   beginShape();
-  curveVertex(84, 91);
-  curveVertex(84, 91);
-  curveVertex(68, 19);
-  curveVertex(21, 17);
-  curveVertex(32, 91);
-  curveVertex(32, 91);
+  curveVertex(100, -500);
+  curveVertex(100, 200);
+  curveVertex(300, 200);
+  curveVertex(300, -500);
   endShape();
 }
 ```
 
-It is also possible to use `bezier()` and `curve()` but these are much more complex to understand and use. At your own risk!
+![](../../../.gitbook/assets/p5-curvevertex.png)
+
+It is also possible to use `bezier()` and `curve()` but these are much more complex to understand and use, as they include the bezier curve values within the function, making it very hard to read. Use at your own risk.
 
 ```javascript
 function draw() {
