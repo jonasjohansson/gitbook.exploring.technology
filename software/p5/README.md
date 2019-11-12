@@ -8,3 +8,5 @@ Generative design is the symbios between machine and designer. The machine creat
 
 ### [Generative Design and Contemporary Art](https://docs.google.com/presentation/d/1btKvi4IjmqkC7-WG3BWzLniK7nlHzrrnQiYmM9o_2CA/edit#slide=id.gc6f972163_0_0)
 
+### 
+
