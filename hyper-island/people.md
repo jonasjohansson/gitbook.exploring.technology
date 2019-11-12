@@ -54,7 +54,7 @@ An elfish \(kinda\) human being. Ana has come a long way from linguistics to web
 
 ### Johanna Nordin
 
-A happy camper within tech and data. Has attended the Amsterdam [Fab Academy](https://fabacademy.org/) and is responsible for The Space; the in-house maker laboratory at Hyper Island Stockholm. She has previously run the [Hyper Island kids summer camp](https://vimeo.com/239974492) and local 
+A happy camper within tech and data. Has attended the Amsterdam [Fab Academy](https://fabacademy.org/) and is responsible for The Space; the in-house maker laboratory at Hyper Island Stockholm. She is on the board of [Kids Hack Day](https://www.kidshackday.com/), has previously run the [Hyper Island kids summer camp](https://vimeo.com/239974492) and is currently focused on Hyper Island's online educations for professionals and companies!
 
 ### [Folk Lab](https://www.folklab.nu/)
 
