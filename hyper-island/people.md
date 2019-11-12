@@ -48,7 +48,17 @@ Fun gal that loves to get her hands dirty, and building stuff that hasn’t been
 
 ### Ana Shcherbakova
 
-An elfish \(kinda\) human being. I came a long way from linguistics to web development and now my mind is set on design. I speak four languages, but when learning them wasn’t enough I turned to programming. Now I am trying to use my passion for design and programming skills to become the best developer/designer I can be!
+An elfish \(kinda\) human being. Ana has come a long way from linguistics to web development. With several spoken languages in her mind, she turned to programming to continue her training, and is now trying to use her passion for design and code to become the best designer & developer possible!
+
+## Collaborators
+
+### Johanna Nordin
+
+A happy camper within tech and data. Has attended the [Fab Academy](https://fabacademy.org/) in the Netherlands, and is responsible for The Space at Hyper Island Stockholm.
+
+### [Folk Lab](https://www.folklab.nu/)
+
+A kombucha of the digital fabrication movement, Folkets hus and the mission to create meaning, socially and digitally, Folk Lab hosts pop-up labs, workshops and education, and collectively build active meeting places and digital lab.  All in order to invite increased participation in the global goals for sustainability. The Folk Lab meaning machine hosts several technologies made to enable small and large fabrication and ideation, and have lent one of their [laser cutters](../hardware/laser-cutting/machines.md) to Hyper Island for the Exploring Technology project.
 
 ## Ask us about
 
