@@ -60,6 +60,8 @@ A happy camper within tech and data. Has attended the Amsterdam [Fab Academy](ht
 
 A kombucha of the digital fabrication movement, Folkets hus and the mission to create meaning, socially and digitally, Folk Lab hosts pop-up labs, workshops and education, and collectively build active meeting places and digital lab.  All in order to invite increased participation in the global goals for sustainability. The Folk Lab meaning machine hosts several technologies made to enable small and large fabrication and ideation, and are renting one of their [laser cutters](../hardware/laser-cutting/machines.md) to Hyper Island for the Exploring Technology project.
 
+![](https://lh5.googleusercontent.com/4fIARilmex0wwKe0svibKMA-cC2oPPoBH3yyHjyG7XcseoW0REXIxqDV5d054WXz5d2Rg4ftO-HZ7fY-gexw_oUxucs23P7KBHvWpHK1dOsm14IWMQ8v5wA4fhlBFl_GVbFOhrXH)
+
 ### [SGEM](http://sgem.se/)
 
 The Stockholm Genetically Engineered Machines and is a non-profit association, founded in 2015 to ensure annual participation in the iGEM competition by a team from Stockholm.  [Rasmus Bengtsson](https://rasmusbengtsson.com/), Hyper alumni, former iGEM and current SGEM member  will present the possibilities within synthetic biology and inspire serious interdisciplinary collaborations!
