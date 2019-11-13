@@ -2,19 +2,19 @@
 
 ## Overview
 
-| Title | Occurs | Hours | Participants | Hosted by |
-| :--- | :---: | :---: | :---: | :--- |
-| Functions of Fun and Space | 1 | 3 | 50 | Maria & Linnéa |
-| Physical nonlinear prototyping | 1 | 3 | 50 | Gunnlaugur |
-| A-Frame AR/VR | 1 | 6 | 25 | Jonas & Ana |
-| Generative design | 1 | 6 | 25 | Half & Ana |
-| Laser Basics | 4 | 3 | 10 | Duncan & Anne |
-| Laser Advanced | 1 | 6 | 10 | Anne |
-| Arduino Basics | 4 | 3 | 25 | Mickey & Maria |
-| Arduino Advanced | 1 | 6 | 50 | Mickey & Duncan |
-| Arduino Special | 1 | 6 | 40 | Jonas |
-| Machine Learning | 1 | 6 | 40 | Andreas & Jonas |
-| Bitsy game development | 1 | 6 | 50 | Jonas |
+| Title | When | Participants | Hosted by |
+| :--- | :---: | :---: | :--- |
+| Functions of Fun and Space | 20/11 | 50 | Maria & Linnéa |
+| Physical nonlinear prototyping | 20/11 | 50 | Gunnlaugur |
+| A-Frame AR/VR | 21/11 | 25 \(35\) | Jonas & Ana |
+| Generative design | 22/11 | 25 \(35\) | Half & Ana |
+| Laser Basics | 21-22/11 | 10 | Duncan & Anne |
+| Laser Advanced | 26/11 | 10 | Anne |
+| Arduino Basics | 21-22/11 | 25 | Mickey & Maria |
+| Arduino Advanced | 25/11 | 50 | Mickey, Duncan & Anne |
+| Arduino Special | 26/11 | 30 | Jonas & Maria |
+| Bitsy game development | 25/11 | 50 | Jonas |
+| Machine Learning | 26/11 | 40 | Andreas & Jonas |
 
 ### Functions of Fun and Space
 
@@ -44,7 +44,7 @@ Introduction to the laser cutter where participants will learn about the fantast
 
 ### Laser Advanced
 
-Besides becoming the class laser super star, participants will get to explore some of the finer techniques of laser cutting as they build their own 3d puzzles.
+Besides becoming the class laser super star, participants will get to explore some of the finer techniques of laser cutting as they build their own dexterity games.
 
 {% hint style="danger" %}
 **Requires Laser Basics**
