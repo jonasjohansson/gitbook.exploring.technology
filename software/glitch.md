@@ -4,7 +4,7 @@ Welcome to Glitch, a creative and expressive platform that everyone can use to c
 
 ### Setup
 
-Visit [Glitch.com](https://glitch.com/) and login with your [Github](https://github.com) account, then choose **New Project** and choose the _hello-webpage_ option.
+Visit [Glitch](https://glitch.com/) and login with your [Github](https://github.com) account, then choose **New Project** and choose the _hello-webpage_ option.
 
 ![](../.gitbook/assets/screenshot-2019-09-23-at-22.47.33.png)
 

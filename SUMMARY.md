@@ -51,15 +51,6 @@
   * [References](software/p5/references.md)
   * [🎨 Abstract Art Challenge](software/p5/learning-challenge.md)
 * [Bitsy](software/bitsy.md)
-* [Web Development](software/web-development/README.md)
-  * [Javascript](software/web-development/javascript/README.md)
-    * [API](software/web-development/javascript/api.md)
-    * [Device API](software/web-development/javascript/device-api.md)
-  * [HTML](software/web-development/html.md)
-  * [CSS](software/web-development/getting-started.md)
-  * [References](software/web-development/references.md)
-  * [✨ Website Challenge](software/web-development/mini-challenge.md)
-  * [✨ Chrome Extension Challenge](software/web-development/learning-challenge.md)
 * [Glitch](software/glitch.md)
 
 ## Hardware
@@ -92,4 +83,17 @@
   * [📛 Badge Challenge](hardware/laser-cutting/badge-challenge.md)
   * [🧩 Puzzle Challenge](hardware/laser-cutting/puzzle-challenge.md)
 * [Tips & Trix](tips-and-trix.md)
+* [Contact](https://jonasjohansson.se/)
+
+## Under consideration
+
+* [Web Development](under-consideration/web-development/README.md)
+  * [Javascript](under-consideration/web-development/javascript/README.md)
+    * [API](under-consideration/web-development/javascript/api.md)
+    * [Device API](under-consideration/web-development/javascript/device-api.md)
+  * [HTML](under-consideration/web-development/html.md)
+  * [CSS](under-consideration/web-development/getting-started.md)
+  * [References](under-consideration/web-development/references.md)
+  * [✨ Website Challenge](under-consideration/web-development/mini-challenge.md)
+  * [✨ Chrome Extension Challenge](under-consideration/web-development/learning-challenge.md)
 
