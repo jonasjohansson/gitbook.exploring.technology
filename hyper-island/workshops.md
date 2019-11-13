@@ -8,9 +8,9 @@
 | Physical nonlinear prototyping | ✕ | 1 | 3 | 50 | Gunnlaugur |
 | A-Frame AR/VR | ✓ | 1 | 6 | 25 | Jonas & Ana |
 | Generative design | ✓ | 1 | 6 | 25 | Half & Ana |
-| Laser Basic | ✓ | 4 | 3 | 10 | Duncan & Anne |
+| Laser Basics | ✓ | 4 | 3 | 10 | Duncan & Anne |
 | Laser Advanced | ✓ | 1 | 6 | 10 | Anne |
-| Arduino Basic | ✓ | 4 | 3 | 25 | Mickey & Maria |
+| Arduino Basics | ✓ | 4 | 3 | 25 | Mickey & Maria |
 | Arduino Advanced | ✓ | 1 | 6 | 50 | Mickey, Maria & Duncan |
 | Arduino Special | ✓ | 1 | 6 | 40 | Jonas & Maria |
 | Machine Learning | ✓ | 1 | 6 | 40 | Andreas & Jonas |
@@ -48,7 +48,7 @@ Introduction to the laser cutter where participants will co-create skill badges 
 **Requires Laser Basics**
 {% endhint %}
 
-### \*\*\*\*[**Arduino Basic**](../hardware/arduino/)\*\*\*\*
+### \*\*\*\*[**Arduino Basics**](../hardware/arduino/)\*\*\*\*
 
 Build interactive objects using the worlds most famous micro-controller, the Arduino Uno! This three-hour workshop get participants learning the basics of electronics, buttons, potentiometers, sensors and how to make annoying sounds. 
 
