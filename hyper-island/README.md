@@ -30,25 +30,3 @@ Define your teams attributes by attending the workshops you feel are relevant to
 
 {% embed url="https://forms.gle/xcDdiyxSYXin486t9" %}
 
-### Course goals
-
-Below are the goals we have drawn inspiration from.
-
-#### **Design Lead**
-
-* K2 Industry relevant platforms, software, techniques, and tools for development and distribution
-* S1 Produce relevant and effective documentation
-* S3 Use appropriate tools and methods to developer user-centred design
-* S4 Create design strategies and business solutions
-
-#### **Digital Media Creative**
-
-* K6 Societal norms and their impact on communication and the digital industry
-* S14 Solve unfamiliar problems using creative problem-solving and innovative thinking 
-
-
-
-
-
-
-
