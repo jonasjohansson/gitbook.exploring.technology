@@ -46,6 +46,8 @@
   * [Advanced](software/p5/advanced/README.md)
     * [Logic](software/p5/advanced/logic.md)
     * [Interaction](software/p5/advanced/interaction.md)
+    * [Images](software/p5/advanced/images.md)
+    * [3D](software/p5/advanced/3d.md)
     * [Sound](software/p5/advanced/sound.md)
     * [API](software/p5/advanced/api.md)
   * [References](software/p5/references.md)
