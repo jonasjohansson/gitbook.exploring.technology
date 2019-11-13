@@ -7,7 +7,7 @@
 | Functions of Fun and Space | ✕ | 1 | 3 | 50 | Maria & Linnéa |
 | Physical nonlinear prototyping | ✕ | 1 | 3 | 50 | Gunnlaugur |
 | A-Frame AR/VR | ✓ | 1 | 6 | 25 | Jonas & Ana |
-| Generative design | ✓ | 1 | 6 | 25 | Half & Ana |
+| Generative design with p5js  | ✓ | 1 | 6 | 25 | Half & Ana |
 | Laser Basics | ✓ | 4 | 3 | 10 | Duncan & Anne |
 | Laser Advanced | ✓ | 1 | 6 | 10 | Anne |
 | Arduino Basics | ✓ | 4 | 3 | 25 | Mickey & Maria |
@@ -30,9 +30,9 @@ Browser based world building and mixed reality. With A-Frame and [Glitch](../sof
 
 🙋🏻‍♂️10 spots open for Motion Creative and Content Developer
 
-### [Generative design](../software/p5/)
+### [Generative design with p5](../software/p5/)
 
-Through [p5.js](https://p5js.org/) participants learn about generative art while making their own!
+Through [p5.js](https://p5js.org/) participants scratch the surface of artificial intelligence as they learn about generative design and how machines can help make art, music and experiences!
 
 → [Creat](https://editor.p5js.org/)[e an account](https://editor.p5js.org/)
 
