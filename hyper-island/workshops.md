@@ -56,7 +56,7 @@ Build interactive objects using the worlds most famous micro-controller, the Ard
 
 ### \*\*\*\*[**Arduino Advanced**](../hardware/arduino/)\*\*\*\*
 
-Further exploration into the world of sensory equipment.
+Build your own mini-game as you explore the sensory equipment for proximity, motion, light and force. This is an advanced session that assumes a basic understanding of Arduino, and digs deeper into combining code from different places in order to create something new!
 
 {% hint style="danger" %}
 **Requires Arduino Basic**
