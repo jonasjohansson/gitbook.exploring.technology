@@ -32,4 +32,6 @@ Below are guideline values based on [Material Test Card for Laser Cutting and En
 | Plywood \(3mm\) | 25 | 70 | 400 | 10 |
 | Plywood \(6.35mm\) | 25 | 95 |  |  |
 | Acrylic \(3mm\) | 30 | 50 |  |  |
+| MDF \(5mm\) | 25 | 95 |  |  |
+| MDF \(3mm\) | 25 | 85 |  |  |
 
