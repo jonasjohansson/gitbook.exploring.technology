@@ -49,7 +49,7 @@
     * [Sound](software/p5/advanced/sound.md)
     * [API](software/p5/advanced/api.md)
   * [References](software/p5/references.md)
-  * [✨ Learning Challenge](software/p5/learning-challenge.md)
+  * [🎨 Abstract Art Challenge](software/p5/learning-challenge.md)
 * [Bitsy](software/bitsy.md)
 * [Web Development](software/web-development/README.md)
   * [Javascript](software/web-development/javascript/README.md)
@@ -58,8 +58,8 @@
   * [HTML](software/web-development/html.md)
   * [CSS](software/web-development/getting-started.md)
   * [References](software/web-development/references.md)
-  * [✨ Mini Learning Challenge](software/web-development/mini-challenge.md)
-  * [✨ Learning Challenge](software/web-development/learning-challenge.md)
+  * [✨ Website Challenge](software/web-development/mini-challenge.md)
+  * [✨ Chrome Extension Challenge](software/web-development/learning-challenge.md)
 * [Glitch](software/glitch.md)
 
 ## Hardware
