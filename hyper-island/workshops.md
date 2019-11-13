@@ -40,7 +40,7 @@ Through [p5.js](https://p5js.org/) participants scratch the surface of artificia
 
 ### Laser Basics
 
-Introduction to the laser cutter where participants will learn about the fantastic world of rapid fabrication and laser. while creating epic team badges.
+Introduction to the laser cutter where participants will learn about the fantastic world of rapid fabrication and laser. while going from digital illustrations to physical reproductions!
 
 ### Laser Advanced
 
