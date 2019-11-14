@@ -10,6 +10,8 @@
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
   * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
 * [Forum](https://forum.exploring.technology/)
+* [Instagram](https://www.instagram.com/exploring_technology/)
+* [Contact](https://jonasjohansson.se/)
 
 ## Software
 
@@ -88,7 +90,6 @@
   * [📛 Badge Challenge](hardware/laser-cutting/badge-challenge.md)
   * [🎲 Dexterity Game Challenge](hardware/laser-cutting/puzzle-challenge.md)
 * [Tips & Trix](tips-and-trix.md)
-* [Contact](https://jonasjohansson.se/)
 
 ## Under consideration
 
