@@ -1,6 +1,6 @@
-# 📛 Hyper Badge Challenge
+# 📛 Badge Challenge
 
-Work in **teams of two** and create unique achievement badges for the course and school. **Make it aspiring!**
+Work in **teams of two** and create achievement badges **Make them aspirational!** 
 
 ![](../../.gitbook/assets/meritbadges.png)
 
