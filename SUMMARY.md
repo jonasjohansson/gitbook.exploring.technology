@@ -5,6 +5,7 @@
   * [Workshops](hyper-island/workshops.md)
   * [Talks](hyper-island/talks.md)
   * [Team](hyper-island/people.md)
+  * [Invoicing](hyper-island/invoicing.md)
   * [References](hyper-island/references.md)
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
   * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
