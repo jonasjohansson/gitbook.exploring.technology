@@ -60,6 +60,7 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
+{% code title="" %}
 ```cpp
 void setup() {
   pinMode(2, INPUT);
@@ -71,6 +72,7 @@ void loop() {
   Serial.println(buttonState);
 }
 ```
+{% endcode %}
 
 * [ ] Use the Serial Monitor to read the state of the button
 * [ ] Create a variable for the button pin

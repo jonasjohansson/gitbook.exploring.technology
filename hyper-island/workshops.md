@@ -1,5 +1,7 @@
 # Workshops
 
+Here you will find information about the workshops provided. Each member in your team must then use the [Workshop Character Signup Sheet](https://forms.gle/MuMrCgQEwZ9kEjWX8) to choose a preferred route.
+
 ## Overview
 
 | Title | When | Participants | Hosted by |

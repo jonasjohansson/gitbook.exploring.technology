@@ -12,7 +12,7 @@ In order to further facilitate learning and reflection, a mid delivery in the sh
 
 ### Questions
 
-In order to facilitate situations where neither Internet nor the self is able to find the way forward, there is the shared forum! Use it to share your questions, and potentially answer others. The Industry Leaders will often answer well formed questions with equally qualitative answers.
+In order to facilitate situations where neither Internet nor the self is able to find the way forward, there is the forum! Provide and receive help using the categories and instructions available. The Industry Leaders will answer well written questions with equally qualitative answers.
 
 → [Visit the forum!](https://forum.exploring.technology/)
 
@@ -24,7 +24,7 @@ All teams are encouraged to share their current progress on Instagram, and it's 
 
 ### Workshops
 
-Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach. Each member in your team must use the [Workshop Character Signup Sheet](https://forms.gle/MuMrCgQEwZ9kEjWX8) when required.
+Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach.
 
-→ [Read up on the workshops!](workshops.md)
+→ [Read about the workshops and sign up!](workshops.md)
 

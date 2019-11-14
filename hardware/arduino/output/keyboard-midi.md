@@ -52,8 +52,7 @@ void loop() {
    3. Type `node main.js`
 4. Run the following Arduino code:
 
-{% tabs %}
-{% tab title="" %}
+{% code title="" %}
 ```cpp
 void setup() {
   Serial.begin(9600);
@@ -70,8 +69,7 @@ void loop() {
   delay(500);
 }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 {% hint style="danger" %}
 It's not possible to have the Serial Monitor running at the same time as the script. Either close the monitor, or close the script. The script can be closed by focusing the terminal window and pressing Ctrl+C.

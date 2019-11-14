@@ -9,6 +9,7 @@
   * [References](hyper-island/references.md)
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
   * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
+* [Forum](https://forum.exploring.technology/)
 
 ## Software
 
