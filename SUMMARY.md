@@ -85,7 +85,7 @@
   * [Settings](hardware/laser-cutting/settings.md)
   * [Materials](hardware/laser-cutting/materials.md)
   * [📛 Badge Challenge](hardware/laser-cutting/badge-challenge.md)
-  * [🧩 Dexterity Game Challenge](hardware/laser-cutting/puzzle-challenge.md)
+  * [🎲 Dexterity Game Challenge](hardware/laser-cutting/puzzle-challenge.md)
 * [Tips & Trix](tips-and-trix.md)
 * [Contact](https://jonasjohansson.se/)
 

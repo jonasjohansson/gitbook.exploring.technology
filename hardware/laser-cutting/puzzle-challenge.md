@@ -1,6 +1,6 @@
-# 🧩 Dexterity Game Challenge
+# 🎲 Dexterity Game Challenge
 
-Work in **teams of two** and create a **dexterity game** that's not too difficult, but not too easy. How to find it? **Design it, print it, play it!**
+Work in **teams of two** and create a **dexterity game!** You decide how many players it is for and how it should be played. Make several prototypes and test them out! All information should exist within the game ie. no additional prints or explanations should be required.
 
 ![](https://www.boardgamequest.com/wp-content/uploads/2016/11/Rollet-Header.jpg)
 
