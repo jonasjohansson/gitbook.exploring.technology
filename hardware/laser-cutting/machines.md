@@ -1,4 +1,4 @@
-# Machines & Settings
+# Machines
 
 | Model | Engraving area \(mm\) | Laser power \(W\) | Location |
 | :--- | :--- | :--- | :--- |
@@ -10,28 +10,4 @@
 For more info on local distributors of laser cutters look visit [Indukta](https://indukta.se).
 
 [Lasercutter-Stugan-Knowledge-List.pdf - 92KB](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LFNtKzfzIWfc8anmKip%2F-Ls61_L5Rp_8u0R2HCQQ%2F-Ls61dNtRLnoUH1uEWLV%2FLasercutter-Stugan-Knowledge-List.pdf?alt=media&token=6afc03c3-a9f2-400b-9fdb-fadc512b49c6)
-
-## Settings
-
-Below are guideline values based on [Material Test Card for Laser Cutting and Engraving](https://www.thingiverse.com/thing:2243854).
-
-{% file src="../../.gitbook/assets/laser-test-pattern-0.1.ai" %}
-
-{% file src="../../.gitbook/assets/laser-test-pattern-0.1.dxf" %}
-
-{% file src="../../.gitbook/assets/laser-test-pattern-0.2.ai" %}
-
-{% file src="../../.gitbook/assets/laser-test-pattern-0.2.dxf" %}
-
-### RS 1390X
-
-[Olle Bjerkås](http://ollebjerkas.se/) has written a guide which can be found [here](https://docs.google.com/presentation/d/1fHrc7wqKD7gSvvFFkr96qB5bv28JouMyUnTcuN89DL8/edit#slide=id.p).
-
-| Material | Cut Speed | Cut Power | Carve Speed | Carve Power |
-| :--- | :--- | :--- | :--- | :--- |
-| Plywood \(3mm\) | 25 | 70 | 400 | 10 |
-| Plywood \(6.35mm\) | 25 | 95 |  |  |
-| Acrylic \(3mm\) | 30 | 50 |  |  |
-| MDF \(5mm\) | 25 | 95 |  |  |
-| MDF \(3mm\) | 25 | 85 |  |  |
 
