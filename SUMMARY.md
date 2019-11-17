@@ -57,7 +57,6 @@
   * [References](software/p5/references.md)
   * [🎨 Abstract Art Challenge](software/p5/learning-challenge.md)
 * [Bitsy](software/bitsy.md)
-* [Glitch](software/glitch.md)
 
 ## Hardware
 
@@ -89,10 +88,21 @@
   * [Materials](hardware/laser-cutting/materials.md)
   * [📛 Badge Challenge](hardware/laser-cutting/badge-challenge.md)
   * [🎲 Dexterity Game Challenge](hardware/laser-cutting/puzzle-challenge.md)
+
+## Tools
+
+* [Glitch](tools/glitch.md)
 * [Tips & Trix](tips-and-trix.md)
 
 ## Under consideration
 
+* [Biotechnology](under-consideration/biotechnology/README.md)
+  * [Mycelium](under-consideration/biotechnology/mycelium.md)
+  * [Bioplastics](under-consideration/biotechnology/bioplastics.md)
+  * [Slime Mold](under-consideration/biotechnology/slime-mold.md)
+  * [SCOBY](under-consideration/biotechnology/scoby.md)
+  * [References](under-consideration/biotechnology/references.md)
+  * [🐛 Silkworm Challenge](under-consideration/biotechnology/silkworm-challenge.md)
 * [Web Development](under-consideration/web-development/README.md)
   * [Javascript](under-consideration/web-development/javascript/README.md)
     * [API](under-consideration/web-development/javascript/api.md)

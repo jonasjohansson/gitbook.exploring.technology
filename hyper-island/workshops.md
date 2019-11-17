@@ -28,7 +28,7 @@ In this workshop we will challenge our creativity and explore physical prototypi
 
 ### [A-Frame AR/VR](../software/a-frame/)
 
-Browser based world building and mixed reality. With A-Frame and [Glitch](../software/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
+Browser based world building and mixed reality. With A-Frame and [Glitch](../tools/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
 
 🙋🏻‍♂️10 spots open for Motion Creative and Content Developer
 
