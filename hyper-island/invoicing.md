@@ -1,6 +1,8 @@
-# Invoicing
+---
+description: This is for all guest lecturers and speakers
+---
 
-This is for all guest lecturers and speakers.
+# Invoicing
 
 To ensure swift payment and happiness on both ends, please send your invoice to **jns.johansson@gmail.com** shortly after your talk or lecture\(s\) have ended. The invoice, upon verification, will then be forwarded to **invoice.prg.se@hyperisland.com**. Please do not send your invoice later than **1st of December**, as to prevent complications due to holidays and the new budget year.
 
