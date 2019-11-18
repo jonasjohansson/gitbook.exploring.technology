@@ -9,3 +9,7 @@ ml5.js aims to make machine learning approachable for a broad audience of artist
 ****  
 Examples shown will integrate ml5js with [p5js](https://start.exploring.technology/software/p5)
 
+
+
+![Train your own classifier](../.gitbook/assets/classification.gif)
+
