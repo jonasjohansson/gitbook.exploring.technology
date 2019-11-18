@@ -8,8 +8,6 @@ A multi-faceted project of play, narrative and technology is what 100 students a
 
 In order to further facilitate learning and reflection, a mid delivery in the shape of a three-day sprint project will train students in the art of making choices and delivering a solid experience and presentation. All training wheels are then removed as the teams work towards the final project, an exhibition encouraging participation, imagination, activation and transformation.
 
-> The answer that came to me again and again was pay. Every human society in recorded history has games. We don't just solve problems out of necessity. We do it for fun. Even as adults. Leave a human being alone with a knotted rope and they will unravel it. Leave a human being alone with blocks, and they will build something. Games are part of what makes us human. We see the world as a mystery, a puzzle, because we've always been a species of problem-solvers. — Alexandra Drennan, The Talos Principle.
-
 ### Workshops
 
 Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach.
@@ -22,8 +20,8 @@ In order to facilitate situations where neither Internet nor the self is able to
 
 → [Visit the forum and create an account!](https://forum.exploring.technology/)
 
-{% hint style="info" %}
-Use your full name so that you can be found and tagged. For instance, "Jonas Johansson" would have the username "JonasJohansson".
+{% hint style="danger" %}
+Use your full name! For instance, "Jonas Johansson" would have the username "JonasJohansson".
 {% endhint %}
 
 ### Documentation
