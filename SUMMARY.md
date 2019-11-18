@@ -4,7 +4,7 @@
 * [Hyper Island](hyper-island/README.md)
   * [Workshops](hyper-island/workshops.md)
   * [Talks](hyper-island/talks.md)
-  * [Team](hyper-island/people.md)
+  * [Team](hyper-island/team.md)
   * [Invoicing](hyper-island/invoicing.md)
   * [References](hyper-island/references.md)
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
