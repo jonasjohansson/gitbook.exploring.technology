@@ -2,7 +2,7 @@
 
 Arduino is a brand of open-source electronics platform, based on easy-to-use hardware and software. Arduino boards can read inputs: light on a sensor, a finger on a button, or a Twitter message, and turn it into an output: activating a motor, turning on an LED or publishing something online. You can tell your board what to do by sending a set of instructions \(the code\). 
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Pinout_of_ARDUINO_Board_and_ATMega328PU.svg)
+![](../../.gitbook/assets/dl_elx5_arduino_uno_v1.1_white-reduced.png)
 
 Arduino comes in many shapes with various purposes, and other brands exist as well. However, the traditional Arduino Uno is a staple in education, and useful even though it's been around since 2005.
 
@@ -68,12 +68,7 @@ There are lots of little connections inside of your breadboard but they only go 
 * [https://learn.adafruit.com/wires-and-connections](https://learn.adafruit.com/wires-and-connections)
 * [https://learn.sparkfun.com/tutorials/working-with-wire](https://learn.sparkfun.com/tutorials/working-with-wire)
 
-**Color coding wires**  
-This is really really important, using the right colors for wires helps you and others to better understand what is going on. 
-
-In general there are three rules that apply here:
-
-* **Consistency** - stick with the same color wire and try not to mix them up
-* **Black** is ground \(  minus -, or GND for short \)
-* **Red** is voltage \( plus +, 5V or 3.3V in the case of Arduino\)
+{% hint style="info" %}
+Wires come in different colors, and some colors are standardises for certain type of connections; **black** is ground aka. minus- or GND and **red** is voltage aka. plus+ or 
+{% endhint %}
 
