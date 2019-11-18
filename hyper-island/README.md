@@ -22,6 +22,10 @@ In order to facilitate situations where neither Internet nor the self is able to
 
 → [Visit the forum!](https://forum.exploring.technology/)
 
+{% hint style="info" %}
+Use your full name so that you can be found and tagged. For instance, "Jonas Johansson" would have the username "JonasJohansson".
+{% endhint %}
+
 ### Documentation
 
 All teams are encouraged to share their current progress on Instagram, and it's also what we will use for workshop deliverables. Get used to sharing your work, without the risk \(or chance\) of anyone knowing it is you. Release early, release often!
