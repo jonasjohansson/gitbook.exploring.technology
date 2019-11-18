@@ -10,6 +10,12 @@ In order to further facilitate learning and reflection, a mid delivery in the sh
 
 > The answer that came to me again and again was pay. Every human society in recorded history has games. We don't just solve problems out of necessity. We do it for fun. Even as adults. Leave a human being alone with a knotted rope and they will unravel it. Leave a human being alone with blocks, and they will build something. Games are part of what makes us human. We see the world as a mystery, a puzzle, because we've always been a species of problem-solvers. — Alexandra Drennan, The Talos Principle.
 
+### Workshops
+
+Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach.
+
+→ [Read about the workshops and sign up!](workshops.md)
+
 ### Questions
 
 In order to facilitate situations where neither Internet nor the self is able to find the way forward, there is the forum! Provide and receive help using the categories and instructions available. The Industry Leaders will answer well written questions with equally qualitative answers.
@@ -22,9 +28,5 @@ All teams are encouraged to share their current progress on Instagram, and it's 
 
 → [Post on \(y\)our Instagram](https://www.instagram.com/exploring_technology/)!
 
-### Workshops
-
-Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach.
-
-→ [Read about the workshops and sign up!](workshops.md)
+### 
 
