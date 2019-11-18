@@ -21,7 +21,8 @@
 * [**The Story of Film: An Odyssey**](https://www.imdb.com/title/tt2044056/)
 * [**Existenz**](https://youtu.be/IEuykd38iNE)
 * [**Charlie Chaplin City of Lights**](https://www.youtube.com/watch?v=TkF1we_DeCQ)
-* **Wizard of Oz**
+* \*\*\*\*[**U Bevindt Zich Hier**](https://vimeo.com/62416902)\*\*\*\*
+* \*\*\*\*[**Satans Demokrati**](https://www.youtube.com/watch?v=U49Gm0K-dds)\*\*\*\*
 
 ## Listen
 

@@ -6,11 +6,17 @@
 
 Anywhere based artist, designer and programmer transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader for Exploring Technology since 2016.  Part of [Nordic Audiovisual Artists](https://nava.community/) and [Svartljus](https://svartljus.se/).
 
+* jns.johansson@gmail.com
+* +46721615063
+
 ![](../.gitbook/assets/jonas-trim.jpg)
 
 ### [Mickey van Olst](https://mickeyvanolst.com/)
 
 Berlin-based artist, designer and programmer.  Dabbles in between kinetic art installations and generative real-time visuals. Studied Art & Technology at Utrecht University of the Arts and IAD at Hyper Island. Strongly connected with various studios such as [onformative](http://onformative.com) and [Waltz Binaire](http://waltzbinaire.com).  For the past years co-lecturing the Exploring Technology course at Hyper Island.
+
+* post@mickeyvanolst.com
+* +4915202198352
 
 ![](../.gitbook/assets/mickey-trim.jpg)
 
