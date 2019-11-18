@@ -6,7 +6,7 @@ Here you will find information about the workshops provided. Each member in your
 
 | Title | When | Participants | Hosted by |
 | :--- | :---: | :---: | :--- |
-| Resonance Space | 20/11 | 50 | Maria & Linnéa |
+| Functions of Fun and Space | 20/11 | 50 | Maria & Linnéa |
 | Physical nonlinear prototyping | 20/11 | 50 | Gunnlaugur |
 | A-Frame AR/VR | 21/11 | 25 \(35\) | Jonas & Ana |
 | Generative design | 22/11 | 25 \(35\) | Half & Ana |
@@ -18,7 +18,7 @@ Here you will find information about the workshops provided. Each member in your
 | Bitsy game development | 25/11 | 50 | Jonas |
 | Machine Learning | 26/11 | 40 | Andreas & Jonas |
 
-### Resonance Space
+### Functions of Fun and Space
 
 After an introduction on new and alternative game mechanics, holistic game design and the use of space for storytelling, the participants will design their own games in a playful design sprint. The main game assets will be themselves as well as nearby physical resources.
 
