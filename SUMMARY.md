@@ -5,9 +5,7 @@
   * [Workshops](hyper-island/workshops.md)
   * [Talks](hyper-island/talks.md)
   * [Team](hyper-island/team.md)
-  * [Invoicing](hyper-island/invoicing.md)
   * [References](hyper-island/references.md)
-  * [Code of Conduct](hyper-island/code-of-conduct.md)
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
   * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
 
@@ -111,4 +109,6 @@
   * [References](under-consideration/web-development/references.md)
   * [✨ Website Challenge](under-consideration/web-development/mini-challenge.md)
   * [✨ Chrome Extension Challenge](under-consideration/web-development/learning-challenge.md)
+* [Invoicing](under-consideration/invoicing.md)
+* [Code of Conduct](under-consideration/code-of-conduct.md)
 
