@@ -20,7 +20,7 @@ Define your teams attributes by attending the workshops you feel are relevant to
 
 In order to facilitate situations where neither Internet nor the self is able to find the way forward, there is the forum! Provide and receive help using the categories and instructions available. The Industry Leaders will answer well written questions with equally qualitative answers.
 
-→ [Visit the forum!](https://forum.exploring.technology/)
+→ [Visit the forum and create an account!](https://forum.exploring.technology/)
 
 {% hint style="info" %}
 Use your full name so that you can be found and tagged. For instance, "Jonas Johansson" would have the username "JonasJohansson".
@@ -32,5 +32,5 @@ All teams are encouraged to share their current progress on Instagram, and it's 
 
 → [Post on \(y\)our Instagram](https://www.instagram.com/exploring_technology/)!
 
-### 
+_You know the password._
 
