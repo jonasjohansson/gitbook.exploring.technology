@@ -7,6 +7,7 @@
   * [Team](hyper-island/team.md)
   * [Invoicing](hyper-island/invoicing.md)
   * [References](hyper-island/references.md)
+  * [Code of Conduct](hyper-island/code-of-conduct.md)
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
   * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
 * [Forum](https://forum.exploring.technology/)
