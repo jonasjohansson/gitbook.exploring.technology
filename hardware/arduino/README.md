@@ -68,6 +68,17 @@ There are lots of little connections inside of your breadboard but they only go 
 * [https://learn.adafruit.com/wires-and-connections](https://learn.adafruit.com/wires-and-connections)
 * [https://learn.sparkfun.com/tutorials/working-with-wire](https://learn.sparkfun.com/tutorials/working-with-wire)
 
+**Color coding wires**  
+This is really really important, using the right colors for wires helps you and others to better understand what is going on. 
+
+In general there are three rules that apply here:
+
+* **Consistency** - stick with the same color wire and try not to mix them up
+* **Black** is ground \(  minus -, or GND for short \)
+* **Red** is voltage \( plus +, 5V or 3.3V in the case of Arduino\)
+
+
+
 ## Electronics
 
 ### Learning
