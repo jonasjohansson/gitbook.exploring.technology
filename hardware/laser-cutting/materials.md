@@ -2,6 +2,24 @@
 
 Laser cutters can cut and engrave in several materials, below is a list of some of the most common. For an extensive list visit [https://fslaser.com/Applications/](https://fslaser.com/Applications/) and [https://atxhs.org/wiki/Laser\_Cutter\_Materials](https://atxhs.org/wiki/Laser_Cutter_Materials).
 
+The most common materials you are going to use are cardboard, plywood, MDF and acrylic. They each have their strengths and weaknesses.
+
+### Cardboard
+
+Free, easily available everywhere, lightweight. Make tests out of this before cutting real material you paid money for.
+
+### Plywood
+
+A great pretty cheap material that looks nice and cuts really well. It is easy to make solid structures from very thin plywood. My favorite kind is 3mm birch, for its beauty and solidness. Solid wood is also an option to laser, and it cuts much easier than plywood, but harder to find in thin pieces and much more fragile. Also engraving on solid wood is a bit weird since its density is uneven.
+
+### MDF
+
+Think of this as nice cardboard. It is very cheap and easy to laser, but not the most attractive material. It is the most flexible, making it great for kerf bending and living hinges.
+
+### Acrylic
+
+By far the most expensive material, but the nicest to cut. It usually comes with protective stickers on both sides, making it the cleanest once cut. It is possible to glue together, but requires special glue, and press fit acrylic parts have a tendency to break if they are too tight. It comes in all kinds of fun colors, including mirrored versions.
+
 {% hint style="danger" %}
 Don't use anything that is made of, or may contain, **vinyl**. When lasered, a gas will be created which **will ruin the laser cutter** and **your health**. Do not use **fake leather**, unless it's known to be ​non-chlorinated​ PU \(PolyUrethane\).
 {% endhint %}
