@@ -10,9 +10,6 @@
   * [Code of Conduct](hyper-island/code-of-conduct.md)
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
   * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
-* [Forum](https://forum.exploring.technology/)
-* [Instagram](https://www.instagram.com/exploring_technology/)
-* [Contact](https://jonasjohansson.se/)
 
 ## Software
 

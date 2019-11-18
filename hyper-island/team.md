@@ -52,7 +52,7 @@ Linnea began playing games during the ’90s, and through a passion for creating
 
 Fun gal that loves to get her hands dirty, and building stuff that hasn’t been made before. Is passionate about problem solving, and finding solutions that are inclusive. Beckmans and Krabbesholm alumni. Half Danish and Norwegian, and now speaks every Scandinavian language… Worked with product and furniture design, interior architecture, web development, video and radio production
 
-### Ana Shcherbakova
+### [Ana Shcherbakova](https://linkedin.com/in/ana-shcherbakova)
 
 An elfish \(kinda\) human being. Ana has come a long way from linguistics to web development. With several spoken languages in her mind, she turned to programming to continue her training, and is now trying to use her passion for design and code to become the best designer & developer possible!
 
