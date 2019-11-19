@@ -12,11 +12,13 @@ For the final project, each team will create **meaningful play** through interac
 
 Together, we will create the **Hyper Arcade**, a playground of ideas and experiences, and an exhibition encouraging participation, imagination, activation and transformation!
 
+{% file src="../.gitbook/assets/rules-of-play-game-design-fundamentals \(1\).pdf" caption="Rules of Play" %}
+
 ### Deliverable
 
 Each team will create 1 playable game-like experience, which may or may not use Arduino. The game can be an extension of the Bitsy challenge, but this is not required. It can use tools presented in the workshops, but may also be made in other ways. This project is about using your skills as designers to immerse participants into **your world**. Technology has many faces, and we want you to make choices based on the experience you want to get across. Feel free to consider the way you are dressed, how players are invited, the space which the experience exists in. **Become the experience.**
 
-In order to promote the game, each team will also create a [trailer](https://www.youtube.com/watch?v=4CSYA9R70R8) and a website \(could also be an [Itch.io](https://itch.io/) page\) with information about the game. Traditionally, game developers continuously release updates, create teasers and trailers, until the final launch.
+For promotion, each team will also create a [trailer](https://www.youtube.com/watch?v=4CSYA9R70R8) and a website \(could also be an [Itch.io](https://itch.io/) page\) with information about the game. Traditionally, game developers continuously release updates, create teasers and trailers, until the final launch.
 
 **The game, trailer and website will be presented at the internal presentation for final critique, a few days before the official exhibition.**  
 
