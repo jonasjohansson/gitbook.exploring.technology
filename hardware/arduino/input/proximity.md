@@ -53,12 +53,6 @@ void loop() {
 
 {% tab title="Code" %}
 ```cpp
-/*
-   GND to GND
-   V+ to 5V
-   Pin 3 to Arduino A0
-*/
-
 void setup() {
   Serial.begin(9600);
 }
@@ -78,7 +72,7 @@ int checkDistanceSensor() {
   distsensor = 0;
   for (i = 0; i < 8; i++) {
     distsensor += analogRead(0);
-    delay(50);
+    delay(50)
   }
   distsensor /= 8;
   return distsensor;
@@ -144,69 +138,6 @@ void loop(){
   }
 }
 ```
-{% endtab %}
-{% endtabs %}
-
-### [Ultrasonic Range Sensor](https://www.sparkfun.com/products/15569) \(2x\)
-
-{% tabs %}
-{% tab title="Producst" %}
-
-
-![](../../../.gitbook/assets/image%20%282%29.png)
-{% endtab %}
-
-{% tab title="Code" %}
-```cpp
-/*
-  Ultraconic Range Sensor
-  VCC to arduino 5v GND to arduino GND
-  Echo to Arduino pin 13 Trig to Arduino pin 12
-*/
-
-#define trigPin 13
-#define echoPin 12
-
-void setup() {
-  Serial.begin (9600);
-  pinMode(trigPin, OUTPUT);
-  pinMode(echoPin, INPUT);
-}
-
-void loop() {
-  long distance = callSensor();
-
-  if (distance >= 200 || distance <= 0) {
-    Serial.println("Out of range");
-  } else {
-    Serial.print(distance);
-    Serial.println(" cm");
-  }
-  delay(500);
-}
-
-long callSensor() {
-  long duration, distance;
-  digitalWrite(trigPin, LOW);
-  delayMicroseconds(2);
-  digitalWrite(trigPin, HIGH);
-  delayMicroseconds(10);
-  digitalWrite(trigPin, LOW);
-
-  duration = pulseIn(echoPin, HIGH);
-  distance = (duration / 2) / 29.1;
-  return distance;
-}
-```
-{% endtab %}
-
-{% tab title="Schematic" %}
-| Sensor pin | Arduino pin |
-| :--- | :--- |
-| VCC | 5V |
-| Trig | Digital in 13 |
-| Echo | Digital in 12 |
-| GND | GND |
 {% endtab %}
 {% endtabs %}
 
