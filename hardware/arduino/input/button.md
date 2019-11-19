@@ -41,5 +41,5 @@ See [Arduino Basics](../basics.md#button) for instruction
 
 ### Resources
 
-[https://learn.sparkfun.com/tutorials/switch-basics/all](https://learn.sparkfun.com/tutorials/switch-basics/all)
+* [https://learn.sparkfun.com/tutorials/switch-basics/all](https://learn.sparkfun.com/tutorials/switch-basics/all)
 
