@@ -63,6 +63,7 @@
     * [Proximity](hardware/arduino/input/proximity.md)
     * [Motion](hardware/arduino/input/motion.md)
     * [Force](hardware/arduino/input/force.md)
+    * [Button](hardware/arduino/input/button.md)
     * [Sound](hardware/arduino/input/sound.md)
   * [Output](hardware/arduino/output/README.md)
     * [Motors](hardware/arduino/output/motors.md)
