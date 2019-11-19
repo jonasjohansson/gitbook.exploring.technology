@@ -36,9 +36,43 @@ void loop() {
 {% tab title="Product" %}
 ![](https://cdn-shop.adafruit.com/970x728/172-00.jpg)
 {% endtab %}
-{% endtabs %}
 
-### 
+{% tab title="Code" %}
+```cpp
+/*
+   GND to GND
+   V+ to 5V
+   Pin 3 to Arduino A0
+*/
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int distsensor = checkDistanceSensor();
+  
+  Serial.print(F("Sensor = ")); 
+  Serial.println(distsensor);
+  
+  // add your code to use the distensor value here
+}
+
+int checkDistanceSensor() {
+  int distsensor, i;
+  long time;
+  distsensor = 0;
+  for (i = 0; i < 8; i++) {
+    distsensor += analogRead(0);
+    delay(50);
+  }
+  distsensor /= 8;
+  return distsensor;
+}
+
+```
+{% endtab %}
+{% endtabs %}
 
 ### [Parallax Wide Angle PIR](https://www.adafruit.com/product/189) \(3x\)
 
