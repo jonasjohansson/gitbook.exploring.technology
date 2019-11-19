@@ -8,7 +8,7 @@ For the final project, each team will create **meaningful play** through interac
 
 > The arena, the card-table, the magic circle, the temple, the stage, the screen, the tennis court, the court of justice, etc are all in form and function play-grounds ie forbidden sports, isolated, hedged round, hallowed, with which special rules obtain. All are temporary worlds within the ordinary world, dedicated to the performance of an act apart.
 
-![](https://miro.medium.com/max/2560/1*d6OtwWUG2Zmnp7fl8tysxw.png)
+![Huizinga, Johan \(1955\). Homo ludens](https://miro.medium.com/max/2560/1*d6OtwWUG2Zmnp7fl8tysxw.png)
 
 Together, we will create the **Hyper Arcade**, a playground of ideas and experiences, and an exhibition encouraging participation, imagination, activation and transformation!
 
