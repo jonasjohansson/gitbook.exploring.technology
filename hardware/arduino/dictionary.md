@@ -73,7 +73,11 @@ void loop() {
 
 ### Millis
 
-[https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
+{% embed url="https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay" %}
+
+{% hint style="info" %}
+Pro tip: you can right click on any word in the Arduino app and select View Reference to be taken to a page which explains about that function or variable.
+{% endhint %}
 
 ### Analog inputs
 
