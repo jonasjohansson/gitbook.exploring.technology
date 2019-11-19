@@ -35,7 +35,7 @@
   * [References](software/a-frame/references.md)
   * [✨ VR Learning Challenge](software/a-frame/vr-learning-challenge.md)
   * [✨ AR Learning Challenge](software/a-frame/ar-learning-challenge.md)
-* [P5.js](software/p5/README.md)
+* [Processing](software/p5/README.md)
   * [Basics](software/p5/basics/README.md)
     * [Shapes](software/p5/basics/shapes.md)
     * [Color](software/p5/basics/color.md)
