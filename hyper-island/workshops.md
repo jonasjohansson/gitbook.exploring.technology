@@ -22,9 +22,13 @@ Here you will find information about the workshops provided. Each member in your
 
 After an introduction on new and alternative game mechanics, holistic game design and the use of space for storytelling, the participants will design their own games in a playful design sprint. The main game assets will be themselves as well as nearby physical resources.
 
+**Half the members of each team will join this workshop. You decide which half.**
+
 ### Physical nonlinear prototyping
 
 In this workshop we will challenge our creativity and explore physical prototyping by creating a nonlinear storyboard matrix. We will use body storming as a way to test and validate our concepts. We will take action away from the chair and the desk and work with the body as a source of inspiration.
+
+**Half the members of each team will join this workshop. You decide which half.**
 
 ### [A-Frame AR/VR](../software/a-frame/)
 
