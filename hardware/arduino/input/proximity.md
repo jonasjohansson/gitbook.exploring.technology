@@ -8,6 +8,12 @@
 {% endtab %}
 
 {% tab title="Schematic" %}
+| Sensor pin | Arduino pin |
+| :--- | :--- |
+| Black wire | GND |
+| Red wire | 5V |
+| Yellow/white wire | A3 |
+
 ![](../../../.gitbook/assets/ir-proximity.png)
 {% endtab %}
 
@@ -35,6 +41,14 @@ void loop() {
 {% tabs %}
 {% tab title="Product" %}
 ![](https://cdn-shop.adafruit.com/970x728/172-00.jpg)
+{% endtab %}
+
+{% tab title="Schematic" %}
+| Sensor pin | Arduino pin |
+| :--- | :--- |
+| GND | GND |
+| V+ | 5V |
+| 3 | A0 |
 {% endtab %}
 
 {% tab title="Code" %}
@@ -82,6 +96,12 @@ int checkDistanceSensor() {
 {% endtab %}
 
 {% tab title="Schematic" %}
+| Sensor pin | Arduino pin |
+| :--- | :--- |
+| Black wire | GND |
+| Red wire | 5V |
+| Yellow/white wire | Digital in 2 |
+
 ![](../../../.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 
@@ -178,6 +198,15 @@ long callSensor() {
   return distance;
 }
 ```
+{% endtab %}
+
+{% tab title="Schematic" %}
+| Sensor pin | Arduino pin |
+| :--- | :--- |
+| VCC | 5V |
+| Trig | Digital in 13 |
+| Echo | Digital in 12 |
+| GND | GND |
 {% endtab %}
 {% endtabs %}
 
