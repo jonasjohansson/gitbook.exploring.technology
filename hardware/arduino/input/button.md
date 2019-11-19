@@ -4,7 +4,7 @@ description: All about buttons!
 
 # Button
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/image%20%285%29.png)
 
 Buttons come in about a million different shapes and sizes, and there is about a million things you can do with them! The most important thing to know is that most buttons in the end work about the same way and also don't require any special programming, Arduino likes them all the same :-\)
 
@@ -17,6 +17,27 @@ If you're interested in knowing more about what you can do with buttons, try loo
 * Switch
 * Potentiometer \(not exactly a button, but can be used as one\)
 * Rotary encoder
+* Capacitive touch
+
+
+
+### [Adafruit Toggle Capacitive Touch](https://learn.adafruit.com/adafruit-capacitive-touch-sensor-breakouts) \(2x\)
+
+{% tabs %}
+{% tab title="Product" %}
+![](../../../.gitbook/assets/image%20%281%29.png)
+{% endtab %}
+
+{% tab title="Schematic" %}
+VDD ==&gt; Arduino 5V  
+GND ==&gt; Arduino GND  
+OUT ==&gt; Arduino Pin 0 to Pin 13
+
+See [Arduino Basics](../basics.md#button) for instruction
+{% endtab %}
+{% endtabs %}
+
+
 
 ### Resources
 
