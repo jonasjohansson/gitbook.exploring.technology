@@ -59,7 +59,7 @@ int buttonPin = 4;
 
 void setup() {
   myservo.attach(9);
-  pinMode(buttonPin, INPUT);
+  pinMode(buttonPin, INPUT_PULLUP);
 }
 
 void loop() {
