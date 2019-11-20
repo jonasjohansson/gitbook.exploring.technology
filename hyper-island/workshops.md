@@ -34,15 +34,13 @@ In this workshop we will challenge our creativity and explore physical prototypi
 
 Browser based world building and mixed reality. With A-Frame and [Glitch](../tools/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
 
-🙋🏻‍♂️5 spots open for Motion Creative and Content Developer
+→ [Create an account on Glitch](https://start.exploring.technology/tools/glitch)!
 
 ### [Generative design](../software/p5/)
 
 Through [p5.js](https://p5js.org/) participants scratch the surface of artificial intelligence as they learn about generative design, and how machines can help make art, music and experiences! 
 
-→ [Creat](https://editor.p5js.org/)[e an account](https://editor.p5js.org/)
-
-🙋🏽5 spots open for Motion Creative and Content Developer
+→ [Creat](https://editor.p5js.org/)[e an account on P5js](https://editor.p5js.org/)!
 
 ### Laser Basics
 
