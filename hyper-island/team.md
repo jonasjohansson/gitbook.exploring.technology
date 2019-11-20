@@ -50,7 +50,9 @@ Linnea began playing games during the ’90s, and through a passion for creating
 
 ### [Anne Obel](https://www.instagram.com/annie.script4/)
 
-Fun gal that loves to get her hands dirty, and building stuff that hasn’t been made before. Is passionate about problem solving, and finding solutions that are inclusive. Beckmans and Krabbesholm alumni. Half Danish and Norwegian, and now speaks every Scandinavian language… Worked with product and furniture design, interior architecture, web development, video and radio production
+Fun gal that loves to get her hands dirty, and building stuff that hasn’t been made before. Is passionate about problem solving, and finding solutions that are inclusive. Beckmans and Krabbesholm alumni. Half Danish and Norwegian, and now speaks every Scandinavian language… Worked with product and furniture design, interior architecture, web development, video and radio production.
+
+→ Listen to the first episode of Anne's podcast [Birth of Living Code](https://podcasts.apple.com/no/podcast/birth-of-living-code/id1485542035#episodeGuid=37014fc0-3d19-6e4e-c7b2-1d1e809236e2)!
 
 ### [Ana Shcherbakova](https://linkedin.com/in/ana-shcherbakova)
 
