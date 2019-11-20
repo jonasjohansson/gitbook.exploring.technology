@@ -10,7 +10,8 @@
 | Piezo | 1 |
 | Potentiometer | 1 |
 | Wire Male-to-Male \(any color\) | 5 |
-| Resistor 10k | 2 |
+| Resistor 10k ohm   | 1 |
+| Resistor 220 ohm | 1 |
 
 ### [Blink](https://www.arduino.cc/en/tutorial/blink)
 
