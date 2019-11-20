@@ -29,11 +29,13 @@ If you're interested in knowing more about what you can do with buttons, try loo
 {% endtab %}
 
 {% tab title="Schematic" %}
-VDD ==&gt; Arduino 5V  
-GND ==&gt; Arduino GND  
-OUT ==&gt; Arduino Pin 0 to Pin 13
-
 See [Arduino Basics](../basics.md#button) for instruction
+
+| Product pin | Arduino pin |
+| :--- | :--- |
+| VDD | 5V |
+| GND | GND |
+| OUT | Digital in 0 - 13 |
 {% endtab %}
 {% endtabs %}
 
