@@ -26,11 +26,11 @@ If you're interested in knowing more about what you can do with buttons, try loo
 {% tabs %}
 {% tab title="Product" %}
 ![](../../../.gitbook/assets/image%20%281%29.png)
+
+See [Arduino Basics](../basics.md#button) for instruction
 {% endtab %}
 
 {% tab title="Schematic" %}
-See [Arduino Basics](../basics.md#button) for instruction
-
 | Product pin | Arduino pin |
 | :--- | :--- |
 | VDD | 5V |
