@@ -20,6 +20,10 @@ Think of this as nice cardboard. It is very cheap and easy to laser, but not the
 
 By far the most expensive material, but the nicest to cut. It usually comes with protective stickers on both sides, making it the cleanest once cut. It is possible to glue together, but requires special glue, and press fit acrylic parts have a tendency to break if they are too tight. It comes in all kinds of fun colors, including mirrored versions.
 
+{% hint style="success" %}
+Be mindful of the environment when choosing materials and planning your cuts. Some materials such as acrylic are very difficult to recycle, others are actually recycled materials themselves. When submitting your project for cutting, we ask you to first make a version cut out of cardboard to test your design.
+{% endhint %}
+
 {% hint style="danger" %}
 Don't use anything that is made of, or may contain, **vinyl**. When lasered, a gas will be created which **will ruin the laser cutter** and **your health**. Do not use **fake leather**, unless it's known to be ​non-chlorinated​ PU \(PolyUrethane\).
 {% endhint %}
