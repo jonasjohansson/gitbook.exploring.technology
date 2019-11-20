@@ -63,7 +63,7 @@ void loop() {
 {% code title="" %}
 ```cpp
 void setup() {
-  pinMode(2, INPUT);
+  pinMode(2, INPUT_PULLUP);
   Serial.begin(9600);
 }
 
@@ -90,7 +90,7 @@ void loop() {
 {% tab title="Code" %}
 ```cpp
 void setup() {
-  pinMode(2, INPUT);
+  pinMode(2, INPUT_PULLUP);
   pinMode(13, OUTPUT);
   Serial.begin(9600);
 }
