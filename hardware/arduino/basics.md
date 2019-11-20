@@ -56,7 +56,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../.gitbook/assets/button.png)
+![](../../.gitbook/assets/button%20%281%29.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -84,7 +84,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../.gitbook/assets/blink-button%20%281%29.png)
+![](../../.gitbook/assets/blink-button.png)
 {% endtab %}
 
 {% tab title="Code" %}

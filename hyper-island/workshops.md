@@ -8,8 +8,8 @@ Here you will find information about the workshops provided. Each member in your
 | :--- | :---: | :---: | :--- |
 | Resonance Space | 20/11 | 50 | Maria & Linnéa |
 | Physical nonlinear prototyping | 20/11 | 50 | Gunnlaugur |
-| A-Frame AR/VR | 21/11 | 25 \(35\) | Jonas & Ana |
-| Generative design | 22/11 | 25 \(35\) | Half & Ana |
+| A-Frame AR/VR | 21/11 | 30 \(5\) | Jonas & Ana |
+| Generative design | 22/11 | 30 \(5\) | Half & Ana |
 | Laser Basics | 21-22/11 | 10 | Duncan & Anne |
 | Laser Advanced | 26/11 | 10 | Anne |
 | Arduino Basics | 21-22/11 | 25 | Mickey & Maria |
@@ -34,7 +34,7 @@ In this workshop we will challenge our creativity and explore physical prototypi
 
 Browser based world building and mixed reality. With A-Frame and [Glitch](../tools/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
 
-🙋🏻‍♂️10 spots open for Motion Creative and Content Developer
+🙋🏻‍♂️5 spots open for Motion Creative and Content Developer
 
 ### [Generative design](../software/p5/)
 
@@ -42,7 +42,7 @@ Through [p5.js](https://p5js.org/) participants scratch the surface of artificia
 
 → [Creat](https://editor.p5js.org/)[e an account](https://editor.p5js.org/)
 
-🙋🏽10 spots open for Motion Creative and Content Developer
+🙋🏽5 spots open for Motion Creative and Content Developer
 
 ### Laser Basics
 
