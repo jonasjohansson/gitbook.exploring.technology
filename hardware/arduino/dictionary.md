@@ -1,5 +1,9 @@
 # Code
 
+### Arduino "dictionary"
+
+[https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)
+
 ### Special characters
 
 Before writing code, make sure you can write the characters! Programming uses several special symbols that may feel alien, so we have a short list below which you can copy & paste from. To figure out how to type these, on Mac, turn on the [Keyboard Viewer](https://support.apple.com/en-euro/guide/mac-help/mchlp1015/mac)!
