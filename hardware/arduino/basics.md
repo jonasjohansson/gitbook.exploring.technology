@@ -193,7 +193,8 @@ void setup() {
 void loop() {
   int val = analogRead(0);
   Serial.println(val);
-  analogWrite(9, val/4); // 1024/4 = 256
+  int remapVal = map(val, 0, 1024, 0, 256);
+  analogWrite(9, remapVal);
 }
 ```
 
