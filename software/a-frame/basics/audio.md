@@ -22,6 +22,20 @@ Or we can add positional audio using `<a-sound>`. This makes the sound get loude
 
 Due to privacy settings audio does not autoplay on mobile devices, instead they must be triggered by a user action. However, it is possible to circumvent this by adding a custom script in `<head>`.
 
+{% tabs %}
+{% tab title="Solution" %}
+```markup
+<script>
+  window.addEventListener("click", function() {
+    for (el of document.querySelectorAll("audio")) {
+      el.play();
+    }
+  });
+</script>
+```
+{% endtab %}
+
+{% tab title="Legacy" %}
 ```markup
 <script>
   AFRAME.registerComponent('marker-sound-toggle', {
@@ -47,4 +61,6 @@ And then you can add a special entity containing your marker entity file.
 ```
 
 Whenever the marker is now detected the content should play, and pause when detection is lost.
+{% endtab %}
+{% endtabs %}
 

@@ -55,10 +55,9 @@ If your video has sound there has to be an explicit user interaction, instead of
 
 ```markup
 <script>
-  var videos = document.querySelectorAll("video");
   window.addEventListener("click", function() {
-    for (video of videos) {
-      video.play();
+    for (el of document.querySelectorAll("video")) {
+      el.play();
     }
   });
 </script>
