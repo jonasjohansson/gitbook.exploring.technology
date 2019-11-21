@@ -114,7 +114,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../.gitbook/assets/fade-2.png)
+![](../../.gitbook/assets/blink-button-1.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -193,8 +193,7 @@ void setup() {
 void loop() {
   int val = analogRead(0);
   Serial.println(val);
-  int remapVal = map(val, 0, 1024, 0, 256);
-  analogWrite(9, remapVal);
+  analogWrite(9, val/4); // 1024/4 = 256
 }
 ```
 
