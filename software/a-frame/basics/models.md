@@ -27,7 +27,7 @@ The filmbox  is a proprietary format created by Autodesk for 3d file transfers. 
 <a-entity animation-mixer="clip: *;" 
     scale="0.005 0.005 0.005"
     position="0 0 -2"
-    fbx-model="src: url(https://cdn.glitch.com/a0abdcd7-7215-4b88-8d40-02e289bae501%2FJumping.fbx?v=1569357549964);"></a-entity>    
+    fbx-model="src: url(https://cdn.glitch.com/c9111e7d-1d31-41a0-8e15-78b57caa9816%2FSilly%20Dancing.fbx?v=1574367405594);"></a-entity>    
 ```
 
 {% hint style="danger" %}

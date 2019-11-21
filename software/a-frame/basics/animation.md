@@ -3,9 +3,9 @@
 It is possible to add the component "animation" to all our entities.
 
 ```markup
-<a-cylinder color="orange" radius="0.1" position="0 2 -5"
+<a-cylinder color="orange" radius="0.1"
      animation="property: position; dir: alternate; dur: 2000;
-          easing: easeInSine; loop: true; to: 0 3 -5"></a-cylinder>
+          easing: easeInSine; loop: true; from: 0 2 -5; to: 0 3 -5;"></a-cylinder>
 ```
 
 We tell `<a-animation>` to:
@@ -13,15 +13,15 @@ We tell `<a-animation>` to:
 * Animate the position _attribute_.
 * Alternate the _direction_ of the animation on each repeated cycle of the animation.
 * Last for 2000 millisecond _duration_ on each cycle.
-* Animate _to_ `0 3. -5` which is 100 centimeters higher.
+* Animate _to_ `0 3 -5` which is 1 higher.
 * _Repeat_ the animation indefinitely.
 
 You can also add multiple animations:
 
 ```markup
-<a-cylinder color="orange" radius="0.1" position="0 2 -5"
-     animation="property: position; to: 0 3 -5"
-     animation__radius="property: radius; to: 0.5"></a-cylinder>
+<a-cylinder color="orange"
+     animation="property: position; from: 0 2 -5; to: 0 3 -5"
+     animation__radius="property: radius; from: 0.1; to: 0.5"></a-cylinder>
 ```
 
 | Property | Description | Default Value | Values |

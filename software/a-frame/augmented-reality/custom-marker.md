@@ -34,7 +34,3 @@ It is possible to have a higher ratio than the default 0.5, but by doing so it's
 <a-scene embedded arjs="patternRatio: 0.7">
 ```
 
-
-
-patternRatio: 0.7"
-
