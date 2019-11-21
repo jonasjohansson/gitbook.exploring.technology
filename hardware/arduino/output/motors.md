@@ -47,7 +47,7 @@ Some servos use the colors Brown/Red/Orange instead of Black/Red/White.
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../.gitbook/assets/servo-button%20%281%29.png)
+![](../../../.gitbook/assets/servo-button-1.png)
 {% endtab %}
 
 {% tab title="Code" %}
