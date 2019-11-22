@@ -71,7 +71,7 @@ Build your own mini-game as you explore the sensory equipment for proximity, mot
 
 ### [**Arduino Advanced**](../hardware/arduino/) **Touch**
 
-Hack the controls of existing games and game like experiences by building your own! In this workshop participants will choose a game, and re-imagine how it's played  and experienced, for instance creating a "scary" Tetris or a "goofy" Resident Evil.
+Hack the controls of existing games and game like experiences by building your own touch based interface! In this workshop participants will choose a game, and re-imagine how it's played  and experienced, for instance creating a "scary" Tetris or a "goofy" Resident Evil.
 
 {% hint style="danger" %}
 **Requires Arduino Basic**
