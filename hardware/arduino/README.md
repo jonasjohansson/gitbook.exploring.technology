@@ -13,6 +13,10 @@ Begin by installing the Arduino IDE \(Integrated Development Environment\)  appl
 * [MacOSX](https://www.arduino.cc/en/Guide/MacOSX)
 * [Windows](https://www.arduino.cc/en/Guide/Windows)
 
+{% hint style="danger" %}
+macOS Catalina does not support Arduino, so refrain from updating if you wish to use this software!
+{% endhint %}
+
 When ready, open the app and find a new window, named with the current date, containing some basic code.
 
 > Before we continue further, go to Preferences under Arduino &gt; Preferences and tick "Display line numbers" and "Enable code folding".
@@ -38,6 +42,10 @@ Connect the Arduino Uno with an A-B USB cable. The USB connection is necessary t
 ### Upload
 
 Before uploading the sketch, make sure the correct items are selected under Tools &gt; Board and Tools &gt; Port. On the Mac, the serial port is probably something like /dev/tty.usbmodem241.
+
+{% hint style="danger" %}
+If you have a USB adapter for your laptop eg. Macbook then each time you plug in the Arduino you must reselect the serial port!
+{% endhint %}
 
 With everything set click the Upload button \(right arrow symbol\) or ⌘+U. When uploading the orange transmission LED \(labelled TX\) should flicker.
 
