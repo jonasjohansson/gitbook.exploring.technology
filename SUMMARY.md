@@ -51,6 +51,7 @@
     * [Sound](software/p5/advanced/sound.md)
     * [API](software/p5/advanced/api.md)
   * [References](software/p5/references.md)
+  * [◼️ Kazemir Mini Challenge](software/p5/kazemir-mini-challenge.md)
   * [🎨 Abstract Art Challenge](software/p5/learning-challenge.md)
 * [Machine learning](software/machine-learning.md)
 * [Bitsy](software/bitsy.md)
