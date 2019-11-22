@@ -10,12 +10,13 @@ Here you will find information about the workshops provided. Each member in your
 | Physical nonlinear prototyping | 20/11 | 50 | Gunnlaugur |
 | A-Frame AR/VR | 21/11 | 30 \(5\) | Jonas & Ana |
 | Generative design | 22/11 | 30 \(5\) | Half & Ana |
+| Generative design extra | 27/11 | 25 | Jonas |
 | Laser Basics | 21-22/11 | 10 | Duncan & Anne |
-| Laser Advanced | 26/11 | 10 | Anne |
+| Laser Advanced | 25-26/11 | 15 | Duncan & Anne |
 | Arduino Basics | 21-22/11 | 25 | Mickey & Maria |
-| Arduino Advanced | 25/11 | 50 | Mickey, Duncan & Anne |
-| Arduino Special | 26/11 | 30 | Jonas & Maria |
-| Bitsy game development | 25/11 | 50 | Jonas |
+| Arduino Advanced sensor | 25/11 | 30 | Mickey, Duncan & Anne |
+| Arduino Advanced touch | 26/11 | 30 | Jonas & Maria |
+| Bitsy game development | 25/11 | 40 | Jonas |
 | Machine Learning | 26/11 | 40 | Andreas & Jonas |
 
 ### Resonance Space
@@ -60,7 +61,7 @@ Build interactive objects using the worlds most famous micro-controller, the Ard
 
 →  [Install Arduino](https://www.arduino.cc/en/main/software) and bring a USB adapter if your computer lacks normal USB ports.
 
-### \*\*\*\*[**Arduino Advanced**](../hardware/arduino/)\*\*\*\*
+### \*\*\*\*[**Arduino Advanced**](../hardware/arduino/) **Sensor**
 
 Build your own mini-game as you explore the sensory equipment for proximity, motion, light and force. This is an advanced session that assumes a basic understanding of Arduino, and digs deeper into combining code from different places in order to create something new!
 
@@ -68,12 +69,12 @@ Build your own mini-game as you explore the sensory equipment for proximity, mot
 **Requires Arduino Basic**
 {% endhint %}
 
-### **Arduino Special**
+### [**Arduino Advanced**](../hardware/arduino/) **Touch**
 
 Hack the controls of existing games and game like experiences by building your own! In this workshop participants will choose a game, and re-imagine how it's played  and experienced, for instance creating a "scary" Tetris or a "goofy" Resident Evil.
 
 {% hint style="danger" %}
-**Requires Arduino Advanced**
+**Requires Arduino Basic**
 {% endhint %}
 
 ### [Bitsy game development](../software/bitsy.md)
