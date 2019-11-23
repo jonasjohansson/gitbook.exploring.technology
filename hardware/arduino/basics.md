@@ -61,19 +61,19 @@ void loop() {
 {% endtab %}
 
 {% tab title="Code" %}
-{% code title="" %}
 ```cpp
+int buttonPin = 2;
+
 void setup() {
-  pinMode(2, INPUT_PULLUP);
-  Serial.begin(9600);
+  pinMode(buttonPin, INPUT_PULLUP);
+  Serial.begin(9600); // start communication with your Arduino via the USB cable
 }
 
 void loop() {
-  int buttonState = digitalRead(2);
-  Serial.println(buttonState);
+  int buttonState = digitalRead(buttonPin);
+  Serial.println(buttonState); // send value to your computer
 }
 ```
-{% endcode %}
 
 * [ ] Use the Serial Monitor to read the state of the button
 * [ ] Create a variable for the button pin
@@ -90,20 +90,23 @@ void loop() {
 
 {% tab title="Code" %}
 ```cpp
+int buttonPin = 2;
+int ledPin = 13;
+
 void setup() {
-  pinMode(2, INPUT_PULLUP);
-  pinMode(13, OUTPUT);
+  pinMode(buttonPin, INPUT_PULLUP);
+  pinMode(ledPin, OUTPUT);
   Serial.begin(9600);
 }
 
 void loop() {
-  int buttonState = digitalRead(2);
+  int buttonState = digitalRead(buttonPin);
   Serial.println(buttonState);
 
   if (buttonState == 1){
-      digitalWrite(13, HIGH);
+      digitalWrite(ledPin, HIGH);
   } else {
-      digitalWrite(13, LOW);
+      digitalWrite(ledPin, LOW);
   }
 }
 ```
@@ -121,13 +124,14 @@ void loop() {
 ```cpp
 int brightness = 0;
 int fadeAmount = 5;
+int ledPin = 9;
 
 void setup() {
-  pinMode(9, OUTPUT);
+  pinMode(ledPin, OUTPUT);
 }
 
 void loop() {
-  analogWrite(9, brightness);
+  analogWrite(ledPin, brightness);
   brightness = brightness + fadeAmount;
   if (brightness <= 0 || brightness >= 255) {
     fadeAmount = -fadeAmount;
@@ -186,14 +190,18 @@ void loop() {
 
 {% tab title="Code" %}
 ```cpp
+int ledPin = 9;
+
 void setup() {
+  pinMode(9, OUTPUT);
   Serial.begin(9600);
 }
 
 void loop() {
   int val = analogRead(0);
   Serial.println(val);
-  analogWrite(9, val/4); // 1024/4 = 256
+  int remappedVal = map(val, 0, 1023, 0, 255);
+  analogWrite(ledPin, remappedVal);
 }
 ```
 
@@ -232,11 +240,13 @@ void loop() {
 
 {% tab title="Code" %}
 ```cpp
+int piezoPin = 4;
+
 void setup() {
 }
 
 void loop() {
-  tone(4, 255);
+  tone(piezoPin, 255);
 }
 ```
 {% endtab %}
@@ -251,6 +261,8 @@ void loop() {
 
 {% tab title="Code" %}
 ```cpp
+int piezoPin = 4;
+
 void setup() {
   Serial.begin(9600);
 }
@@ -258,7 +270,10 @@ void setup() {
 void loop() {
   int val = analogRead(0);
   Serial.println(val);
-  tone(4, val);
+  
+  // check your serial monitor for the range (ie. 300-800)
+  int remappedVal = map(val, 300, 800, 0, 255);
+  tone(piezoPin, remappedVal);
 }
 ```
 
