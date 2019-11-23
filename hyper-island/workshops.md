@@ -10,7 +10,7 @@ Here you will find information about the workshops provided. Each member in your
 | Physical nonlinear prototyping | 20/11 | 50 | Gunnlaugur |
 | A-Frame AR/VR | 21/11 | 30 \(5\) | Jonas & Ana |
 | Generative design | 22/11 | 30 \(5\) | Half & Ana |
-| Generative design extra | 27/11 | 25 | Jonas |
+| Generative design extra | 27/11 | 25 | Jonas & Mickey |
 | Laser Basics | 21-22/11 | 10 | Duncan & Anne |
 | Laser Advanced | 25-26/11 | 15 | Duncan & Anne |
 | Arduino Basics | 21-22/11 | 25 | Mickey & Maria |
@@ -18,6 +18,7 @@ Here you will find information about the workshops provided. Each member in your
 | Arduino Advanced touch | 26/11 | 30 | Jonas & Maria |
 | Bitsy game development | 25/11 | 40 | Jonas |
 | Machine Learning | 26/11 | 40 | Andreas & Jonas |
+|  |  |  |  |
 
 ### Resonance Space
 
