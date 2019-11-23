@@ -22,6 +22,20 @@
 * [https://learn.sparkfun.com/tutorials/binary](https://learn.sparkfun.com/tutorials/binary)
 * [https://www.arduino.cc/en/Reference/analogRead](https://www.arduino.cc/en/Reference/analogRead)
 
+### Tutorials
+
+{% embed url="https://www.instructables.com/" %}
+
+{% embed url="https://learn.adafruit.com/" %}
+
+{% embed url="https://www.arduino.cc/en/Tutorial/HomePage" %}
+
+{% embed url="https://hackaday.com/" %}
+
+{% embed url="https://learn.sparkfun.com/" %}
+
+
+
 
 
 
