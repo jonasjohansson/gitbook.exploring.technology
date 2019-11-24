@@ -2,7 +2,7 @@
 
 ## [Editor](http://ledoux.io/bitsy/editor.html) ****
 
-![](../../.gitbook/assets/bitsy1.png)
+![](../../../.gitbook/assets/bitsy1.png)
 
 * **Top**: Edit the name of your Bitsy project
 * **Room:** The level editor which your player will move in.
@@ -19,101 +19,7 @@ In the **room** window, hit the play button. You should be able to move the char
 This is currently a heavy copy & paste from a [guide](https://docs.google.com/document/d/11pfwuJ8GR1RViwL1nkvbD7pEqokDH9RLtamzxrsJuEc) written by [Everest Pipkin](https://twitter.com/everestpipkin).
 {% endhint %}
 
-## Paint & Colors
-
-Stop the game, and look over at the **paint** window. The paint window, the canvas, is where avatars, sprites, tiles and items are drawn. Click any pixel in the avatar, and it will disappear. Click it again and it will come back.  
-****
-
-![](../../.gitbook/assets/bitsy2%20%281%29.png)
-
-If you expand the **animation** option at the bottom of the drawing window, you can add a second frame! The other tabs in the paint window \(tile, sprite, and item\) work in the  same way. 
-
-Look at the **colors** window. Picking the colors for a project can be one of the most important parts! It sets the mood and ambiance of the space. You get three colors; **Background**, **tile** and **sprite**. You can also have multiple palettes, for different rooms. 
-
-{% hint style="info" %}
-The default colors are: **\#0052cc** \(background\), **\#809fff** \(tile\) and  **\#ffffff** \(sprite\).
-{% endhint %}
-
-## Tiles & Sprites
-
-Go back to the **paint** window, and click on the three other options beside **avatar**. These are **tile**, **sprite**, and **item**.
-
-* **Avatar** is the player character.
-* **Tiles** are the scenery. They are not interactive, but can be set as a wall. Your character cannot walk through walls, but can walk anywhere else. The squares around the frame are tiles.
-* **Sprites** are interactive tiles. they are usually used as characters in your game, or things like signs which have writing. Running into them triggers dialog, like our cat.
-* **Items** are like sprites, except that you pick them up when you run into them, and can be used later on as variables.
-
-Go to **tile** and hit the plus symbol. This will make a new blank tile. Name it **bricks** and draw a brick pattern. Click the wall button beneath the canvas to make it so that the player can’t walk through it.  Toggle **grid** to more clearly see the end result.
-
-![](../../.gitbook/assets/bitsy-tile.png)
-
-Then click in the room window to place these brick tiles. Try making a wall.
-
-![Seems impossible to break through the wall.](../../.gitbook/assets/bitsy-wall.gif)
-
-Now do the same thing with some speckles for dirt, making sure that the wall button is not clicked.
-
-Let's add an item. Click on **sprite** in the same paint window.  Sprites have the option of dialog, which triggers when you bump into them. Create a new sprite, give it some dialog and add it to the room.
-
-![Weird things are lying on the ground&#x2026;](../../.gitbook/assets/bitsy-fish%20%282%29.gif)
-
-You can place tiles and items multiple times, but sprites and avatars only once. If you want to place a sprite twice, you need to duplicate it. You can also animate any of them. See everything you’ve made so far in the **find drawing** tab. Try building an environment out of tiles and sprites and exploring it with your character.
-
-## **Rooms & Exits**
-
-Although you can certainly make a game in just one room, Bitsy also lets you string together multiple rooms to make a larger space or tell a longer story. You can assign different color palettes to different rooms to give them different feelings. At the bottom of the **rooms** window, click on **room tools**.   
-****
-
-![](../../.gitbook/assets/bitsy-room-tools.png)
-
-Now hit the plus button to make a new room. It will be completely blank. Go to your tiles in your **paint** window and make a quick little space in your second room.
-
-![A scary dungeon with a mysterious rope exit.](../../.gitbook/assets/bitsy-cave%20%281%29.gif)
-
-Click the left arrow at the bottom of the **rooms** window to go back to your first room.  Now, back in your first room, click **add exits and endings**. A new window will pop up. Click **+ exit** and then click on where in your room window you want your exit to be.
-
-In the **exits & endings** window, you can select what room the exit goes to. Select your second room, the one you just made. When you hit the **move** button below that room, it will allow you to place the exit in your new room, in your room window. 
-
-![](../../.gitbook/assets/bitsy-exit-endings%20%281%29.png)
-
-Hit play, and try it out! Walking over the exit square should teleport you into your second room. You may pick what “direction” your exit works. It can work both ways \(walk back and forth like through an open door\), or just one direction \(a decision you can’t take back.\) You edit this in the exits & endings window, by clicking the center arrow between rooms.
-
-You can connect as many rooms as you’d like in this way, and you can place multiple exits in one room. You can even have your exit teleport you to the same room, but in a different place.  ****If you want to delete or move an exit, you can drag it around, delete it, or edit where it goes in the ‘exit’ window.
-
-{% hint style="info" %}
-You may also set **transition styles** in the exits & endings styles, which change the animation when you change rooms.
-{% endhint %}
-
-Remember that it is usually a good idea to visually signify your exit somehow! Make a door, staircase, well or cave entrance to start. Then think of other possible exits that your character can take.   
-****
-
-![Oh, a magical well! I wonder what&apos;s inside&#x2026;](../../.gitbook/assets/bitsy-well.gif)
-
-## Endings & Saving
-
-If you want your game to have an end, you will need to make one. Again, select **exits & endings** and hit **+ending**. These work exactly like exits, except that they have dialog. You can have multiple endings in your game! The game will start over once the ending is reached. 
-
-![](../../.gitbook/assets/bitsy-ending.gif)
-
-Now that you know what your game is, be sure to give it a title. That’s the text box at the very top of the screen. **Play through and admire your work.**  
-
-
-**To export your game so other people can play it, go to the download window in the tools. This will export your game as an html file. You can upload this to a website or just click on it on the desktop to have in launch in a browser. \(You can also load a bitsy game from a previously exported html file.\)**  
-
-
-**If you want to keep working on your game, you will need to save the game data. this is the text data that represents logic, pixel art, and text of your game. In the game data window, you can chose to download it or just copy it into a text file.**  
-
-
-![](https://lh6.googleusercontent.com/wlYv0J4fcDPt-TMoBgrzdXg4P80hHFFjork4XclBs-w4LWD4l34136nBM-SZ6AAME7S0USm1OC0tqUiBH95YqfsvlTMspzUG-on1CwVgFN9XMdD9v0I-XWToDVkUfEcl46mBoh6O)
-
-**\(If you want to see how bitsy loads information from this file, try changing a few numbers around and seeing how it affects your game.\)**  
-
-
-**Because bitsy saves this information to the browser, you probably don’t have to save if you’re using the same computer \(like your laptop\). You can close the window and come back. That said, it is a good idea just in case- and if you are using a shared computer always download this data.**   
-
-
-**🌿 Part 5: Dialog in Bitsy**   
-
+## Dialog
 
 ![](https://lh3.googleusercontent.com/CpMZa8VTqGZeiLjNruEdWxJEJr3Dd9XT9D52rX9gvJrurXGjX4W7Cz3Qza1VkNC78yAu2rPXoq59Eax2Elp9Br9-Jz_ZHOauSZQvKfYrj9CJVIlgl2_jOXjlsBwrlKgT6ZlNLaUC)
 

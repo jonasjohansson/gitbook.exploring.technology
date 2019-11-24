@@ -55,7 +55,12 @@
   * [🎨 Abstract Art Challenge](software/p5/learning-challenge.md)
 * [Machine learning](software/machine-learning.md)
 * [Bitsy](software/bitsy/README.md)
-  * [Basics](software/bitsy/basics.md)
+  * [Basics](software/bitsy/basics/README.md)
+    * [Paint & Colors](software/bitsy/basics/paint-and-colors.md)
+    * [Tiles & Sprites](software/bitsy/basics/tiles-and-sprites.md)
+    * [Rooms & Exits](software/bitsy/basics/rooms-and-exits.md)
+    * [Ending](software/bitsy/basics/ending.md)
+    * [Save & Export](software/bitsy/basics/save-and-export.md)
 
 ## Hardware
 
