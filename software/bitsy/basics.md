@@ -11,121 +11,91 @@
 
 All windows can be rearranged and closed. Click on Tools to see a list of windows available! Hovering over anything brings up a description.
 
-## Getting started
-
 In the **room** window, hit the play button. You should be able to move the character around with the arrow keys. Walk over to the cat!
 
 ![](https://lh3.googleusercontent.com/9wId48Ut16eMSSqX4phjeNIcgySVJMsVfLTFBHqMnEOJ1TirfrqzVKS3pt4TMo1z6PVE9pTZzkwl9IvTxDg7d0MAPd_Hwo6YtYx-zxUyqkvxxBXQ7vFdSYI8na1R2G3BCf8Hmwuo)
 
-### Paint & Colors
+{% hint style="info" %}
+This is currently a heavy copy & paste from a [guide](https://docs.google.com/document/d/11pfwuJ8GR1RViwL1nkvbD7pEqokDH9RLtamzxrsJuEc) written by [Everest Pipkin](https://twitter.com/everestpipkin).
+{% endhint %}
+
+## Paint & Colors
 
 Stop the game, and look over at the **paint** window. The paint window, the canvas, is where avatars, sprites, tiles and items are drawn. Click any pixel in the avatar, and it will disappear. Click it again and it will come back.  
 ****
 
 ![](../../.gitbook/assets/bitsy2%20%281%29.png)
 
-If you expand the **animation** option at the bottom of the drawing window, you can add a second frame! The other tabs in the paint window \(tile, sprite, and item\) work in the exact same way. 
+If you expand the **animation** option at the bottom of the drawing window, you can add a second frame! The other tabs in the paint window \(tile, sprite, and item\) work in the  same way. 
 
-Look at the **colors** window. Picking the colors for a project can be one of the most important parts! It sets the mood and ambiance of the space. You get three colors; **Background**, **tile** and **sprite**. **Background color** is the empty space in the room, **tile color** represent objects that the player can not cross, and the **sprite color** affects characters and items. You can also have multiple palettes, for different rooms.   
+Look at the **colors** window. Picking the colors for a project can be one of the most important parts! It sets the mood and ambiance of the space. You get three colors; **Background**, **tile** and **sprite**. You can also have multiple palettes, for different rooms. 
+
+{% hint style="info" %}
+The default colors are: **\#0052cc** \(background\), **\#809fff** \(tile\) and  **\#ffffff** \(sprite\).
+{% endhint %}
+
+## Tiles & Sprites
+
+Go back to the **paint** window, and click on the three other options beside **avatar**. These are **tile**, **sprite**, and **item**.
+
+* **Avatar** is the player character.
+* **Tiles** are the scenery. They are not interactive, but can be set as a wall. Your character cannot walk through walls, but can walk anywhere else. The squares around the frame are tiles.
+* **Sprites** are interactive tiles. they are usually used as characters in your game, or things like signs which have writing. Running into them triggers dialog, like our cat.
+* **Items** are like sprites, except that you pick them up when you run into them, and can be used later on as variables.
+
+Go to **tile** and hit the plus symbol. This will make a new blank tile. Name it **bricks** and draw a brick pattern. Click the wall button beneath the canvas to make it so that the player can’t walk through it.  Toggle **grid** to more clearly see the end result.
+
+![](../../.gitbook/assets/bitsy-tile.png)
+
+Then click in the room window to place these brick tiles. Try making a wall.
+
+![Seems impossible to break through the wall.](../../.gitbook/assets/bitsy-wall.gif)
+
+Now do the same thing with some speckles for dirt, making sure that the wall button is not clicked.
+
+Let's add an item. Click on **sprite** in the same paint window.  Sprites have the option of dialog, which triggers when you bump into them. Create a new sprite, give it some dialog and add it to the room.
+
+![Weird things are lying on the ground&#x2026;](../../.gitbook/assets/bitsy-fish%20%282%29.gif)
+
+You can place tiles and items multiple times, but sprites and avatars only once. If you want to place a sprite twice, you need to duplicate it. You can also animate any of them. See everything you’ve made so far in the **find drawing** tab. Try building an environment out of tiles and sprites and exploring it with your character.
+
+## **Rooms & Exits**
+
+Although you can certainly make a game in just one room, Bitsy also lets you string together multiple rooms to make a larger space or tell a longer story. You can assign different color palettes to different rooms to give them different feelings. At the bottom of the **rooms** window, click on **room tools**.   
 ****
 
-**🌿 Part 2: Tiles & sprites**  
+![](../../.gitbook/assets/bitsy-room-tools.png)
 
+Now hit the plus button to make a new room. It will be completely blank. Go to your tiles in your **paint** window and make a quick little space in your second room.
 
-![](https://lh6.googleusercontent.com/jpnB0mSOHfEEl0u7hzba4OuUkywRSu-p1AftMBI9r3j6HuxcVR1_EusV8DNE5DTnmFwyT3ZPm7zPdxFXoyRByeSqiSIT9F8NabzRrbMyCmv3DRqZL2M26XxBhQ4ffBIIkQr_-X67)
+![A scary dungeon with a mysterious rope exit.](../../.gitbook/assets/bitsy-cave%20%281%29.gif)
 
-**Go back to the paint window, and click on the three other options beside ‘avatar’. These are tile, sprite, and item.**  
+Click the left arrow at the bottom of the **rooms** window to go back to your first room.  Now, back in your first room, click **add exits and endings**. A new window will pop up. Click **+ exit** and then click on where in your room window you want your exit to be.
 
+In the **exits & endings** window, you can select what room the exit goes to. Select your second room, the one you just made. When you hit the **move** button below that room, it will allow you to place the exit in your new room, in your room window. 
 
-**&gt; Avatar is the player character. \(This is you.\)**  
+![](../../.gitbook/assets/bitsy-exit-endings%20%281%29.png)
 
+Hit play, and try it out! Walking over the exit square should teleport you into your second room. You may pick what “direction” your exit works. It can work both ways \(walk back and forth like through an open door\), or just one direction \(a decision you can’t take back.\) You edit this in the exits & endings window, by clicking the center arrow between rooms.
 
-**&gt; Tiles are the scenery. they are not interactive, but can be set as a wall. your character cannot walk through walls, but can walk anywhere else. the squares around the frame are tiles.**  
+You can connect as many rooms as you’d like in this way, and you can place multiple exits in one room. You can even have your exit teleport you to the same room, but in a different place.  ****If you want to delete or move an exit, you can drag it around, delete it, or edit where it goes in the ‘exit’ window.
 
+{% hint style="info" %}
+You may also set **transition styles** in the exits & endings styles, which change the animation when you change rooms.
+{% endhint %}
 
-**&gt; Sprites are interactive tiles. they are usually used as characters in your game, or things like signs which have writing. Running into them triggers dialog, like our cat.**  
-
-
-**&gt; Items are like sprites, except that you pick them up when you run into them. They also have dialog. Try placing the default cup of tea in your room and walking over it for an illustration.** 
-
-![](https://lh4.googleusercontent.com/iuxHeGnB1vTCtZLkKD7W7KzfODZaoW4g3MyejZ6tk211BfXgHi64ff3alB1M3cXPwm7IjwotTnPCtEb4Kz8DivOQ_QOVb6qoGh3E6761eLy6yo77S0ywgVnyYrW-Ydqr6q8AUCB5)
-
-**Go to ‘tile’ and hit the ‘+’ symbol. This will make a new blank tile. Name it ‘bricks’ and try drawing a brick pattern. Click the wall button beneath the canvas to make it so that your player can’t walk through it. Then click in the room window to place these brick tiles. Try making a wall of them.**  
-
-
-![](https://lh3.googleusercontent.com/zaSBits1lYPV3lF0ZfgcLYKSPc75dYrmEUBRR9nkNUDhrkfl3i9fvIeyRZD8Jq0ub-QqQCfp8O--WFY5du2bTfcypDWGWDCG894szesszgj95ryGNNasd4xFRPYQO7UjP2Q11CQm)![](https://lh3.googleusercontent.com/HHbyUdxd19Xky29RfViQsFYj8kcPkQzc2qXFLWWZg4Jn3xJPkrF0VvUO-RYqHBowADtfSyBwhPMYbv86K-PI9K2Cjobsgsv9HZGb0xc6eq00cStbagLz2mI3RzRlUb-tUNobWc_Y)  
+Remember that it is usually a good idea to visually signify your exit somehow! Make a door, staircase, well or cave entrance to start. Then think of other possible exits that your character can take.   
 ****
 
-**Now do the same thing with some speckles for dirt, making sure that the wall button is not clicked. This will be our ground. You can click play to try it out- you can walk on it..** 
+![Oh, a magical well! I wonder what&apos;s inside&#x2026;](../../.gitbook/assets/bitsy-well.gif)
 
-![](https://lh6.googleusercontent.com/KZIpbtPYCDBiCLEFXY6k1SCjoxV0Kw_zrTa5b-FoEpZeJQk3vEp7BS7wcE_QQdMZLE0n1WWD_TSF7Unu3moeMYHPZdg3oD8Jw9drCrtqRdA17qNVn2aN-4VX7aWq34pK0HEUxoN4)
+## Endings & Saving
 
-**Now click on ‘sprite’ in the same paint window. We can edit our sprites in the same way as our tiles and player character. Sprites have the option of dialog, which triggers when you bump into them. Turn your cat sprite into something else. I picked a puddle. Give it some dialog.**   
+If you want your game to have an end, you will need to make one. Again, select **exits & endings** and hit **+ending**. These work exactly like exits, except that they have dialog. You can have multiple endings in your game! The game will start over once the ending is reached. 
 
+![](../../.gitbook/assets/bitsy-ending.gif)
 
-![](https://lh6.googleusercontent.com/s_k64idZNuROXfS19HI7mMAlKKwEW3-L8Cc88uzuiWLFsVfUgBOrMGpMHoCosOkyl9dEscVg-aDOInvtpsLQ6UZB0q4ni4bUjPi4rmOp_XGTQnKEfeMShLhrjpl7-dBS5hhnbeWA)
-
-**You can place tiles and items multiple times, but sprites and avatars only once. If you want to place a sprite twice, you need to duplicate it. You can also animate any of them. See everything you’ve made so far in the ‘find drawing’ tab. Try building an environment out of tiles and sprites and exploring it with your character.**  
-  
-
-
-**🌿 Part 3: Rooms & exits**  
-
-
-**Although you can certainly make a game in just one room, bitsy also lets you string together multiple rooms to make a larger space or tell a longer story. You can assign different color palettes to different rooms to give them different feelings.**  
-
-
-**At the bottom of the ‘rooms’ window, click on room tools.**   
-
-
-![](https://lh4.googleusercontent.com/SDNW2gbgt8DX08G-OHwIvJmCQuOi1QUAkY-1wdwmF3fjUKzmgPR3w3_rZ1a8k9TZy_ybXoJcg8H2q4EalkduHP1aoOhcspfzalFMMNUGwxZaZCtZzgc2IITRJofnok_6gqISVnc7)
-
-**This will give us several familiar options that we already saw in the paint window \(name, new room, duplicate room, delete room, view grid\) as well as some new ones \(view walls, add exits and endings, and colors\).**   
-
-
-**Flip ‘view grid’ and ‘view walls’ a few times. Grid overlays the edges where your tiles sit, and walls blacks out areas where your character cannot walk. This is useful for finding holes in more complicated projects!**  
-
-
-**Now hit the plus button to make a new room. It will be completely blank. Go to your tiles in your ‘paint’ tab and make a quick little space in your second room. I drew a maze in mine. Click the left arrow at the bottom of the ‘rooms’ window to go back to your first room.**   
-
-
-**Now, back in your first room, click ‘add exits and endings’. A new window will pop up. Click ‘+ exit’ and then click on where in your room window you want your exit to be. The tile have a black outline around it with an arrow.**  
-
-
-![](https://lh5.googleusercontent.com/ZNWXwyVVEXb9TJgTQfdR6oJQ_VRL4OaX0G_4mg3m2RTrTyHdyaTD6TStE3EH2ZuJ0SCt0g57nnPXrMh4KHUEgg-nkx4kIF6-mPvbEHBp3Zvfx8fOKK1FcJ5M4Gt6XffOk36wMYT-)
-
-**In the exits & endings window, you can select what room the exit goes to. Select your second room, the one you just made. When you hit the “move” button below that room, it will allow you to place the exit in your new room, in your room window.**   
-
-
-![](https://lh4.googleusercontent.com/ta8NZXyPUe5A0R65nYjutSrh71J6BAJNAOllM4MhaWNd7ku6l83kq_Az5p8KjbWuHCKcwyTSXYTZxXBkHngJzfrV_835Xzw8xfrBU4JDEqJ0hzY-2qKBdZqig_1A4y33oluEojd7)
-
-**Hit play, and try it out! Walking over the exit square should teleport you into your second room.**   
-
-
-**You may pick what “direction” your exit works. It can work both ways \(walk back and forth like through an open door\), or just one direction \(a decision you can’t take back.\) You edit this in the exits & endings window, by clicking the center arrow between rooms.**  
-
-
-![](https://lh5.googleusercontent.com/UgxHgMsBCVtf7K_Tishl0lh1TbneeCAP_A4o8jxQpbL0gaFZa6ya1yka_H186m6Ue35BgyHS562-rVGVfZqQRoyunx0RIvjBaIfDW2dFfMS7GJMBpebeLq6NXHfkkAN9euaUhKDR)
-
-**You can connect as many rooms as you’d like in this way, and you can place multiple exits in one room. You can even have your exit teleport you to the same room, but in a different place.**   
-
-
-**You may also set “transition styles” in the exits & endings styles, which change the animation when you change rooms.**  
-
-
-**If you want to delete or move an exit, you can drag it around, delete it, or edit where it goes in the ‘exit’ window.**  
-
-
-**Remember that it is usually a good idea to visually signify your exit somehow! Make a doorway, teleporter pad, stairs, or cave entrance to start. Then think of other possible exits that your character can take.**   
-
-
-**🌿 Part 4: Endings, Saving**  
-
-
-**If you want your game to have an end, you will need to make one. Again, select the ‘exits & endings’ tab from the tools menu and hit “+ending”. These work exactly like exits, except that they have dialog. You can have multiple endings in your game! The game will start over once the ending is reached.**   
-
-
-**Now that you know what your game is, be sure to give it a title. That’s the text box at the very top of the screen. Play through and admire your work.**  
+Now that you know what your game is, be sure to give it a title. That’s the text box at the very top of the screen. **Play through and admire your work.**  
 
 
 **To export your game so other people can play it, go to the download window in the tools. This will export your game as an html file. You can upload this to a website or just click on it on the desktop to have in launch in a browser. \(You can also load a bitsy game from a previously exported html file.\)**  
