@@ -61,6 +61,13 @@
     * [Rooms & Exits](software/bitsy/basics/rooms-and-exits.md)
     * [Ending](software/bitsy/basics/ending.md)
     * [Save & Export](software/bitsy/basics/save-and-export.md)
+  * [Advanced](software/bitsy/advanced/README.md)
+    * [Dialog](software/bitsy/advanced/dialog.md)
+    * [Audio](software/bitsy/advanced/audio.md)
+  * [Inspiration](software/bitsy/inspiration.md)
+  * [Untitled](software/bitsy/untitled.md)
+  * [FAQ](software/bitsy/faq.md)
+  * [📚 Novella Challenge](software/bitsy/novella-challenge.md)
 
 ## Hardware
 
