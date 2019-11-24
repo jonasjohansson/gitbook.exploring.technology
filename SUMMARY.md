@@ -54,7 +54,8 @@
   * [◼️ Kazemir Mini Challenge](software/p5/kazemir-mini-challenge.md)
   * [🎨 Abstract Art Challenge](software/p5/learning-challenge.md)
 * [Machine learning](software/machine-learning.md)
-* [Bitsy](software/bitsy.md)
+* [Bitsy](software/bitsy/README.md)
+  * [Basics](software/bitsy/basics.md)
 
 ## Hardware
 

@@ -78,7 +78,7 @@ Hack the controls of existing games and game like experiences by building your o
 **Requires Arduino Basic**
 {% endhint %}
 
-### [Bitsy game development](../software/bitsy.md)
+### [Bitsy game development](../software/bitsy/)
 
 A crash course in rules of play, ergodic literature and [Bitsy](https://ledoux.itch.io/bitsy), a game creation tool focused on the poetry of game design, encouraging thought, reflection and decision making. Welcome to getting stuck on all the right details!
 

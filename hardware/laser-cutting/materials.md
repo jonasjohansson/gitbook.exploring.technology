@@ -53,7 +53,7 @@ Finding materials is not trivial as most distributors does not provide wood nor 
 | :--- | :--- | :--- | :--- |
 | [Plastic produkter](https://www.plasticprodukter.se) | Plastic | - | 💰 |
 | [GOP](https://www.gop.se) | Plastic | - | 💰 |
-| [Slöjd & Detaljer](https://www.slojd-detaljer.se/sortiment/tra-metallslojd/plast-gummi/akrylplastskivor/) | Plastic | ❤️ |  |
+| [Slöjd & Detaljer](https://www.slojd-detaljer.se/sortiment/tra-metallslojd/plast-gummi/akrylplastskivor/) | Plastic, wood | ❤️❤️ | 💰💰 |
 | [Panduro](https://panduro.com) | Plastic | ❤️ | 💰💰 |
 | [Matton](https://www.mattonbutiken.se) | Plastic, paper |  |  |
 | [Materialbutiken](https://www.materialbutiken.se/) | Plastic, wood | ❤️❤️❤️ | 💰💰💰 |
