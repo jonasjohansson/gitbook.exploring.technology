@@ -16,7 +16,7 @@ The values might come out a bit noisy, this can be fixed by [smoothing the value
 {% tab title="Schematic" %}
 | Sensor | Arduino |
 | :--- | :--- |
-| Vin | 5V |
+| Vin / VCC | 5V |
 | GND | GND |
 | Zout | A0 / A5 |
 | Yout | A0 / A5 |
