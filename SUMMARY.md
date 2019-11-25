@@ -65,7 +65,6 @@
     * [Dialog](software/bitsy/advanced/dialog.md)
     * [Audio](software/bitsy/advanced/audio.md)
   * [Inspiration](software/bitsy/inspiration.md)
-  * [Untitled](software/bitsy/untitled.md)
   * [FAQ](software/bitsy/faq.md)
   * [📚 Novella Challenge](software/bitsy/novella-challenge.md)
 
@@ -84,8 +83,8 @@
     * [Motors](hardware/arduino/output/motors.md)
   * [Distributors](hardware/arduino/distributors.md)
   * [Advanced](hardware/arduino/advanced/README.md)
-    * [Keyboard & MIDI](hardware/arduino/advanced/keyboard-midi.md)
     * [Timers](hardware/arduino/advanced/timers.md)
+    * [Keyboard & MIDI](hardware/arduino/advanced/keyboard-midi.md)
   * [Code](hardware/arduino/dictionary.md)
   * [FAQ](hardware/arduino/faq.md)
   * [🎵 Music Challenge](hardware/arduino/learning-challenge.md)
