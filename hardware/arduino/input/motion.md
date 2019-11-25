@@ -22,6 +22,29 @@ The values might come out a bit noisy, this can be fixed by [smoothing the value
 | Yout | A0 / A5 |
 | Xout | A0 / A5 |
 {% endtab %}
+
+{% tab title="Code" %}
+```cpp
+void setup() {
+
+}
+
+void loop() {
+  int valx = analogRead(0);
+  int valy = analogRead(1);
+  int valz = analogRead(2);
+
+  Serial.print(valx);
+  Serial.print(" ");
+
+  Serial.print(valy);
+  Serial.print(" ");
+
+  Serial.print(valz);
+  Serial.print(" ");
+}
+```
+{% endtab %}
 {% endtabs %}
 
 ### 
