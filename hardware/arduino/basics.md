@@ -264,6 +264,7 @@ void loop() {
 int piezoPin = 4;
 
 void setup() {
+  pinMode(piezoPin, OUTPUT);
   Serial.begin(9600);
 }
 
