@@ -85,6 +85,7 @@
     * [12V](hardware/arduino/output/12v.md)
   * [Distributors](hardware/arduino/distributors.md)
   * [Code](hardware/arduino/dictionary.md)
+  * [Timers](hardware/arduino/timers.md)
   * [FAQ](hardware/arduino/faq.md)
   * [🎵 Music Challenge](hardware/arduino/learning-challenge.md)
   * [🕹️ Game Challenge](hardware/arduino/game-challenge.md)
