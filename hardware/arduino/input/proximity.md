@@ -96,7 +96,7 @@ int checkDistanceSensor() {
 | Red wire | 5V |
 | Yellow/white wire | Digital in 2 |
 
-![](../../../.gitbook/assets/image%20%283%29.png)
+![](../../../.gitbook/assets/image%20%285%29.png)
 {% endtab %}
 
 {% tab title="Code" %}
