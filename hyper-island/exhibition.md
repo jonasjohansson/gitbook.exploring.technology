@@ -35,9 +35,9 @@ _Establish the visual representation of the Hyper Arcade including signage for t
 
 ### Laser
 
-Define the booking procedure for using the laser cutter. Also in charge of cleaning the mirrors, ensuring only allowed materials are used,
+_Define the booking procedure for using the laser cutter. Also in charge of maintenance and ensuring only allowed materials are used,_
 
-1. [gustavo.zero@hyperisland.se](mailto:gustavo.zero@hyperisland.se)
+1. \_\_[gustavo.zero@hyperisland.se](mailto:gustavo.zero@hyperisland.se)
 2. [cornelia.vonbahr@hyperisland.se](mailto:cornelia.vonbahr@hyperisland.se)
 3. [juliusz.mielczarek@hyperisland.se](mailto:juliusz.mielczarek@hyperisland.se)
 4. [sara.ekholm@hyperisland.se](mailto:sara.ekholm@hyperisland.se)
