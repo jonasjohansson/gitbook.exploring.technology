@@ -23,7 +23,7 @@ _Communicate the exhibition to  relevant partners, companies, groups, individual
 
 ### Design
 
-_Establish the visual representation of the Hyper Arcade including signage for the event, event material, digital assets etc._
+_Establish the visual representation of the Hyper Arcade including signage for the event, event material, digital assets etc._ 
 
 1. [claudia.velhas@hyperisland.se](mailto:claudia.velhas@hyperisland.se)
 2. [chandan.ahuja@hyperisland.se](mailto:chandan.ahuja@hyperisland.se)
