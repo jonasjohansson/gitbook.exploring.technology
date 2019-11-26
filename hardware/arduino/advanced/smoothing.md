@@ -2,7 +2,7 @@
 
 ![Preview of the Arduino Serial Plotter \(blue is raw values, red is smoothed\)](../../../.gitbook/assets/image%20%282%29.png)
 
-
+Sometimes you may find that the values you're getting from your sensor, or some other kind of input are not as consistent as you would like. This is called input noise, and can be improved by smoothing the values. What this means is that it takes a certain amount of recent values \(for instance the last ten\) and then calculates the average over that amount of values.
 
 {% embed url="https://github.com/MattFryer/Smoothed/archive/v1.1.zip" %}
 
