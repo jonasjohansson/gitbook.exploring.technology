@@ -6,11 +6,11 @@ Here you will find information about the workshops provided. Each member in your
 
 | Title | When | Participants | Hosted by |
 | :--- | :---: | :---: | :--- |
-| Resonance Space | 20/11 | 50 | Maria & Linnéa |
+| Resonant Space | 20/11 | 50 | Maria & Linnéa |
 | Physical nonlinear prototyping | 20/11 | 50 | Gunnlaugur |
-| A-Frame AR/VR | 21/11 | 30 \(5\) | Jonas & Ana |
-| Generative design | 22/11 | 30 \(5\) | Half & Ana |
-| Generative design extra | 27/11 | 25 | Jonas & Mickey |
+| A-Frame AR/VR | 21/11 | 30 | Jonas & Ana |
+| Generative design | 22/11 | 30 | Half & Ana |
+| Generative design | 27/11 | 25 | Jonas & Mickey |
 | Laser Basics | 21-22/11 | 10 | Duncan & Anne |
 | Laser Advanced | 25-26/11 | 15 | Duncan & Anne |
 | Arduino Basics | 21-22/11 | 25 | Mickey & Maria |
@@ -20,7 +20,7 @@ Here you will find information about the workshops provided. Each member in your
 | Machine Learning | 26/11 | 40 | Andreas & Jonas |
 |  |  |  |  |
 
-### Resonance Space
+### Resonant Space
 
 After an introduction on new and alternative game mechanics, holistic game design and the use of space for storytelling, the participants will design their own games in a playful design sprint. The main game assets will be themselves as well as nearby physical resources.
 
