@@ -4,7 +4,40 @@ The Arduino Uno is not recognised as a HID \(keyboard, mouse\) which disables th
 
 ## Mio
 
-[https://jonasjohansson.itch.io/mio](https://jonasjohansson.itch.io/mio)
+{% tabs %}
+{% tab title="Simple" %}
+```csharp
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() { 
+  if (digitalRead(2) == LOW){
+    Serial.println("$space");
+    Serial.println("$x");
+  } else {
+    Serial.println("!space");
+    Serial.println("!x");
+  }
+}
+```
+{% endtab %}
+
+{% tab title="Advanced" %}
+```cpp
+void setup() {
+  pinMode(2, INPUT_PULLUP);
+  Serial.begin(9600);
+}
+
+void loop() {
+  int buttonState = digitalRead(2);
+  buttonState = !buttonState;
+  Serial.println("d2 "+String(buttonState));
+}
+```
+{% endtab %}
+{% endtabs %}
 
 ## Midi
 
