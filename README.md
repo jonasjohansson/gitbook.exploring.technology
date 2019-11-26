@@ -10,5 +10,3 @@ This open-source learning platform is available to everyone, and is in constant 
 
 ![Untitled \(2019\) by Natascha Klimenko](.gitbook/assets/image%20%283%29.png)
 
-
-

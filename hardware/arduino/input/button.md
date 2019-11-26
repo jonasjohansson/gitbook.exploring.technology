@@ -4,7 +4,7 @@ description: All about buttons!
 
 # Button
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2812%29.png)
 
 Buttons come in about a million different shapes and sizes, and there is about a million things you can do with them! The most important thing to know is that most buttons in the end work about the same way and also don't require any special programming, Arduino likes them all the same :-\)
 
