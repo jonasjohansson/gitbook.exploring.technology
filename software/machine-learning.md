@@ -12,6 +12,8 @@ A framework which aims to make machine learning approachable for a broad audienc
 
 Examples shown will integrate ml5js with [p5js](https://start.exploring.technology/software/p5).
 
+### Official workshop page
+
 {% embed url="http://andreasref.github.io/ml" %}
 
 
