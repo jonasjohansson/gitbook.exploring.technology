@@ -85,6 +85,7 @@
   * [Distributors](hardware/arduino/distributors.md)
   * [Advanced](hardware/arduino/advanced/README.md)
     * [Timers](hardware/arduino/advanced/timers.md)
+    * [Smoothing](hardware/arduino/advanced/smoothing.md)
     * [Keyboard & MIDI](hardware/arduino/advanced/keyboard-midi.md)
   * [Code](hardware/arduino/dictionary.md)
   * [FAQ](hardware/arduino/faq.md)
