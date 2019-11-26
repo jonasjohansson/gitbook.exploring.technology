@@ -70,3 +70,7 @@ As long as the statement is true, whatever is inside the curly brackets will hap
 
 ![](../../../.gitbook/assets/p5-for.png)
 
+{% hint style="danger" %}
+Be mindful of Auto-refresh while working with loops as the sketch can get stuck in an infinite cycle, which will crash the browser or cause it to freeze.
+{% endhint %}
+
