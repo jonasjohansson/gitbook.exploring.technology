@@ -1,6 +1,17 @@
-# Exhibition
+# Important
 
-## Teams
+## Class representatives
+
+| Week | Who |
+| :--- | :--- |
+| 47-51 | [nanda.vandenhoek@hyperisland.se](mailto:nanda.vandenhoek@hyperisland.se) [nadine.ochsner@hyperisland.se](mailto:nadine.ochsner@hyperisland.se) |
+| 47 | [alice.abrahamsson@hyperisland.se](mailto:alice.abrahamsson@hyperisland.se) [michelle.john@hyperisland.se](mailto:michelle.john@hyperisland.se) |
+| 48 | [gauri.kaushik@hyperisland.se](mailto:gauri.kaushik@hyperisland.se) [ezequiel.almonacid@hyperisland.se](mailto:ezequiel.almonacid@hyperisland.se) |
+| 49 | [paras.agarwal@hyperisland.se](mailto:paras.agarwal@hyperisland.se) [anna.shadricheva@hyperisland.se](mailto:anna.shadricheva@hyperisland.se) |
+| 50 | [ben.angel@hyperisland.se](mailto:ben.angel@hyperisland.se) [juliusz.mielczarek@hyperisland.se](mailto:juliusz.mielczarek@hyperisland.se) |
+| 51 | [claudia.velhas@hyperisland.se](mailto:claudia.velhas@hyperisland.se) [linnea.bergling@hyperisland.se](mailto:linnea.bergling@hyperisland.se) |
+
+## Exhibition teams
 
 ### Website
 
