@@ -18,12 +18,11 @@ By previously printing out the rotation values we see that the numbers go from -
 Due to security restrictions users must give explicit access to motion data. This is normally done by providing a button which upon being clicked prompts the user to for permission.
 
 ```javascript
-function setup() {
-	createCanvas(windowWidth, windowHeight);
+let button;
 
-	let button = createButton('start');
-	button.position(windowWidth / 2, windowHeight / 2);
-	button.mousePressed(permission);
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  permission();
 }
 
 function draw() {
@@ -34,20 +33,21 @@ function draw() {
 }
 
 function permission() {
-	if (typeof DeviceMotionEvent !== 'undefined' && typeof DeviceMotionEvent.requestPermission === 'function') {
-		DeviceMotionEvent.requestPermission()
-			.then(response => {
-				if (response == 'granted') {
-					window.addEventListener('devicemotion', e => {
-						// do something for 'e' here.
-					});
-				}
-			})
-			.catch(console.error);
-	} else {
-		alert('DeviceMotionEvent is not defined');
-	}
+  if (typeof DeviceMotionEvent !== 'undefined' && typeof DeviceMotionEvent.requestPermission === 'function') {
+    DeviceMotionEvent.requestPermission()
+      .then(response => {
+        if (response == 'granted') {
+          button.remove();
+        } else {
+          button = createButton('start');
+          button.position(windowWidth / 2, windowHeight / 2);
+          button.mousePressed(permission);
+        }
+      })
+      .catch(console.error);
+  } else {
+    //alert('DeviceMotionEvent is not defined');
+  }
 }
-
 ```
 
