@@ -20,5 +20,11 @@ Examples shown will integrate ml5js with [p5js](https://start.exploring.technolo
 
 {% embed url="https://glitch.com/@mickeyvanolst/andreas-ref-workshop-on-machine-learning-at-hyper-island-19" %}
 
+#### References mentioned by Andreas
+
+{% embed url="https://teachablemachine.withgoogle.com/" %}
+
+{% embed url="https://runwayml.com/" %}
+
 
 
