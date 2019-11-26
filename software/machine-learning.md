@@ -16,7 +16,7 @@ Examples shown will integrate ml5js with [p5js](https://start.exploring.technolo
 
 {% embed url="http://andreasref.github.io/ml" %}
 
-#### Glitch versions of the example files
+#### Glitch versions of the example files \(along with some new ones\)
 
 {% embed url="https://glitch.com/@mickeyvanolst/andreas-ref-workshop-on-machine-learning-at-hyper-island-19" %}
 
