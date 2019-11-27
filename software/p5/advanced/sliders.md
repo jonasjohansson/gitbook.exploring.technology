@@ -4,8 +4,6 @@ Sometimes you might need to play with a value to find the right one. In order to
 
 {% embed url="https://codepen.io/mickeyvanolst/pen/mddNJqQ" %}
 
-
-
 ```javascript
 let translateSliderX;
 let translateSliderY;

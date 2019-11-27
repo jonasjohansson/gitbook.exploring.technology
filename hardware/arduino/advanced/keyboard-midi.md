@@ -19,52 +19,46 @@ In the **simple mode** all key logic is handled in Arduino using special command
 ```csharp
 void setup() {
   Serial.begin(9600);
+  pinMode(0, INPUT_PULLUP);
+  pinMode(1, INPUT_PULLUP);
   pinMode(2, INPUT_PULLUP);
   pinMode(3, INPUT_PULLUP);
-  pinMode(4, INPUT_PULLUP);
 }
 
 void loop() { 
-  int btn1 = !digitalRead(2);
-  int btn2 = !digitalRead(3);
-  int btn3 = !digitalRead(4);
+  int btn1 = !digitalRead(0);
+  int btn2 = !digitalRead(1);
+  int btn3 = !digitalRead(2);
+  int btn3 = !digitalRead(3);
   
   if (btn1 == HIGH){
-    Serial.println("$z"); // $ presses the z key
+    Serial.println("$$up"); // $$ press and hold the up key
   }
   
   if (btn2 == HIGH){
-    Serial.println("$$left"); // $$ presses and holds the left key
+    Serial.println("$$down"); // $$ press and hold the down key
   }
   
   if (btn3 == HIGH){
-    Serial.println("$$right"); // $$ presses and holds the right key
+    Serial.println("$$left"); // $$ press and hold the left key
+  }
+  
+  if (btn4 == HIGH){
+    Serial.println("$$right"); // $$ press and hold the right key
   }
 }
 ```
 {% endtab %}
 
-{% tab title="Advanced" %}
-In the **advanced mode** most of the logic is managed in Arduino, but some additional functions are only available within the Mio window, such as modifier keys and overseeing Midi communication.
+{% tab title="Schematic" %}
+| Button Pin  | Arduino Pin |
+| :--- | :--- |
+| Button 1 \(orange wire\) | Digital 0 |
+| Button 2 \(green wire\) | Digital 1 |
+| Button 3 \(blue wire\) | Digital 2 |
+| Button 4 \(purple wire\) | Digital 3 |
 
-```cpp
-void setup() {
-  Serial.begin(9600);
-  pinMode(2, INPUT_PULLUP);
-  pinMode(3, INPUT_PULLUP);
-  pinMode(4, INPUT_PULLUP);
-}
-
-void loop() {
-  int btn1 = !digitalRead(2);
-  int btn2 = !digitalRead(3);
-  int btn3 = !digitalRead(4);
-  
-  Serial.println("d2"+String(btn1));
-  Serial.println("d3"+String(btn2));
-  Serial.println("d4"+String(btn3));
-}
-```
+![](../../../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 {% endtabs %}
 
