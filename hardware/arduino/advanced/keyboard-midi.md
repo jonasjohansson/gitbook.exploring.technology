@@ -14,29 +14,31 @@ There are two ways of working with Mio; simple and advanced. Both modes are acti
 
 {% tabs %}
 {% tab title="Simple" %}
-In the **simple mode** all key logic is handled in Arduino using special commands made by symbols followed by keyboard keys. These commands are **printed** using `Serial.println()` and should in theory be simple and fun! The symbols in use are **dollar sign \($\) and exclamation mark \(!\);** pressing and releasing the keys.
+In the **simple mode** all key logic is handled in Arduino using special commands made by a **$ dollar sign** followed by keyboard keys. These commands are **printed** using `Serial.println()` and should in theory be simple and fun!
 
 ```csharp
 void setup() {
   Serial.begin(9600);
   pinMode(2, INPUT_PULLUP);
   pinMode(3, INPUT_PULLUP);
+  pinMode(4, INPUT_PULLUP);
 }
 
 void loop() { 
   int btn1 = !digitalRead(2);
   int btn2 = !digitalRead(3);
+  int btn3 = !digitalRead(4);
   
   if (btn1 == HIGH){
-    Serial.println("$space"); // $ presses the space key
-  } else {
-    Serial.println("!space"); // ! releases the space key
+    Serial.println("$z"); // $ presses the z key
   }
   
   if (btn2 == HIGH){
-    Serial.println("$$x"); // $$ presses and holds the x key
-  } else {
-    Serial.println("!!x"); // !! releases the pressed and held held x key
+    Serial.println("$$left"); // $$ presses and holds the left key
+  }
+  
+  if (btn3 == HIGH){
+    Serial.println("$$right"); // $$ presses and holds the right key
   }
 }
 ```
