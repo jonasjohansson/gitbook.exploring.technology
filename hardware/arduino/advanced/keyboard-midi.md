@@ -2,6 +2,8 @@
 
 The Arduino Uno is not recognised as a HID \(keyboard, mouse\) which disables the functionality of being able to trigger keyboard presses or mouse movements. To use the Arduino Uno as a keyboard there are two options; running a custom software listening to the serial communication, and flashing the controller with keyboard enabled firmware.
 
+Another alternative is to use an [Arduino Leonardo](https://www.arduino.cc/en/Main/Arduino_BoardLeonardo), which works natively as a keyboard and mouse.
+
 ## [Mio](https://jonasjohansson.itch.io/mio)
 
 Mio simplifies serial communication as a trigger for key presses and MIDI communication. It relies on specific commands and values being sent from a device over a serial line. The command and value will then be parsed, leaving only the value.
@@ -13,7 +15,7 @@ Because Mio is made by an Unidentified Developer \(me, Jonas\) the Control key m
 There are two ways of working with Mio; simple and advanced. Both modes are active.
 
 {% tabs %}
-{% tab title="Simple" %}
+{% tab title=" Code" %}
 In the **simple mode** all key logic is handled in Arduino using special commands made by a **$ dollar sign** followed by keyboard keys. These commands are **printed** using `Serial.println()` and should in theory be simple and fun!
 
 ```csharp
@@ -26,24 +28,24 @@ void setup() {
 }
 
 void loop() { 
-  int btn1 = !digitalRead(0);
-  int btn2 = !digitalRead(1);
-  int btn3 = !digitalRead(2);
-  int btn3 = !digitalRead(3);
+  int btn1 = digitalRead(0);
+  int btn2 = digitalRead(1);
+  int btn3 = digitalRead(2);
+  int btn3 = digitalRead(3);
   
-  if (btn1 == HIGH){
+  if (btn1 == LOW){
     Serial.println("$$up"); // $$ press and hold the up key
   }
   
-  if (btn2 == HIGH){
+  if (btn2 == LOW){
     Serial.println("$$down"); // $$ press and hold the down key
   }
   
-  if (btn3 == HIGH){
+  if (btn3 == LOW){
     Serial.println("$$left"); // $$ press and hold the left key
   }
   
-  if (btn4 == HIGH){
+  if (btn4 == LOW){
     Serial.println("$$right"); // $$ press and hold the right key
   }
 }
