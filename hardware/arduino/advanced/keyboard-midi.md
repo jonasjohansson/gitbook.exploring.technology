@@ -70,7 +70,11 @@ void loop() {
 
 ### Permission
 
-In order to control the keyboard Mio requires permissions. On Mac go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. If a new version has been installed, this might have to be done again!
+In order to control the keyboard Mio requires permissions. On Mac go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. 
+
+{% hint style="danger" %}
+If a new version has been installed, this might have to be done again!
+{% endhint %}
 
 ![](../../../.gitbook/assets/permissions.png)
 
