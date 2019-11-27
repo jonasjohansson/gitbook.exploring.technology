@@ -19,7 +19,7 @@ After 5 seconds, _time_  will have reached 5000. To use time to control the amou
 function draw() {
   var time = millis();
   var red = time/40;
-  background(red,0,0,0);
+  background(red,0,0);
 }
 ```
 
