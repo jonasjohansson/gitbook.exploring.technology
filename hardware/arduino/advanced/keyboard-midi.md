@@ -14,7 +14,7 @@ There are two ways of working with Mio; simple and advanced. Both modes are acti
 
 {% tabs %}
 {% tab title="Simple" %}
-In the **simple mode** all key logic is handled in Arduino using special commands made by symbols followed by keyboard keys. These commands are **printed** using `Serial.println()` and should in theory be simple and fun! The symbols in use are **dollar sign and exclamation mark;** pressing and releasing the keys.
+In the **simple mode** all key logic is handled in Arduino using special commands made by symbols followed by keyboard keys. These commands are **printed** using `Serial.println()` and should in theory be simple and fun! The symbols in use are **dollar sign \($\) and exclamation mark \(!\);** pressing and releasing the keys.
 
 ```csharp
 void setup() {
