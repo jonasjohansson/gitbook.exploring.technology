@@ -4,40 +4,77 @@ The Arduino Uno is not recognised as a HID \(keyboard, mouse\) which disables th
 
 ## [Mio](https://jonasjohansson.itch.io/mio)
 
+Mio simplifies serial communication as a trigger for key presses and MIDI communication. It relies on specific commands and values being sent from a device over a serial line. The command and value will then be parsed, leaving only the value.
+
+{% hint style="warning" %}
+Because Mio is made by an Unidentified Developer \(me\) the Control key must be pressed while clicking the Mio icon. Then choose **Open** from the menu.
+{% endhint %}
+
+There are two ways of working with Mio; simple and advanced. Both modes are active.
+
 {% tabs %}
 {% tab title="Simple" %}
+In the **simple mode** all key logic is handled in Arduino using special commands made by symbols followed by keyboard keys. These commands are **printed** using `Serial.println()` and should in theory be simple and fun! The symbols in use are **dollar sign and exclamation mark;** pressing and releasing the keys.
+
 ```csharp
 void setup() {
   Serial.begin(9600);
+  pinMode(2, INPUT_PULLUP);
+  pinMode(3, INPUT_PULLUP);
 }
 
 void loop() { 
-  if (digitalRead(2) == LOW){
-    Serial.println("$space");
-    Serial.println("$x");
+  int btn1 = !digitalRead(2);
+  int btn2 = !digitalRead(3);
+  
+  if (btn1 == HIGH){
+    Serial.println("$space"); // $ presses the space key
   } else {
-    Serial.println("!space");
-    Serial.println("!x");
+    Serial.println("!space"); // ! releases the space key
+  }
+  
+  if (btn2 == HIGH){
+    Serial.println("$$x"); // $$ presses and holds the x key
+  } else {
+    Serial.println("!!x"); // !! releases the pressed and held held x key
   }
 }
 ```
 {% endtab %}
 
 {% tab title="Advanced" %}
+In the **advanced mode** most of the logic is managed in Arduino, but some additional functions are only available within the Mio window, such as modifier keys and overseeing Midi communication.
+
 ```cpp
 void setup() {
-  pinMode(2, INPUT_PULLUP);
   Serial.begin(9600);
+  pinMode(2, INPUT_PULLUP);
+  pinMode(3, INPUT_PULLUP);
+  pinMode(4, INPUT_PULLUP);
 }
 
 void loop() {
-  int buttonState = digitalRead(2);
-  buttonState = !buttonState;
-  Serial.println("d2 "+String(buttonState));
+  int btn1 = !digitalRead(2);
+  int btn2 = !digitalRead(3);
+  int btn3 = !digitalRead(4);
+  
+  Serial.println("d2"+String(btn1));
+  Serial.println("d3"+String(btn2));
+  Serial.println("d4"+String(btn3));
 }
 ```
 {% endtab %}
 {% endtabs %}
+
+### Permission
+
+In order to control the keyboard Mio requires permissions. On Mac go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box.
+
+{% hint style="danger" %}
+ If new versions of Mio is being installed, this might have to be done again!
+{% endhint %}
+
+![](../../../.gitbook/assets/permissions.png)
 
 ## Midi
 
