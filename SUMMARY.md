@@ -45,6 +45,7 @@
     * [Curves](software/p5/basics/curves.md)
     * [Time](software/p5/basics/time.md)
   * [Advanced](software/p5/advanced/README.md)
+    * [Sliders](software/p5/advanced/sliders.md)
     * [Logic](software/p5/advanced/logic.md)
     * [Interaction](software/p5/advanced/interaction.md)
     * [Images](software/p5/advanced/images.md)
