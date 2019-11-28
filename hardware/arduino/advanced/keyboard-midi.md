@@ -21,17 +21,17 @@ In the **simple mode** all key logic is handled in Arduino using special command
 ```csharp
 void setup() {
   Serial.begin(9600);
-  pinMode(0, INPUT_PULLUP);
-  pinMode(1, INPUT_PULLUP);
   pinMode(2, INPUT_PULLUP);
   pinMode(3, INPUT_PULLUP);
+  pinMode(4, INPUT_PULLUP);
+  pinMode(5, INPUT_PULLUP);
 }
 
 void loop() { 
-  int btn1 = digitalRead(0);
-  int btn2 = digitalRead(1);
-  int btn3 = digitalRead(2);
-  int btn4 = digitalRead(3);
+  int btn1 = digitalRead(2);
+  int btn2 = digitalRead(3);
+  int btn3 = digitalRead(4);
+  int btn4 = digitalRead(5);
   
   if (btn1 == LOW){
     Serial.println("$$up"); // $$ press and hold the up key
