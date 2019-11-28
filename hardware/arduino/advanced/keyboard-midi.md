@@ -31,7 +31,7 @@ void loop() {
   int btn1 = digitalRead(0);
   int btn2 = digitalRead(1);
   int btn3 = digitalRead(2);
-  int btn3 = digitalRead(3);
+  int btn4 = digitalRead(3);
   
   if (btn1 == LOW){
     Serial.println("$$up"); // $$ press and hold the up key
