@@ -106,6 +106,7 @@
   * [Distributors](hardware/laser-cutting/distributors.md)
   * [📛 Badge Challenge](hardware/laser-cutting/badge-challenge.md)
   * [🎲 Dexterity Game Challenge](hardware/laser-cutting/puzzle-challenge.md)
+* [Projectors](hardware/projectors.md)
 
 ## Tools
 
