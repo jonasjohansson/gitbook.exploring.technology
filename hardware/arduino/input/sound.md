@@ -4,7 +4,9 @@
 
 {% tabs %}
 {% tab title="Product" %}
-With the Microphone amplifier you can take the microphone signal and feed it into a regular audiojack, or read the volume with the Arduino. 
+With the Microphone amplifier you can take the microphone signal and feed it into a regular audio jack, or read the volume with the Arduino. 
+
+* [https://learn.adafruit.com/adafruit-microphone-amplifier-breakout/measuring-sound-levels](https://learn.adafruit.com/adafruit-microphone-amplifier-breakout/measuring-sound-levels)
 
 {% hint style="danger" %}
 Make all gain adjustments gently. If you feel resistance, stop. The tiny trim pot is delicate and it is easy to damage by turning past the stop.
@@ -23,60 +25,39 @@ Make all gain adjustments gently. If you feel resistance, stop. The tiny trim po
 
 {% tab title="Code" %}
 ```cpp
-/****************************************
-Example Sound Level Sketch for the 
-Adafruit Microphone Amplifier
-****************************************/
-
-const int sampleWindow = 50; // Sample window width in mS (50 mS = 20Hz)
-unsigned int sample;
-
-void setup() 
-{
-   Serial.begin(9600);
+void setup() {
+  Serial.begin(9600);
 }
 
-
-void loop() 
-{
-   double volts = getVolume();
-   Serial.println(volts);
+void loop() {
+  double volts = getVolume(50);
+  Serial.println(volts);
 }
 
-double getVolume() {
-   unsigned long startMillis= millis();  // Start of sample window
-      unsigned int peakToPeak = 0;   // peak-to-peak level
-   
-      unsigned int signalMax = 0;
-      unsigned int signalMin = 1024;
-   
-      // collect data for 50 mS
-      while (millis() - startMillis < sampleWindow)
-      {
-         sample = analogRead(0);
-         if (sample < 1024)  // toss out spurious readings
-         {
-            if (sample > signalMax)
-            {
-               signalMax = sample;  // save just the max levels
-            }
-            else if (sample < signalMin)
-            {
-               signalMin = sample;  // save just the min levels
-            }
-         }
+double getVolume(int sampleWindow) {
+  unsigned long startMillis = millis();
+  unsigned int peakToPeak = 0;
+  unsigned int signalMax = 0;
+  unsigned int signalMin = 1024;
+
+  while (millis() - startMillis < sampleWindow) {
+    unsigned int sample = analogRead(0);
+    if (sample < 1024) {
+      if (sample > signalMax) {
+        signalMax = sample;
+      } else if (sample < signalMin) {
+        signalMin = sample;
       }
-      peakToPeak = signalMax - signalMin;  // max - min = peak-peak amplitude
-      double volts = (peakToPeak * 5.0) / 1024;  // convert to volts
-      return volts;
-   }
+    }
+  }
+
+  peakToPeak = signalMax - signalMin;
+  double volts = (peakToPeak * 5.0) / 1024;
+  return volts;
+}
 ```
 {% endtab %}
 {% endtabs %}
-
-### References
-
-* [https://learn.adafruit.com/adafruit-microphone-amplifier-breakout/measuring-sound-levels](https://learn.adafruit.com/adafruit-microphone-amplifier-breakout/measuring-sound-levels)
 
 
 
