@@ -107,7 +107,6 @@
   * [Distributors](hardware/laser-cutting/distributors.md)
   * [📛 Badge Challenge](hardware/laser-cutting/badge-challenge.md)
   * [🎲 Dexterity Game Challenge](hardware/laser-cutting/puzzle-challenge.md)
-* [Projectors](hardware/projectors.md)
 
 ## Tools
 
@@ -117,6 +116,7 @@
 
 ## Under consideration
 
+* [Projectors](under-consideration/projectors.md)
 * [Biotechnology](under-consideration/biotechnology/README.md)
   * [Mycelium](under-consideration/biotechnology/mycelium.md)
   * [Bioplastics](under-consideration/biotechnology/bioplastics.md)
