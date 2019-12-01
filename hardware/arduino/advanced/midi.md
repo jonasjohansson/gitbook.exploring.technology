@@ -1,4 +1,4 @@
-# Midi
+# MIDI
 
 Combining Arduino with MIDI is a popular route for creating interactive audio objects, and there has been much work enabling the process, let's try it!
 
