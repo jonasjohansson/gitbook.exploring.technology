@@ -34,6 +34,7 @@
 ## Research
 
 * [**http://www.gamehabitat.se/**](http://www.gamehabitat.se/)
+* [https://conditionaldesign.org/](https://conditionaldesign.org/)
 * [https://www.gdconf.com/alt.ctrl.gdc](https://www.gdconf.com/alt.ctrl.gdc)
 * [**https://itch.io/game-development/engines/most-projects**](https://itch.io/game-development/engines/most-projects)
 * [**https://katalog.uu.se/empinfo/?id=N9-1453**](https://katalog.uu.se/empinfo/?id=N9-1453)
