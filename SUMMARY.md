@@ -84,7 +84,8 @@
     * [12V](hardware/arduino/output/12v.md)
     * [Motors](hardware/arduino/output/motors.md)
   * [Advanced](hardware/arduino/advanced/README.md)
-    * [Keyboard & MIDI](hardware/arduino/advanced/keyboard-midi.md)
+    * [Midi](hardware/arduino/advanced/midi.md)
+    * [Keyboard](hardware/arduino/advanced/keyboard-midi.md)
     * [Timers](hardware/arduino/advanced/timers.md)
     * [Smoothing](hardware/arduino/advanced/smoothing.md)
   * [Code](hardware/arduino/dictionary.md)
@@ -110,6 +111,7 @@
 
 ## Tools
 
+* [Mio](tools/mio.md)
 * [Glitch](tools/glitch.md)
 * [Tips & Trix](tips-and-trix.md)
 
