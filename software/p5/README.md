@@ -6,42 +6,29 @@ Generative design and art is the symbiosis between machine and designer. The mac
 
 ## Abstract art
 
-Modern art is broad term, but the consensus of its beginnings is focused on a disruption in representing historical and/or mythological figures, towards the representation of everyday life themes and subjects.   
-
+Modern art is broad term, but the consensus of its beginnings is focused on a disruption in representing historical and/or mythological figures, towards the representation of everyday life themes and subjects. 
 
 ![Sonia Delaunay-Turk and Kazemir Malevich](../../.gitbook/assets/screenshot-2019-09-22-at-22.20.47.png)
 
 > Abstract art is art that does not attempt to represent an accurate depiction of a visual reality but instead use shapes, colours, forms and gestural marks to achieve its effect.
 
-![Several Circles, Wassily Kandinsky](https://www.wassilykandinsky.net/images/works/49.jpg)
-
 In rejecting history and the realistic depiction of subjects, artists also embraced experimentation with form. The freedom in shapes, colours and lines was the fertile ground for abstract art to flourish.
 
 > Although many different styles are encompassed by the term, there are certain underlying principles that define modernist art: A rejection of history and conservative values \(such as realistic depiction of subjects\); innovation and experimentation with form \(the shapes, colours and lines that make up the work\) with a tendency to abstraction; and an emphasis on materials, techniques and processes.
 
-It’s commonly accepted that Kandinsky was the pioneer of abstract art, however the abstract works of Hilma af Klint \(Stockholm 1862-1944\) predate Kandinsky, Malevich and Mondrian for several years.  The revelation of Hilma af Klint works was delayed also due to her expressed wishes in will that her works should not shown to the world for 20 years after her death!
+It’s commonly accepted that Kandinsky was the pioneer of abstract art, however the abstract works of Hilma af Klint \(Stockholm 1862-1944\) predate Kandinsky, Malevich and Mondrian for several years.  The revelation of Hilma's works was delayed also due to her expressed wishes in will that her works should not shown to the world for 20 years after her death!
 
-![The Ten Biggest No 2, Hilma af Klint](https://cdn.nybooks.com/wp-content/uploads/2019/03/tallman_1-040419.jpg)
-
-* [**https://www.tate.org.uk/context-comment/articles/first-abstract-artist-and-its-not-kandinsky**](https://www.tate.org.uk/context-comment/articles/first-abstract-artist-and-its-not-kandinsky)
-* [**https://www.theparisreview.org/blog/2018/10/12/the-first-abstract-painter-was-a-woman/**](https://www.theparisreview.org/blog/2018/10/12/the-first-abstract-painter-was-a-woman/)
-* [**https://www.guggenheim.org/exhibition/hilma-af-klint**](https://www.guggenheim.org/exhibition/hilma-af-klint)
-
-![Untitled by Manoloide, https://www.instagram.com/p/Bw0KiGqH18V/](https://instagram.fbma2-1.fna.fbcdn.net/v/t51.2885-15/e35/57506376_440290703404874_2661699736902543048_n.jpg?_nc_ht=instagram.fbma2-1.fna.fbcdn.net&_nc_cat=102&oh=9fd54532fe09a85f1861b9a4814c75c1&oe=5E69C512)
-
-![](https://upload.wikimedia.org/wikipedia/commons/0/00/Hilma_af_Klint%2C_1915%2C_Svanen%2C_No._17.jpg)
+![Hilma af Klint, Group X, No. 1, Altarpiece, 1915](https://www.theparisreview.org/blog/wp-content/uploads/2018/10/gen-press_hilmaafklint_groupxno.1.jpg)
 
 A close look to the early abstract works reveals a deliberate use of repetition in form. One perspective of analysing the form of such works is to reflect on:
 
 * Which basic shapes are used as “building blocks”?
 * Are such shapes repeated?
-* What is changing in different parts? Size? Rotation? Color?
+* What is changing in different parts?
 
 Thinking in those terms will be the foundation of algorithmic-based art.
 
-![Cirkelformation, Lars-Gunnar Nordstr&#xF6;m \(1952-53\)](https://kuvataiteilijamatrikkeli.fi/wp-content/uploads/7e48d3d4b8cd9a8b29184d50ec83290b_l.jpg)
-
-
+![Hommage &#xE0; Paul Klee \(1965\) by Frieder Nake](https://storage.strelka.com/i/acc35992-8b7d-437d-bc49-91e514ca32ee/w/840)
 
 ## Generative design
 
@@ -54,4 +41,20 @@ Steve Reichs Piano Phase is a minimalist composition, written in 1967 for two pi
 {% embed url="https://www.youtube.com/watch?v=CSQ8npnlk0I" %}
 
 Generative design is a broad term. It refers to autonomous systems which  enhance or replace human-based design in e.g. manufacturing, music and visual arts.
+
+
+
+
+
+
+
+
+
+![Several Circles, Wassily Kandinsky](https://www.wassilykandinsky.net/images/works/49.jpg)
+
+![Untitled by Manoloide, https://www.instagram.com/p/Bw0KiGqH18V/](https://instagram.fbma2-1.fna.fbcdn.net/v/t51.2885-15/e35/57506376_440290703404874_2661699736902543048_n.jpg?_nc_ht=instagram.fbma2-1.fna.fbcdn.net&_nc_cat=102&oh=9fd54532fe09a85f1861b9a4814c75c1&oe=5E69C512)
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/00/Hilma_af_Klint%2C_1915%2C_Svanen%2C_No._17.jpg)
+
+
 
