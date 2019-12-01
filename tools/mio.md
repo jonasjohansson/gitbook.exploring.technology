@@ -6,7 +6,7 @@ Mio simplifies serial communication as a trigger for key presses and MIDI commun
 Because Mio is made by an Unidentified Developer \(me, Jonas\) the Control key must be pressed while clicking the app icon. Then choose **Open** from the menu.
 {% endhint %}
 
-All key logic is handled on  the device and sent to Mio via serial. The message should be written with a **$ dollar** sign followed by the key to press eg. **$down**.
+All key logic is handled on the device and sent to Mio via serial. The message should be written with a **$ dollar** sign followed by the key. MIDI commands are sent by default.
 
 {% tabs %}
 {% tab title=" Code" %}
