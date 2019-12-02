@@ -117,6 +117,7 @@
 
 ## Under consideration
 
+* [Feedback](under-consideration/feedback.md)
 * [Projectors](under-consideration/projectors.md)
 * [Biotechnology](under-consideration/biotechnology/README.md)
   * [Mycelium](under-consideration/biotechnology/mycelium.md)
