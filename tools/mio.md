@@ -72,7 +72,7 @@ Mio can not be connected at the same time that any other device is listening to 
 
 ### Faster communication
 
-It is possible to speed up the communication between the serial device and computer, by bumping up the **Baudrate** from **9600** to **115200**. These must be done within the code as well as in Mio. If you are running Ardunio, remember to change it also in the monitor \(in the bottom left corner\).
+It is possible to speed up the communication between the serial device and computer, by bumping up the **Baudrate** from **9600** to **115200**. This must be done within the code as well as in Mio. If you are running Arduino, remember to change it also in the monitor \(in the bottom right corner\).
 
 ![](../.gitbook/assets/serial.png)
 
