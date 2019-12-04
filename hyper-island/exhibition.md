@@ -2,7 +2,7 @@
 
 ## Exhibition on the forum
 
-{% embed url="https://forum.exploring.technology/t/exhibition-questions/" %}
+{% embed url="https://forum.exploring.technology/t/exhibition-questions" %}
 
 ## Class representatives
 
