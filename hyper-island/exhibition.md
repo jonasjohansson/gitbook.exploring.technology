@@ -1,5 +1,9 @@
 # Exhibition
 
+## Exhibition on the forum
+
+{% embed url="https://forum.exploring.technology/t/exhibition-questions/" %}
+
 ## Class representatives
 
 | Week | Who |
