@@ -56,7 +56,9 @@ void loop() {
 
 ## Websockets
 
-From version 1.1.1 Mio creates a local websocket server with the default port 8080 \(can be changed under Preferences\). This allows other systems \(pretty much anything\) that uses sockets, such as [Processing](../software/p5/), to pick up and act on the information. This means that generative graphics, for instance, can be manipulated by a Arduino. Messages sent should be made up of a string of alphabetical letters followed by the numerical value eg. `dist327`
+From version 1.1.1 Mio creates a local websocket server with the default port **8080** \(can be changed under Preferences\). This allows other systems \(pretty much any website\) that uses sockets, such as [Processing](../software/p5/), to pick up and act on the information. This means that generative graphics, for instance, can be manipulated by a Arduino. 
+
+Messages should be formatted with  sent should be made up of a string of alphabetical letters followed by the numerical value eg. `dist327`
 
 {% tabs %}
 {% tab title=" Arduino" %}
@@ -76,7 +78,7 @@ void loop() {
 
 {% tab title="Processing" %}
 ```javascript
-const socket = new WebSocket("ws://127.0.0.1:8080");
+const ws = new WebSocket("ws://127.0.0.1:8080");
 
 let bg = 220;
 
@@ -88,18 +90,66 @@ function draw() {
   background(bg);
 }
 
-socket.onmessage = data => {
+function keyPressed() {
+  if (keyCode === LEFT_ARROW) {
+    ws.send("$left");
+  } else if (keyCode === RIGHT_ARROW) {
+    ws.send("$right");
+  }
+}
+
+ws.onmessage = data => {
   let dataObject = JSON.parse(data.data);
   print(dataObject);
   if (dataObject.id === "rand"){
-    bg = dataObject.val;
+    bg = dataObject.msg;
   }
 };
 ```
 {% endtab %}
+
+{% tab title="Send" %}
+```javascript
+const ws = new WebSocket("ws://127.0.0.1:8080");
+
+let flag = true;
+
+setInterval(function() {
+  flag = !flag;
+}, 1000);
+
+var now;
+var then = Date.now();
+var interval = 100;
+var delta;
+
+function render() {
+  requestAnimationFrame(render);
+
+  now = Date.now();
+  delta = now - then;
+
+  //if (delta > interval) {
+    if (flag) {
+      ws.send("$left");
+    } else {
+      ws.send("$right");
+    }
+    then = now - (delta % interval);
+  //}
+}
+
+requestAnimationFrame(render);
+
+```
+{% endtab %}
 {% endtabs %}
 
-It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Now local information can be sent loball 
+### Send
+
+{% hint style="info" %}
+It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address.
+{% endhint %}
 
 ## Troubleshooting
 
