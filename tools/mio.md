@@ -1,6 +1,6 @@
 # Mio
 
-Mio simplifies serial communication as a trigger for key presses and MIDI communication. It relies on specific commands and values being sent from a device over a serial line. The command and value will then be parsed, leaving only the value.
+Mio turns serial communication  as a trigger for key presses and MIDI communication. It relies on specific commands and values being sent from a device over a serial line. The command and value will then be parsed, leaving only the value.
 
 {% embed url="https://jonasjohansson.itch.io/mio" %}
 
@@ -53,6 +53,53 @@ void loop() {
 ![](../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 {% endtabs %}
+
+## Websockets
+
+From version 1.1.1 Mio creates a local websocket server with the default port 8080 \(can be changed under Preferences\). This allows other systems \(pretty much anything\) that uses sockets, such as [Processing](../software/p5/), to pick up and act on the information. This means that generative graphics, for instance, can be manipulated by a Arduino. Messages sent should be made up of a string of alphabetical letters followed by the numerical value eg. `dist327`
+
+{% tabs %}
+{% tab title=" Arduino" %}
+```csharp
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int val = analogRead(0);
+  int rand = random(255);
+  Serial.println("dist"+String(val));
+  Serial.println("rand"+String(rand));
+}
+```
+{% endtab %}
+
+{% tab title="Processing" %}
+```javascript
+const socket = new WebSocket("ws://127.0.0.1:8080");
+
+let bg = 220;
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(bg);
+}
+
+socket.onmessage = data => {
+  let dataObject = JSON.parse(data.data);
+  print(dataObject);
+  if (dataObject.id === "rand"){
+    bg = dataObject.val;
+  }
+};
+```
+{% endtab %}
+{% endtabs %}
+
+It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Now local information can be sent loball 
 
 ## Troubleshooting
 
