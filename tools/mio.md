@@ -71,14 +71,14 @@ void loop() {
   int val = analogRead(0);
   int rand = random(255);
   Serial.println("dist"+String(val));
-  Serial.println("rand"+String(rand));
+  Serial.println("color"+String(rand));
 }
 ```
 {% endtab %}
 
 {% tab title="Processing" %}
 ```javascript
-const ws = new WebSocket("ws://127.0.0.1:8080");
+const ws = new WebSocket('ws://127.0.0.1:8080');
 
 let bg = 220;
 
@@ -88,64 +88,23 @@ function setup() {
 
 function draw() {
   background(bg);
-}
-
-function keyPressed() {
-  if (keyCode === LEFT_ARROW) {
-    ws.send("$left");
-  } else if (keyCode === RIGHT_ARROW) {
-    ws.send("$right");
+  if (keyIsDown(LEFT_ARROW)) {
+    ws.send('$left');
+  } else if (keyIsDown(RIGHT_ARROW)) {
+    ws.send('$right');
   }
 }
 
 ws.onmessage = data => {
   let dataObject = JSON.parse(data.data);
   print(dataObject);
-  if (dataObject.id === "rand"){
+  if (dataObject.id === 'color') {
     bg = dataObject.msg;
   }
 };
 ```
 {% endtab %}
-
-{% tab title="Send" %}
-```javascript
-const ws = new WebSocket("ws://127.0.0.1:8080");
-
-let flag = true;
-
-setInterval(function() {
-  flag = !flag;
-}, 1000);
-
-var now;
-var then = Date.now();
-var interval = 100;
-var delta;
-
-function render() {
-  requestAnimationFrame(render);
-
-  now = Date.now();
-  delta = now - then;
-
-  //if (delta > interval) {
-    if (flag) {
-      ws.send("$left");
-    } else {
-      ws.send("$right");
-    }
-    then = now - (delta % interval);
-  //}
-}
-
-requestAnimationFrame(render);
-
-```
-{% endtab %}
 {% endtabs %}
-
-### Send
 
 {% hint style="info" %}
 It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address.
