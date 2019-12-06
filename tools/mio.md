@@ -86,18 +86,13 @@ function setup() {
 
 function draw() {
   background(bg);
-  if (keyIsDown(LEFT_ARROW)) {
-    ws.send('$left');
-  } else if (keyIsDown(RIGHT_ARROW)) {
-    ws.send('$right');
-  }
 }
 
 ws.onmessage = data => {
-  let dataObject = JSON.parse(data.data);
-  print(dataObject);
-  if (dataObject.id === 'color') {
-    bg = dataObject.msg;
+  let d = JSON.parse(data.data);
+  print(d);
+  if (d.id === 'color') {
+    bg = d.msg;
   }
 };
 ```
