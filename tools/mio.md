@@ -68,10 +68,8 @@ void setup() {
 }
 
 void loop() {
-  int val = analogRead(0);
-  int rand = random(255);
-  Serial.println("dist"+String(val));
-  Serial.println("color"+String(rand));
+  int color = random(255);
+  Serial.println("color" + String(color));
 }
 ```
 {% endtab %}
