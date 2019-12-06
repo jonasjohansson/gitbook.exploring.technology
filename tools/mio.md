@@ -1,10 +1,10 @@
 # Mio
 
-Mio turns serial communication  as a trigger for key presses and MIDI communication. It relies on specific commands and values being sent from a device over a serial line. The command and value will then be parsed, leaving only the value.
+Mio turns serial communication into a trigger for key presses and MIDI.
 
 {% embed url="https://jonasjohansson.itch.io/mio" %}
 
-All key logic is handled on the device and sent via serial. The message should be written with a **$ dollar** sign followed by the key. MIDI commands are sent by default.
+All logic is handled on the device and shared through specific commands, written with a **$ dollar** sign followed by the key. MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences.
 
 {% tabs %}
 {% tab title=" Code" %}
@@ -56,9 +56,9 @@ void loop() {
 
 ## Websockets
 
-From version 1.1.1 Mio creates a local websocket server with the default port **8080** \(can be changed under Preferences\). This allows other systems \(pretty much any website\) that uses sockets, such as [Processing](../software/p5/), to pick up and act on the information. This means that generative graphics, for instance, can be manipulated by a Arduino. 
+From version 1.1.1 Mio creates a local websocket server with the default port **8080** \(can be changed under Preferences\). This allows other systems \(pretty much any website\) that uses sockets, such as [p5](../software/p5/), to pick up and act on the information. This means that generative graphics, for instance, can be manipulated by a button or potentiomete. 
 
-Messages should be formatted with  sent should be made up of a string of alphabetical letters followed by the numerical value eg. `dist327`
+Messages should be made up of a string of alphabetical letters followed by the numerical value eg. `dist327`
 
 {% tabs %}
 {% tab title=" Arduino" %}
@@ -76,7 +76,7 @@ void loop() {
 ```
 {% endtab %}
 
-{% tab title="Processing" %}
+{% tab title="Processing \(p5\)" %}
 ```javascript
 const ws = new WebSocket('ws://127.0.0.1:8080');
 
