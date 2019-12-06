@@ -118,7 +118,7 @@ Because Mio is made by an [Unidentified Developer](https://jonasjohansson.se/) t
 
 ### Permission
 
-In order to control the keyboard Mio requires permissions. On Mac go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. **If a new version has been installed, this might have to be done again by toggling the checkbox!**
+In order to control the keyboard, Mio requires permissions. On Mac, go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. **If a new version has been installed, this might have to be done again by toggling the checkbox!**
 
 ![](../.gitbook/assets/permissions.png)
 
