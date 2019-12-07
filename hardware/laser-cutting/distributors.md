@@ -1,4 +1,4 @@
-# Distributors
+# Buyers guide
 
 Finding materials is not trivial as most distributors does not provide wood nor plastic sheets in small sizes and low quantities. Make sure to verify with the distributor beforehand that they can provide according to your needs.
 
