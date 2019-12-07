@@ -4,6 +4,17 @@ Mio  is a minimal input and output application that enables serial communication
 
 → [https://jonasjohansson.itch.io/mio](https://jonasjohansson.itch.io/mio)
 
+## Getting started
+
+The types of messages currently supported are the following:
+
+| Message | Event |  | Version |
+| :--- | :--- | :--- | :--- |
+| $w | Click 'w' key | [List of keys](https://robotjs.io/docs/syntax#keys) | 1.0.0 |
+| $mouse | Click left mouse button |  | 1.1.3 |
+| 100,200 | Move cursor to x 100 and y 200 | Can be any number, must be comma separated. | 1.1.3 |
+| red255 | Send **red** and the value **255** over sockets | Can be any name and number. | 1.1.1 |
+
 {% tabs %}
 {% tab title=" Code" %}
 ```csharp
@@ -58,13 +69,6 @@ void loop() {
 {% endtabs %}
 
 MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences.
-
-| Message | Event |  | Version |
-| :--- | :--- | :--- | :--- |
-| $down | Click 'down' key | [List of keys](https://robotjs.io/docs/syntax#keys) | 1.0.0 |
-| $mouse | Click left mouse button |  | 1.1.3 |
-| 100,200 | Move cursor to x 100 and y 200 | Must be comma separated | 1.1.3 |
-| red255 | Send 'red' and the value '255' over sockets | Can be any name and number | 1.1.1 |
 
 {% hint style="danger" %}
 Make sure to run the latest version of Mio to make use of all the new functions. Latest stable release prior to advanced features is **1.0.10**.
