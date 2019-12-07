@@ -4,7 +4,16 @@ Mio turns serial communication into a trigger for computer interaction presses a
 
 {% embed url="https://jonasjohansson.itch.io/mio" %}
 
-All logic is handled on the device and shared through specific commands, written with a **$ dollar** sign followed by a [listed key](https://robotjs.io/docs/syntax#keys). MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences.
+All logic is handled on the device and made possible by printing specific commands:
+
+| Command \(example\) | Event |  |
+| :--- | :--- | :--- |
+| $down | Click 'down' key | [List of keys](https://robotjs.io/docs/syntax#keys) |
+| $mouse | Click left mouse button |  |
+| 100,200 | Move cursor to x 100 and y 200 | Must be comma separated |
+| color255 | Send 'color' and the value '255' over sockets | Can be any name and number |
+
+MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences.
 
 {% tabs %}
 {% tab title=" Code" %}
@@ -34,7 +43,7 @@ void loop() {
   }
 
   if (btn3 == LOW) {
-    // move mouse to x 100 and y 200
+    // move cursor to x 100 and y 200
     Serial.println("100,200");
   }
 
