@@ -1,5 +1,7 @@
 # 🥇 Hyper Arcade
 
+
+
 Shaking the habitual, a call for action to break our comforts, express **our** **selves** and think and act differently in order to become beacons of radical change. Technology is not the promised saviour; humanity is, and that which makes us unique, our imagination. 
 
 > The answer that came to me again and again was play. Every human society in recorded history has games. We don't just solve problems out of necessity. We do it for fun. Even as adults. Leave a human being alone with a knotted rope and they will unravel it. Leave a human being alone with blocks, and they will build something. Games are part of what makes us human. We see the world as a mystery, a puzzle, because we've always been a species of problem-solvers. — Alexandra Drennan, The Talos Principle.
@@ -22,6 +24,10 @@ Each team will create 1 playable game-like experience, which may or may not use 
 
 For promotion, each team will also create a [trailer](https://www.youtube.com/watch?v=4CSYA9R70R8) and a website \(could also be an [Itch.io](https://itch.io/) page\) with information about the game. Traditionally, game developers continuously release updates, create teasers and trailers, until the final launch.
 
-**The game, trailer and website will be presented at the internal presentation for final critique, a few days before the official** [**exhibition**](exhibition.md)**.**  
+**The game, trailer and website will be presented at the internal presentation for final critique, a few days before the official** [**exhibition**](exhibition.md)**.**
+
+
+
+  
 
 
