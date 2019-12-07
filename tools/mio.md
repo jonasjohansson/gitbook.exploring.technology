@@ -1,10 +1,10 @@
 # Mio
 
-Mio turns serial communication into a trigger for key presses and MIDI.
+Mio turns serial communication into a trigger for computer interaction presses and MIDI.
 
 {% embed url="https://jonasjohansson.itch.io/mio" %}
 
-All logic is handled on the device and shared through specific commands, written with a **$ dollar** sign followed by the key. MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences.
+All logic is handled on the device and shared through specific commands, written with a **$ dollar** sign followed by a [listed key](https://robotjs.io/docs/syntax#keys). MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences.
 
 {% tabs %}
 {% tab title=" Code" %}
@@ -54,9 +54,11 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
+It is also possible to move the mouse cursor by sending `Serial.println(x+','+y);`  where x and y are variables for the mouse position.
+
 ## Websockets
 
-From version 1.1.1 Mio creates a local websocket server with the default port **8080** \(can be changed under Preferences\). This allows other systems \(pretty much any website\) that uses sockets, such as [p5](../software/p5/), to pick up and act on the information. This means that generative graphics, for instance, can be manipulated by a button or potentiomete. 
+From version 1.1.1 Mio creates a local websocket server with the default port **8080**. This allows other systems \(pretty much any website\) that uses sockets, such as [p5](../software/p5/), to pick up and act on the information. This means that generative graphics, for instance, can be manipulated by a button or potentiometer. 
 
 Messages should be made up of a string of alphabetical letters followed by the numerical value eg. `dist327`
 
@@ -99,9 +101,7 @@ ws.onmessage = data => {
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address.
-{% endhint %}
+It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
 
 ## Troubleshooting
 
