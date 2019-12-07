@@ -1,10 +1,8 @@
 # Mio
 
-Mio turns serial communication into a trigger for computer interaction presses and MIDI.
+Mio  is a minimal input and output application that enables serial communication to computer interaction. All logic is handled on sending device and made possible by printing specific messages.
 
-{% embed url="https://jonasjohansson.itch.io/mio" %}
-
-All logic is handled on the device and made possible by printing specific commands:
+→ [https://jonasjohansson.itch.io/mio](https://jonasjohansson.itch.io/mio)
 
 | Message | Event |  | Version |
 | :--- | :--- | :--- | :--- |
