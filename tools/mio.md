@@ -15,8 +15,6 @@ The types of messages currently supported are the following:
 | 100,200 | Move cursor to x 100 and y 200 | Can be any number, must be comma separated. | 1.1.3 |
 | red255 | Send **red** and the value **255** over sockets | Can be any name and number. | 1.1.1 |
 
-
-
 {% tabs %}
 {% tab title=" Code" %}
 ```csharp
@@ -70,13 +68,15 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences.
-
 {% hint style="danger" %}
 Make sure to run the latest version of Mio to make use of all the new functions. Latest stable release prior to advanced features is **1.0.10**.
 {% endhint %}
 
-## Websockets
+### MIDI
+
+MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences. 
+
+### Websockets
 
 Mio creates a local websocket server with the default port **8080**. This means that generative graphics, for instance, can be manipulated by a button or potentiometer. Clients must be initialised **after** the server has started.
 
@@ -158,4 +158,9 @@ It is possible to speed up the communication between the serial device and compu
 It is possible that Mio caches files which are then still remnant when using a new version. To clear the cache go to Help &gt; Reset and then Help &gt; Reload. If it still does not work, [contact the developer](https://jonasjohansson.se/) and send a screenshot of the window that appears when clicking Help &gt; Open Developer Tools Detached.
 
 ![](../.gitbook/assets/resetreload%20%281%29.png)
+
+## Roadmap
+
+1. Adding a modifier key along with a keypress eg. $2+alt
+2. Adding possibility to send MIDI values specifically, with a ramp eg. \#16%50 \(with %50 being the amount of smoothing\)
 
