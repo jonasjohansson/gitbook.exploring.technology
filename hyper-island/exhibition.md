@@ -46,7 +46,7 @@ _Establish the visual representation of the Hyper Arcade including signage for t
 4. [frida.eriksson@hyperisland.se](mailto:frida.eriksson@hyperisland.se)
 5. [natasha.mehra@hyperisland.se](mailto:natasha.mehra@hyperisland.se)
 6. [olivia.kullberg@hyperisland.se](mailto:olivia.kullberg@hyperisland.se)
-7. [laura.siuffo@hyperislad.se](mailto:laura.siuffo@hyperislad.se)
+7. [laura.siuffo@hyperisland.se](mailto:laura.siuffo@hyperisland.se)
 
 ### Laser
 
