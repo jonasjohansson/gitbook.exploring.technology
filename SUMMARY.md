@@ -95,6 +95,7 @@
   * [🎵 Music Challenge](hardware/arduino/learning-challenge.md)
   * [🕹️ Game Challenge](hardware/arduino/game-challenge.md)
   * [🎮 Hack Challenge](hardware/arduino/hack-challenge.md)
+  * [🧵 Sewing Challenge](hardware/arduino/sewing-challenge.md)
 * [Makey Makey](hardware/makey-makey/README.md)
   * [Input](hardware/makey-makey/input.md)
   * [Output](hardware/makey-makey/output.md)
