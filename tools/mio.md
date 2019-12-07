@@ -9,7 +9,7 @@ Mio  is a minimal input and output application that enables serial communication
 | $down | Click 'down' key | [List of keys](https://robotjs.io/docs/syntax#keys) | 1.0.0 |
 | $mouse | Click left mouse button |  | 1.1.3 |
 | 100,200 | Move cursor to x 100 and y 200 | Must be comma separated | 1.1.3 |
-| color255 | Send 'color' and the value '255' over sockets | Can be any name and number | 1.1.1 |
+| red255 | Send 'red' and the value '255' over sockets | Can be any name and number | 1.1.1 |
 
 MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences.
 
@@ -50,35 +50,11 @@ void loop() {
   }
 
   if (btn4 == LOW) {
-    int color = random(255);
-    // send 'color' and a random value between 0-255 over sockets
-    Serial.println("color" + String(color));
+    int red = random(255);
+    // send 'alpha' and a random value between 0-255 over sockets
+    Serial.println("red" + String(red));
   }
 }
-```
-{% endtab %}
-
-{% tab title="p5" %}
-```javascript
-const ws = new WebSocket('ws://127.0.0.1:8080');
-
-let bg = 220;
-
-function setup() {
-  createCanvas(400, 400);
-}
-
-function draw() {
-  background(bg);
-}
-
-ws.onmessage = data => {
-  let d = JSON.parse(data.data);
-  print(d);
-  if (d.id === 'color') {
-    bg = d.msg;
-  }
-};
 ```
 {% endtab %}
 
@@ -96,7 +72,52 @@ ws.onmessage = data => {
 
 ## Websockets
 
-Mio creates a local websocket server with the default port **8080**. This allows other systems \(pretty much any website\) that uses sockets, such as [p5](../software/p5/), to pick up and act on the information \(see example above\). This means that generative graphics, for instance, can be manipulated by a button or potentiometer. 
+Mio creates a local websocket server with the default port **8080**. This means that generative graphics, for instance, can be manipulated by a button or potentiometer. Clients must be initialised **after** the server has started.
+
+{% tabs %}
+{% tab title="P5" %}
+```javascript
+const ws = new WebSocket("ws://127.0.0.1:8080");
+
+let red = 0;
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(red, 0, 0);
+}
+
+ws.onmessage = data => {
+  let d = JSON.parse(data.data);
+  print(d);
+  if (d.id === "red") {
+    red = d.msg;
+  }
+};
+```
+{% endtab %}
+
+{% tab title="HTML" %}
+```markup
+<html>
+  <body>
+    <script>
+      const ws = new WebSocket("ws://127.0.0.1:8080");
+      ws.onmessage = data => {
+        let d = JSON.parse(data.data);
+        console.log(d);
+        if (d.id === "red") {
+          document.documentElement.style.backgroundColor = `rgb(${d.msg},0,0)`;
+        }
+      };
+    </script>
+  </body>
+</html>
+```
+{% endtab %}
+{% endtabs %}
 
 It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
 
