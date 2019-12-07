@@ -36,7 +36,7 @@ _Communicate the exhibition to  relevant partners, companies, groups, individual
 4. [vanda.bergstrom@hyperisland.se](mailto:vanda.bergstrom@hyperisland.se)
 5. [cornelia.vonbahr@hyperisland.se](mailto:cornelia.vonbahr@hyperisland.se)
 
-### Design
+### Production & Design
 
 _Establish the visual representation of the Hyper Arcade including signage for the event, event material, digital assets etc._ 
 
