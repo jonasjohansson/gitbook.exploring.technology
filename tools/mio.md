@@ -15,6 +15,8 @@ The types of messages currently supported are the following:
 | 100,200 | Move cursor to x 100 and y 200 | Can be any number, must be comma separated. | 1.1.3 |
 | red255 | Send **red** and the value **255** over sockets | Can be any name and number. | 1.1.1 |
 
+
+
 {% tabs %}
 {% tab title=" Code" %}
 ```csharp
