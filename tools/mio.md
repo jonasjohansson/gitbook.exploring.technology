@@ -121,6 +121,10 @@ ws.onmessage = data => {
 
 It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
 
+{% hint style="success" %}
+It's a bit secret but it is also possible to send key commands to Mio via websockets. Try typing `ws.send("$x")` and it will behave just like printing it from Arduino. Magic! 🧝🏽
+{% endhint %}
+
 ## Troubleshooting
 
 ### Unidentified Developer
