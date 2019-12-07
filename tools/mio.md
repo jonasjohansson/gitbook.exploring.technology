@@ -124,3 +124,9 @@ It is possible to speed up the communication between the serial device and compu
 
 ![](../.gitbook/assets/serial.png)
 
+### No Communication
+
+It is possible that Mio caches files which are then still remnant when using a new version. To clear the cache go to Help &gt; Reset and then Help &gt; Reload. If it still does not work, [contact the developer](https://jonasjohansson.se/) and send a screenshot of the window that appears when clicking Help &gt; Open Developer Tools Detached.
+
+![](../.gitbook/assets/resetreload%20%281%29.png)
+
