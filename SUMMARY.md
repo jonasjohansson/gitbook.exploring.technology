@@ -86,7 +86,6 @@
   * [Advanced](hardware/arduino/advanced/README.md)
     * [MIDI](hardware/arduino/advanced/midi.md)
     * [Keyboard](hardware/arduino/advanced/keyboard-midi.md)
-    * [Processing](hardware/arduino/advanced/processing.md)
     * [Timers](hardware/arduino/advanced/timers.md)
     * [Smoothing](hardware/arduino/advanced/smoothing.md)
   * [Code](hardware/arduino/dictionary.md)
