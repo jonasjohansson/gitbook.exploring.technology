@@ -90,7 +90,7 @@
     * [Timers](hardware/arduino/advanced/timers.md)
     * [Smoothing](hardware/arduino/advanced/smoothing.md)
   * [Code](hardware/arduino/dictionary.md)
-  * [Distributors](hardware/arduino/distributors.md)
+  * [Buyers guide](hardware/arduino/distributors.md)
   * [FAQ](hardware/arduino/faq.md)
   * [🎵 Music Challenge](hardware/arduino/learning-challenge.md)
   * [🕹️ Game Challenge](hardware/arduino/game-challenge.md)

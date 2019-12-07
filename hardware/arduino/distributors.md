@@ -1,4 +1,4 @@
-# Distributors
+# Buyers guide
 
 ## Distributors
 
@@ -21,6 +21,7 @@ Use these to understand what is available and find local distributors:
 | Name | Link |
 | :--- | :--- |
 | Mätteknik | [https://www.m.nu/](https://www.m.nu/) |
+| Elfa | [https://www.elfa.se/](https://www.elfa.se/) |
 | Lawicel | [http://www.lawicel-shop.se/](http://www.lawicel-shop.se/) |
 | Kjell & Company | [https://www.kjell.com/se](https://www.kjell.com/se) |
 | Electrokit | [https://www.electrokit.com/](https://www.electrokit.com/) |
@@ -53,7 +54,7 @@ Every country has a few specialised stores and whenever possible try to find the
 | Amazon | [https://www.amazon.de/](https://www.amazon.de/) |
 | Ebay | [http://www.ebay.de/](http://www.ebay.de/) |
 
-### Shipping, Import Tax and Lead Time
+## Shipping, Import Tax and Lead Time
 
 Purchase locally when possible as to avoid long lead times and additional costs. If ordering from the US consider adding 25% to the total cost to be on the safe side when considering budget.
 
