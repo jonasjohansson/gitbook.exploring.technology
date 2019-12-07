@@ -24,59 +24,30 @@ void loop() {
   int btn4 = digitalRead(5);
 
   if (btn1 == LOW) {
+    // click 'w' key
     Serial.println("$w");
   }
 
   if (btn2 == LOW) {
-    Serial.println("$s");
+    // click left mouse button
+    Serial.println("$mouse");
   }
 
   if (btn3 == LOW) {
-    Serial.println("$a");
+    // move mouse to x 100 and y 200
+    Serial.println("100,200");
   }
 
   if (btn4 == LOW) {
-    Serial.println("$d");
+    int color = random(255);
+    // send 'color' and a random value between 0-255 over sockets
+    Serial.println("color" + String(color));
   }
 }
 ```
 {% endtab %}
 
-{% tab title="Schematic" %}
-| Button Pin  | Arduino Pin |
-| :--- | :--- |
-| Button 1 \(orange wire\) | Digital 0 |
-| Button 2 \(green wire\) | Digital 1 |
-| Button 3 \(blue wire\) | Digital 2 |
-| Button 4 \(purple wire\) | Digital 3 |
-
-![](../.gitbook/assets/image%20%287%29.png)
-{% endtab %}
-{% endtabs %}
-
-It is also possible to move the mouse cursor by sending `Serial.println(x+','+y);`  where x and y are variables for the mouse position.
-
-## Websockets
-
-From version 1.1.1 Mio creates a local websocket server with the default port **8080**. This allows other systems \(pretty much any website\) that uses sockets, such as [p5](../software/p5/), to pick up and act on the information. This means that generative graphics, for instance, can be manipulated by a button or potentiometer. 
-
-Messages should be made up of a string of alphabetical letters followed by the numerical value eg. `dist327`
-
-{% tabs %}
-{% tab title=" Arduino" %}
-```csharp
-void setup() {
-  Serial.begin(9600);
-}
-
-void loop() {
-  int color = random(255);
-  Serial.println("color" + String(color));
-}
-```
-{% endtab %}
-
-{% tab title="Processing \(p5\)" %}
+{% tab title="p5" %}
 ```javascript
 const ws = new WebSocket('ws://127.0.0.1:8080');
 
@@ -99,7 +70,22 @@ ws.onmessage = data => {
 };
 ```
 {% endtab %}
+
+{% tab title="Schematic" %}
+| Button Pin  | Arduino Pin |
+| :--- | :--- |
+| Button 1 \(orange wire\) | Digital 0 |
+| Button 2 \(green wire\) | Digital 1 |
+| Button 3 \(blue wire\) | Digital 2 |
+| Button 4 \(purple wire\) | Digital 3 |
+
+![](../.gitbook/assets/image%20%287%29.png)
+{% endtab %}
 {% endtabs %}
+
+## Websockets
+
+From version 1.1.1 Mio creates a local websocket server with the default port **8080**. This allows other systems \(pretty much any website\) that uses sockets, such as [p5](../software/p5/), to pick up and act on the information \(see example above\). This means that generative graphics, for instance, can be manipulated by a button or potentiometer. 
 
 It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
 
