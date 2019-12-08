@@ -113,6 +113,7 @@
   * [Types](hardware/projectors/types.md)
   * [Software](hardware/projectors/software.md)
   * [Buyers Guide](hardware/projectors/buyers-guide.md)
+* [Lighting](hardware/lighting.md)
 
 ## Tools
 
