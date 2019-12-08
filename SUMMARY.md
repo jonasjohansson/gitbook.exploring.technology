@@ -36,7 +36,7 @@
   * [References](software/a-frame/references.md)
   * [✨ VR Learning Challenge](software/a-frame/vr-learning-challenge.md)
   * [✨ AR Learning Challenge](software/a-frame/ar-learning-challenge.md)
-* [P5](software/p5/README.md)
+* [Processing](software/p5/README.md)
   * [Basics](software/p5/basics/README.md)
     * [Shapes](software/p5/basics/shapes.md)
     * [Color](software/p5/basics/color.md)
@@ -55,7 +55,7 @@
   * [References](software/p5/references.md)
   * [◼️ Kazemir Mini Challenge](software/p5/kazemir-mini-challenge.md)
   * [🎨 Abstract Art Challenge](software/p5/learning-challenge.md)
-* [Machine learning](software/machine-learning.md)
+* [Machine Learning](software/ml5.md)
 * [Bitsy](software/bitsy/README.md)
   * [Basics](software/bitsy/basics/README.md)
     * [Paint & Colors](software/bitsy/basics/paint-and-colors.md)
@@ -68,7 +68,6 @@
     * [Audio](software/bitsy/advanced/audio.md)
   * [Inspiration](software/bitsy/inspiration.md)
   * [FAQ](software/bitsy/faq.md)
-  * [📚 Novella Challenge](software/bitsy/novella-challenge.md)
 
 ## Hardware
 

@@ -1,8 +1,4 @@
----
-description: Creative machine learning on the web with ml5js
----
-
-# Machine learning
+# Machine Learning
 
 ## [**ml5js**](https://ml5js.org/)
 

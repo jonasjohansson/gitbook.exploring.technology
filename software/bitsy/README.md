@@ -1,11 +1,5 @@
 # Bitsy
 
-### Bitsy on the forum
-
-{% embed url="https://forum.exploring.technology/c/bitsy" %}
-
-
-
 > Bitsy is a little editor for little games or worlds. the goal is to make it easy to make games where you can walk around and talk to people and be somewhere. — Adam Le Doux, creator of Bitsy
 
 Games made in bitsy range wildly in their size, scope, and genre, but it works especially well for short narrative games, little vignettes, or games about being in one place and wandering around. 
