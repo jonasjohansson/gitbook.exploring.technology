@@ -112,7 +112,7 @@
     * [Software](learn/hardware/projectors/software.md)
     * [Buyers Guide](learn/hardware/projectors/buyers-guide.md)
   * [Lighting](learn/hardware/lighting.md)
-* [Documentation](learn/documentation.md)
+* [Tips & Trix](learn/documentation.md)
 
 ## Tools
 
