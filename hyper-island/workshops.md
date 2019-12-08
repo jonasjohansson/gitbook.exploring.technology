@@ -56,13 +56,13 @@ Besides becoming the class laser super star, participants will get to explore so
 **Requires Laser Basics**
 {% endhint %}
 
-### \*\*\*\*[**Arduino Basics**](../hardware/arduino/)\*\*\*\*
+### \*\*\*\*[**Arduino Basics**](../hardware-1/arduino/)\*\*\*\*
 
 Build interactive objects using the worlds most famous micro-controller, the Arduino Uno! This three-hour workshop get participants learning the basics of electronics, buttons, potentiometers, sensors and how to make annoying sounds. 
 
 →  [Install Arduino](https://www.arduino.cc/en/main/software) and bring a USB adapter if your computer lacks normal USB ports.
 
-### \*\*\*\*[**Arduino Advanced**](../hardware/arduino/) **A**
+### \*\*\*\*[**Arduino Advanced**](../hardware-1/arduino/) **A**
 
 Build your own mini-game as you explore the sensory equipment for proximity, motion, light and force. This is an advanced session that assumes a basic understanding of Arduino, and digs deeper into combining code from different places in order to create something new!
 
@@ -70,7 +70,7 @@ Build your own mini-game as you explore the sensory equipment for proximity, mot
 **Requires Arduino Basic**
 {% endhint %}
 
-### [**Arduino Advanced**](../hardware/arduino/) **B**
+### [**Arduino Advanced**](../hardware-1/arduino/) **B**
 
 Hack the controls of existing games and game like experiences by building your own touch based interface! In this workshop participants will choose a game, and re-imagine how it's played  and experienced, for instance creating a "scary" Tetris or a "goofy" Resident Evil.
 
