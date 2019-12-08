@@ -57,7 +57,7 @@ void loop() {
 | Button 3 \(blue wire\) | Digital 2 |
 | Button 4 \(purple wire\) | Digital 3 |
 
-![](.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -139,7 +139,7 @@ Because Mio is made by an [Unidentified Developer](https://jonasjohansson.se/) t
 
 In order to control the keyboard, Mio requires permissions. On Mac, go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. **If a new version has been installed, this might have to be done again by toggling the checkbox!**
 
-![](.gitbook/assets/permissions.png)
+![](../.gitbook/assets/permissions.png)
 
 ### Resource Busy
 
@@ -149,13 +149,13 @@ Mio can not be connected at the same time that any other device is listening to 
 
 It is possible to speed up the communication between the serial device and computer, by bumping up the **Baudrate** from **9600** to **115200**. This must be done within the code as well as in Mio. If you are running Arduino, remember to change it also in the monitor \(in the bottom right corner\).
 
-![](.gitbook/assets/serial.png)
+![](../.gitbook/assets/serial.png)
 
 ### No Communication
 
 It is possible that Mio caches files which are then still remnant when using a new version. To clear the cache go to Help &gt; Reset and then Help &gt; Reload. If it still does not work, [contact the developer](https://jonasjohansson.se/) and send a screenshot of the window that appears when clicking Help &gt; Open Developer Tools Detached.
 
-![](.gitbook/assets/resetreload%20%281%29.png)
+![](../.gitbook/assets/resetreload%20%281%29.png)
 
 ## Roadmap
 

@@ -68,7 +68,6 @@
       * [Audio](learn/software/bitsy/advanced/audio.md)
     * [Inspiration](learn/software/bitsy/inspiration.md)
     * [FAQ](learn/software/bitsy/faq.md)
-  * [Glitch](learn/software/glitch.md)
 * [Hardware](learn/hardware/README.md)
   * [Arduino](learn/hardware/arduino/README.md)
     * [Basics](learn/hardware/arduino/basics.md)
@@ -114,7 +113,11 @@
     * [Buyers Guide](learn/hardware/projectors/buyers-guide.md)
   * [Lighting](learn/hardware/lighting.md)
 * [Documentation](learn/documentation.md)
-* [Mio](mio.md)
+
+## Tools
+
+* [Glitch](tools/glitch.md)
+* [Mio](tools/mio.md)
 
 ## Under consideration
 
