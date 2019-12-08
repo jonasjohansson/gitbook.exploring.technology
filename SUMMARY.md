@@ -28,7 +28,6 @@
       * [Face tracking](learn/software/a-frame/advanced/face-tracking.md)
       * [Magic door](learn/software/a-frame/advanced/magic-door.md)
       * [Stereo Viewing](learn/software/a-frame/advanced/stereo-viewing.md)
-      * [P5js](learn/software/a-frame/advanced/p5js.md)
     * [Augmented Reality](learn/software/a-frame/augmented-reality/README.md)
       * [Custom Marker](learn/software/a-frame/augmented-reality/custom-marker.md)
       * [Multi Marker](learn/software/a-frame/augmented-reality/multi-marker.md)
