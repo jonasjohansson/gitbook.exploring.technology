@@ -18,5 +18,5 @@ You are encouraged to look at the world of events as reference, or stories alrea
 
 Each team will create 1 Bitsy game, with at least 1 Arduino interface, to be released on [Itch](https://itch.io/games/tag-bitsy). The game should include music and sound \(we suggest [BeepBox](https://www.beepbox.co/) and [listening to this](https://www.youtube.com/watch?v=OZaR_4us6Ec)\) and be presented to the rest of Hyper by the end of the week! **You have only three days, spend them wisely.**
 
-{% page-ref page="../software-1/bitsy/" %}
+{% page-ref page="../learn/software-1/bitsy/" %}
 
