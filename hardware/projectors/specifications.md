@@ -4,9 +4,7 @@
 
 Projectors can be very similar to each other and for sure their function is almost the same, but it is important to know that each projector is different and each project might need an specific type. So being able to read and understand a projector spec sheet is an important  skill to have when planning your project. You'll have to separate the parts that are important, from the values that aren't standardized .
 
-#### 
-
-#### Resolution : 
+## Resolution
 
 This is a term that we are fully aware today,  we see it from our computer screens, phones and tv and projectors are not any different.
 
@@ -18,13 +16,15 @@ it is very common now to see projectors that "support" 4K resolution but this is
 
 So to make it simpler to understand those 4K pixels are not coming out the lens we are only getting a 1920x108p.
 
-**Lumens:** This spec is somewhat standardized with ANSI units, but different manufacturers can waver a bit. A difference of a couple hundred lumens between projectors isn't much to consider if you need something slightly brighter, it's easier to think in 1000 lumen increments generally. Also, as a guidance, you'll want at minimum around 215 lumens per square meter of image.  Below I will explain how you calculate the brightness.
+## Lumens
+
+This spec is somewhat standardized with ANSI units, but different manufacturers can waver a bit. A difference of a couple hundred lumens between projectors isn't much to consider if you need something slightly brighter, it's easier to think in 1000 lumen increments generally. Also, as a guidance, you'll want at minimum around 215 lumens per square meter of image.  Below I will explain how you calculate the brightness.
 
 Lumens generally is one of the most important features in a projector and with higher lumens you can over come ambience lighting.
 
+## **Contrast Ratio**
 
-
-**Contrast Ratio:** This non-standardized misleading unit used by the manufactures.
+his non-standardized misleading unit used by the manufactures.
 
 Contrast ratio in its simplest form is the ratio of the light reflected from an all white image and an all black image. So a projector with a 3000:1 contrast ratio means that the white image is 3000 times brighter than the black image. The higher the contrast ratio, the more detail you can see on the projected image whether it is numbers, pictures, graphs, text, or video. Contrast is what makes it possible for us to see the subtle shades of colors. 
 
@@ -36,11 +36,13 @@ So good contrast is all about seeing the details 3000 :1 contrast ratio is poore
 
 As you can see in the picture above a good contrast ratio is an important feature to achieve deeper blacks and bright whites.
 
+## **Throw ratio**
 
+This is probably the second most important specification behind lumens. This value gives you the ratio of the width of the projected image to the distance from the surface. If we know the throw ratio we can calculate where to place the projectors .For example, a throw ratio of 1:1 means that for every 1meter away from the wall, you will get 1meter of image width \(and your height is determined by the aspect ratio\).Lens zoom is also a related property because it allows you a small "variable" lens shift.
 
-**Throw ratio:** This is probably the second most important specification behind lumens. This value gives you the ratio of the width of the projected image to the distance from the surface. If we know the throw ratio we can calculate where to place the projectors .For example, a throw ratio of 1:1 means that for every 1meter away from the wall, you will get 1meter of image width \(and your height is determined by the aspect ratio\).Lens zoom is also a related property because it allows you a small "variable" lens shift.
+## **Lens Shift**
 
-**Lens Shift:** Lens shift is generally only available on higher end projectors. Most projectors have a slight lens offset that allows them to be below or above their screen and still have a square image.  Lens shift allows you to correct for this offset if necessary . Do not confuse lens shift with just tilting the projector, if you tilt the projector  would result in more key-stoning. Some projectors have manual or motorized lens shift and this depends on the price range of the projector. 
+Lens shift is generally only available on higher end projectors. Most projectors have a slight lens offset that allows them to be below or above their screen and still have a square image.  Lens shift allows you to correct for this offset if necessary . Do not confuse lens shift with just tilting the projector, if you tilt the projector  would result in more key-stoning. Some projectors have manual or motorized lens shift and this depends on the price range of the projector. 
 
 Having the freedom of controlling the lens shift will let you to worry less about exact placement of your projector because you will be able to shift the light beam around.
 
@@ -50,7 +52,7 @@ Most of the time I like to do the throw ratio calculation myself, but if you are
 
 Manufactures numbers can be a little bit off,  or you may need to shift the placement few centimeters. So it is always good to  have an extra +/- 5% of image could be really helpful.
 
-### Brightness 
+## Brightness 
 
 Our primary concern is our lumens per square meter ratio, as this is the value that really changes the final output. This is just calculated as: **Total Lumens / Area of projection** 
 

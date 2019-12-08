@@ -109,10 +109,11 @@
   * [📛 Badge Challenge](hardware/laser-cutting/badge-challenge.md)
   * [🎲 Dexterity Game Challenge](hardware/laser-cutting/puzzle-challenge.md)
 * [Projectors](hardware/projectors/README.md)
-  * [Specifications](hardware/projectors/specifications.md)
   * [Technology](hardware/projectors/technology.md)
+  * [Specifications](hardware/projectors/specifications.md)
   * [Types](hardware/projectors/types.md)
   * [Software](hardware/projectors/software.md)
+  * [Buyers Guide](hardware/projectors/buyers-guide.md)
 
 ## Tools
 
