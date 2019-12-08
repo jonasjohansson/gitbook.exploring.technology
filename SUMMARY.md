@@ -12,6 +12,7 @@
 
 ## Topic
 
+* [-](topic/undefined.md)
 * [Software](software-1/README.md)
   * [A-Frame](software-1/a-frame/README.md)
     * [Basics](software-1/a-frame/basics/README.md)
@@ -113,14 +114,14 @@
     * [Software](hardware-1/projectors/software.md)
     * [Buyers Guide](hardware-1/projectors/buyers-guide.md)
   * [Lighting](hardware-1/lighting.md)
+* [Tools](tools-1/README.md)
+  * [Glitch](tools-1/glitch.md)
+  * [Mio](tools-1/mio.md)
+* [Tips & Trix](tips-and-trix.md)
 
 ## Hardware
 
 ## Tools
-
-* [Mio](tools/mio.md)
-* [Glitch](tools/glitch.md)
-* [Tips & Trix](tips-and-trix.md)
 
 ## Under consideration
 
