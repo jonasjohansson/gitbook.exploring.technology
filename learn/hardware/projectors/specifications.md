@@ -1,9 +1,5 @@
 # Specifications
 
-
-
-Projectors can be very similar to each other and for sure their function is almost the same, but it is important to know that each projector is different and each project might need an specific type. So being able to read and understand a projector spec sheet is an important  skill to have when planning your project. You'll have to separate the parts that are important, from the values that aren't standardized .
-
 ## Resolution
 
 This is a term that we are fully aware today,  we see it from our computer screens, phones and tv and projectors are not any different.
