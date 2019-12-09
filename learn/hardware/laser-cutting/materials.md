@@ -1,6 +1,6 @@
 # Materials
 
-Laser cutters can cut and engrave in several materials.  For an extensive list visit [https://fslaser.com/Applications/](https://fslaser.com/Applications/) and [https://atxhs.org/wiki/Laser\_Cutter\_Materials](https://atxhs.org/wiki/Laser_Cutter_Materials).
+Laser cutters can cut and engrave in several materials. For an extensive list visit [https://fslaser.com/Applications/](https://fslaser.com/Applications/) and [https://atxhs.org/wiki/Laser\_Cutter\_Materials](https://atxhs.org/wiki/Laser_Cutter_Materials).
 
 The most common and useful materials are cardboard, plywood, MDF and acrylic.
 
@@ -26,7 +26,9 @@ By far the most expensive material, but the nicest to cut. It usually comes with
 🌱Be mindful of the environment when choosing materials and planning your cuts. Some materials such as \(a lot of types of\) acrylic are very difficult to recycle, others are actually recycled materials themselves. When submitting your project for cutting, we ask you to first make a version cut out of cardboard to test your design. Also try to be as efficient as possible with your cutting surface to reduce waste.
 {% endhint %}
 
-{% hint style="danger" %}
-Don't use anything that is made of, or may contain, **vinyl**. When lasered, a gas will be created which **will ruin the laser cutter** and **your health**. Do not use **fake leather**, unless it's known to be ​non-chlorinated​ PU \(PolyUrethane\).
-{% endhint %}
+## Dangerous materials
+
+Do not cut any of [these materials](http://cardiffhackspace.co.uk/knowledge-base/laser-cutter-dangerous-materials/).
+
+Do not use anything that is made of, or may contain, **vinyl**. When lasered, a gas will be created which **will ruin the laser cutter** and **your health**. Do not use **fake leather**, unless it's known to be ​non-chlorinated​ PU \(PolyUrethane\).
 

@@ -1,4 +1,4 @@
-# Getting started
+# Basics
 
 Laser cutting comes down to two properties: Speed \(expressed in mm/s\) and Power \(what % of laser tube power\).  Laser tubes come in lots of different strengths, from 1W to 200W, and these power ratings tend to fade over time, so that is why a % is used instead of a fixed number.
 

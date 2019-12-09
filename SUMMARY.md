@@ -96,7 +96,7 @@
     * [Input](learn/hardware/makey-makey/input.md)
     * [Output](learn/hardware/makey-makey/output.md)
   * [Laser Cutting](learn/hardware/laser-cutting/README.md)
-    * [Getting started](learn/hardware/laser-cutting/getting-started.md)
+    * [Basics](learn/hardware/laser-cutting/getting-started.md)
     * [Advanced](learn/hardware/laser-cutting/advanced.md)
     * [Resources](learn/hardware/laser-cutting/software.md)
     * [Machines](learn/hardware/laser-cutting/machines.md)
