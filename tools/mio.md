@@ -40,7 +40,7 @@ void loop() {
 
   if (btn4 == LOW) {
     int red = random(255);
-    // send 'red' and a random value between 0-255 over sockets
+    // send 'red' and a random value over sockets
     Serial.println("red" + String(red));
   }
 }
