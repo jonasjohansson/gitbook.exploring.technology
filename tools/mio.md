@@ -1,8 +1,6 @@
 # Mio
 
-Mio  is a minimal input and output application that enables serial communication for computer interaction.
-
-→ [https://jonasjohansson.itch.io/mio](https://jonasjohansson.itch.io/mio)
+Mio \([download](https://jonasjohansson.itch.io/mio)\) is a minimal input and output application that enables serial communication for computer interaction.
 
 ## Getting started
 
@@ -65,19 +63,19 @@ The types of messages currently supported are the following:
 
 | Message | Event |  | Version |
 | :--- | :--- | :--- | :--- |
-| $w | Click 'w' key | [List of keys](https://robotjs.io/docs/syntax#keys) | 1.0.0 |
-| $mouse | Click left mouse button |  | 1.1.3 |
-| 100,200 | Move cursor to x 100 and y 200 | Can be any number, must be comma separated. | 1.1.3 |
-| 0.1/composition/master | Send 0.1 on address /composition/master | Can be any float | 1.1.4 |
-| red255 | Send **red** and the value **255** over sockets | Can be any name and number. | 1.1.1 |
+| $w | Click 'w' key | [List of keys](https://robotjs.io/docs/syntax#keys) | **1.0.0** |
+| $mouse | Click left mouse button |  | **1.1.3** |
+| 100,200 | Move cursor to x 100 and y 200 | Can be any number, must be comma separated. | **1.1.3** |
+| 0.1/composition/master | Send 0.1 on address /composition/master | Can be any float | **1.1.4** |
+| red255 | Send **red** and the value **255** over sockets | Can be any name and number. | **1.1.1** |
 
 ### MIDI
 
-MIDI commands are sent by default with the control value being the index of the key referencing the key lookup table, found in Preferences. 
+MIDI commands are sent with the control value being the index of the key in lookup table \(found in File &gt; Preferences\). 
 
 ### OSC
 
-OSC commands are sent by default on port 7001 via UDP.
+OSC commands are sent by default on port **7001**.
 
 ### Websockets
 
