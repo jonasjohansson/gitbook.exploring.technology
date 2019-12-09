@@ -63,10 +63,10 @@ The types of messages currently supported are the following:
 
 | Message | Event |  | Version |
 | :--- | :--- | :--- | :--- |
-| $w | Click 'w' key | [List of keys](https://robotjs.io/docs/syntax#keys) | **1.0.0** |
-| $mouse | Click left mouse button |  | **1.1.3** |
-| 100,200 | Move cursor to x 100 and y 200 | Can be any number, must be comma separated. | **1.1.3** |
-| /composition/master0.1 | Send 0.1 on address /composition/master | Can be any float | **1.1.4** |
+| $w | Click **w** key | [List of keys](https://robotjs.io/docs/syntax#keys) | **1.0.0** |
+| $mouse | Click **left** mouse button |  | **1.1.3** |
+| 100,200 | Move cursor to **x 100** and **y 200** | Can be any number, must be comma separated. | **1.1.3** |
+| /composition/master0.1 | Send **0.1** on address **/composition/master** | Can be any float | **1.1.4** |
 | red255 | Send **red** and the value **255** over sockets | Can be any name and number. | **1.1.1** |
 
 ### MIDI
