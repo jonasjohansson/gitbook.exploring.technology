@@ -13,12 +13,12 @@
   </head>
   <body>
     <script>
-      let log;
+      let modelUrl = "https://teachablemachine.withgoogle.com/models/gC-2OI2X/";
       let options = {
         probabilityThreshold: 0.7
       };
-      let modelUrl = "https://teachablemachine.withgoogle.com/models/gC-2OI2X/";
-
+      let log;
+      
       function preload() {
         classifier = ml5.soundClassifier(
           modelUrl + "model.json",
@@ -38,7 +38,6 @@
         classifier.classify(gotResult);
       }
 
-      // The model recognizing a sound will trigger this event
       function gotResult(error, results) {
         if (error) {
           console.error(error);
@@ -46,7 +45,6 @@
         }
         let label = results[0].label;
         let confidence = nf(results[0].confidence, 0, 2);
-        // Show the first label and confidence
         log.html(`Label: ${label} <br>Confidence: ${confidence}`);
       }
     </script>
