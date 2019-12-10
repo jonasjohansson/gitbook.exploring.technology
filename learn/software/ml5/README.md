@@ -6,21 +6,5 @@ A framework which aims to make machine learning approachable for a broad audienc
 
 ![Train your own classifier](../../../.gitbook/assets/classification.gif)
 
-Examples shown will integrate ml5js with [p5js](https://start.exploring.technology/software/p5).
-
-#### Official workshop page
-
-{% embed url="http://andreasref.github.io/ml" %}
-
-#### Glitch versions of the example files \(along with some new ones\)
-
-{% embed url="https://glitch.com/@mickeyvanolst/andreas-ref-workshop-on-machine-learning-at-hyper-island-19" %}
-
-#### References mentioned by Andreas
-
-{% embed url="https://teachablemachine.withgoogle.com/" %}
-
-{% embed url="https://runwayml.com/" %}
-
 
 
