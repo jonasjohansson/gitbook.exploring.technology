@@ -11,34 +11,30 @@
   </head>
   <body>
     <script>
-      let modelUrl = "https://teachablemachine.withgoogle.com/models/H1sVtfEK/";
-      let video, flippedVideo;
+      let classifier;
+      let imageModelURL =
+        "https://teachablemachine.withgoogle.com/models/H1sVtfEK/";
 
-      function preload() {
-        classifier = ml5.imageClassifier(modelUrl + "model.json", modelReady);
-        log = createDiv("Loading model.");
-      }
+      let log, video;
 
       function setup() {
         noCanvas();
+        log = createDiv("Loading model.");
         video = createCapture(VIDEO);
-        video.size(320, 240);
-        //video.hide();
-        flippedVideo = ml5.flipImage(video);
+        classifier = ml5.imageClassifier(
+          imageModelURL + "model.json",
+          video,
+          modelReady
+        );
       }
 
-      function draw() {
-        background(0);
-        image(flippedVideo, 0, 0);
-      }
       function modelReady() {
         log.html("Model loaded!");
         classifyVideo();
       }
 
       function classifyVideo() {
-        flippedVideo = ml5.flipImage(video);
-        classifier.classify(flippedVideo, gotResult);
+        classifier.classify(gotResult);
       }
 
       function gotResult(error, results) {
@@ -54,6 +50,5 @@
     </script>
   </body>
 </html>
-
 ```
 
