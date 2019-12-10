@@ -15,7 +15,7 @@
     <script>
       let modelUrl = "https://teachablemachine.withgoogle.com/models/gC-2OI2X/";
       let options = {
-        probabilityThreshold: 0.7
+        probabilityThreshold: 0.9
       };
       let log;
       

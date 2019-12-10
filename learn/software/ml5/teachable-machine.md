@@ -21,3 +21,5 @@ Once trained, validate the inputs by finding the class label and seeing if it in
 
 ![](../../../.gitbook/assets/teachablemachine-export.png)
 
+Use this link and replace the ones in the [Examples](../p5/machine-learning/examples.md)!
+
