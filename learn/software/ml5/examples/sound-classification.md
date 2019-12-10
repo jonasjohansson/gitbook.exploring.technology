@@ -2,53 +2,52 @@
 
 
 
+## Whistle and Clap
+
+This example uses the model trained above. Change the `soundModel` to your link for your input.
+
 {% tabs %}
-{% tab title="HTML/JS" %}
+{% tab title="" %}
 ```markup
-<!DOCTYPE html>
 <html>
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.sound.min.js"></script>
     <script src="https://unpkg.com/ml5@0.4.3/dist/ml5.min.js"></script>
   </head>
   <body>
     <script>
-      // Initialize a sound classifier method with SpeechCommands18w model. A callback needs to be passed.
-      let classifier;
-      // Options for the SpeechCommands18w model, the default probabilityThreshold is 0
-      const options = { probabilityThreshold: 0.9 };
-      // Two variable to hold the label and confidence of the result
+      let options = {
+        probabilityThreshold: 0.7
+      };
       let label;
       let confidence;
+      let soundModel =
+        "https://teachablemachine.withgoogle.com/models/gC-2OI2X/";
 
       function preload() {
-        // Load SpeechCommands18w sound classifier model
-        classifier = ml5.soundClassifier("SpeechCommands18w", options);
+        //classifier = ml5.soundClassifier(soundModel + "model.json", options);
+        classifier = ml5.soundClassifier(SpeechCommands18w, options);
       }
 
       function setup() {
         noCanvas();
-        // Create 'label' and 'confidence' div to hold results
         label = createDiv("Label: ...");
         confidence = createDiv("Confidence: ...");
-        // Classify the sound from microphone in real time
         classifier.classify(gotResult);
       }
 
-      // A function to run when we get any errors and the results
       function gotResult(error, results) {
-        // Display error in the console
         if (error) {
           console.error(error);
+          return;
         }
-        // The results are in an array ordered by confidence.
-        console.log(results);
-        // Show the first label and confidence
         label.html("Label: " + results[0].label);
-        confidence.html("Confidence: " + nf(results[0].confidence, 0, 2)); // Round the confidence to 0.01
+        confidence.html("Confidence: " + nf(results[0].confidence, 0, 2));
+        timer = setTimeout(function() {
+          label.html("");
+          confidence.html("");
+        }, 500);
       }
     </script>
   </body>
