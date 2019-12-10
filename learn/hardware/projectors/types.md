@@ -1,22 +1,16 @@
 # Types
 
-Each project might need a different type of projector, maybe you are doing a projection in dark and control room in an art gallery or an interactive projection and you can’t have the shadows of the audience, or could be a massive projection and you need 20 large venue projectors. 
+Each project might need a different type of projector!
 
-When you are planning your project is very important to understand what type of projector you need and why.
+## Pico
 
-## Pico Projectors
+With brightness ranging from 20-1000 lumens with resolution from 640x360 to 1280x800, the pico projector can pack a big punch for small surfaces. Some can be powered with batteries, and just few has infinite depth of field and require no focusing, so you can project on very close up things clearly.
 
-I’m not going to talk so much about this one, because probably you will not find so many situation where you need this type of projector.  Normally the **Brightness range :** 20 lumens to 1000 lumens, and a **Resolution range :** 640 x 360 to 1280 x 800
+Pico projectors are great for creative projects, [such as this](https://www.youtube.com/watch?v=cwL3PEeE0).
 
-Some pico projectors can be powered with batteries, and just few has infinite depth of field and require no focusing, so you can project on very close up things clearly.
+## Portable
 
-![](../../../.gitbook/assets/optoma-ml750e-wxga-led.jpg)
-
-But if you want to get inspired with what you can do with a pico projector and be creative here is a nice example: [https://www.youtube.com/watch?v=cwL3PEeE0sU](https://www.youtube.com/watch?v=cwL3PEeE0sU)
-
-## Portable Projector
-
-This type probably you are very familiar with, they are very common in classrooms and small office space. Normally they only have a single lamp, not so bright and the mechanical parts inside are not so stable, so don’t crazy with this type of projector.
+This type probably you are very familiar with, they are very common in classrooms and small office spaces. Normally they only have a single lamp, not so bright and the mechanical parts inside are not so stable, so don’t crazy with this type of projector.
 
 **Brightness range:** 1000 lumens to 3000 lumens **Resolution :** 1024x768 to 1080 p
 

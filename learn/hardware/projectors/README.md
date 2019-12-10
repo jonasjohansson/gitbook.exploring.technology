@@ -1,15 +1,14 @@
 # Projectors
 
-Projectors are an amazing piece of equipment, that allows us to play with the perception of reality using light and shadows.
+Projectors are an amazing piece of equipment that allows us to play with the perception of reality using light and shadows.
 
 ![Large Venue Projectors - Setup by Obscura Digital ](../../../.gitbook/assets/projectorsstack.png)
 
-As a good practice you should always plan ahead and make a checklist before choose a projector for interactive installation or larger projection. Here is a sample of a checklist.
+As a good practice you should always plan ahead and make a checklist before choosing a projector:
 
-* What are you projecting on? 
-* Size of the projection?
+* What is the projection surface and surface size?
+* Is the surface flat or bumpy/complex?
 * Scrim material?
-* Flat surface or complex geometry?
 * Architectural projection?
 * What is the environment like?
 * indoor or outdoor?
