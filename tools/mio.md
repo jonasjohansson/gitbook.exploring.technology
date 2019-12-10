@@ -63,11 +63,11 @@ The types of messages currently supported are the following:
 
 | Message | Event |  | Version |
 | :--- | :--- | :--- | :--- |
-| $w | Click **w** key | [List of keys](https://robotjs.io/docs/syntax#keys) | **1.0.0** |
-| $mouse | Click **left** mouse button |  | **1.1.3** |
-| 100,200 | Move cursor to **x 100** and **y 200** | Can be any number, must be comma separated. | **1.1.3** |
-| /composition/master0.1 | Send **0.1** on address **/composition/master** | Can be any float | **1.1.4** |
-| red255 | Send **red** and the value **255** over sockets | Can be any name and number. | **1.1.1** |
+| $w | Click w key | [List of keys](https://robotjs.io/docs/syntax#keys) | 1.0.0 |
+| $mouse | Click left mouse button |  | 1.1.3 |
+| 100,200 | Move cursor to x 100 and y 200 | Can be any number, must be comma separated. | 1.1.3 |
+| /composition/master0.1 | Send 0.1 on address /composition/master | Can be any float | 1.1.4 |
+| red255 | Send red and the value 255 over sockets | Can be any name and number. | 1.1.1 |
 
 ### MIDI
 
@@ -75,11 +75,11 @@ MIDI commands are sent with the control value being the index of the key in look
 
 ### OSC
 
-OSC commands are sent by default on port **7001**.
+OSC commands are sent by default on port 7001.
 
 ### Websockets
 
-Mio creates a local websocket server with the default port **8080**. This means that generative graphics, for instance, can be manipulated by a button or potentiometer. Clients must be initialised **after** the server has started.
+Mio creates a local websocket server with the default port 8080. This means that generative graphics, for instance, can be manipulated by a button or potentiometer. Clients must be initialised **after** the server has started.
 
 {% hint style="success" %}
 It's a bit secret but it is also possible to send key commands to Mio via websockets. Try typing `ws.send("$x")` and it will behave just like printing it from Arduino. Magic! 🧝🏽

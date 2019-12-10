@@ -1,4 +1,4 @@
-# ◼️ Kazemir Mini Challenge
+# 🎨 Kazemir Challenge
 
 Work **individually** and re-create Kazemir Malevich "Black Square and Red Square". This is an exercise trying out **shapes**, **colour**, **translate** and **rotation**.
 

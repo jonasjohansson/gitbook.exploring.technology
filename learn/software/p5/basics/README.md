@@ -1,21 +1,5 @@
 # Basics
 
-## Setup your sketch
-
-```markup
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://cdn.jsdelivr.net/npm/p5@0.10.2/lib/p5.js"></script>
-    <script src="sketch.js"></script>
-  </head>
-  <body>
-  </body>
-</html>
-```
-
-We include p5 as a script tag in the `<head>`. Next, we include sketch.js, a separate Javascript file which we will use to write our code.
-
 ## [Editor](https://editor.p5js.org/)
 
 ![](../../../../.gitbook/assets/p5-editor.png)
