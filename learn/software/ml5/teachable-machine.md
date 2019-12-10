@@ -22,5 +22,5 @@ Once trained, validate the inputs by finding the class label and seeing if it in
 
 1. Choose **Upload my model** to make it easy to use for others and yourself. It is also possible to download, and import in your project.
 2. Once uploaded a **shareable link** will appear, that means the upload was successful!
-3. Use the link and replace the ones in the [Examples](../p5/machine-learning/examples.md)!
+3. Use the link and replace the ones in the [Examples]()!
 

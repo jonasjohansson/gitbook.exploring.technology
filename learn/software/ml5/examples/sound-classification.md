@@ -1,6 +1,6 @@
 # Sound Classification
 
-## Whistle and Clap
+The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-classifier) allows you to classify audio. With the right pre-trained models, you can detect whether a certain noise was made or a certain word was said. It is also possible to use the pre-trained speech commands or use the "SpeechCommands18w" which can recognise "the ten digits from "zero" to "nine", "up", "down", "left", "right", "go", "stop", "yes", "no".
 
 ```markup
 <html>
@@ -41,7 +41,7 @@
           console.error(error);
           return;
         }
-        let label = results[0].label;
+        let label = results[0].label.toLowerCase();
         let confidence = nf(results[0].confidence, 0, 2);
         log.html(`Label: ${label} <br>Confidence: ${confidence}`);
       }
