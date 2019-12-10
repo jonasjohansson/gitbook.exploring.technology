@@ -59,7 +59,6 @@
     * [🎨 Abstract Art Challenge](learn/software/p5/learning-challenge.md)
   * [Machine Learning](learn/software/ml5/README.md)
     * [Teachable Machine](learn/software/ml5/teachable-machine.md)
-    * [Basics](learn/software/ml5/basics.md)
     * [Examples](learn/software/ml5/examples/README.md)
       * [Sound Classification](learn/software/ml5/examples/sound-classification.md)
   * [Bitsy](learn/software/bitsy/README.md)
