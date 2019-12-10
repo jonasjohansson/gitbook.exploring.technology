@@ -2,8 +2,6 @@
 
 ## Whistle and Clap
 
-{% tabs %}
-{% tab title="" %}
 ```markup
 <html>
   <head>
@@ -52,8 +50,6 @@
 </html>
 
 ```
-{% endtab %}
-{% endtabs %}
 
 {% hint style="success" %}
 The `SpeechCommands18w`  is a JavaScript module that enables recognition of spoken commands comprised of simple isolated English words from a small vocabulary. The default vocabulary includes the following words: the ten digits from "zero" to "nine", "up", "down", "left", "right", "go", "stop", "yes", "no", as well as the additional categories of "unknown word" and "background noise".

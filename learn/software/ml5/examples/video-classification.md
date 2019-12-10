@@ -2,8 +2,6 @@
 
 ## Light and Dark
 
-{% tabs %}
-{% tab title="" %}
 ```markup
 <html>
   <head>
@@ -58,6 +56,4 @@
 </html>
 
 ```
-{% endtab %}
-{% endtabs %}
 
