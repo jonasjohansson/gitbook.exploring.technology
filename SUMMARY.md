@@ -61,6 +61,7 @@
     * [Teachable Machine](learn/software/ml5/teachable-machine.md)
     * [Examples](learn/software/ml5/examples/README.md)
       * [Sound Classification](learn/software/ml5/examples/sound-classification.md)
+      * [Video Classification](learn/software/ml5/examples/video-classification.md)
   * [Bitsy](learn/software/bitsy/README.md)
     * [Basics](learn/software/bitsy/basics/README.md)
       * [Paint & Colors](learn/software/bitsy/basics/paint-and-colors.md)

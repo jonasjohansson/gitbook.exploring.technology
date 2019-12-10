@@ -1,10 +1,6 @@
 # Sound Classification
 
-
-
 ## Whistle and Clap
-
-This example uses the model trained above. Change the `soundModel` to your link for your input.
 
 {% tabs %}
 {% tab title="" %}
@@ -17,37 +13,41 @@ This example uses the model trained above. Change the `soundModel` to your link 
   </head>
   <body>
     <script>
+      let log;
       let options = {
         probabilityThreshold: 0.7
       };
-      let label;
-      let confidence;
-      let soundModel =
-        "https://teachablemachine.withgoogle.com/models/gC-2OI2X/";
+      let modelUrl = "https://teachablemachine.withgoogle.com/models/gC-2OI2X/";
 
       function preload() {
-        //classifier = ml5.soundClassifier(soundModel + "model.json", options);
-        classifier = ml5.soundClassifier(SpeechCommands18w, options);
+        classifier = ml5.soundClassifier(
+          modelUrl + "model.json",
+          modelReady,
+          options
+        );
+        log = createDiv("Loading model.");
+        //classifier = ml5.soundClassifier("SpeechCommands18w", modelReady, options);
       }
 
       function setup() {
         noCanvas();
-        label = createDiv("Label: ...");
-        confidence = createDiv("Confidence: ...");
+      }
+
+      function modelReady() {
+        log.html("Model loaded!");
         classifier.classify(gotResult);
       }
 
+      // The model recognizing a sound will trigger this event
       function gotResult(error, results) {
         if (error) {
           console.error(error);
           return;
         }
-        label.html("Label: " + results[0].label);
-        confidence.html("Confidence: " + nf(results[0].confidence, 0, 2));
-        timer = setTimeout(function() {
-          label.html("");
-          confidence.html("");
-        }, 500);
+        let label = results[0].label;
+        let confidence = nf(results[0].confidence, 0, 2);
+        // Show the first label and confidence
+        log.html(`Label: ${label} <br>Confidence: ${confidence}`);
       }
     </script>
   </body>
@@ -56,4 +56,8 @@ This example uses the model trained above. Change the `soundModel` to your link 
 ```
 {% endtab %}
 {% endtabs %}
+
+{% hint style="success" %}
+The `SpeechCommands18w`  is a JavaScript module that enables recognition of spoken commands comprised of simple isolated English words from a small vocabulary. The default vocabulary includes the following words: the ten digits from "zero" to "nine", "up", "down", "left", "right", "go", "stop", "yes", "no", as well as the additional categories of "unknown word" and "background noise".
+{% endhint %}
 
