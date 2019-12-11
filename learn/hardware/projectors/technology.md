@@ -47,6 +47,6 @@ There are numerous benefits with a laser light source, but the bottom line is th
 The qualitative brightness superiority and potential for energy savings combined with the significant reduction of maintenance cost makes it likely that laser will eventually replace lamp-based projection systems as the primary projection light source.
 
 {% hint style="danger" %}
-**There is a myth out there about Laser projectors can only be installed by specialists. This might have been true previously, as laser regulation meant that the installation process had to be conducted by a trained professional. Now, however, the installation of laser projectors has been made easier, as classification changes mean that specially trained laser officers are not required – previously this would have added complexity to the installation. Now, there are recommendations for health and safety but is it no longer in the realm of laser regulation. For early adopters of laser, this transforms the installation process, making it easier, more cost-effective and faster.**
+There is a myth that laser projectors can only be installed by specialists. This might have been true previously, as laser regulation meant that the installation process had to be conducted by a trained professional. Now, however, the installation of laser projectors has been made easier, as classification changes mean that specially trained laser officers are not required.
 {% endhint %}
 

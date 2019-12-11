@@ -2,7 +2,7 @@
 
 Welcome to Glitch, a creative and expressive platform that everyone can use to create the web. In short it's a full web development package that allows for writing cool code, collaboration, easy sharing \(everything is live\), HTTPS and custom domain names.
 
-### Setup
+## Setup
 
 Visit [Glitch](https://glitch.com/) and login with your [Github](https://github.com) account or create a new account. Then choose **New Project** and choose the _hello-webpage_ option.
 
@@ -33,4 +33,8 @@ When using secure services such as camera, GPS and device API you will need visi
   }
 </script>
 ```
+
+## Domain
+
+At some point the Glitch domain will not suffice. At this point it would be natural to look for a new domain! To connect a custom domain to Glitch you must be **thanked twice**, then follow this 
 
