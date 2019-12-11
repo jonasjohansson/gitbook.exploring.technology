@@ -14,17 +14,9 @@ The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-cla
   <body>
     <script>
       let modelUrl = "https://teachablemachine.withgoogle.com/models/gC-2OI2X/";
-      let options = {
-        probabilityThreshold: 0.9
-      };
-      let log;
-      
+
       function preload() {
-        classifier = ml5.soundClassifier(
-          modelUrl + "model.json",
-          modelReady,
-          options
-        );
+        classifier = ml5.soundClassifier(modelUrl + "model.json", modelReady);
         log = createDiv("Loading model.");
         //classifier = ml5.soundClassifier("SpeechCommands18w", modelReady, options);
       }
@@ -50,6 +42,7 @@ The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-cla
     </script>
   </body>
 </html>
+
 ```
 {% endtab %}
 
@@ -65,9 +58,6 @@ The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-cla
   <body>
     <script>
       let modelUrl = "https://teachablemachine.withgoogle.com/models/X8jOJwqo/";
-      let options = {
-        probabilityThreshold: 0.9
-      };
 
       let sounds = [
         {
@@ -88,11 +78,7 @@ The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-cla
       ];
 
       function preload() {
-        classifier = ml5.soundClassifier(
-          modelUrl + "model.json",
-          modelReady,
-          options
-        );
+        classifier = ml5.soundClassifier(modelUrl + "model.json", modelReady);
 
         for (let sound of sounds) {
           sound.isEnabled = false;
@@ -145,6 +131,7 @@ The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-cla
     </script>
   </body>
 </html>
+
 ```
 {% endtab %}
 {% endtabs %}
