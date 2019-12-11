@@ -7,7 +7,9 @@ Become the experience. Leave transformed._
 
 _16/12-19, 17 - 20._
 
-[https://www.facebook.com/events/2476015782496181/](https://www.facebook.com/events/2476015782496181/)
+{% embed url="https://www.facebook.com/events/2476015782496181/" %}
+
+![](../.gitbook/assets/circleofplay-logo.png)
 
 ## Website
 
