@@ -1,21 +1,27 @@
 # Exhibition
 
-## Exhibition on the forum
+_Come witness and lose yourself into the magical Hyper Island Circle of Play. A playground of ideas and experiences designed by 17 teams and 100 students of the Digital Media Creative & Design Lead programs by combining meaningful play, narrative and tech._
 
-{% embed url="https://forum.exploring.technology/t/exhibition-questions" %}
+_Participate. Play. Immerse.   
+Become the experience. Leave transformed._
 
-## Class representatives
+_16/12-19, 17 - 20._
 
-| Week | Who |
-| :--- | :--- |
-| 47-51 | [nanda.vandenhoek@hyperisland.se](mailto:nanda.vandenhoek@hyperisland.se) [nadine.ochsner@hyperisland.se](mailto:nadine.ochsner@hyperisland.se) |
-| 47 | [alice.abrahamsson@hyperisland.se](mailto:alice.abrahamsson@hyperisland.se) [michelle.john@hyperisland.se](mailto:michelle.john@hyperisland.se) |
-| 48 | [gauri.kaushik@hyperisland.se](mailto:gauri.kaushik@hyperisland.se) [ezequiel.almonacid@hyperisland.se](mailto:ezequiel.almonacid@hyperisland.se) |
-| 49 | [paras.agarwal@hyperisland.se](mailto:paras.agarwal@hyperisland.se) [anna.shadricheva@hyperisland.se](mailto:anna.shadricheva@hyperisland.se) |
-| 50 | [ben.angel@hyperisland.se](mailto:ben.angel@hyperisland.se) [juliusz.mielczarek@hyperisland.se](mailto:juliusz.mielczarek@hyperisland.se) |
-| 51 | [claudia.velhas@hyperisland.se](mailto:claudia.velhas@hyperisland.se) [linnea.bergling@hyperisland.se](mailto:linnea.bergling@hyperisland.se) |
+[https://www.facebook.com/events/2476015782496181/](https://www.facebook.com/events/2476015782496181/)
 
-## Exhibition teams
+## Website
+
+![www.hyperplay.se](../.gitbook/assets/circleofplay.png)
+
+## [Signage](https://docs.google.com/spreadsheets/d/1-qEFpnXHGDX5kzjbTKUTYsvehagN8hqr8-qB1IG4kIU/edit#gid=0)
+
+Each team will have a laser cut wooden sign including:
+
+1. **Team number**
+2. **Project title**
+3. **Team members**
+
+## Teams
 
 ### Website
 

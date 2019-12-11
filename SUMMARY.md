@@ -7,7 +7,6 @@
   * [Team](hyper-island/team.md)
   * [References](hyper-island/references.md)
   * [Exhibition](hyper-island/exhibition.md)
-  * [Circle of Play](hyper-island/circle-of-play.md)
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
   * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
 
