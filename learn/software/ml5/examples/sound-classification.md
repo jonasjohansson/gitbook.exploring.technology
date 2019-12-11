@@ -1,7 +1,5 @@
 # Sound Classification
 
-## Clap and Whistle
-
 The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-classifier) allows you to classify audio. With the right pre-trained models, you can detect whether a certain noise was made or a certain word was said. It is also possible to use the pre-trained speech commands or use the "SpeechCommands18w" which can recognise "the ten digits from "zero" to "nine", "up", "down", "left", "right", "go", "stop", "yes", "no".
 
 {% tabs %}
@@ -154,6 +152,4 @@ The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-cla
 {% hint style="success" %}
 The `SpeechCommands18w`  is a JavaScript module that enables recognition of spoken commands comprised of simple isolated English words from a small vocabulary. The default vocabulary includes the following words: the ten digits from "zero" to "nine", "up", "down", "left", "right", "go", "stop", "yes", "no", as well as the additional categories of "unknown word" and "background noise".
 {% endhint %}
-
-
 
