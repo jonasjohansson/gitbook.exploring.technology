@@ -36,5 +36,5 @@ When using secure services such as camera, GPS and device API you will need visi
 
 ## Domain
 
-At some point the Glitch domain will not suffice. At this point it would be natural to look for a new domain! To connect a custom domain to Glitch you must be **thanked twice**, then follow this 
+At some point the Glitch domain will not suffice. At this point it would be natural to look for a new domain! To connect a custom domain to Glitch you must be **thanked twice**, then follow [this guide](https://glitch.com/help/custom-domain/). 
 
