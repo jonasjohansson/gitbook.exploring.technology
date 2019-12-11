@@ -12,7 +12,8 @@ Pico projectors are great for creative projects, [such as this](https://www.yout
 
 This type probably you are very familiar with, they are very common in classrooms and small office spaces. Normally they only have a single lamp, not so bright and the mechanical parts inside are not so stable, so don’t crazy with this type of projector.
 
-**Brightness range:** 1000 lumens to 3000 lumens **Resolution :** 1024x768 to 1080 p
+**Brightness range:** 1000 lumens to 3000 lumens  
+**Resolution:** 1024x768 to 1080 p
 
 ![](../../../.gitbook/assets/portable_projector.png)
 
@@ -32,7 +33,9 @@ If you want to use this type in an outdoor installation just take in considerati
 
 So probably over 85% of your projects will be **OK** using this type of projector, and media artists loves these ones.
 
-**Price Range:** $2200 - $13,000 **Brightness range**: 3000-10000 lumens **Resolution range**: 1280x720 to 1920 x1200
+**Price Range:** $2200 - $13,000  
+**Brightness range**: 3000-10000 lumens  
+**Resolution range**: 1280x720 to 1920 x1200
 
 ![](../../../.gitbook/assets/installationprojector.png)
 
@@ -56,7 +59,9 @@ If you are planning to have an installation longer than a week probably will mak
 
 Most of the time if you ever need a large venue projector probably you are hiring a company that does all the calculations for you,  nevertheless still a good a idea to have a solid understanding on how to work with this type of projectors. 
 
-**Price Range**: $8000 - More than a house       **Brightness Range**: 5000 lumens to 75,000 lumens \( as far as I know\)  **Resolution Range**: 1920x1080 to 4K
+**Price Range**: $8000 - More than a house  
+**Brightness Range**: 5000 lumens to 75,000 lumens   
+**Resolution Range**: 1920x1080 to 4K
 
 ![](../../../.gitbook/assets/lgv_projector.png)
 
