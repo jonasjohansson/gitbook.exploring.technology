@@ -62,6 +62,7 @@
     * [Image Classification](learn/software/ml5/video-classification.md)
     * [Sound Classification](learn/software/ml5/sound-classification.md)
     * [References](learn/software/ml5/references.md)
+  * [MIDI & OSC](learn/software/midi-and-osc.md)
   * [Bitsy](learn/software/bitsy/README.md)
     * [Basics](learn/software/bitsy/basics/README.md)
       * [Paint & Colors](learn/software/bitsy/basics/paint-and-colors.md)
@@ -121,7 +122,6 @@
 
 ## Tools
 
-* [MIDI & OSC](tools/midi-and-osc.md)
 * [Glitch](tools/glitch.md)
 * [Mio](tools/mio.md)
 
