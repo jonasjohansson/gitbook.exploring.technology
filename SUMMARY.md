@@ -6,7 +6,9 @@
   * [Talks](hyper-island/talks.md)
   * [Team](hyper-island/team.md)
   * [References](hyper-island/references.md)
-  * [Exhibition](hyper-island/exhibition.md)
+  * [Exhibition](hyper-island/exhibition/README.md)
+    * [Map](hyper-island/exhibition/map.md)
+    * [Website](hyper-island/exhibition/website.md)
   * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
   * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
 

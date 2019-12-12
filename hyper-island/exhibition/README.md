@@ -5,23 +5,9 @@ _Come witness and lose yourself into the magical Hyper Island Circle of Play. A 
 _Participate. Play. Immerse.   
 Become the experience. Leave transformed._
 
-_16/12-19, 17 - 20._
+_16/12-19, 17-20._
 
-{% embed url="https://www.facebook.com/events/2476015782496181/" %}
-
-![](../.gitbook/assets/circleofplay-logo.png)
-
-## Website
-
-![www.hyperplay.se](../.gitbook/assets/circleofplay.png)
-
-## [Signage](https://docs.google.com/spreadsheets/d/1-qEFpnXHGDX5kzjbTKUTYsvehagN8hqr8-qB1IG4kIU/edit#gid=0)
-
-Each team will have a laser cut wooden sign including:
-
-1. **Team number**
-2. **Project title**
-3. **Team members**
+[Facebook Event](https://www.facebook.com/events/2476015782496181/)
 
 ## Teams
 
