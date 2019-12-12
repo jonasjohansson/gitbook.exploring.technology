@@ -58,9 +58,9 @@
   * [Machine Learning](learn/software/ml5/README.md)
     * [Teachable Machine](learn/software/ml5/teachable-machine.md)
     * [Overview](learn/software/ml5/object-detection-algorithms.md)
-    * [Examples](learn/software/ml5/examples/README.md)
-      * [Sound Classification](learn/software/ml5/examples/sound-classification.md)
-      * [Image Classification](learn/software/ml5/examples/video-classification.md)
+    * [Pose Classification](learn/software/ml5/pose-classification.md)
+    * [Image Classification](learn/software/ml5/video-classification.md)
+    * [Sound Classification](learn/software/ml5/sound-classification.md)
     * [References](learn/software/ml5/references.md)
   * [Bitsy](learn/software/bitsy/README.md)
     * [Basics](learn/software/bitsy/basics/README.md)
@@ -87,7 +87,6 @@
       * [12V](learn/hardware/arduino/output/12v.md)
       * [Motors](learn/hardware/arduino/output/motors.md)
     * [Advanced](learn/hardware/arduino/advanced/README.md)
-      * [MIDI](learn/hardware/arduino/advanced/midi.md)
       * [Keyboard](learn/hardware/arduino/advanced/keyboard-midi.md)
       * [Timers](learn/hardware/arduino/advanced/timers.md)
       * [Smoothing](learn/hardware/arduino/advanced/smoothing.md)
@@ -122,6 +121,7 @@
 
 ## Tools
 
+* [MIDI & OSC](tools/midi-and-osc.md)
 * [Glitch](tools/glitch.md)
 * [Mio](tools/mio.md)
 

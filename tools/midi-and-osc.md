@@ -1,4 +1,8 @@
-# MIDI
+# MIDI & OSC
+
+{% embed url="https://www.snoize.com/MIDIMonitor/" %}
+
+[https://webmidi-examples.glitch.me/](https://webmidi-examples.glitch.me/)
 
 Combining Arduino with MIDI is a popular route for creating interactive audio objects, and there has been much work enabling the process, let's try it!
 
