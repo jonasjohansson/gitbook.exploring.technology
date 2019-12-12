@@ -7,7 +7,7 @@ Become the experience. Leave transformed._
 
 _16/12-19, 17-20._
 
-[Facebook Event](https://www.facebook.com/events/2476015782496181/)
+[Facebook Even](https://www.facebook.com/events/2476015782496181/)t[, Website](http://hyperplay.se/)
 
 ## Teams
 
