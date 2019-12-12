@@ -35,7 +35,7 @@ The [ml5.soundClassifier\(\)](https://learn.ml5js.org/docs/#/reference/sound-cla
           console.error(error);
           return;
         }
-        let label = results[0].label;
+        let label = results[0].label.toLowerCase();
         let confidence = results[0].confidence;
         log.html(`Label: ${label} <br>Confidence: ${confidence}`);
       }
