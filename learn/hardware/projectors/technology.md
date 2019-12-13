@@ -1,16 +1,18 @@
 # Technology
 
+## Overview
+
 ## DLP
 
-DLP stands for _Digital Light Processing_. This is one of the most commonly used projector types. One of the key features of a  DLP technology is that it can display much darker blacks than LCD technology which is especially helpful for illusions like projection mapping. 
+DLP stands for _Digital Light Processing_ and is the most commonly used projector type. One of the key features of DLP is that it can display much darker blacks than LCD which is especially helpful for illusions like projection mapping. 
+
+{% embed url="https://www.youtube.com/watch?v=ZscCaUWGYO4" caption="Projector Tech Comparison: LCD vs DLP" %}
 
 Within DLP projectors you can find two types, Single chip and 3-Chip. In single chip DLP,  a light source is passed through a rapidly spinning multi-segment color wheel of 3 or more dichroic glass sections \(7 or more color segments is a more "desirable" spec than 3\). That light then bounces off a matrix of electrically controlled microscopic mirrors that determine the brightness of each individual pixel. The beam then passes through filters and out through a lens. The timing between the color wheel and the movement of the mirrors determines the color of the output.
 
-![](../../../.gitbook/assets/how-a-dlp-projector-works-on-the-inside-2.jpg)
+![](http://f.vimeocdn.com/si/videoschool/ProjectorDLP.jpg)
 
 Standard DLP projectors use 3-segment color wheels. 4-part color wheels add a white segment \(to increase brightness\). 6-segment color wheels deliver a wider color range. [6x Speed RGBRGB Color Wheel projectors](https://www.viewsonic.com/us/px725hd.html) boost red, blue, and green hue and saturation. The result: vivid images with smoother color gradients. 
-
-![](../../../.gitbook/assets/texas-instruments-dlp-6-segment-color-wheel-9.jpg)
 
 Here is more information about it: [https://forums.afterdawn.com/threads/the-3-types-of-projector-explained-lcd-dlp-crt.291323/](https://forums.afterdawn.com/threads/the-3-types-of-projector-explained-lcd-dlp-crt.291323/)
 
@@ -18,7 +20,7 @@ Here is more information about it: [https://forums.afterdawn.com/threads/the-3-t
 
 There are a couple different LCD technologies for projection, but 3LCD is probably the most recommended in terms of image quality. With LCD projection, a light source is bounced through 3 dichroic filters that turn the white light into precise red/green/blue frequencies. Those differently colored beams of light then pass through liquid crystal arrays that turn on and off their pixels and block the different light patterns to form the image. Those LCD's are then recombined with a prism that recombines the 3 colored segments into a single light beam/image that then passes through a lens. 
 
-![](../../../.gitbook/assets/3lcd_projector.png)
+![](http://f.vimeocdn.com/si/videoschool/ProjectorLCD.jpg)
 
 LCD projection doesn't have the rainbow banding effect that DLP does and tends to be easier to film, but it doesn't have the darkest blacks, so it doesn't disappear as much when the screen is just displaying a black image, and you can see more like a grayish color.
 

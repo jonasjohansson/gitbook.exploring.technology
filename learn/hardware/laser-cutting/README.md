@@ -1,7 +1,5 @@
 # Laser Cutting
 
-### Laser Cutting on the forum
-
 Laser cutting is a great tool for rapidly transferring digital designs into real life objects. It is just one method of doing this, with other ones being CNC and 3D printing. All of these methods have their strengths and weaknesses, but this course is focusing on laser cutting because it is by far the simplest to understand as well as the fastest.
 
 A laser cutter is a machine with a tube \(either diodes which are tiny, or C02 which is much much bigger\) that concentrates light enough to be able to cut and engrave lots of different materials such as wood, paper and acrylic. Through a series of mirrors, this beam of light is directed down onto a work surface and controlled via X + Y axis stepper motors. 
