@@ -1,20 +1,14 @@
 # Technology
 
-## Overview
-
 ## DLP
 
 DLP stands for _Digital Light Processing_ and is the most commonly used projector type. One of the key features of DLP is that it can display much darker blacks than LCD which is especially helpful for illusions like projection mapping. 
-
-{% embed url="https://www.youtube.com/watch?v=ZscCaUWGYO4" caption="Projector Tech Comparison: LCD vs DLP" %}
 
 Within DLP projectors you can find two types, Single chip and 3-Chip. In single chip DLP,  a light source is passed through a rapidly spinning multi-segment color wheel of 3 or more dichroic glass sections \(7 or more color segments is a more "desirable" spec than 3\). That light then bounces off a matrix of electrically controlled microscopic mirrors that determine the brightness of each individual pixel. The beam then passes through filters and out through a lens. The timing between the color wheel and the movement of the mirrors determines the color of the output.
 
 ![](http://f.vimeocdn.com/si/videoschool/ProjectorDLP.jpg)
 
-Standard DLP projectors use 3-segment color wheels. 4-part color wheels add a white segment \(to increase brightness\). 6-segment color wheels deliver a wider color range. [6x Speed RGBRGB Color Wheel projectors](https://www.viewsonic.com/us/px725hd.html) boost red, blue, and green hue and saturation. The result: vivid images with smoother color gradients. 
-
-Here is more information about it: [https://forums.afterdawn.com/threads/the-3-types-of-projector-explained-lcd-dlp-crt.291323/](https://forums.afterdawn.com/threads/the-3-types-of-projector-explained-lcd-dlp-crt.291323/)
+Standard DLP projectors use 3-segment color wheels. 4-part color wheels add a white segment \(to increase brightness\). 6-segment color wheels deliver a wider color range. [6x Speed RGBRGB Color Wheel projectors](https://www.viewsonic.com/us/px725hd.html) boost red, blue, and green hue and saturation. The result: vivid images with smoother color gradients.
 
 ## LCD
 
@@ -26,27 +20,22 @@ LCD projection doesn't have the rainbow banding effect that DLP does and tends t
 
 ## Laser
 
-What can I say about Laser projectors, well they are the " new thing" and they are super cool, and set to become the standard for projector technology.  According to Futuresource, the market for projectors in 2020 will be 74% laser based. It offers reliability, high brightness, and is set to offer significant advantages to a range of industries or applications including cinema, large venues, education and control room. 
-
-![](../../../.gitbook/assets/laser.png)
-
-#### Laser offer  new benefits and here is a few of them:
+Set to become the standard for projector technology, laser technology offers reliability and high brightness, along with many other benefits, such as:
 
 * Illumination source lifetimes of 20,000 hours or even more
-* More brightness – up to 70,000 lumen
+* Up to 70000 lumen
 * Lower brightness decline during life time
 * Better brightness uniformity
-* Generally maintenance free, as no lamp replacement necessary
+* No lamp replacement necessary
 * Higher reliability
 * Higher contrast
 * Wider color gamut
 * Lower energy consumption and lower thermal emission
 * Instant on/off capability, flexible brightness adjustment \(20-100%\)
-* Mercury free
+
+![](https://www.christiedigital.com/img/In-Page%20Images/Laser%20Projection%20Facts%20Page/Typical-laser-phosphor-illumination.png)
 
 There are numerous benefits with a laser light source, but the bottom line is that they more closely address the needs of the market and laser is being adopted in growing numbers. 
-
-The qualitative brightness superiority and potential for energy savings combined with the significant reduction of maintenance cost makes it likely that laser will eventually replace lamp-based projection systems as the primary projection light source.
 
 {% hint style="danger" %}
 There is a myth that laser projectors can only be installed by specialists. This might have been true previously, as laser regulation meant that the installation process had to be conducted by a trained professional. Now, however, the installation of laser projectors has been made easier, as classification changes mean that specially trained laser officers are not required.
