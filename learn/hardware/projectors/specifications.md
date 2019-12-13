@@ -8,9 +8,9 @@ This is the actual maximum resolution the projector is capable of displaying. Yo
 
 it is very common now to see projectors that "support" 4K resolution but this is only a marketing strategy, because the real native resolution is 1920 x1080p . But what they are doing is using pixel shift. 
 
-"**Shifting** the red and blue sensors half a **pixel** in both the vertical and horizontal direction permits the recovery of a 1920 × 1080 luminance signal. This technique is seeing a renaissance with native 1080p video **projectors** that **pixel shift** horizontally to produce an effectively 4K image on the screen."
+> Shifting the red and blue sensors half a pixel in both the vertical and horizontal direction permits the recovery of a 1920 × 1080 luminance signal. This technique is seeing a renaissance with native 1080p video **projectors** that **pixel shift** horizontally to produce an effectively 4K image on the screen."
 
-So to make it simpler to understand those 4K pixels are not coming out the lens we are only getting a 1920x108p.
+So to make it simpler to understand, those 4K pixels are not coming out the lens, only 1920x1080p.
 
 ## Lumens
 
