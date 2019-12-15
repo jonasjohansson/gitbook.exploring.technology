@@ -1,5 +1,7 @@
 # Models
 
+Figures of all types of shapes and textures flood the Internet. Build you own using software like [Blender](https://www.blender.org/) and [Cinema4d](https://www.maxon.net/en-us/products/cinema-4d/overview/), or find models made by others on [Thingiverse](http://thingiverse.com/). Verify that your model look and behave as intended using the [Creators 3d Online Viewer](https://www.creators3d.com/online-viewer). If it works there, it **should** work in A-Frame.
+
 In order to have 3d models in your scene there are two scripts that need to be included.
 
 ```markup
@@ -38,20 +40,16 @@ It is possible to export complete scenes from Cinema4D or Blender and use them i
 
 ### GLTF
 
-**glTF** \(derivative short form of **GL Transmission Format**\) is a file format for [3D scenes and models](https://en.wikipedia.org/wiki/3D_modeling) using the [JSON](https://en.wikipedia.org/wiki/JSON) standard. It is an API-neutral runtime asset delivery format developed by the [Khronos Group](https://en.wikipedia.org/wiki/Khronos_Group) 3D Formats Working Group.
+Short for GL Transmission Format, glTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\):
+
+```markup
+<a-gltf-model src="LINK_TO_GLTF">
+```
 
 * [https://developers.facebook.com/docs/sharing/3d-posts/glb-tutorials](https://developers.facebook.com/docs/sharing/3d-posts/glb-tutorials)
 * [https://blackthread.io/gltf-converter/](https://blackthread.io/gltf-converter/)
 * [https://labs.maxon.net/?p=3360](https://labs.maxon.net/?p=3360)
 * [https://github.com/facebookincubator/FBX2glTF](https://github.com/facebookincubator/FBX2glTF)
 
-It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\):
 
-```markup
-<a-gltf-model src="LINK_TO_GLTF">
-```
-
-## Test your model
-
-Verify that your model look and behave as intended using the [Creators 3d Online Viewer](https://www.creators3d.com/online-viewer). If it works there, it **should** work in A-Frame.
 

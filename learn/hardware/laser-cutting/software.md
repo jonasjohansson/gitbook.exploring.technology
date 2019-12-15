@@ -2,11 +2,9 @@
 
 ## Guides
 
-[**http://www.synrad.com/synradinside/pdfs/LaserProcessingGuide\_Plastics.pdf**](http://www.synrad.com/synradinside/pdfs/LaserProcessingGuide_Plastics.pdf)
-
-[**https://atxhs.org/wiki/Laser\_Cutter\_Materials**](https://atxhs.org/wiki/Laser_Cutter_Materials)
-
-\*\*\*\*[**http://thingiverse.com**](http://thingiverse.com)\*\*\*\*
+* [**LaserProcessingGuide\_Plastics.pd**](http://www.synrad.com/synradinside/pdfs/LaserProcessingGuide_Plastics.pdf)
+* [**Laser\_Cutter\_Materials**](https://atxhs.org/wiki/Laser_Cutter_Materials)
+* [**http://thingiverse.com**](http://thingiverse.com)\*\*\*\*
 
 \*\*\*\*[**https://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/**](https://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/)\*\*\*\*
 

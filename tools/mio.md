@@ -1,13 +1,26 @@
 # Mio
 
-Mio \([download](https://jonasjohansson.itch.io/mio)\) is a minimal input and output application that enables serial communication for computer interaction.
+Mio \([download](https://jonasjohansson.itch.io/mio)\) is a minimal input and output application that enables serial communication for computer interaction. 
 
 ## Getting started
 
- All logic is handled on the sending device and made possible by printing specific messages.
+All logic is handled on the sending device and made possible by printing specific messages.
+
+| Value | Description | Version |
+| :--- | :--- | :--- |
+| $w | Press key \([keys](https://robotjs.io/docs/syntax#keys)\) | 1.0.0 |
+| !w | Release key | 1.1.6 |
+| $mouse | Click mouse | 1.1.3 |
+| 100,200 | Move cursor position. Any number, comma separated. | 1.1.3 |
+| /composition/master0.1 | Send value to address. Any float. | 1.1.4 |
+| r255 | Send id and val. Any name and number. | 1.1.1 |
+
+{% hint style="success" %}
+When sending a string and integer to Arduino only the first character will be used eg. red255 will become r255.
+{% endhint %}
 
 {% tabs %}
-{% tab title=" Code" %}
+{% tab title=" Send" %}
 ```csharp
 void setup() {
   Serial.begin(9600);
@@ -24,13 +37,13 @@ void loop() {
   int btn4 = digitalRead(5);
 
   if (btn1 == LOW) {
-    // click 'w' key
+    // press 'w' key
     Serial.println("$w");
   }
 
   if (btn2 == LOW) {
-    // click left mouse button
-    Serial.println("$mouse");
+    // press left mouse button
+    Serial.println("/composition/master0.1");
   }
 
   if (btn3 == LOW) {
@@ -47,6 +60,37 @@ void loop() {
 ```
 {% endtab %}
 
+{% tab title="Receive" %}
+```csharp
+int x, y;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop() {
+  // call mio first so variables are updated
+  mio();
+  digitalWrite(LED_BUILTIN, x);
+}
+
+void mio(){
+  if (Serial.available() > 0) {
+    char command = Serial.read();
+    switch (command) {
+      case 'x':
+        x = Serial.parseInt();
+        break;
+      case 'y':
+        y = Serial.parseInt();
+        break;
+    }
+  }
+}
+```
+{% endtab %}
+
 {% tab title="Schematic" %}
 | Button Pin  | Arduino Pin |
 | :--- | :--- |
@@ -57,38 +101,10 @@ void loop() {
 
 ![](../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
-{% endtabs %}
 
-The types of messages currently supported are the following:
-
-| Message | Event |  | Version |
-| :--- | :--- | :--- | :--- |
-| $w | Click w key | [List of keys](https://robotjs.io/docs/syntax#keys) | 1.0.0 |
-| $mouse | Click left mouse button |  | 1.1.3 |
-| 100,200 | Move cursor to x 100 and y 200 | Can be any number, must be comma separated. | 1.1.3 |
-| /composition/master0.1 | Send 0.1 on address /composition/master | Can be any float | 1.1.4 |
-| red255 | Send red and the value 255 over sockets | Can be any name and number. | 1.1.1 |
-
-### MIDI
-
-MIDI commands are sent with the control value being the index of the key in lookup table \(found in File &gt; Preferences\). 
-
-### OSC
-
-OSC commands are sent by default on port 7001.
-
-### Websockets
-
-Mio creates a local websocket server with the default port 8080. This means that generative graphics, for instance, can be manipulated by a button or potentiometer. Clients must be initialised **after** the server has started.
-
-{% hint style="success" %}
-It's a bit secret but it is also possible to send key commands to Mio via websockets. Try typing `ws.send("$x")` and it will behave just like printing it from Arduino. Magic! 🧝🏽
-{% endhint %}
-
-{% tabs %}
 {% tab title="P5" %}
 ```javascript
-const ws = new WebSocket("ws://127.0.0.1:8080");
+let ws = new WebSocket("ws://127.0.0.1:8080");
 
 let red = 0;
 
@@ -103,7 +119,7 @@ function draw() {
 ws.onmessage = data => {
   let d = JSON.parse(data.data);
   print(d);
-  if (d.id === "red") {
+  if (d.id === "r") {
     red = d.msg;
   }
 };
@@ -115,11 +131,18 @@ ws.onmessage = data => {
 <html>
   <body>
     <script>
-      const ws = new WebSocket("ws://127.0.0.1:8080");
+      let ws = new WebSocket("ws://127.0.0.1:8080");
+      ws.onopen = e => {
+        var state = 0;
+        setInterval(function(){
+          state = (state === 0) ? 1 : 0
+          ws.send("x"+state);
+        },2000);
+      }
       ws.onmessage = data => {
         let d = JSON.parse(data.data);
         console.log(d);
-        if (d.id === "red") {
+        if (d.id === "r") {
           document.documentElement.style.backgroundColor = `rgb(${d.msg},0,0)`;
         }
       };
@@ -129,6 +152,18 @@ ws.onmessage = data => {
 ```
 {% endtab %}
 {% endtabs %}
+
+### MIDI
+
+MIDI commands are sent automatically with the control value being the index of the key in lookup table \(found in File &gt; Preferences\). 
+
+### OSC
+
+OSC commands are sent by default on port 7001.
+
+### Websockets
+
+Mio creates a local server through port 8080 making all commands available from any website.
 
 It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
 
@@ -140,13 +175,13 @@ Because Mio is made by an [Unidentified Developer](https://jonasjohansson.se/) t
 
 ### Permission
 
-In order to control the keyboard, Mio requires permissions. On Mac, go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. **If a new version has been installed, this might have to be done again by toggling the checkbox!**
+In order to control the keyboard, Mio requires permissions. On Mac, go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. **If a new version has been installed, this must be done again by toggling the checkbox!**
 
 ![](../.gitbook/assets/permissions.png)
 
 ### Resource Busy
 
-Mio can not be connected at the same time that any other device is listening to the serial communication, such as **Arduino's Monitor or Plotter**. The same is true for the other way around.
+Mio can not be connected at the same time that any other device is listening to the serial communication, such as **Arduino Monitor or Plotter**. The same is true for the other way around.
 
 ### Faster communication
 
@@ -156,12 +191,13 @@ It is possible to speed up the communication between the serial device and compu
 
 ### No Communication
 
-It is possible that Mio caches files which are then still remnant when using a new version. To clear the cache go to Help &gt; Reset and then Help &gt; Reload. If it still does not work, [contact the developer](https://jonasjohansson.se/) and send a screenshot of the window that appears when clicking Help &gt; Open Developer Tools Detached.
+No response is likely due to Mio is minimised, not visible on the screen or another app is in fullscreen. If any of this occurs the app enters passive mode and can no longer detect keys being released. If a projector or second screen is in use, simply make sure is is visible on either one. Version 1.1.6 re-introduced the exclamation mark which will force a key to be released.
 
-![](../.gitbook/assets/resetreload%20%281%29.png)
+{% hint style="success" %}
+A neat trick is to turn on the zoom feature and zoom in on an app to make it appear fullscreen.
+{% endhint %}
 
-## Roadmap
+### Window Invisible
 
-1. Adding a modifier key along with a keypress eg. $2+alt
-2. Adding possibility to send MIDI values specifically, with a ramp eg. \#16%50 \(with %50 being the amount of smoothing\)
+If the window disappeared, go to Help &gt; Reset to restore all settings to normal.
 

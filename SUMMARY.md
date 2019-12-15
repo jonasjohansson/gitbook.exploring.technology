@@ -118,7 +118,6 @@
     * [Types](learn/hardware/projectors/types.md)
     * [Software](learn/hardware/projectors/software.md)
     * [Buyers Guide](learn/hardware/projectors/buyers-guide.md)
-  * [Lighting](learn/hardware/lighting.md)
 * [Tips & Trix](learn/documentation.md)
 
 ## Tools

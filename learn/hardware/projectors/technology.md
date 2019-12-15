@@ -41,3 +41,5 @@ There are numerous benefits with a laser light source, but the bottom line is th
 There is a myth that laser projectors can only be installed by specialists. This might have been true previously, as laser regulation meant that the installation process had to be conducted by a trained professional. Now, however, the installation of laser projectors has been made easier, as classification changes mean that specially trained laser officers are not required.
 {% endhint %}
 
+_Images from_ [_https://vimeo.com/blog/post/display-tech-home-projectors/_](https://vimeo.com/blog/post/display-tech-home-projectors/)\_\_
+
