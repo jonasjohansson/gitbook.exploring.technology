@@ -1,6 +1,6 @@
 # Map
 
-![Circle of Play Interactive Map](https://docs.google.com/drawings/d/e/2PACX-1vRqNUeID0w-MAd6dh7djOuOqX62mG6m5jk15SdB5qChCIUhXdbW63eBDOYpcdcrCOiIugeQV4V2UGsA/pub?w=1557&h=743)
+![](../../.gitbook/assets/map_hyperplay.png)
 
 [https://docs.google.com/drawings/d/14Pg1GzmdMMS5PeNmQDG4HiPOSEqnBSS7HKH9WPWUyBM/edit?usp=sharing](https://docs.google.com/drawings/d/14Pg1GzmdMMS5PeNmQDG4HiPOSEqnBSS7HKH9WPWUyBM/edit?usp=sharing)
 
