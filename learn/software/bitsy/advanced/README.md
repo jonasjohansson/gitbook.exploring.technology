@@ -1,6 +1,6 @@
 # Advanced
 
-## \*\*\*\*
+## \*\*\*\*[**https://if-true-blog.blogspot.com/2019/10/hacking-bitsy-to-run-ai-pt-2-ghosts-n.html**](https://if-true-blog.blogspot.com/2019/10/hacking-bitsy-to-run-ai-pt-2-ghosts-n.html)\*\*\*\*
 
 **Add audio \(super easy\):**
 
