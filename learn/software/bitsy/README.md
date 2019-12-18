@@ -8,5 +8,5 @@ Bitsy is defined by its constraints. It has limited interaction, only three colo
 
 ![](../../../.gitbook/assets/bitsygames.png)
 
-
+There are several other minimal game design tools that use the browser, such as [Mosi](https://zenzoa.itch.io/mosi), [Pico-8](https://www.lexaloffle.com/pico-8.php), [Phaser](https://phaser.io/) and [Babylon](https://www.babylonjs.com/games/). 
 
