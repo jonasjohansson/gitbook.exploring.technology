@@ -1,15 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Hyper Island](hyper-island/README.md)
-  * [Workshops](hyper-island/workshops.md)
-  * [Talks](hyper-island/talks.md)
-  * [Team](hyper-island/team.md)
-  * [References](hyper-island/references.md)
-  * [Exhibition](hyper-island/exhibition/README.md)
-    * [Map](hyper-island/exhibition/map.md)
-  * [🥈 Bitsy challenge](hyper-island/bitsy-challenge.md)
-  * [🥇 Hyper Arcade](hyper-island/hyper-arcade.md)
 
 ## Learn
 
@@ -127,6 +118,16 @@
 
 ## Other
 
+* [Legacy](other/legacy/README.md)
+  * [Hyper Island](other/legacy/hyper-island/README.md)
+    * [Workshops](other/legacy/hyper-island/workshops.md)
+    * [Talks](other/legacy/hyper-island/talks.md)
+    * [Team](other/legacy/hyper-island/team.md)
+    * [References](other/legacy/hyper-island/references.md)
+    * [Exhibition](other/legacy/hyper-island/exhibition/README.md)
+      * [Map](other/legacy/hyper-island/exhibition/map.md)
+    * [🥈 Bitsy challenge](other/legacy/hyper-island/bitsy-challenge.md)
+    * [🥇 Hyper Arcade](other/legacy/hyper-island/hyper-arcade.md)
 * [Draft](other/draft/README.md)
   * [Web Development](other/draft/web-development/README.md)
     * [Javascript](other/draft/web-development/javascript/README.md)

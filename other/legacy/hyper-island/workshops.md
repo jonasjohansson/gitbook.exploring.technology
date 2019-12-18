@@ -32,13 +32,13 @@ In this workshop we will challenge our creativity and explore physical prototypi
 
 **Half the members of each team will join this workshop. You decide which half.**
 
-### [A-Frame AR/VR](../learn/software/a-frame/)
+### [A-Frame AR/VR](../../../learn/software/a-frame/)
 
-Browser based world building and mixed reality. With A-Frame and [Glitch](../tools/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
+Browser based world building and mixed reality. With A-Frame and [Glitch](../../../tools/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using augmented reality. 
 
 → [Create an account on Glitch](https://start.exploring.technology/tools/glitch)!
 
-### [Generative design](../learn/software/p5/)
+### [Generative design](../../../learn/software/p5/)
 
 Through [p5.js](https://p5js.org/) participants scratch the surface of artificial intelligence as they learn about generative design, and how machines can help make art, music and experiences! 
 
@@ -56,13 +56,13 @@ Besides becoming the class laser super star, participants will get to explore so
 **Requires Laser Basics**
 {% endhint %}
 
-### \*\*\*\*[**Arduino Basics**](../learn/hardware/arduino/)\*\*\*\*
+### \*\*\*\*[**Arduino Basics**](../../../learn/hardware/arduino/)\*\*\*\*
 
 Build interactive objects using the worlds most famous micro-controller, the Arduino Uno! This three-hour workshop get participants learning the basics of electronics, buttons, potentiometers, sensors and how to make annoying sounds. 
 
 →  [Install Arduino](https://www.arduino.cc/en/main/software) and bring a USB adapter if your computer lacks normal USB ports.
 
-### \*\*\*\*[**Arduino Advanced**](../learn/hardware/arduino/) **A**
+### \*\*\*\*[**Arduino Advanced**](../../../learn/hardware/arduino/) **A**
 
 Build your own mini-game as you explore the sensory equipment for proximity, motion, light and force. This is an advanced session that assumes a basic understanding of Arduino, and digs deeper into combining code from different places in order to create something new!
 
@@ -70,7 +70,7 @@ Build your own mini-game as you explore the sensory equipment for proximity, mot
 **Requires Arduino Basic**
 {% endhint %}
 
-### [**Arduino Advanced**](../learn/hardware/arduino/) **B**
+### [**Arduino Advanced**](../../../learn/hardware/arduino/) **B**
 
 Hack the controls of existing games and game like experiences by building your own touch based interface! In this workshop participants will choose a game, and re-imagine how it's played  and experienced, for instance creating a "scary" Tetris or a "goofy" Resident Evil.
 
@@ -78,11 +78,11 @@ Hack the controls of existing games and game like experiences by building your o
 **Requires Arduino Basic**
 {% endhint %}
 
-### [Bitsy game development](../learn/software/bitsy/)
+### [Bitsy game development](../../../learn/software/bitsy/)
 
 A crash course in rules of play, ergodic literature and [Bitsy](https://ledoux.itch.io/bitsy), a game creation tool focused on the poetry of game design, encouraging thought, reflection and decision making. Welcome to getting stuck on all the right details!
 
-### [Machine Learning](../learn/software/ml5/)
+### [Machine Learning](../../../learn/software/ml5/)
 
 An introduction to a range of simple-to-use machine learning techniques that allow people to use \(mainly\) camera inputs to control outputs.
 

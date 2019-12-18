@@ -1,6 +1,6 @@
 # Map
 
-![](../../.gitbook/assets/map_hyperplay.png)
+![](../../../../.gitbook/assets/map_hyperplay.png)
 
 [https://docs.google.com/drawings/d/14Pg1GzmdMMS5PeNmQDG4HiPOSEqnBSS7HKH9WPWUyBM/edit?usp=sharing](https://docs.google.com/drawings/d/14Pg1GzmdMMS5PeNmQDG4HiPOSEqnBSS7HKH9WPWUyBM/edit?usp=sharing)
 
