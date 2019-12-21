@@ -25,7 +25,7 @@ function draw() {
 
 …
 
-## Mobile
+## Motion
 
 Due to security restrictions users must give explicit access to motion data. This is normally done by providing a button which upon being clicked prompts the user to for permission.
 
