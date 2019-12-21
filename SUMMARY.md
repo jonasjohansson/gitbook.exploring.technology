@@ -32,7 +32,7 @@
     * [Basics](learn/software/p5/basics/README.md)
       * [Shapes](learn/software/p5/basics/shapes.md)
       * [Color](learn/software/p5/basics/color.md)
-      * [Transform](learn/software/p5/basics/transform.md)
+      * [Transformation](learn/software/p5/basics/transform.md)
       * [Variables](learn/software/p5/basics/variables.md)
       * [Curves](learn/software/p5/basics/curves.md)
       * [Time](learn/software/p5/basics/time.md)
