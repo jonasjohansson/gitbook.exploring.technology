@@ -21,7 +21,7 @@
     * [Augmented Reality](learn/software/a-frame/augmented-reality/README.md)
       * [Custom Marker](learn/software/a-frame/augmented-reality/custom-marker.md)
       * [Custom Marker NTF](learn/software/a-frame/augmented-reality/custom-marker-2.md)
-      * [Location](learn/software/a-frame/augmented-reality/location-based.md)
+      * [Location Based](learn/software/a-frame/augmented-reality/location-based.md)
       * [QR Code](learn/software/a-frame/augmented-reality/qr-code.md)
       * [Examples](learn/software/a-frame/augmented-reality/examples/README.md)
         * [Magic door](learn/software/a-frame/augmented-reality/examples/magic-door.md)
