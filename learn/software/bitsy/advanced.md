@@ -1,6 +1,10 @@
 # Advanced
 
-At some point, _regular_ Bitsy will not be enough, meaning, it's time to hack! Now, some hacks require some level of coding, whilst others are straight-forward**.**
+At some point, _regular_ Bitsy will not be enough, meaning, it's time to hack! Now, most hacks require some level of coding, whilst others are more like tools, have a look:
+
+* Adding audio: [https://candle.itch.io/bitsy-audio](https://candle.itch.io/bitsy-audio)
+* Turn an image into pixels: [https://ruin.itch.io/image-to-bitsy](https://ruin.itch.io/image-to-bitsy)
+* Generate custom fonts: [https://seansleblanc.itch.io/fontsy](https://seansleblanc.itch.io/fontsy)
 
 ## Existing hacks
 
@@ -15,18 +19,6 @@ Thanks to a vibrant community there are [several hacks](https://github.com/seleb
   <canvas id="game"></canvas>
 </body>
 ```
-
-### Adding Audio
-
-{% embed url="https://candle.itch.io/bitsy-audio" %}
-
-### Image to Bitsy
-
-{% embed url="https://ruin.itch.io/image-to-bitsy" %}
-
-### Custom fonts
-
-{% embed url="https://seansleblanc.itch.io/fontsy" %}
 
 ## Custom hacks
 
@@ -48,7 +40,7 @@ If the hacks available just don't feel right, it's possible to write custom ones
 
 * \*\*\*\*[**https://if-true-blog.blogspot.com/2019/10/hacking-bitsy-to-run-ai-pt-2-ghosts-n.html**](https://if-true-blog.blogspot.com/2019/10/hacking-bitsy-to-run-ai-pt-2-ghosts-n.html)\*\*\*\*
 
-### **Adding Colors**
+## **Adding Colors**
 
 It is technically possible to go beyond Bitsy's limited palette by editing the Game Data**.**
 
