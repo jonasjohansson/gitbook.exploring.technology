@@ -1,12 +1,20 @@
 # Custom Marker
 
-In case the preset default marker is not special enough it's possible to design your own marker in for instance Illustrator and then follow these steps:
+In case the preset default marker is not special enough it's possible to design your own! The custom design should:
 
-1. Visit [https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
-2. Upload your own design \(make it simple\). It should be **black on white**, **no transparency**.
+* be square
+* exported as JPEG
+* include no transparency
+* preferably be black and white \(strive for contrast\)
+* have at least 10% distance to the edges
+* not be mirrored ie. no sides identical
+
+Once the image is made:
+
+1. Visit the [Marker Generato](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)r
+2. Upload the image
 3. Download the Marker pattern file and the Marker image
 4. Upload the pattern file to Glitch and reference it in the code.
-5. Print the Image
 
 ```markup
 <html>

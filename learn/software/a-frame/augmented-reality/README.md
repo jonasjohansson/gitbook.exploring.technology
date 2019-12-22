@@ -1,8 +1,6 @@
 # Augmented Reality
 
-For many years great augmented reality has been only available for native apps and special mobile devices, but it's now possible to use directly in the browser!
-
-The best way to understand more is to create a site using the code below \(or [visit this example in your phone](https://codepen.io/nicolocarpignoli/full/vMBgob)\) and look at the marker.
+For a long time, great augmented reality has been only available for native apps and special mobile devices, but it's now possible to use directly in the browser! The best way to understand more, is to create a site using the code below \(or [visit this example in your phone](https://codepen.io/nicolocarpignoli/full/vMBgob)\) and look at the marker.
 
 {% tabs %}
 {% tab title="Code" %}

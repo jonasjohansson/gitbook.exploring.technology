@@ -20,7 +20,7 @@
       * [Stereo Viewing](learn/software/a-frame/advanced/stereo-viewing.md)
     * [Augmented Reality](learn/software/a-frame/augmented-reality/README.md)
       * [Custom Marker](learn/software/a-frame/augmented-reality/custom-marker.md)
-      * [Multi Marker](learn/software/a-frame/augmented-reality/multi-marker.md)
+      * [Custom Marker 2](learn/software/a-frame/augmented-reality/custom-marker-2.md)
       * [Location based](learn/software/a-frame/augmented-reality/location-based.md)
       * [QR Code](learn/software/a-frame/augmented-reality/qr-code.md)
       * [Examples](learn/software/a-frame/augmented-reality/examples/README.md)
