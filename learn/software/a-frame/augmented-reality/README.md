@@ -13,13 +13,15 @@ The best way to understand more is to create a site using the code below \(or [v
     <script src="https://rawgit.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
   </head>
   <body>
-    <a-scene artoolkit>
-      <a-marker-camera preset="hiro">
-        <a-box color="yellow"></a-box>
-      </a-marker-camera>
+    <a-scene >
+      <a-marker preset="hiro">
+        <a-box color="red"></a-box>
+      </a-marker>
+      <a-entity camera></a-entity>
     </a-scene>
   </body>
 </html>
+
 ```
 {% endtab %}
 
@@ -42,6 +44,10 @@ The augmented reality super powers are made possible by including [AR.js](https:
 | smoothCount | number of matrices to smooth tracking over, more = smoother but slower follow - default: 5 |  |
 | smoothTolerance | distance tolerance for smoothing, if smoothThreshold \# of matrices are under tolerance, tracking will stay still - default: 0.01 |  |
 | smoothThreshold | threshold for smoothing, will keep still unless enough matrices are over tolerance - default: 2 |  |
+
+{% hint style="success" %}
+Hide the VR button by including `vr-mode-ui="enabled: false`" in `<a-sce`
+{% endhint %}
 
 {% embed url="https://vimeo.com/373737450" %}
 
