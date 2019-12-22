@@ -2,12 +2,12 @@
 
 In case the preset default marker is not special enough it's possible to design your own! The custom design should:
 
-* be square
-* exported as JPEG
-* include no transparency
-* preferably be black and white \(strive for contrast\)
-* have at least 10% distance to the edges
-* not be mirrored ie. no sides identical
+* Be square \(or else it will be transformed\)
+* JPEG
+* Include no transparency
+* Preferably be black and white \(strive for contrast\)
+* Have at least 10% distance to the edges
+* Not be mirrored ie. no identical sides
 
 Once the image is made:
 
