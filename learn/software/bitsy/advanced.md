@@ -38,8 +38,6 @@ If the hacks available just don't feel right, it's possible to write custom ones
 </html>
 ```
 
-* \*\*\*\*[**https://if-true-blog.blogspot.com/2019/10/hacking-bitsy-to-run-ai-pt-2-ghosts-n.html**](https://if-true-blog.blogspot.com/2019/10/hacking-bitsy-to-run-ai-pt-2-ghosts-n.html)\*\*\*\*
-
 ## **Adding Colors**
 
 It is technically possible to go beyond Bitsy's limited palette by editing the Game Data**.**

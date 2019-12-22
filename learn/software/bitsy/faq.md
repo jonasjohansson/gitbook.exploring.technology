@@ -12,7 +12,7 @@
 
 [https://color.adobe.com/create/color-wheel/](https://color.adobe.com/create/color-wheel/) \(color palette picker\)
 
-
+[https://if-true-blog.blogspot.com/2019/10/hacking-bitsy-to-run-ai-pt-2-ghosts-n.html](https://if-true-blog.blogspot.com/2019/10/hacking-bitsy-to-run-ai-pt-2-ghosts-n.html)
 
 A few advanced writeups on how their games work \(called post-mortems\):
 
