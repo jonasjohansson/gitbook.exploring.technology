@@ -30,7 +30,7 @@ The best way to understand more is to create a site using the code below \(or [v
 {% endtab %}
 {% endtabs %}
 
-The augmented reality super powers are made possible by including [AR.js](https://github.com/jeromeetienne/AR.js/) as a script tag in the `<head>` and adding "artoolkit" to `<a-scene>`. The regular camera is replaced with the &lt;a-marker-camera&gt; which supports presets and custom markers, and more:
+The augmented reality super powers are made possible by including [AR.js](https://github.com/jeromeetienne/AR.js/) as a script tag in the `<head>`. The entity `<a-marker>` come with several settings that help define the type of markers to look for, and how to behave when found, and it is inside of this tag that the visible content is placed.
 
 | Attribute | Description | Options |
 | :--- | :--- | :--- |
