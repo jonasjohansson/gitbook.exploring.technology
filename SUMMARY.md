@@ -23,6 +23,7 @@
     * [Augmented Reality](learn/software/a-frame/augmented-reality/README.md)
       * [Custom Marker](learn/software/a-frame/augmented-reality/custom-marker.md)
       * [Multi Marker](learn/software/a-frame/augmented-reality/multi-marker.md)
+      * [Location based](learn/software/a-frame/augmented-reality/location-based.md)
       * [QR Code](learn/software/a-frame/augmented-reality/qr-code.md)
     * [Examples](learn/software/a-frame/examples.md)
     * [References](learn/software/a-frame/references.md)

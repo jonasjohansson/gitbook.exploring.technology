@@ -8,5 +8,7 @@ Generate a QR marker that points to your website using [https://www.the-qrcode-g
 
 For more design options you can use [https://www.qrcode-monkey.com/](https://www.qrcode-monkey.com/).
 
+To include the QR code directly in a marker, use [https://jeromeetienne.github.io/AR.js/three.js/examples/arcode.html](https://jeromeetienne.github.io/AR.js/three.js/examples/arcode.html)
+
 ![](../../../../.gitbook/assets/qrcode.png)
 
