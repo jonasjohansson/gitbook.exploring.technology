@@ -6,8 +6,6 @@ Bitsy, just like Twine, is nurturing creatives around the world, and spreading t
 
 ![Depths by Marc Wonnacott, https://candle.itch.io/depths](../../../.gitbook/assets/depths.gif)
 
-
-
 ## [The Spriters Resource](https://www.spriters-resource.com/)
 
 It is quite fortunate designing pixel games as so much has already been made, so there's lots of great inspiration out there. TSR rips the sprite sheets from games, so that others may understand better the graphic design within classic games like Final Fantasy or Super Mario.

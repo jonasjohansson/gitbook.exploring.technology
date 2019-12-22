@@ -19,5 +19,3 @@ In the **room** window, hit the play button. You should be able to move the char
 This is currently a heavy copy & paste from a [guide](https://docs.google.com/document/d/11pfwuJ8GR1RViwL1nkvbD7pEqokDH9RLtamzxrsJuEc) written by [Everest Pipkin](https://twitter.com/everestpipkin), as well as this [Bitsy Workshop](https://static1.squarespace.com/static/58930a6c893fc0a33ae624db/t/5bacd94ac83025ead3937071/1538054510407/BITSY-WORKSHOP.pdf) by [Cecile Richard](https://haraiva.itch.io/).
 {% endhint %}
 
-## 
-
