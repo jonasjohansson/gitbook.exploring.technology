@@ -1,6 +1,6 @@
 # Ending
 
-If you want your game to have an end, you will need to make one. Again, select **exits & endings** and hit **+ending**. These work exactly like exits, except that they have dialog. You can have multiple endings in your game! The game will start over once the ending is reached. 
+If the game should have an ending, it must be made. Again, select **exits & endings** and hit **+ending**. These work exactly like exits, except that they have dialog, and end the game. You can have multiple endings in your game! The game will start over once the ending is reached. 
 
 ![](../../../../.gitbook/assets/bitsy-ending.gif)
 

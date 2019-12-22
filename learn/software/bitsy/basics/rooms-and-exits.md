@@ -1,11 +1,18 @@
 # Rooms & Exits
 
-Although you can certainly make a game in just one room, Bitsy also lets you string together multiple rooms to make a larger space or tell a longer story. You can assign different color palettes to different rooms to give them different feelings. At the bottom of the **rooms** window, click on **room tools**.   
+Although you can certainly make a game in just one room, Bitsy also lets you string together multiple rooms to tell a longer story. At the bottom of the **rooms** window, click on **room tools**.   
 ****
 
 ![](../../../../.gitbook/assets/bitsy-room-tools.png)
 
-Now hit the plus button to make a new room. It will be completely blank. Go to your tiles in your **paint** window and make a quick little space in your second room.
+Ta-da! More things to play with, besides the obvious ones there is:
+
+* **Name**: The name of the room, make it descriptive.
+* **Colors:** Choose the room color palette!
+* **Grid/Walls/Exits & Endings:** Toggle their visibility to get an overview. 
+* **Add Exits & Endings**: Bitsy uses only 3 colors; Background, tile and sprite, but can have multiple palettes.
+
+Now hit the plus button to make a new room. It will be completely blank. Go to your tiles in your **paint** window and make your second room.
 
 ![A scary dungeon with a mysterious rope exit.](../../../../.gitbook/assets/bitsy-cave%20%281%29.gif)
 
@@ -27,6 +34,4 @@ Remember that it is usually a good idea to visually signify your exit somehow! M
 ****
 
 ![Oh, a magical well! I wonder what&apos;s inside&#x2026;](../../../../.gitbook/assets/bitsy-well.gif)
-
-## 
 

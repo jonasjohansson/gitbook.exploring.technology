@@ -6,8 +6,7 @@
 
 * **Top**: Edit the name of your Bitsy project
 * **Room:** The level editor which your player will move in.
-* **Preview:** A preview of the code, triggered by clicking **play** or ticking **Auto-refresh**. It is possible to change the size of this window by hovering just where the code and preview meet, then click-and-drag.
-* **Colors**: Bitsy uses only 3 colors; Background, tile and sprite, but can have multiple palettes.
+* **Colors**: Bitsy uses only 3 colors; Background, tile and sprite.
 
 All windows can be rearranged and closed. Click on Tools to see a list of windows available! Hovering over anything brings up a description.
 
