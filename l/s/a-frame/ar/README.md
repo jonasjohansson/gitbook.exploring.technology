@@ -11,7 +11,7 @@ For a long time, great augmented reality has been only available for native apps
     <script src="https://rawgit.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
   </head>
   <body>
-    <a-scene >
+    <a-scene>
       <a-marker preset="hiro">
         <a-box color="red"></a-box>
       </a-marker>
