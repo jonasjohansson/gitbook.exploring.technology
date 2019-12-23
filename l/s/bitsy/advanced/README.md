@@ -33,7 +33,7 @@ These are the steps to follow:
 
 ## Custom hacks
 
-If the hacks available just don't feel right, it's fun to [write custom ones](https://github.com/seleb/bitsy-hacks/wiki). For a lighter introduction, it's also possibly to include a script that listens to Bitsy events, such as `onPlayerMoved()` which happens every time the player avatar moves.
+If the hacks available just don't feel right, [write custom ones](https://github.com/seleb/bitsy-hacks/wiki)! And if that feels like a bit too large of a mountain to climb, it's also possibly to include a script that listens to Bitsy events, such as `onPlayerMoved()` which happens every time the player avatar moves.
 
 ```markup
     <script src="https://gistcdn.githack.com/jonasjohansson/938e71f56ad76c01d9c6f2d7c2fed3c5/raw/e7270bc2bb73315abd7faa6fe50790c7c27ec57d/kitsy-events.js"></script>
@@ -51,5 +51,15 @@ If the hacks available just don't feel right, it's fun to [write custom ones](ht
 
 ## **Adding Colors**
 
-It is technically possible to go beyond Bitsy's limited palette by editing the Game Data**.**
+It is technically possible to go beyond Bitsy's limited palette by opening **game data** and editing the text. Any change to the editor gets immediately writing to the game data, and vice versa. Adding a color to a palette is easy:
+
+1. Find the palette by looking for "PAL 0" where 0 is the number of the palette.
+2. After the three rows of RGB values, add a fourth one with the desired values.
+3. Find the object that should use the fourth color. The objects available are Tile \(TIL\), Sprite \(SPR\) and Item \(ITM\).
+4. After the matrix of 0 and 1, add "COL 3". It's 3 because the Bitsy starts counting at 0!
+5. Click anywhere outside of the game data window to trigger the change.
+
+![](../../../../.gitbook/assets/roomgamedata.png)
+
+
 
