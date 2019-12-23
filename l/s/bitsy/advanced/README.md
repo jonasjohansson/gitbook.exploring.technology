@@ -59,7 +59,7 @@ It is technically possible to go beyond Bitsy's limited palette by opening **gam
 4. After the matrix of 0 and 1, add "COL 3". It's 3 because the Bitsy starts counting at 0!
 5. Click anywhere outside of the game data window to trigger the change.
 
-![](../../../../.gitbook/assets/roomgamedata.png)
+![](../../../../.gitbook/assets/roomgamedata.jpg)
 
 
 
