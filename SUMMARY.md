@@ -64,6 +64,8 @@
       * [Ending](l/s/bitsy/basics/ending.md)
       * [Save & Export](l/s/bitsy/basics/save-and-export.md)
     * [Advanced](l/s/bitsy/advanced/README.md)
+      * [Hacking](l/s/bitsy/advanced/hacking.md)
+      * [Colors](l/s/bitsy/advanced/colors.md)
       * [Dialog](l/s/bitsy/advanced/dialog.md)
     * [Inspiration](l/s/bitsy/inspiration.md)
     * [FAQ](l/s/bitsy/faq.md)
