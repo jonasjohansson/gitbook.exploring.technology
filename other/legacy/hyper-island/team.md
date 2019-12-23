@@ -66,7 +66,7 @@ A happy camper within tech and data. Has attended the Amsterdam [Fab Academy](ht
 
 ### [Folk Lab](https://www.folklab.nu/)
 
-A kombucha of the digital fabrication movement, Folkets hus and the mission to create meaning, socially and digitally, Folk Lab hosts pop-up labs, workshops and education, and collectively build active meeting places and digital lab.  All in order to invite increased participation in the global goals for sustainability. The Folk Lab meaning machine hosts several technologies made to enable small and large fabrication and ideation, and are renting one of their [laser cutters](../../../learn/hardware/laser-cutting/machines.md) to Hyper Island for the Exploring Technology project.
+A kombucha of the digital fabrication movement, Folkets hus and the mission to create meaning, socially and digitally, Folk Lab hosts pop-up labs, workshops and education, and collectively build active meeting places and digital lab.  All in order to invite increased participation in the global goals for sustainability. The Folk Lab meaning machine hosts several technologies made to enable small and large fabrication and ideation, and are renting one of their [laser cutters](../../../l/h/laser-cutting/machines.md) to Hyper Island for the Exploring Technology project.
 
 ![](https://lh5.googleusercontent.com/4fIARilmex0wwKe0svibKMA-cC2oPPoBH3yyHjyG7XcseoW0REXIxqDV5d054WXz5d2Rg4ftO-HZ7fY-gexw_oUxucs23P7KBHvWpHK1dOsm14IWMQ8v5wA4fhlBFl_GVbFOhrXH)
 
