@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Forum](https://forum.exploring.technology/)
+* [Contact](https://jonasjohansson.se/)
 
 ## Learn <a id="l"></a>
 
