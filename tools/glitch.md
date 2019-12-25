@@ -1,10 +1,10 @@
 # Glitch
 
-Welcome to Glitch, a creative and expressive platform that everyone can use to create the web. In short it's a full web development package that allows for writing cool code, collaboration, easy sharing \(everything is live\), HTTPS and custom domain names.
+Glitch is a creative and expressive platform that everyone can use to create the web. In short it's a full web development package that allows for writing cool code, collaboration, easy sharing \(everything is live\), HTTPS and custom domain names.
 
 ## Setup
 
-Visit [Glitch](https://glitch.com/) and login with your [Github](https://github.com) account or create a new account. Then choose **New Project** and choose the _hello-webpage_ option.
+Visit [Glitch](https://glitch.com/) and create a new account or login through [Github](https://github.com). Then choose **New Project** and _hello-webpage_.
 
 ![](../.gitbook/assets/screenshot-2019-09-23-at-22.47.33.png)
 
@@ -22,7 +22,7 @@ Glitch now uses the fabulous [Prettier](https://prettier.io/) library for this, 
 
 ### Force HTTPS
 
-When using secure services such as camera, GPS and device API you will need visitors to use HTTPS and not HTTP \(which is the standard protocol on Glitch\). You can either explicitly mention to add 'https://' or include this script:
+When using special features such as camera, GPS and the device API you will need visitors to use HTTPS and not HTTP. You can either explicitly  add "https://" when sharing the link or include a script that will immediately redirect the visitor.
 
 ```markup
 <script>
