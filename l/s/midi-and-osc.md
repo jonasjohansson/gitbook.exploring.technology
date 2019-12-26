@@ -2,7 +2,7 @@
 
 ## MIDI
 
-MIDI has been around for a long time but has only recently made its debut in the browser. MIDI \(**M**usical **I**nstrument **D**igital **I**nterface\) is a technical standard that was first published in 1983 and created the means for digital instruments, synthesizers, computers, and various audio devices to communicate with each other. MIDI messages relay musical and time-based information back and forth between devices. To detect MIDI messages transmitted on a computer, use [MIDI Monitor](https://www.snoize.com/MIDIMonitor/)!
+MIDI has been around for a long time but has only recently made its debut in the browser. MIDI \(Musical Instrument Digital Interface\) is a technical standard that was first published in 1983 and created the means for digital instruments, synthesizers, computers, and various audio devices to communicate with each other. MIDI messages relay musical and time-based information back and forth between devices. To detect MIDI messages transmitted on a computer, use [MIDI Monitor](https://www.snoize.com/MIDIMonitor/)!
 
 MIDI is available directly in the browser through [WebMidi](https://github.com/djipco/webmidi), and comes with [many examples of usage](https://webmidi-examples.glitch.me/).
 

@@ -131,13 +131,26 @@ function parseResult() {
 }
 ```
 
-{% tabs %}
-{% tab title="P5" %}
+## API
 
-{% endtab %}
+API stands for Application Programming Interface and it is used all the time. An API is a software intermediary that allows two applications to talk to each other. In other words, an API is the messenger that delivers your request to the provider that you're requesting it from and then delivers the response back to you.
 
-{% tab title="JS" %}
+There are plenty of [Public API's](https://github.com/public-apis/public-apis) out there, some require creating an account and receiving a unique "key", while others are free to use as-is. In the example below, data is fetched and stored in a variable, ready to be used.
 
-{% endtab %}
-{% endtabs %}
+```javascript
+var weather;
+
+function preload() {
+  weather = loadJSON("https://api.openweathermap.org/data/2.5/weather?q=Stockholm&units=metric&APPID=8bc33b55474e0525d2c28707ca934965&");
+}
+
+function setup() {
+  print(weather);
+}
+
+function draw() {
+  textSize(32);
+  text(weather.main.temp, 10, 30);
+}
+```
 
