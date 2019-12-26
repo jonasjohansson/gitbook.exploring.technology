@@ -2,7 +2,7 @@
 
 It’s possible to use time as a variable for creating events that happen after a certain amount of time, or for animations.
 
-## Millis
+### Millis
 
 Our good friend  `millis()` counts the amount of **milliseconds** that has transpired since the sketch began running. We can understand this better by creating a variable, and printing it to the console:
 
@@ -23,7 +23,7 @@ function draw() {
 }
 ```
 
-## Sin and cos
+### Sin and cos
 
 Since time \(in programming\) only goes forward it’s great for creating timers and all kinds of things, but it can’t reverse. So if we want our background to go back and forth we can use `sin()` and `cos()` which creates a sine and cosine wave.
 
@@ -50,7 +50,7 @@ function draw() {
 
 This will provide us with a smooth transition between 1 and -1, moving forward along time. However, this range is of little use controlling color, which ranges from 0-255. For that, we have to map one range to another.
 
-## Map
+### Map
 
 Map is used most often converting a sensor input reading into a useful output, but is extremely useful for animations. It takes the **minimum and maximum input** and transforms into to the **minimum and maximum output**
 
