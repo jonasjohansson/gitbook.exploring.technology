@@ -12,5 +12,3 @@ We explore technology, not to eradicate this sensation, but to understand it bet
 
 ![Untitled \(2019\) by Natasha Klimenko](.gitbook/assets/image%20%283%29.png)
 
-
-
