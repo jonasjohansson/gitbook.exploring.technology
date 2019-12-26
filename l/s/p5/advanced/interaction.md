@@ -89,3 +89,54 @@ function permission() {
 }
 ```
 
+## Speech
+
+```javascript
+// https://idmnyu.github.io/p5.js-speech/
+// https://github.com/libyal/libfwnt/wiki/Language-Code-identifiers
+var myRec = new p5.SpeechRec();
+var myVoice = new p5.Speech();
+
+myRec.continuous = true;
+myRec.interimResults = true;
+
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  myRec.onResult = parseResult;
+  myRec.start();
+  myVoice.setLang("en-UK");
+  myVoice.speak("Name a color");
+}
+
+function draw() {}
+
+function parseResult() {
+  if (myRec.resultValue === true) {
+    let word = myRec.resultString;
+    word = word.toLowerCase();
+    switch (word) {
+      case 'red':
+        background(255, 0, 0);
+        break;
+      case 'green':
+        background(0, 255, 0);
+        break;
+      case 'blue':
+        background(0, 0, 255);
+        break;
+    }
+  }
+}
+```
+
+{% tabs %}
+{% tab title="P5" %}
+
+{% endtab %}
+
+{% tab title="JS" %}
+
+{% endtab %}
+{% endtabs %}
+
