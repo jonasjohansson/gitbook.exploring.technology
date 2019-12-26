@@ -1,6 +1,6 @@
 # Interaction
 
-There are several [events](https://p5js.org/reference/#group-Events) that can be "listened" too; button is pressed, mouse is clicked, mobile device is shaken. Some of the events even act as a variable. Such is the case with mobile device acceleration and rotation. or framecount. Let's look at some examples how user interaction can be integrated.
+There are several [events](https://p5js.org/reference/#group-Events) that can be "listened" too; button is pressed, mouse is clicked, mobile device is shaken. Some of the events even act as a variable!
 
 ## Mouse
 
@@ -17,6 +17,7 @@ function draw() {
   } else {
     fill(255);
   }
+  
   ellipse(mouseX, mouseY, 80, 80);
 };
 ```
