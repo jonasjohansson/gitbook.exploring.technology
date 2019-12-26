@@ -2,7 +2,7 @@
 
 Glitch is a creative and expressive platform that everyone can use to create the web. In short it's a full web development package that allows for writing cool code, collaboration, easy sharing \(everything is live\), HTTPS and custom domain names.
 
-## Setup
+## Getting started
 
 Visit [Glitch](https://glitch.com/) and create a new account or login through [Github](https://github.com). Then choose **New Project** and _hello-webpage_.
 
@@ -33,6 +33,20 @@ When using special features such as camera, GPS and the device API you will need
   }
 </script>
 ```
+
+### Upload folders
+
+It's not possible to drag and drop a folder, but there is a fairly painless way! 
+
+1. Create a zip of the intended folder
+2. Drag and drop it into the Glitch project and copy the link
+3. Click **Tools** and **Full Page Console** to enter a terminal like window
+4. Enter the following lines \(replacing the url with the copied link\)
+
+`wget -O file.zip https:///url-to-your-zip  
+unzip file.zip -d .  
+rm file.zip  
+refresh`
 
 ## Domain
 
