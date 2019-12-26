@@ -43,8 +43,6 @@
       * [Interaction](l/s/p5/advanced/interaction.md)
       * [Logic](l/s/p5/advanced/logic.md)
       * [Sliders](l/s/p5/advanced/sliders.md)
-      * [Images](l/s/p5/advanced/images.md)
-      * [3D](l/s/p5/advanced/3d.md)
       * [Sound](l/s/p5/advanced/sound.md)
       * [API](l/s/p5/advanced/api.md)
     * [References](l/s/p5/references.md)

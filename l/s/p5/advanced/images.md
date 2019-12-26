@@ -1,4 +1,0 @@
-# Images
-
-Currently in draft. Search the Internet for the way to do this.
-
