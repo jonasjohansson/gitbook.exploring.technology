@@ -110,12 +110,10 @@
     * [Types](l/h/projectors/types.md)
     * [Software](l/h/projectors/software.md)
     * [Buyers Guide](l/h/projectors/buyers-guide.md)
-
-## Tools
-
-* [Tips & Trix](tools/documentation.md)
-* [Glitch](tools/glitch.md)
-* [Mio](tools/mio.md)
+* [Tools](l/tools/README.md)
+  * [Mio](l/tools/mio.md)
+  * [Glitch](l/tools/glitch.md)
+* [Tips & Trix](l/documentation.md)
 
 ## Other
 
