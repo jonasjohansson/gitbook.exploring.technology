@@ -1,10 +1,10 @@
 # Resolume
 
-Resolume is an audiovisual performance tool. It enables you to play video and audio, and even use built-in generators for text and graphics. Mix them with each other, apply effects and output the results either for a live performance or for recording.
+Resolume is an audiovisual performance tool and comes in two flavours: Avenue and Arena. Both enable you to play video and audio, and even use built-in generators for text and graphics. Arena also provides projection mapping possibilities!
 
 ### Install
 
-Download [Resolume Arena](https://resolume.com/download/) \(Avenue does not include advanced projection mapping possibilities\) and run the installation. This is the full package, but comes with watermarks on video and audio output unless a license is purchased.
+Download [Resolume Arena](https://resolume.com/download/) and run the installation. This is the full package, but comes with watermarks on video and audio output unless a license is purchased.
 
 {% hint style="success" %}
 Mute the sound of the computer to avoid hearing the audio watermark!
