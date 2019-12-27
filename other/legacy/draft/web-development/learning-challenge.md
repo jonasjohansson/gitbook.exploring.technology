@@ -14,7 +14,7 @@ Google has changed their Chrome Web Store and now requires a Developers License 
 2. Turn on **Developer mode** in the top right
 3. Click **Load unpacked** and select the template folder.
 
-![](../../../.gitbook/assets/screenshot-2019-09-24-at-21.49.15.png)
+![](../../../../.gitbook/assets/screenshot-2019-09-24-at-21.49.15.png)
 
 ### How to target a specific site
 
