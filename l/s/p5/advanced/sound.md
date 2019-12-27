@@ -1,8 +1,10 @@
 # Audio
 
-Audio in the browser is very powerful and a blast to include in visual projects since it's all numbers. Check out the [sound reference](https://p5js.org/reference/#/libraries/p5.sound) and [additional examples](https://github.com/processing/p5.js-sound/) to see what's possible!
+Audio in the browser is very powerful and a blast to include in visual projects, check out [Patatap](https://patatap.com/) for an interactive audiovisual browser experience, and visit the [sound reference](https://p5js.org/reference/#/libraries/p5.sound) and [additional examples](https://github.com/processing/p5.js-sound/) to learn more!
 
-If development is done **outside** of the p5 editor, then the following `<script>` should be added in `<head>`.
+{% embed url="https://vimeo.com/95057507" %}
+
+If development is done **outside** of the p5 editor, then include this script:
 
 ```markup
 <script src="https://unpkg.com/p5@0.10.2/lib/addons/p5.sound.min.js"></script>
@@ -10,9 +12,30 @@ If development is done **outside** of the p5 editor, then the following `<script
 
 ## Sounds
 
-Playing sounds is simple and fun, and can easily be used together with the statements and variables from before. [Let’s look at the example provided by P5.js](https://p5js.org/examples/sound-load-and-play-sound.html).
+Playing sounds is simple and fun, and can easily be used together with the statements and variables from before.
 
-![](https://lh3.googleusercontent.com/kKqiOyxoZGIFKrplLCfUARaJ2JPoqMRqK308TRCXHjYGz_qDPJSLTw5QxVgaYiPM8M4zG2pR0MD45ch27LY0eNghBWMsV-RULoN9S0B0CIOIPen5qDUTBVDIQ1pwCTsF6hXaka_4ejs)
+```javascript
+let song;
+
+function preload() {
+  song = loadSound('https://cors-anywhere.herokuapp.com/https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3');
+}
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  background(255, 0, 0);
+}
+
+function mousePressed() {
+  if (song.isPlaying()) {
+    song.stop();
+    background(255, 0, 0);
+  } else {
+    song.play();
+    background(0, 255, 0);
+  }
+}
+```
 
 ## Synth
 
