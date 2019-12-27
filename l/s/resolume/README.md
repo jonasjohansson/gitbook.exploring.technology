@@ -16,11 +16,11 @@ Upon starting the application an example composition is presented. It's a great 
 
 ![](../../../.gitbook/assets/resolumeinterface.png)
 
-Before deciphering the interface, let's simplify it a bit. Click **View** and untick **Audio Controls**, **Crossfader, Dashboard, Help** and **Compositions**. 
+Before deciphering the interface, let's simplify it a bit. Click **View** and untick **Audio Controls**, **Crossfader, Dashboard, Help** and **Compositions**. Remember to save it by clicking **Layout** and **Save**, name it "Simple".
 
 ![](../../../.gitbook/assets/resolumeinterfaceclean.png)
 
-Ahhh, much better with a clean slate! Go to **Composition** and **Save**, or **⌘S**. A prompt will appear.
+Ahhh, much better! Go to **Composition** and **Save**, or **⌘S**. A prompt will appear.
 
 ![](../../../.gitbook/assets/savecomp%20%281%29.png)
 
