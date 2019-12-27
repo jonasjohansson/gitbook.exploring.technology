@@ -1,6 +1,6 @@
 # Proximity
 
-### [Sharp Distance Sensor](https://www.adafruit.com/product/164) \(9x short distance, 3x long distance\)
+### [Sharp Distance Sensor](https://www.adafruit.com/product/164)
 
 {% tabs %}
 {% tab title="Product" %}
@@ -36,7 +36,7 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-### [Maxbotix Ultrasonic Rangefinder](https://www.adafruit.com/product/172) \(3x\)
+### [Maxbotix Ultrasonic Rangefinder](https://www.adafruit.com/product/172)
 
 {% tabs %}
 {% tab title="Product" %}
@@ -82,7 +82,7 @@ int checkDistanceSensor() {
 {% endtab %}
 {% endtabs %}
 
-### [Parallax Wide Angle PIR](https://www.adafruit.com/product/189) \(3x\)
+### [Parallax Wide Angle PIR](https://www.adafruit.com/product/189)
 
 {% tabs %}
 {% tab title="Product" %}

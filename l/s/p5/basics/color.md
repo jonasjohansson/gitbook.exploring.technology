@@ -8,7 +8,7 @@ All shapes are by default white, with a 1px black outline. To change this we use
 The draw function does not reset itself, and remembers the values set the last time.
 {% endhint %}
 
-### Stroke
+## Stroke
 
 Let us make outline of the circle red by typing `stroke(255,0,0)` **before** the circle, and our squares green by typing `stroke(0,255,0)` before the squares. We can also increase the stroke thickness  using the [**strokeWeight** ](https://p5js.org/reference/#/p5/strokeWeight)function with a value in pixels.
 
@@ -16,13 +16,13 @@ Let us make outline of the circle red by typing `stroke(255,0,0)` **before** the
 
 To remove a stroke, type `noStroke()` before the shapes that should be without.
 
-### Fill
+## Fill
 
 The shape background color works similarly to stroke. Let us turn our circle blue by typing `fill(0,0,255)` and the squares yellow by typing `fill(255,255,0)` 
 
 ![](../../../../.gitbook/assets/p5-fill.png)
 
-### Alpha
+## Alpha
 
 So far, we know that we can choose the amount of Red, Green and Blue, but there is also a fourth value: Alpha. The alpha decides the opacity, the amount of "see-through" which our color can have.
 

@@ -26,7 +26,7 @@ Contrast ratio in its simplest form is the ratio of the light reflected from an 
 
 ![](../../../.gitbook/assets/contrast_ratios.jpg)
 
-So good contrast is all about seeing the details 3000 :1 contrast ratio is poorer than 10,000:1  but companies use different ways to quantify their contrast, so it can be very hard to gauge what the reality is until you get one. Some projectors also have dynamic contrast which means that they automatically adjust their lens to provide darker blacks depending on the image that is coming through
+So good contrast is all about seeing the details 3000:1 contrast ratio is poorer than 10,000:1 but companies use different ways to quantify their contrast, so it can be very hard to gauge what the reality is until you get one. Some projectors also have dynamic contrast which means that they automatically adjust their lens to provide darker blacks depending on the image that is coming through
 
 ![Eyjafjallaj&#xF6;kull by Joanie Lemercier](../../../.gitbook/assets/02-4.jpg)
 
@@ -34,7 +34,7 @@ As you can see in the picture above a good contrast ratio is an important featur
 
 ## **Throw ratio**
 
-This is probably the second most important specification behind lumens. This value gives you the ratio of the width of the projected image to the distance from the surface. If we know the throw ratio we can calculate where to place the projectors .For example, a throw ratio of 1:1 means that for every 1meter away from the wall, you will get 1meter of image width \(and your height is determined by the aspect ratio\).Lens zoom is also a related property because it allows you a small "variable" lens shift.
+This is probably the second most important specification behind lumens. This value gives you the ratio of the width of the projected image to the distance from the surface. If we know the throw ratio we can calculate where to place the projectors .For example, a throw ratio of 1:1 means that for every 1meter away from the wall, you will get 1meter of image width \(and your height is determined by the aspect ratio\). Lens zoom is also a related property because it allows you a small "variable" lens shift.
 
 ## **Lens Shift**
 

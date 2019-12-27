@@ -21,7 +21,7 @@ If you're interested in knowing more about what you can do with buttons, try loo
 
 
 
-### [Adafruit Toggle Capacitive Touch](https://learn.adafruit.com/adafruit-capacitive-touch-sensor-breakouts) \(2x\)
+### [Adafruit Toggle Capacitive Touch](https://learn.adafruit.com/adafruit-capacitive-touch-sensor-breakouts)
 
 {% tabs %}
 {% tab title="Product" %}
