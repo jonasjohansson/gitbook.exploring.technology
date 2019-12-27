@@ -61,7 +61,7 @@
     * [Advanced](l/s/p5/advanced/README.md)
       * [Logic](l/s/p5/advanced/logic.md)
       * [Interaction](l/s/p5/advanced/interaction.md)
-      * [Sound](l/s/p5/advanced/sound.md)
+      * [Audio](l/s/p5/advanced/sound.md)
     * [References](l/s/p5/references.md)
     * [🎨 Kazemir Challenge](l/s/p5/kazemir-mini-challenge.md)
     * [🎨 Abstract Art Challenge](l/s/p5/learning-challenge.md)
