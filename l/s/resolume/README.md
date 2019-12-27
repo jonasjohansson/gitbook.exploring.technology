@@ -30,13 +30,9 @@ Name the composition and change the **Size** to **960x540**. The values should i
 Never have a larger composition size than what the projector or screen is set to output. This will only cause unnecessary strain on the computer.
 {% endhint %}
 
-Click **Save** and a new .avc file will be created in the Resolume folder, normally found under Documents.
+Click **Save** and a new .avc file will be created in the Resolume folder, normally found under Documents. The .avc file can be shared with others, but the video files are not embedded, so make sure that if collaborating to also sync the media.
 
 ![](../../../.gitbook/assets/documents.png)
-
-{% hint style="info" %}
-The .avc file can be shared with others, but the video files are not embedded, so make sure that if collaborating to also sync the media.
-{% endhint %}
 
 _That's it! Let's go!!_
 
