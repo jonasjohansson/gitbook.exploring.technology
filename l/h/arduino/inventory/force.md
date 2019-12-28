@@ -1,6 +1,6 @@
 # Force
 
-All of these work the same way as a light sensor, see [Arduino basics](./#photocell)
+All of these work the same way as a light sensor, see [Arduino basics](../basics.md#photocell)
 
 ### [Force Sensitive Resistor \(FSR\)](https://www.adafruit.com/product/1075)
 

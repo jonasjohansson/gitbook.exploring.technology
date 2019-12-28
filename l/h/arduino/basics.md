@@ -57,7 +57,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/button%20%281%29.png)
+![](../../../.gitbook/assets/button%20%281%29.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -85,7 +85,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/blink-button%20%281%29.png)
+![](../../../.gitbook/assets/blink-button%20%281%29.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -117,7 +117,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/blink-button-1.png)
+![](../../../.gitbook/assets/blink-button-1.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -161,7 +161,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/potentiometer.png)
+![](../../../.gitbook/assets/potentiometer.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -185,7 +185,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/fade-potentiometer.png)
+![](../../../.gitbook/assets/fade-potentiometer.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -213,7 +213,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/photo.png)
+![](../../../.gitbook/assets/photo.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -235,7 +235,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/piezo.png)
+![](../../../.gitbook/assets/piezo.png)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -256,7 +256,7 @@ void loop() {
 
 {% tabs %}
 {% tab title="Schematic" %}
-![](../../../../.gitbook/assets/photo-piezo.png)
+![](../../../.gitbook/assets/photo-piezo.png)
 {% endtab %}
 
 {% tab title="Code" %}
