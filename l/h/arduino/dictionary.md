@@ -1,4 +1,4 @@
-# Glossary
+# Code
 
 ### Arduino "dictionary"
 
