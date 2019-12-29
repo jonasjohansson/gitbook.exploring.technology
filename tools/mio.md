@@ -46,7 +46,7 @@ void loop() {
   }
 
   if (btn2 == LOW) {
-    // press left mouse button
+    // send 0.1 to an OSC address
     Serial.println("/composition/master0.1");
   }
 
