@@ -12,7 +12,7 @@ All logic is handled on the sending device and made possible by printing specifi
 
 | Value | Description | Version |
 | :--- | :--- | :--- |
-| $w | Press key \([keys](https://robotjs.io/docs/syntax#keys)\) | 1.0.0 |
+| $w | Press key \([available keys](https://robotjs.io/docs/syntax#keys)\) | 1.0.0 |
 | !w | Release key | 1.1.6 |
 | $mouse | Click mouse | 1.1.3 |
 | 100,200 | Move cursor position. Any number, comma separated. | 1.1.3 |
