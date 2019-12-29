@@ -8,11 +8,11 @@ For instance, if the last 4 values were 101,102,103,104 and then suddenly there'
 
 ![Blue is the raw sensor value while red is smoothed](../../../../.gitbook/assets/image%20%282%29.png)
 
-To make matters simple, download the Smoothed by Matt Freyer library.
+To make matters simple, use a library!
 
-{% embed url="https://github.com/MattFryer/Smoothed/archive/v1.1.zip" %}
-
-Next up, inside the Arduino app, click on the dropdown **Sketch →** **Include Library → Add .ZIP Library...** and select the download file from before. Smoothed should now be in the examples.
+1. Download [Smoothed library](https://github.com/MattFryer/Smoothed)
+2. In Arduino go to **Sketch  →** **Include Library → Add .ZIP Library...**  and select the zip folder
+3. Restart Arduino and run the code below
 
 Give this piece of code a try to see smoothing in action with a sensor or potentiometer.
 
