@@ -75,6 +75,7 @@
       * [Keyboard](l/h/arduino/advanced/keyboard-midi.md)
       * [Timers](l/h/arduino/advanced/timers.md)
       * [Smoothing](l/h/arduino/advanced/smoothing.md)
+      * [Wireless](l/h/arduino/advanced/wireless.md)
       * [Magical apparel](l/h/arduino/advanced/magical-apparel.md)
       * [FAQ](l/h/arduino/faq.md)
     * [Inventory](l/h/arduino/inventory/README.md)
