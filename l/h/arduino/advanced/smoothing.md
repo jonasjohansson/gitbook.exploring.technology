@@ -1,24 +1,30 @@
 # Smoothing
 
-When reading values from a sensor it can act "jumpy" or "noisy", which can be tricky when the output should appear smooth and stable.
+![Preview of the Arduino Serial Plotter \(blue is raw values, red is smoothed\)](../../../../.gitbook/assets/image%20%282%29.png)
 
-The "input noise" can be improved by _smoothing_ the values. This means taking a certain amount of the most recent values, and then calculating their running average.
+Sometimes you may find that the values you're getting from your sensor, or some other kind of input are not as consistent as you would like. This is called input noise, and can be improved by smoothing the values. What this means is that it takes a certain amount of recent values \(for instance the last ten\) and then calculates the average over that amount of values.
 
-For instance, if the last 4 values were 101,102,103,104 and then suddenly there's a jump and the 5th value is **110**, then the average would be **104** \(520 divided by 5\).
+{% embed url="https://github.com/MattFryer/Smoothed/archive/v1.1.zip" %}
 
-![Blue is the raw sensor value while red is smoothed](../../../../.gitbook/assets/image%20%282%29.png)
+Next up, inside your Arduino app click on the dropdown **Sketch  →** **Include Library → Add .ZIP Library...** Then select the ZIP file you've just downloaded.
 
-To make matters simple, use a library!
-
-1. Download [Smoothed library](https://github.com/MattFryer/Smoothed)
-2. In Arduino go to **Sketch  →** **Include Library → Add .ZIP Library...**  and select the zip folder
-3. Restart Arduino and run the code below
-
-Give this piece of code a try to see smoothing in action with a sensor or potentiometer.
+After this you should be able to find Smoothed in the examples. Give this piece of code a try to see smoothing in action with a sensor or potentiometer.
 
 ```cpp
-#include <Smoothed.h>
+/*
+ Sensor Input Smoothing
+ Demonstrates smoothing of a sensor input via various methods.
 
+
+ Created by Matthew Fryer, edited for simplicity by Mickey van Olst
+
+ This example code is in the public domain.
+
+ */
+
+#include <Smoothed.h> 	// Include the library
+
+// Create two instances of the class to use. 
 Smoothed <float> mySensor;
 
 void setup() {
