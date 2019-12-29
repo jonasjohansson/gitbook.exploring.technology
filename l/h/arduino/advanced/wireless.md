@@ -2,8 +2,6 @@
 
 Going wireless is a bold move, and fun! There are several ways, but using Wifi is one of the most rewarding ones, since it opens up to so many other possibilities.
 
-It is by no means trivial but 
-
 ```cpp
 #include <WiFi101.h>
 #include <WiFiClient.h>
