@@ -4,6 +4,10 @@ Mio is a minimal input and output application that enables serial communication 
 
 {% embed url="https://jonasjohansson.itch.io/mio" %}
 
+{% hint style="danger" %}
+Make sure to check out the Troubleshooting section as there are certain things that must be done for full functionality!
+{% endhint %}
+
 ## Getting started
 
 All logic is handled on the sending device and made possible by printing specific messages.
@@ -165,9 +169,7 @@ OSC commands are sent by default on port 7001.
 
 ### Websockets
 
-Mio creates a local server through port 8080 making all commands available from any website.
-
-It is possible to connect to the local websocket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
+Mio creates a local server through port 8080 making all commands available from any website. It is possible to connect to the local socket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
 
 ## Troubleshooting
 
