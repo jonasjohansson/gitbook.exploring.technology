@@ -40,7 +40,7 @@ These are the steps to follow:
 If the hacks available just don't feel right, [write custom ones](https://github.com/seleb/bitsy-hacks/wiki)! And if that feels like a bit too large of a mountain to climb, it's also possibly to include a script that listens to Bitsy events, such as `onPlayerMoved()` which happens every time the player avatar moves.
 
 ```markup
-    <script src="https://gistcdn.githack.com/jonasjohansson/938e71f56ad76c01d9c6f2d7c2fed3c5/raw/e7270bc2bb73315abd7faa6fe50790c7c27ec57d/kitsy-events.js"></script>
+    <script src="https://jonasjohansson.glitch.me/kitsy-events.js"></script>
     <script>
       foo.after("onPlayerMoved", function() {
         console.log("onPlayerMoved");

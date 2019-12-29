@@ -1,4 +1,4 @@
-# Getting started
+# Welcome
 
 {% hint style="success" %}
 This open-source learning platform is available to everyone, and is in constant flux. Feel free to use it and contribute!

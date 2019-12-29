@@ -8,7 +8,7 @@ Bitsy is defined by its constraints. It has limited interaction, only three colo
 
 ![](../../../.gitbook/assets/bitsybest.png)
 
-There are several other minimal game design tools that use the browser, such as [Twine](https://twinery.org/), [Mosi](https://zenzoa.itch.io/mosi), [Pico-8](https://www.lexaloffle.com/pico-8.php), [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/) and [Babylon](https://www.babylonjs.com/games/). 
+There are several other minimal game design tools that use the browser, such as [Twine](https://twinery.org/), [Mosi](https://zenzoa.itch.io/mosi), [Pico-8](https://www.lexaloffle.com/pico-8.php), [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [Gamemaker](https://www.yoyogames.com/) and [Babylon](https://www.babylonjs.com/games/). 
 
 Bitsy is nurturing creatives around the world, and spreading the joy of games, and game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs) to see what is happening within the community, join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), the Bitsy discord channel and [play some great Bitsy games](https://itch.io/games/top-rated/tag-bitsy)!
 
