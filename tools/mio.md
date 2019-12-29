@@ -1,8 +1,6 @@
 # Mio
 
-Mio is a minimal input and output application that enables serial communication for computer interaction. 
-
-{% embed url="https://jonasjohansson.itch.io/mio" %}
+Mio \([download](https://jonasjohansson.itch.io/mio)\) is a minimal input and output application that enables serial communication for computer interaction. 
 
 {% hint style="danger" %}
 Make sure to check out the Troubleshooting section as there are certain things that must be done for full functionality!
