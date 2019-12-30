@@ -11,7 +11,9 @@ If you expand the **animation** option at the bottom of the window, you can add 
 
 Picking the right colors help set the mood and ambiance. You get three colors: **Background**, **tile** and **sprite**. Pay extra attention to **Palette select** as it is possible to create multiple palettes, which can later be used for different rooms.
 
+ Use [Happy Hues](https://www.happyhues.co/) or [Palettsy](https://zenzoa.itch.io/palettsy) for inspiration!
+
 {% hint style="info" %}
-The default colors are: **\#0052cc** \(background\), **\#809fff** \(tile\) and  **\#ffffff** \(sprite\). Use [Sarah Gould's Palettsy](https://zenzoa.itch.io/palettsy) to generate unique color combinations!
+The default colors are: **\#0052cc** \(background\), **\#809fff** \(tile\) and  **\#ffffff** \(sprite\).
 {% endhint %}
 
