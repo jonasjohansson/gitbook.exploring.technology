@@ -14,6 +14,7 @@
 * [Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play)
 * [Game Design Reader](https://www.adlibris.com/se/e-bok/game-design-reader-9780262303170)
 * [Governing by Video Game](https://onezero.medium.com/governing-by-video-game-b8c7a82fdfbd)
+* [Enchanted Objects](https://www.goodreads.com/book/show/18143776-enchanted-objects)
 
 ## Watch
 
