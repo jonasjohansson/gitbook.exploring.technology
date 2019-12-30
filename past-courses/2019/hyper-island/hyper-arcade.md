@@ -24,7 +24,7 @@ Each team will create 1 playable game-like experience, which may or may not use 
 
 For promotion, each team will also create a [trailer](https://www.youtube.com/watch?v=4CSYA9R70R8) and a website \(could also be an [Itch.io](https://itch.io/) page\) with information about the game. Traditionally, game developers continuously release updates, create teasers and trailers, until the final launch.
 
-**The game, trailer and website will be presented at the internal presentation for final critique, a few days before the official** [**exhibition**](exhibition/)**.**
+**The game, trailer and website will be presented at the internal presentation for final critique, a few days before the official** [**exhibition**]()**.**
 
 
 
