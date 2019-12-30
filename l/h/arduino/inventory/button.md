@@ -8,7 +8,7 @@ description: All about buttons!
 
 Buttons come in about a million different shapes and sizes, and there is about a million things you can do with them! The most important thing to know is that most buttons in the end work about the same way and also don't require any special programming, Arduino likes them all the same :-\)
 
-See the [Arduino Basics](../basics.md#button) page for a detailed explanation of hooking up a button.
+See the [Arduino Basics](../basics/#button) page for a detailed explanation of hooking up a button.
 
 If you're interested in knowing more about what you can do with buttons, try looking up the following types:
 
@@ -27,7 +27,7 @@ If you're interested in knowing more about what you can do with buttons, try loo
 {% tab title="Product" %}
 ![](../../../../.gitbook/assets/image%20%284%29.png)
 
-See [Arduino Basics](../basics.md#button) for instruction
+See [Arduino Basics](../basics/#button) for instruction
 {% endtab %}
 
 {% tab title="Schematic" %}
