@@ -13,6 +13,10 @@
 | Resistor 10k ohm   | 1 |
 | Resistor 220 ohm | 1 |
 
+Before writing code, make sure you can write the characters! Programming uses several special symbols that may feel alien, so we have a short list below which you can copy & paste from. To figure out how to type these, on Mac, turn on the [Keyboard Viewer](https://support.apple.com/en-euro/guide/mac-help/mchlp1015/mac)!
+
+`/* ( ) { } [ ] | & / > < ; */`
+
 ### [Blink](https://www.arduino.cc/en/tutorial/blink)
 
 {% tabs %}
@@ -80,6 +84,14 @@ void loop() {
 * [ ] Create your own button using your body
 {% endtab %}
 {% endtabs %}
+
+### Debug
+
+**Serial monitor** and **Serial plotter** help troubleshoot moments when expectations don't meet reality, i.e "the code doesn't work!".
+
+We can tell our Arduino to send information about what is happening using "serial communication" and by typing `Serial.begin(9600)` in  `setup()` with 9600 being the default baudrate, the speed which the computer and the Arduino communicates.
+
+To print information type `Serial.println()` and within the parentheses you can print out variables, strings, numbers and more.
 
 ### Blink + Button
 
