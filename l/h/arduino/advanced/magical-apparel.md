@@ -1,4 +1,4 @@
-# Magical apparel
+# Wearables
 
 ### Gemma
 
