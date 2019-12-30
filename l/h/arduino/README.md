@@ -4,7 +4,7 @@ Arduino is a brand of open-source electronics platform, based on easy-to-use har
 
 ![](../../../.gitbook/assets/dl_elx5_arduino_uno_v1.1_white-reduced.png)
 
-Arduino comes in many shapes with various purposes, and other brands exist as well. However, the traditional Arduino Uno is a staple in education, and useful even though it's been around since 2005.
+Arduino comes in [many shapes with various purposes](https://makezine.com/comparison/boards/), and other brands exist as well. However, the traditional Arduino Uno is a staple in education, and useful even though it's been around since 2005.
 
 ### Install
 
@@ -50,4 +50,8 @@ If you have a USB adapter for your laptop eg. Macbook then each time you plug in
 With everything set click the Upload button \(right arrow symbol\) or ⌘+U. When uploading the orange transmission LED \(labelled TX\) should flicker.
 
 Congratulations! The Arduino should now be successfully connected to the computer, and the first piece of code is uploaded.
+
+{% hint style="info" %}
+When code is uploaded it "stays" on the Arduino and only uses the USB cable for power!
+{% endhint %}
 
