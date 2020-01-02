@@ -24,7 +24,61 @@ function draw() {
 {% endtab %}
 
 {% tab title="Keyboard" %}
+```javascript
+/* Keycodes: BACKSPACE, DELETE, ENTER, RETURN, TAB, ESCAPE, SHIFT, CONTROL, OPTION, ALT, UP_ARROW, DOWN_ARROW, LEFT_ARROW, RIGHT_ARROW */
 
+let r = 0;
+let g = 0;
+let b = 0;
+
+function setup(){
+  createCanvas(windowWidth, windowHeight);
+}
+
+function draw() {
+  background(r,g,b);
+  
+  if (keyIsDown(UP_ARROW)) {
+    r = 255;
+    g = 255;
+    b = 0;
+  } else if (keyIsDown(DOWN_ARROW)) {
+    r = 0;
+    g = 255;
+    b = 255;
+  }
+}
+
+function keyPressed() {
+  if (keyCode === LEFT_ARROW) {
+    r = 255;
+    g = 255;
+    b = 255;
+  } else if (keyCode === RIGHT_ARROW) {
+    r = 0;
+    g = 0;
+    b = 0;
+  }
+}
+
+function keyTyped() {
+  if (key === 'r') {
+    r = 255;
+    g = 0;
+    b = 0;
+  } else if (key === 'g') {
+    r = 0;
+    g = 255;
+    b = 0;
+  } else if (key === 'b') {
+    r = 0;
+    g = 0;
+    b = 255;
+  }
+  // uncomment to prevent any default behavior
+  // return false;
+}
+```
 {% endtab %}
 
 {% tab title="Motion" %}
