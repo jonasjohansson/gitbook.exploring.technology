@@ -2,8 +2,8 @@
 
 There are several [events](https://p5js.org/reference/#group-Events) that can be "listened" too; button is pressed, mouse is clicked, mobile device is shaken. Some of the events even act as a variable!
 
-## Mouse
-
+{% tabs %}
+{% tab title="Mouse" %}
 ```javascript
 function setup() {
   createCanvas(640, 480);
@@ -21,13 +21,13 @@ function draw() {
   ellipse(mouseX, mouseY, 80, 80);
 };
 ```
+{% endtab %}
 
-## Keyboard
+{% tab title="Keyboard" %}
 
-…
+{% endtab %}
 
-## Motion
-
+{% tab title="Motion" %}
 Due to security restrictions users must give explicit access to motion data. This is normally done by providing a button which upon being clicked prompts the user to for permission.
 
 ```javascript
@@ -89,9 +89,37 @@ function permission() {
   }
 }
 ```
+{% endtab %}
 
-## Speech
+{% tab title="Sound" %}
+```javascript
+let mic, fft;
 
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  noFill();
+
+  mic = new p5.AudioIn();
+  mic.start();
+  fft = new p5.FFT();
+  fft.setInput(mic);
+}
+
+function draw() {
+  background(200);
+
+  let spectrum = fft.analyze();
+
+  beginShape();
+  for (i = 0; i < spectrum.length; i++) {
+    vertex(i, map(spectrum[i], 0, width, height, 0));
+  }
+  endShape();
+}
+```
+{% endtab %}
+
+{% tab title="Speech" %}
 ```javascript
 // https://idmnyu.github.io/p5.js-speech/
 // https://github.com/libyal/libfwnt/wiki/Language-Code-identifiers
@@ -100,7 +128,6 @@ var myVoice = new p5.Speech();
 
 myRec.continuous = true;
 myRec.interimResults = true;
-
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -130,9 +157,9 @@ function parseResult() {
   }
 }
 ```
+{% endtab %}
 
-## API
-
+{% tab title="API" %}
 API stands for Application Programming Interface and it is used all the time. An API is a software intermediary that allows two applications to talk to each other. In other words, an API is the messenger that delivers your request to the provider that you're requesting it from and then delivers the response back to you.
 
 There are plenty of [Public API's](https://github.com/public-apis/public-apis) out there, some require creating an account and receiving a unique "key", while others are free to use as-is. In the example below, data is fetched and stored in a variable, ready to be used.
@@ -153,4 +180,6 @@ function draw() {
   text(weather.main.temp, 10, 30);
 }
 ```
+{% endtab %}
+{% endtabs %}
 
