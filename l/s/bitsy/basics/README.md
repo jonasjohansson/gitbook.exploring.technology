@@ -1,6 +1,7 @@
 # Basics
 
-## [Editor](http://ledoux.io/bitsy/editor.html) ****
+Bitsy [runs](http://ledoux.io/bitsy/editor.html) in the **browser** and requires no installations  
+****
 
 ![](../../../../.gitbook/assets/bitsy1.png)
 
