@@ -1,6 +1,6 @@
 # Mio
 
-Mio  is a minimal input and output application that enables serial communication for computer interaction. 
+Mio is a minimal input and output application that enables serial communication for computer interaction. There are other applications that can be useful to check out as well, such as the [Ableton Connection Kit](https://www.ableton.com/en/packs/connection-kit/).
 
 ### Install
 
@@ -8,9 +8,7 @@ Begin by [installing the Mio app](https://jonasjohansson.itch.io/mio). It is onl
 
 ### Connect
 
-Run Mio and a small window will appear. **Refresh** to get an updated list of all the devices connected via serial. Select the intended device and click **Connect**. The default speed of communication is 9600 baud, but this can be changed to match the device speed. That's it! Mio is now listening to the messages sent by the device.
-
-![](../.gitbook/assets/mio%20%281%29.png)
+Run Mio and a small window will appear. **Refresh** to get an updated list of all the devices connected via serial. Select the intended device and click **Connect**. The default speed of communication is **9600** baud, but this can be changed to match the device speed. That's it! Mio is now listening to the messages sent by the device.
 
 ### Commands
 
