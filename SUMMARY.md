@@ -116,7 +116,6 @@
 
 ## Tools
 
-* [Arena](tools/arena.md)
 * [Glitch](tools/glitch.md)
 * [Mio](tools/mio.md)
 
