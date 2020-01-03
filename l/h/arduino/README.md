@@ -10,12 +10,8 @@ Arduino comes in [many shapes with various purposes](https://makezine.com/compar
 
 Begin by installing the Arduino IDE \(Integrated Development Environment\)  application:
 
-* [MacOSX](https://www.arduino.cc/en/Guide/MacOSX)
+* [Mac](https://www.arduino.cc/en/Guide/MacOSX)
 * [Windows](https://www.arduino.cc/en/Guide/Windows)
-
-{% hint style="danger" %}
-macOS Catalina does not support Arduino, so refrain from updating if you wish to use this software!
-{% endhint %}
 
 When ready, open the app and find a new window, named with the current date, containing some basic code.
 

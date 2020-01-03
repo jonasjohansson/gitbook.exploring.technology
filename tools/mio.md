@@ -1,16 +1,22 @@
 # Mio
 
-Mio \([download](https://jonasjohansson.itch.io/mio)\) is a minimal input and output application that enables serial communication for computer interaction. 
+Mio  is a minimal input and output application that enables serial communication for computer interaction. 
 
-{% hint style="danger" %}
-Make sure to check out the Troubleshooting section as permissions must be set  for full functionality!
-{% endhint %}
+### Install
 
-## Getting started
+Begin by [installing the Mio app](https://jonasjohansson.itch.io/mio). It is only available for Mac but the [source is open](https://github.com/jonasjohansson/mio) so it can be built for other platforms \(requires Electron and Node knowledge\).
+
+### Connect
+
+Run Mio and a small window will appear. **Refresh** to get an updated list of all the devices connected via serial. Select the intended device and click **Connect**. The default speed of communication is 9600 baud, but this can be changed to match the device speed. That's it! Mio is now listening to the messages sent by the device.
+
+![](../.gitbook/assets/mio%20%281%29.png)
+
+### Commands
 
 All logic is handled on the sending device and made possible by printing specific messages.
 
-| Value | Description | Version |
+| Example | Description | Version |
 | :--- | :--- | :--- |
 | $w | Press key \([available keys](https://robotjs.io/docs/syntax#keys)\) | 1.0.0 |
 | !w | Release key | 1.1.6 |
@@ -157,15 +163,17 @@ ws.onmessage = data => {
 {% endtab %}
 {% endtabs %}
 
-### MIDI
+### Protocols
+
+#### MIDI
 
 MIDI commands are sent automatically with the control value being the index of the key in lookup table \(found in File &gt; Preferences\). 
 
-### OSC
+#### OSC
 
 OSC commands are sent by default on port 7001.
 
-### Websockets
+#### Websockets
 
 Mio creates a local server through port 8080 making all commands available from any website. It is possible to connect to the local socket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
 
