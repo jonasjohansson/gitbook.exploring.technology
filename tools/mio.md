@@ -171,7 +171,7 @@ MIDI commands are sent automatically with the control value being the index of t
 
 OSC commands are sent by default on port 7001.
 
-#### Sockets
+#### Websockets
 
 Mio creates a local server through port 8080 making all commands available from any website. It is possible to connect to the local socket server from machines outside of the network using [ngrok](https://ngrok.com/docs). Forward the correct port and on the receiving end use the newly generated address. Another alternative is setting up a [server](https://glitch.com/~mio-server) and [client](https://glitch.com/~mio-client) on Glitch.
 
