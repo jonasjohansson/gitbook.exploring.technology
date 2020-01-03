@@ -52,5 +52,3 @@ Transfer the video to your phone and upload using the Instagram app.
 
 Trying to fetch a remote file but getting an error message? This API enables cross-origin requests to anywhere! Simply add `https://cors-anywhere.herokuapp.com/` before the URL and voilà!
 
-### 
-

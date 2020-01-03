@@ -1,14 +1,30 @@
 # Basics
 
-[https://resolume.com/training](https://resolume.com/training)
+### Clips
 
-### Layers & Columns
+Have no video clips? Don't fret. Click **Sources** and drag a **Solid Color** and **Lines** to the top and second layer of the first column. These sources are **Generators**, packages of code written to create specific graphics. Once added, click them to turn them active.
 
-Each column can contain 1 output \(ex. video or image\) and each layer can contain multiple columns. Each layer can only have 1 colum
+![](../../../.gitbook/assets/resolume-layers-active.png)
 
-### Sources
+{% hint style="info" %}
+There are several generators to explore, each with its own specific qualities. Try them out!
+{% endhint %}
 
-Instead of video it's possible to code your own sources. Resolume offers a wide selection of pre-made sources such as Lines, Rings and more.
+### Layers
+
+Read from top to bottom, layers behave just like in other software as they are "stacked" on top of each other, and there's more:
+
+* Each layer can be blocked \(**B**\), hiding it, or turned solo \(**S**\), making it the only layer visible.
+* The video \(**V**\) slider adjust the opacity of the layer, with the slider default in the middle 50% is let through, at 100% the layer is fully opaque, and at 0% it is completely transparent.
+* The **Add** selection reveals several blending modes defining how the pixels of the layer will blend. Change the Solid Color blending mode to Multiply and see how the white lines become red.
+* Use **X** to clear the active clips of the layer.
+* If there are several clips in the layer, the transition time \(**T**\) will create a graphical transition between the two layers of the duration. The default effect is **Alpha**, meaning that the original clip will slowly fade out, while the new clip will fade in. There are several effects beside the default!
+* The bar where it says **Layer 3** is the layer handle.
+  * Click to select the layer.
+  * Click and drag to change its order.
+  * Right click for more settings, such as renaming the layer.
+
+![](../../../.gitbook/assets/resolume-layers%20%282%29.jpg)
 
 ### Effects
 
