@@ -53,7 +53,7 @@ Due to privacy settings audio does not autoplay on mobile devices, instead they 
 </script>
 ```
 
-And then you can add a special entity containing your marker entity file.
+For this to work the marker-sound-toggle attribute must be added to the `<a-marker>` which must include an `<a-sound>` entity.
 
 ```markup
 <a-marker marker-sound-toggle>
