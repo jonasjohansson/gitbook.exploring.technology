@@ -15,7 +15,7 @@ The `crossorigin="anonymous"` is  important to add!
 Or we can add positional audio using `<a-sound>`. This makes the sound get louder as we approach it and get softer as we distance from it. We could place the sound in our scene using `position`.
 
 ```markup
-<a-sound src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav" autoplay="true" position="-3 1 -4"></a-sound>
+<a-sound src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav"></a-sound>
 ```
 
 ### Audio does not work on mobile when running AR
@@ -57,6 +57,7 @@ And then you can add a special entity containing your marker entity file.
 
 ```markup
 <a-marker marker-sound-toggle>
+    <a-sound src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav"></a-sound>
 </a-marker>
 ```
 
