@@ -1,4 +1,4 @@
-# Processing \(P5\)
+# Processing
 
 For over 15 years Processing, a software written by developers for artists, have been available. Here you can easy create graphics, typography, interactive artworks, games and more. And since a few years back there's also a Javascript variant which ensures that your creation is easy to view and share.
 

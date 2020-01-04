@@ -1,5 +1,7 @@
 # PoseNet
 
+[https://ml5js.org/reference/api-PoseNet/](https://ml5js.org/reference/api-PoseNet/)
+
 ```markup
 <html>
   <head>
@@ -14,10 +16,24 @@
       let poses = [];
 
       function setup() {
-        createCanvas(640, 480);
+        createCanvas(320, 240);
         video = createCapture(VIDEO);
         video.size(width, height);
-        poseNet = ml5.poseNet(video, modelReady);
+        poseNet = ml5.poseNet(
+          video,
+          {
+            imageScaleFactor: 0.3,
+            outputStride: 16,
+            flipHorizontal: false,
+            minConfidence: 0.8, // 0.5
+            maxPoseDetections: 1, // 5
+            scoreThreshold: 0.5,
+            nmsRadius: 20,
+            detectionType: "single",
+            multiplier: 0.75
+          },
+          modelReady
+        );
         poseNet.on("pose", function(results) {
           poses = results;
         });
@@ -27,7 +43,7 @@
       function modelReady() {}
 
       function mousePressed() {
-        console.log(JSON.stringify(poses));
+        console.dir(poses);
       }
 
       function draw() {
@@ -35,6 +51,15 @@
 
         if (poses.length > 0) {
           let pose = poses[0].pose;
+
+          let nose = pose["nose"];
+          ellipse(nose.x, nose.y, 10, 10);
+
+          let rightEye = pose["rightEye"];
+          ellipse(rightEye.x, rightEye.y, 10, 10);
+
+          let leftEye = pose["leftEye"];
+          ellipse(leftEye.x, leftEye.y, 10, 10);
         }
       }
     </script>

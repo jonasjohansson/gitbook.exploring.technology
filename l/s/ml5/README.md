@@ -1,4 +1,4 @@
-# Machine Learning \(ML5\)
+# Machine Learning
 
 ## [**ml5js**](https://ml5js.org/)
 
