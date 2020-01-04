@@ -1,9 +1,5 @@
 # PoseNet
 
-
-
-{% tabs %}
-{% tab title="Clap & Whistle" %}
 ```markup
 <html>
   <head>
@@ -13,37 +9,36 @@
   </head>
   <body>
     <script>
-      let modelUrl = "https://teachablemachine.withgoogle.com/models/gC-2OI2X/";
-
-      function preload() {
-        classifier = ml5.soundClassifier(modelUrl + "model.json", modelReady);
-        log = createDiv("Loading model.");
-        //classifier = ml5.soundClassifier("SpeechCommands18w", modelReady, options);
-      }
+      let video;
+      let poseNet;
+      let poses = [];
 
       function setup() {
-        noCanvas();
+        createCanvas(640, 480);
+        video = createCapture(VIDEO);
+        video.size(width, height);
+        poseNet = ml5.poseNet(video, modelReady);
+        poseNet.on("pose", function(results) {
+          poses = results;
+        });
+        video.hide();
       }
 
-      function modelReady() {
-        log.html("Model loaded!");
-        classifier.classify(gotResult);
+      function modelReady() {}
+
+      function mousePressed() {
+        console.log(JSON.stringify(poses));
       }
 
-      function gotResult(error, results) {
-        if (error) {
-          console.error(error);
-          return;
+      function draw() {
+        image(video, 0, 0, width, height);
+
+        if (poses.length > 0) {
+          let pose = poses[0].pose;
         }
-        let label = results[0].label.toLowerCase();
-        let confidence = results[0].confidence;
-        log.html(`Label: ${label} <br>Confidence: ${confidence}`);
       }
     </script>
   </body>
 </html>
-
 ```
-{% endtab %}
-{% endtabs %}
 
