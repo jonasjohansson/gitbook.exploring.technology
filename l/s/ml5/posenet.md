@@ -1,6 +1,8 @@
-# PoseNet
+---
+description: 'https://ml5js.org/reference/api-PoseNet/'
+---
 
-[https://ml5js.org/reference/api-PoseNet/](https://ml5js.org/reference/api-PoseNet/)
+# PoseNet
 
 ```markup
 <html>
