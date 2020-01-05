@@ -2,6 +2,8 @@
 
 ## [Editor](https://editor.p5js.org/)
 
+Visit [https://editor.p5js.org/](https://editor.p5js.org/)
+
 ![](../../../../.gitbook/assets/p5-editor.png)
 
 * **Sketch.js:** The name of the current file, and the place where code is written. By toggling the arrow just next to the name, a "folder" structure is revealed. New files can be uploaded here, such as images.
