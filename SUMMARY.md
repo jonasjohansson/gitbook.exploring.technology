@@ -49,7 +49,6 @@
     * [PoseNet](l/s/ml5/posenet.md)
     * [Overview](l/s/ml5/object-detection-algorithms.md)
     * [References](l/s/ml5/references.md)
-  * [MIDI & OSC](l/s/midi-and-osc.md)
   * [Processing \(P5\)](l/s/p5/README.md)
     * [Basics](l/s/p5/basics/README.md)
       * [Shapes](l/s/p5/basics/shapes.md)
@@ -111,7 +110,10 @@
     * [Types](l/h/projectors/types.md)
     * [Software](l/h/projectors/software.md)
     * [Buyers Guide](l/h/projectors/buyers-guide.md)
-* [Tips & Trix](l/tips-trix.md)
+* [Tips & Trix](l/tips-trix/README.md)
+  * [Documentation](l/tips-trix/documentation.md)
+  * [MIDI & OSC](l/tips-trix/midi-and-osc.md)
+  * [Web](l/tips-trix/web.md)
 
 ## Tools
 
