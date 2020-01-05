@@ -5,6 +5,7 @@
 ## Draft <a id="legacy"></a>
 
 * [Spark AR](spark-ar.md)
+* [Shaders](shaders.md)
 * [Biotechnology](biotechnology/README.md)
   * [Mycelium](biotechnology/mycelium.md)
   * [Bioplastics](biotechnology/bioplastics.md)
