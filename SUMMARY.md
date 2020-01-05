@@ -114,9 +114,7 @@
   * [Documentation](l/tips-trix/documentation.md)
   * [MIDI & OSC](l/tips-trix/midi-and-osc.md)
   * [Web](l/tips-trix/web.md)
-
-## Tools
-
-* [Glitch](tools/glitch.md)
-* [Mio](tools/mio.md)
+* [Tools](l/tools/README.md)
+  * [Glitch](l/tools/glitch.md)
+  * [Mio](l/tools/mio.md)
 
