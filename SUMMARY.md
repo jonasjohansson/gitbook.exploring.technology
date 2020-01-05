@@ -111,7 +111,7 @@
     * [Types](l/h/projectors/types.md)
     * [Software](l/h/projectors/software.md)
     * [Buyers Guide](l/h/projectors/buyers-guide.md)
-* [Tips & Trix](l/documentation.md)
+* [Tips & Trix](l/tips-trix.md)
 
 ## Tools
 
