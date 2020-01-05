@@ -62,6 +62,7 @@
       * [Logic](l/s/p5/advanced/logic.md)
       * [Interaction](l/s/p5/advanced/interaction.md)
       * [Audio](l/s/p5/advanced/sound.md)
+      * [Sliders](l/s/p5/advanced/sliders.md)
     * [Expert](l/s/p5/expert.md)
     * [References](l/s/p5/references.md)
     * [🏆 Challenges](l/s/p5/challenges.md)
