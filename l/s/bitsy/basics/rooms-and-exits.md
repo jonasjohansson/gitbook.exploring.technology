@@ -29,7 +29,7 @@ You can connect as many rooms as you’d like in this way, and you can place mul
 You may also set **transition styles** in the exits & endings styles, which change the animation when you change rooms.
 {% endhint %}
 
-Remember that it is usually a good idea to visually signify your exit somehow! Make a door, staircase, well or cave entrance to start. Then think of other possible exits that your character can take.   
+Remember that it is usually a good idea to visually signify your exit somehow! Make a door, staircase, well or cave entrance to start. Then think of other possible exits that your character can take. [Reunion does a very good job of this.](https://caeth.itch.io/reunion)  
 ****
 
 ![Oh, a magical well! I wonder what&apos;s inside&#x2026;](../../../../.gitbook/assets/bitsy-well.gif)

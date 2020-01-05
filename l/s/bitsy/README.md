@@ -23,21 +23,25 @@ Besides Bitsy there are several other minimal game design tools and languages ar
 | [Unity](https://unity.com/) | 🧚 |
 | [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker) | 🍰 |
 
-Bitsy, just like Twine, is nurturing creatives around the world, and spreading the joy of games, and game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs) to see what is happening within the community around the world, and join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), the Bitsy discord channel. To find other games to play install [Steam](https://store.steampowered.com/) and check out [Game Curator](https://game-curator.com/).
+### Inspiration
 
-And the best inspiration is a good challenge, [participate in "jams"](https://itch.io/jam/) such as [Ludum Dare](https://ldjam.com/)!
+Like Twine, Bitsy is nurturing creatives around the world, and spreading the joy of games, and game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs) to see what is happening within the community around the world, and join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), the Bitsy discord channel. 
 
-![Novena by Cecile Richard, https://haraiva.itch.io/novena](../../../.gitbook/assets/novena%20%281%29.gif)
+![Novena by Cecile Richard \(https://haraiva.itch.io/novena\)](../../../.gitbook/assets/novena%20%281%29.gif)
 
-![Depths by Marc Wonnacott, https://candle.itch.io/depths](../../../.gitbook/assets/depths.gif)
+![Depths by Marc Wonnacott \(https://candle.itch.io/depths\)](../../../.gitbook/assets/depths.gif)
 
-![The Fever by AYolland, https://ayolland.itch.io/fever](../../../.gitbook/assets/bitsy-thefever.gif)
+![The Fever by AYolland \(https://ayolland.itch.io/fever\)](../../../.gitbook/assets/bitsy-thefever.gif)
+
+To find inspiration from other tools install [Steam](https://store.steampowered.com/), and frequent sites like [Game Curator](https://game-curator.com/) and [Game Jolt](https://gamejolt.com/). And the best inspiration is a good challenge, [participate in "jams"](https://itch.io/jam/) such as [Ludum Dare](https://ldjam.com/)!
 
 Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines).
 
-## The Spriters Resource
+#### Games to play
 
-It is fortunate designing pixel games, as so much has already been made, so there's lots of great inspiration out there. [The Spriters Resource](https://www.spriters-resource.com/) rips the sprite sheets from games, so that others may understand better the graphic design within classic games like Final Fantasy or Super Mario.
-
-![Tilescapes by Jonas Johansson](../../../.gitbook/assets/tilescapes.jpg)
+| Title | Author |
+| :--- | :--- |
+| [Forward](https://citron-curieux.itch.io/forward) | [Citron Curieux](https://citron-curieux.itch.io/) |
+| [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |
+| [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |
 
