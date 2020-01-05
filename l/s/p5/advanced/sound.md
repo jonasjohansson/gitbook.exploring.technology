@@ -108,7 +108,6 @@ function touchStarted() {
   let synth = new p5.MonoSynth();
   synth.play('A4', 0.5, 0, 0.2);
 }
-
 ```
 {% endtab %}
 {% endtabs %}

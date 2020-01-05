@@ -12,7 +12,7 @@ Upon starting the application an example composition is presented. It's a great 
 
 ![](../../../.gitbook/assets/resolumeinterface.png)
 
-Before deciphering the interface, let's simplify it a bit. Click **View** and untick **Audio Controls**, **Crossfader, Dashboard, Help** and **Compositions**. Remember to save so it can be referenced later. Save by clicking **Layout** and **Save**, name it "Simple".
+Before deciphering the interface, click **View** and untick **Audio Controls**, **Crossfader, Dashboard, Help** and **Compositions**. Remember to save so it can be referenced later. Save by clicking **Layout** and **Save**, name it "Simple".
 
 The interface should now be easier to navigate!
 
@@ -22,11 +22,7 @@ The interface should now be easier to navigate!
 
 ![](../../../.gitbook/assets/savecomp%20%281%29.png)
 
-Name the composition and change the **Size,** **960x540** will be fine. The values should ideally reflect the final output, most likely the resolution of the screen or projector, but for learning it's better to go fast, and not have any lag.
-
-{% hint style="danger" %}
-Avoid having a larger composition size than what the projector or screen is set to output. This will only cause unnecessary strain on the computer.
-{% endhint %}
+Name the composition and change the **Size,** **960x540** will be fine. The values should ideally reflect the final output resolution \(most likely from a projector\), but for learning and experimenting it is less taxing on the computer to run at lower values.
 
 Click **Save** and a new .avc file will be created in the Resolume folder, normally found under Documents. The .avc file can be shared with others, but the video files are not embedded, so make sure that if collaborating to also sync the media.
 

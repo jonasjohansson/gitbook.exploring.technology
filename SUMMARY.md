@@ -63,7 +63,7 @@
       * [Logic](l/s/p5/advanced/logic.md)
       * [Interaction](l/s/p5/advanced/interaction.md)
       * [Audio](l/s/p5/advanced/sound.md)
-      * [Cellular Automaton](l/s/p5/advanced/cellular-automaton.md)
+    * [Expert](l/s/p5/expert.md)
     * [References](l/s/p5/references.md)
     * [🎨 Kazemir Challenge](l/s/p5/kazemir-mini-challenge.md)
     * [🎨 Abstract Art Challenge](l/s/p5/learning-challenge.md)
