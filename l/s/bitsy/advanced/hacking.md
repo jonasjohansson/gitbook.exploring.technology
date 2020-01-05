@@ -1,10 +1,13 @@
 # Hacking
 
-At some point, _regular_ Bitsy will not be enough, meaning, it's time to hack! Now, most hacks require some level of coding, whilst others are more like tools:
+At some point, vanilla __Bitsy will not be enough, meaning, it's time to hack! Now, most hacks require some level of coding, whilst others are more like tools:
 
 * Adding audio: [https://candle.itch.io/bitsy-audio](https://candle.itch.io/bitsy-audio)
 * Turn an image into pixels: [https://ruin.itch.io/image-to-bitsy](https://ruin.itch.io/image-to-bitsy)
 * Generate custom fonts: [https://seansleblanc.itch.io/fontsy](https://seansleblanc.itch.io/fontsy)
+* Automagically create exits connecting rooms: [https://voec.github.io/witchery/](https://voec.github.io/witchery/)
+
+![Witchery connects rooms!](../../../../.gitbook/assets/bitsy-witchery%20%281%29.png)
 
 ## Existing hacks
 

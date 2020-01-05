@@ -1,7 +1,6 @@
 # Rooms & Exits
 
-Although you can certainly make a game in just one room, Bitsy also lets you string together multiple rooms to tell a longer story. At the bottom of the **rooms** window, click on **room tools**.   
-****
+Although you can certainly make a game in just one room, Bitsy also lets you string together multiple rooms to tell a longer story. At the bottom of the **rooms** window, click on **room tools**. 
 
 ![](../../../../.gitbook/assets/bitsy-room-tools.png)
 
