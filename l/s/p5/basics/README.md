@@ -1,8 +1,8 @@
 # Basics
 
-## [Editor](https://editor.p5js.org/)
+P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installations. Create an account to enable saving and sharing.
 
-Visit [https://editor.p5js.org/](https://editor.p5js.org/)
+## Editor
 
 ![](../../../../.gitbook/assets/p5-editor.png)
 
