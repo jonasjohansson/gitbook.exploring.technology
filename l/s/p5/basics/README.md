@@ -1,6 +1,6 @@
 # Basics
 
-P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installations. Create an account to enable saving and sharing.
+P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installations. Create an account to enable saving and sharing. Ask questions in the [Processing Foundation Discourse](https://discourse.processing.org/)!
 
 ## Editor
 
