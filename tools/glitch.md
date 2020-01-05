@@ -6,11 +6,11 @@ Glitch is a creative and expressive platform that everyone can use to create the
 
 Visit [Glitch](https://glitch.com/) and create a new account or login through [Github](https://github.com). Then choose **New Project** and _hello-webpage_.
 
-![](../../.gitbook/assets/screenshot-2019-09-23-at-22.47.33.png)
+![](../.gitbook/assets/screenshot-2019-09-23-at-22.47.33.png)
 
 Once done you will see an editor similar to this. On the left menu you see some files, and on the right the contents of the _README.md_ file — let's see what it says!
 
-![](../../.gitbook/assets/screenshot-2019-09-23-at-22.51.39.png)
+![](../.gitbook/assets/screenshot-2019-09-23-at-22.51.39.png)
 
 A few quick ones… You can change the domain name in the top left by clicking the current title. By clicking Show you can choose to view the public version of the site as a new window, or inline with your editor.
 
