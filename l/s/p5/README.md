@@ -28,15 +28,15 @@ _There are several other artist movements to use as search terms: cubism, expres
 
 ### [Will artificial intelligence replace professional cultural creators?](https://strelkamag.com/en/article/lev-manovich-ai-aesthetics)
 
-With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end?
+With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And Vera Molnár, a few years layer, made her own explorations as to what generative art could be. [Read this fantastic post about her](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5), and when ready, try the p5 coding examples.
 
 ![Hommage &#xE0; Paul Klee \(1965\) by Frieder Nake](https://storage.strelka.com/i/acc35992-8b7d-437d-bc49-91e514ca32ee/w/840)
 
+
+
 Steve Reichs [Piano Phase](https://www.youtube.com/watch?v=gobDFubBiRg) is a minimalist composition, written in 1967 for two pianos \(or piano and tape\). It is one of his first attempts at applying his "phasing" technique.
 
-Deconstructing and recomposing like this has later evolved into unique languages and cultures, such as the algorithmic music scene, where codified music is written on the spot, creating compositions never heard before.
-
-{% embed url="https://www.youtube.com/watch?v=CSQ8npnlk0I" %}
+Deconstructing and recomposing like this has later evolved into unique languages and cultures, such as the [algorithmic music scene](https://youtu.be/CSQ8npnlk0I), where codified music is written on the spot, creating compositions never heard before.
 
 Together, we will take the first steps into deconstructing the world around us, and rebuilding it with our own hands.
 
