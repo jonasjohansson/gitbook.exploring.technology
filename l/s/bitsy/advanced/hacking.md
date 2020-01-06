@@ -6,6 +6,7 @@ At some point, vanilla __Bitsy will not be enough, meaning, it's time to hack! N
 * Turn an image into pixels: [https://ruin.itch.io/image-to-bitsy](https://ruin.itch.io/image-to-bitsy)
 * Generate custom fonts: [https://seansleblanc.itch.io/fontsy](https://seansleblanc.itch.io/fontsy)
 * Automagically create exits connecting rooms: [https://voec.github.io/witchery/](https://voec.github.io/witchery/)
+* Get all the colours: [https://janosc.itch.io/rgbitsy](https://janosc.itch.io/rgbitsy)
 
 ![Witchery connects rooms!](../../../../.gitbook/assets/bitsy-witchery%20%281%29.png)
 

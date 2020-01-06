@@ -45,4 +45,5 @@ Peaked your interest in creating games? Get fired up by reading the [Scratchware
 | [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |
 | [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |
 | [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) |
+| [Spoons](https://le-onionboi.itch.io/spoons) | [Onion Boi](https://le-onionboi.itch.io/) |
 
