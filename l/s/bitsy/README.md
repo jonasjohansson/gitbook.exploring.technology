@@ -44,4 +44,5 @@ Peaked your interest in creating games? Get fired up by reading the [Scratchware
 | [Forward](https://citron-curieux.itch.io/forward) | [Citron Curieux](https://citron-curieux.itch.io/) |
 | [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |
 | [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |
+| [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) |
 

@@ -34,10 +34,6 @@ These are the steps to follow:
 </body>
 ```
 
-### Transparent tiles
-
-[https://ducklingsmith.itch.io/the-unseen-light](https://ducklingsmith.itch.io/the-unseen-light)
-
 ## Custom hacks
 
 If the hacks available just don't feel right, [write custom ones](https://github.com/seleb/bitsy-hacks/wiki)! And if that feels like a bit too large of a mountain to climb, it's also possibly to include a script that listens to Bitsy events, such as `onPlayerMoved()` which happens every time the player avatar moves.
