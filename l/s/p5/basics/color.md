@@ -14,7 +14,9 @@ Let us make outline of the circle red by typing `stroke(255,0,0)` **before** the
 
 ![](../../../../.gitbook/assets/p5-stroke%20%281%29.png)
 
+{% hint style="info" %}
 To remove a stroke, type `noStroke()` before the shapes that should be without.
+{% endhint %}
 
 ## Fill
 

@@ -3,19 +3,23 @@
 Programming uses “variables” to pass information effectively. Imagine that you want to create a circle and a rectangle. The rectangle must have its width and height be half of the circle diameter. You could “hard code” it in like this:
 
 ```javascript
-circle(100,100,200);
-rect(0,0,100,100);
+circle(100, 100, 200);
+rect(0, 0, 100, 100);
 ```
 
 Or you could use a variable:
 
 ```javascript
 var diameter = 200;
-circle(100,100,diameter);
-rect(0,0,diameter/2,diameter/2);
+circle(100, 100, diameter);
+rect(0, 0, diameter / 2, diameter / 2);
 ```
 
 Variables are initiated by typing "var" or "let" followed by the name of the variable. Names should follow the English Alphabet,  avoiding numbers and special characters. If your variable has several words, try to type it in "camel case", for instance **myNewFunction**.
+
+{% hint style="info" %}
+There are also predefined variables which are great to play with! Replace `100, 100` with `mouseX, mouseY` for a taste.
+{% endhint %}
 
 Notice that the variables are sometimes inside of a function, such as diameter, and sometimes outside in the top. This is has to do with something called “scope”. Anything that is declared at the top is “global”, meaning it can be accessed from anywhere in the code. In the example here “diameter” is local, and can only be read from within the draw-function. In most cases you can use global variables, but it is good practice to only have variables be available where they are needed.
 
