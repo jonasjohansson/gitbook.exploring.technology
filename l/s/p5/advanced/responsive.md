@@ -18,19 +18,28 @@ function windowResized() {
 
 ### Scale trick
 
-If a lot of work has gone into a design where the canvas width was originally fixed, it's extremely tedious migrating into a responsive solution.
-
-
+It's extremely tedious migrating to a responsive solution. A quick fix is to simple scale the work so that it appears responsive, but is actually just adjusted in size…
 
 ```javascript
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+}
+
 function draw() {
   background(220);
   
-  var scaleRatio = (windowWidth < w) ? w / windowWidth : windowWidth / w;
-  
-  scale(scaleRatio, scaleRatio);
+  responsiveScale(400); // original width
 
-  circle(200,200,100);
+  circle(200, 200, 100);
+}
+
+function responsiveScale(w){
+  var scaleRatio = (windowWidth > w) ? windowWidth / w : 1;
+  scale(scaleRatio, scaleRatio);
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
 ```
 
