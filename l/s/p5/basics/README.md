@@ -1,6 +1,6 @@
 # Basics
 
-P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installations. Create an account to enable saving and sharing. Ask questions in the [Processing Foundation Discourse](https://discourse.processing.org/) and use the [Reference](https://p5js.org/reference/).
+P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installations. Create an account to enable saving and sharing. Ask questions in the [Processing Foundation Discourse](https://discourse.processing.org/)!
 
 ## Editor
 
@@ -19,7 +19,7 @@ You can change the name of your project next to the Auto-refresh button.
 
 In programming, a function is a named section of a program that performs a specific task. In this sense, a function is a type of procedure or routine. 
 
-Processing has two default functions. `setup()` which happens once, in the beginning, and `draw()` which happens forever, until the sketch is stopped. 
+Processing has two default functions. `setup()` which happens once, in the beginning, and `draw()` which happens forever, until the sketch is stopped. There is also has a bunch of other functions that can be called, these pre-existing functions will be highlighted in color.
 
 ```javascript
 function setup(){
@@ -31,7 +31,7 @@ function draw(){
 }
 ```
 
-In the default code there is also two other functions: `createCanvas(400,400)` and `background(220)`. Running this will give us a canvas 400 pixels wide and high, and with a gray background. The number 2020, in this case, signifies the collected value of Red, Green and Blue. Since there is only 1 number, it assumes we are defining the value for all three ie. RGB. We can change this by adding commas:
+In the default code there is also two other functions: `createCanvas(400,400)` and `background(220)`.  Running this example will give us a canvas with  400 pixels width and height, as well as a gray background. The reason it becomes gray is the number 220, which signifies the value of Red, Green and Blue. Since there is only 1 number, it assumes we are defining the value for all three ie. RGB. We can change this by adding commas:
 
 ```javascript
 background(220,0,0);

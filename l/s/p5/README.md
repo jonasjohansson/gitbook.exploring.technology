@@ -1,6 +1,6 @@
 # Processing \(P5\)
 
-For over 15 years Processing has lowered the threshold of programming graphics, and with books like [The Nature of Code](http://natureofcode.com/), [Generative Gestaltung](http://www.generative-gestaltung.de/2/) and [Daniel Shiffman's](https://shiffman.net/) [The Coding Train](https://www.youtube.com/user/shiffman/videos), learning couldn't be easier.
+For over 15 years Processing has lowered the threshold of programming graphics, and with books like [The Nature of Code](http://natureofcode.com/), [Generative Gestaltung](http://www.generative-gestaltung.de/2/) and [Daniel Shiffman's](https://shiffman.net/) [The Coding Train](https://www.youtube.com/user/shiffman/videos), learning couldn't be easier!
 
 Generative design and art is the symbiosis between machine and designer. The machine creates massive quantities while the designer uses its experience and knowledge to make qualitative choices. To begin to understand this field, let's look at relevant art through history. 
 
@@ -26,7 +26,7 @@ With modern tools many have been tempted to further understand abstract art, by 
 
 ![Hommage &#xE0; Paul Klee \(1965\) by Frieder Nake](https://storage.strelka.com/i/acc35992-8b7d-437d-bc49-91e514ca32ee/w/840)
 
-Modern artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) use the freedom that the machine provides, leveraging its power, and iterates every day, as means of artistic expression.
+Modern artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) use the freedom that the machine provides, leveraging its power, and iterates every day, as means of artistic expression. For more inspiration, visit [Open Processing](https://www.openprocessing.org/)!
 
 ![@zach.lieberman](../../../.gitbook/assets/screenshot-2019-09-22-at-21.54.25.png)
 
