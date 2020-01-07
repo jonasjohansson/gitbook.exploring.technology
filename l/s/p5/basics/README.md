@@ -41,5 +41,3 @@ background(220,0,0);
 Notice the semicolon at the end, this tells the code interpreter that the line has ended.
 {% endhint %}
 
-
-
