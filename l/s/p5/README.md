@@ -1,8 +1,14 @@
 # Processing \(P5\)
 
-For over 15 years Processing has lowered the threshold of programming graphics, and with books like [The Nature of Code](http://natureofcode.com/), [Generative Gestaltung](http://www.generative-gestaltung.de/2/) and [Daniel Shiffman's](https://shiffman.net/) [The Coding Train](https://www.youtube.com/user/shiffman/videos), learning couldn't be easier.
+For over 15 years Processing, a software written by developers for artists, have been available. Here you can easy create graphics, typography, interactive artworks, games and more. And since a few years back there's also a Javascript variant which ensures that your creation is easy to view and share.
 
-Generative design and art is the symbiosis between machine and designer. The machine creates massive quantities while the designer uses its experience and knowledge to make qualitative choices. To begin to understand this field, let's look at relevant art through history. 
+Generative design and art is the symbiosis between machine and designer. The machine creates massive quantities while the designer uses its experience and knowledge to make qualitative choices.
+
+Look at the work of [Zach Lieberman](https://www.instagram.com/zach.lieberman/), [Saskia Freeke](https://www.instagram.com/sasj_nl/) or [Manolo Gamboa Naon](https://www.instagram.com/manoloide/), artists that use iteration as a method, exploring their expression through code.
+
+## Generative design
+
+To begin to understand the field of generative and procedural design, let's look at relevant art through history. 
 
 Modern art is broad term, but the consensus of its beginnings is focused on a disruption in representing historical and/or mythological figures, towards the representation of everyday life themes and subjects. 
 
@@ -22,17 +28,13 @@ _There are several other artist movements to use as search terms: cubism, expres
 
 ### [Will artificial intelligence replace professional cultural creators?](https://strelkamag.com/en/article/lev-manovich-ai-aesthetics)
 
-With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And Vera Molnár, a few years layer, made her own explorations as to what generative art could be. [Read this fantastic post about her](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5).
+With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And Vera Molnár, a few years layer, made her own explorations as to what generative art could be. [Read this fantastic post about her](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5), and when ready, try the p5 coding examples.
 
 ![Hommage &#xE0; Paul Klee \(1965\) by Frieder Nake](https://storage.strelka.com/i/acc35992-8b7d-437d-bc49-91e514ca32ee/w/840)
 
-Modern artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) use the freedom that the machine provides, leveraging its power, and iterates every day, as means of artistic expression.
 
-![@zach.lieberman](../../../.gitbook/assets/screenshot-2019-09-22-at-21.54.25.png)
 
-### Generative design elsewhere
-
-Other fields has fun with machines as well \(of course\). Steve Reichs [Piano Phase](https://www.youtube.com/watch?v=gobDFubBiRg) is a minimalist composition, written in 1967 for two pianos \(or piano and tape\). It is one of his first attempts at applying his "phasing" technique.
+Steve Reichs [Piano Phase](https://www.youtube.com/watch?v=gobDFubBiRg) is a minimalist composition, written in 1967 for two pianos \(or piano and tape\). It is one of his first attempts at applying his "phasing" technique.
 
 Deconstructing and recomposing like this has later evolved into unique languages and cultures, such as the [algorithmic music scene](https://youtu.be/CSQ8npnlk0I), where codified music is written on the spot, creating compositions never heard before.
 

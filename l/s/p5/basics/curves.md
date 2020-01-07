@@ -1,6 +1,6 @@
-# Lines & Curves
+# Curves
 
-It is possible to make lines with `line(x1,y1,x2,y2)` but things like bezier curves are trickier… to get started use `curveVertex(x,y)` and then use `beginShape()` and `endShape()` to solidify to a shape. The first and last vertices define the direction of the vertices to come, as illustrated by the two lines.
+It is possible to make curved lines using `curveVertex()` and then use `beginShape()` and `endShape()` to solidify them. The first and last vertices define the direction of the vertices to come, as illustrated by the two lines.
 
 ```javascript
 function draw() {
