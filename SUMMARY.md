@@ -55,7 +55,7 @@
       * [Color](l/s/p5/basics/color.md)
       * [Transform](l/s/p5/basics/transform.md)
       * [Variables](l/s/p5/basics/variables.md)
-      * [Curves](l/s/p5/basics/curves.md)
+      * [Lines & Curves](l/s/p5/basics/lines.md)
       * [Time](l/s/p5/basics/time.md)
     * [Advanced](l/s/p5/advanced/README.md)
       * [Logic](l/s/p5/advanced/logic.md)

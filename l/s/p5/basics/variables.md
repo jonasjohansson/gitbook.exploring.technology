@@ -4,7 +4,7 @@ Programming uses “variables” to pass information effectively. Imagine that y
 
 ```javascript
 circle(100, 100, 200);
-rect(0, 0, 100, 100);
+square(0, 0, 100);
 ```
 
 Or you could use a variable:
@@ -12,7 +12,7 @@ Or you could use a variable:
 ```javascript
 var diameter = 200;
 circle(100, 100, diameter);
-rect(0, 0, diameter / 2, diameter / 2);
+square(0, 0, diameter / 2);
 ```
 
 Variables are initiated by typing **var** or **let** followed by the name of the variable. Names should follow the English Alphabet,  avoiding numbers and special characters. If your variable has several words, type it in "camel case", for instance **myVariable** instead of **myvariable**.
