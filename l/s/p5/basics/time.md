@@ -16,6 +16,10 @@ function draw() {
 
 It's not great for smooth animations, but whenever the change is in steps of 1 or more, frameCount is a great choice! For smoothness, let's look further…
 
+{% hint style="info" %}
+Notice that there is no `background()` in the example. This means that there is no visual "reset" and the canvas is not painted over.
+{% endhint %}
+
 ## Millis
 
 Our good friend  `millis()` counts the amount of **milliseconds** that has transpired since the sketch began running. We can understand this better by creating a variable, and printing it to the console:
