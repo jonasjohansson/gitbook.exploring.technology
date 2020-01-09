@@ -1,6 +1,6 @@
-# Expert
+# Other
 
-
+{% embed url="https://editor.p5js.org/mehow\_one/sketches/h5sdeQ4jc" caption="Kinetic Typography" %}
 
 {% embed url="https://towardsdatascience.com/algorithmic-beauty-an-introduction-to-cellular-automata-f53179b3cf8f" %}
 
