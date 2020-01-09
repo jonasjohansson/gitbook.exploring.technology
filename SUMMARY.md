@@ -63,6 +63,7 @@
       * [Responsive](l/s/p5/advanced/responsive.md)
       * [Audio](l/s/p5/advanced/sound.md)
     * [Expert](l/s/p5/expert.md)
+      * [3D](l/s/p5/expert/3d.md)
       * [Random](l/s/p5/expert/random.md)
       * [Sliders](l/s/p5/advanced/sliders.md)
     * [References](l/s/p5/references.md)
