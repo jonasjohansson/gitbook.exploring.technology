@@ -6,7 +6,12 @@ A framework which aims to make machine learning approachable for a broad audienc
 
 {% embed url="https://vimeo.com/207831279" caption="Sound-controlled Wolfenstein 3d by Andreas Refsgaard" %}
 
-
+* [https://aiartists.org/ai-generated-art-tools](https://aiartists.org/ai-generated-art-tools)
+* [https://andreasref.github.io/ml/](https://andreasref.github.io/ml/)
+* [https://editor.p5js.org/ml5/sketches](https://editor.p5js.org/ml5/sketches)
+* [https://glitch.com/@mickeyvanolst/andreas-ref-workshop-on-machine-learning-at-hyper-island-19](https://glitch.com/@mickeyvanolst/andreas-ref-workshop-on-machine-learning-at-hyper-island-19)
+* [https://runwayml.com/](https://runwayml.com/)
+* [https://aiartists.org/ai-generated-art-tools](https://aiartists.org/ai-generated-art-tools)
 
 
 

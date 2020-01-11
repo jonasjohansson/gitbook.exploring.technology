@@ -2,6 +2,24 @@
 
 It’s possible to use time as a variable for creating events that happen after a certain amount of time, or for animations.
 
+## FrameCount
+
+Ever heard about Frames Per Second \(FPS\)? It is the amount of frames, or updates, that happen during 1 second. So, if an animation goes from 0 to 90 in steps of 1, it would take 3 seconds for it to finish!
+
+The `frameCount` variable provides a way to keep count of how many frames have passed , and it can be used for animation!
+
+```javascript
+function draw() {
+  square(frameCount,0,10,10);
+}
+```
+
+It's not great for smooth animations, but whenever the change is in steps of 1 or more, frameCount is a great choice! For smoothness, let's look further…
+
+{% hint style="info" %}
+Notice that there is no `background()` in the example. This means that there is no visual "reset" and the canvas is not painted over.
+{% endhint %}
+
 ## Millis
 
 Our good friend  `millis()` counts the amount of **milliseconds** that has transpired since the sketch began running. We can understand this better by creating a variable, and printing it to the console:
