@@ -1,6 +1,6 @@
 # Models
 
-Figures of all types of shapes and textures flood the Internet. Build you own using software like [Blender](https://www.blender.org/) and [Cinema4d](https://www.maxon.net/en-us/products/cinema-4d/overview/), or find models made by others on [Thingiverse](http://thingiverse.com/), [Sketchfab](https://sketchfab.com/search?features=downloadable+animated&q=low+poly&sort_by=-pertinence&type=models) or [Poly](https://poly.google.com/). Verify that your model look and behave as intended using the [Creators 3d Online Viewer](https://www.creators3d.com/online-viewer).
+Figures of all types of shapes reside online. Build you own using software like [Blender](https://www.blender.org/) and [Cinema4d](https://www.maxon.net/en-us/products/cinema-4d/overview/), or find models made by others on [Thingiverse](http://thingiverse.com/), [Sketchfab](https://sketchfab.com/search?features=downloadable+animated&q=low+poly&sort_by=-pertinence&type=models) and [Poly](https://poly.google.com/). Verify that your model look and behave as intended using the [Creators 3d Online Viewer](https://www.creators3d.com/online-viewer).
 
 In order to have 3d models in your scene there are two scripts that need to be included.
 
@@ -23,7 +23,7 @@ Beware that the .mtl file will often point to a texture which is local. Make sur
 
 ### FBX
 
-The filmbox  is a proprietary format created by Autodesk for 3d file transfers. The files are generally large but contain a lot of useful information and work well! 
+The filmbox is a proprietary format created by Autodesk for 3d file transfers. The files are generally large but contain a lot of useful information and work well! 
 
 ```markup
 <a-entity animation-mixer="clip: *;" 
@@ -40,7 +40,7 @@ It is possible to export complete scenes from Cinema4D or Blender and use them i
 
 ### GLTF
 
-Short for GL Transmission Format, glTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\):
+Short for GL Transmission Format, glTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\).
 
 ```markup
 <a-gltf-model src="https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb">
@@ -51,5 +51,7 @@ Short for GL Transmission Format, glTF is a file format for 3D scenes and models
 * [https://labs.maxon.net/?p=3360](https://labs.maxon.net/?p=3360)
 * [https://github.com/facebookincubator/FBX2glTF](https://github.com/facebookincubator/FBX2glTF)
 
-
+{% hint style="info" %}
+Cinema4d has a plugin enabling glTF export: [https://labs.maxon.net/?p=3360](https://labs.maxon.net/?p=3360)
+{% endhint %}
 
