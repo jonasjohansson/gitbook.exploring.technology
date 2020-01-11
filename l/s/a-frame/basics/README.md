@@ -15,13 +15,13 @@
 </html>
 ```
 
-Include the A-Frame library as a `<script>` in  `<head>` and add the `<a-scene>` in  `<body>`.
+We include A-Frame as a script tag in the `<head>`. This has to be included _before_ the `<a-scene>`. Next, we include `<a-scene>` in the `<body>`.
 
 {% hint style="info" %}
 Notice `<meta name="viewport">` in the top! It ensures that content will look as expected on mobile devices.
 {% endhint %}
 
-To remove the VR icon visible in the bottom right tell `<a-scene>` to hide it.
+If you want to remove the VR icon that is visible in the bottom right you have to tell the `<a-scene>` specifically to hide it by using the attribute "vr-mode-ui".
 
 ```markup
 <a-scene vr-mode-ui="enabled: false">
@@ -29,13 +29,22 @@ To remove the VR icon visible in the bottom right tell `<a-scene>` to hide it.
 
 ### Adding an entity
 
-Within the `<a-scene>` entities can be added. There are several types of entities, and the `<a-box>` from the [three-dimensional primitives](https://aframe.io/docs/1.0.0/primitives/a-box.html) will be our starting point. 
+Within our `<a-scene>`, we attach _entities_ using one of A-Frame’s standard [primitives](https://aframe.io/docs/0.8.0/primitives/) `<a-box>`. We can use `<a-box>` just like a normal HTML element, defining the tag and using HTML attributes to customise it.
 
 ```markup
 <a-box color="red" position="0 0 -3"></a-box>
 ```
 
-The position attribute takes three values; x, y and z. If you are unable to see the box it's likely because default camera and the box are positioned at the `0 0 0` origin, we won’t be able to see the box unless we move it using `position`. 
+{% hint style="info" %}
+If you are unable to see the box it's likely because default camera and the box are positioned at the `0 0 0` origin, we won’t be able to see the box unless we move it using `position`. 
+{% endhint %}
+
+{% hint style="info" %}
+`Position`takes a coordinate value as three space-delimited numbers.   
+Negative X axis extends left. Positive X axis extends right.   
+Negative Y axis extends down. Positive Y axis extends up.   
+Negative Z axis extends in. Positive Z axis extends out.
+{% endhint %}
 
 It's simple to add more boxes, just make sure to have them in different positions so they don't overlap.
 

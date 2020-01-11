@@ -8,16 +8,11 @@ Arduino comes in [many shapes with various purposes](https://makezine.com/compar
 
 ### Install
 
-Begin by installing the Arduino IDE \(Integrated Development Environment\)  application:
+Begin by installing the Arduino \([Mac](https://www.arduino.cc/en/Guide/MacOSX), [Windows](https://www.arduino.cc/en/Guide/Windows)\) application. When ready, open the app and find a new window, named with the current date, containing some basic code.
 
-* [Mac](https://www.arduino.cc/en/Guide/MacOSX)
-* [Windows](https://www.arduino.cc/en/Guide/Windows)
+> Before we continue further, go to Arduino &gt; Preferences and tick "Display line numbers" and "Enable code folding".
 
-When ready, open the app and find a new window, named with the current date, containing some basic code.
-
-> Before we continue further, go to Preferences under Arduino &gt; Preferences and tick "Display line numbers" and "Enable code folding".
-
-A document in Arduino is called a **sketch**, and the default example includes the following:
+A project in Arduino is called a **sketch**, and the default example includes the following:
 
 ```javascript
 void setup() {
