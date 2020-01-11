@@ -2,6 +2,8 @@
 
 Building Augmented Reality experiences for Instagram is possible using Facebook software Spark AR. Through its interface designs for face, neck, eyes, flat surfaces and even custom images can be made!
 
+* [https://sparkar.facebook.com/ar-studio/learn/documentation/before-you-start/file-formats/](https://sparkar.facebook.com/ar-studio/learn/documentation/before-you-start/file-formats/)
+
 ### Install
 
 Begin by installing the Spark AR \([download](https://sparkar.facebook.com/ar-studio/)\) application.
@@ -32,38 +34,19 @@ const FaceTracking = require('FaceTracking');
 Diagnostics.watch("Mouth Openness - ", FaceTracking.face(0).mouth.openness);
 ```
 
-## Convert FBX to GLTF
+## Reduce File size
 
-a
+Since Spark has a file size limit of 4mb models must be reduced in order to fit within the constraints. From the list of supported formats 
 
-## [Supported File Formats](https://sparkar.facebook.com/ar-studio/learn/documentation/before-you-start/file-formats/)
+![](../../../.gitbook/assets/spark-flowers.png)
 
-### 2D Assets <a id="2d-assets"></a>
+The polygon reduction has already helped immensely, reducing the amount of polygons in the scene with up to 90%. Let's see what size the different export options yield.
 
-* PNG
-* JPEG
-* SVG
-
-### 3D Models <a id="3d-models"></a>
-
-* FBX 2014/2015 \(binary and ASCII versions\)
-* gITF 2 \(binary and text versions\)
-* COLLADA / DAE
-* OBJ
-* DAE
-
-The following features are supported for 3D models:
-
-* 3D scene.
-* Materials.
-* Textures.
-* Animations targeting a model's position, rotation and scale.
-
-### Audio <a id="audio"></a>
-
-* Mono M4A, with a sampling frequency of 44.1kHz
-
-### Fonts <a id="fonts"></a>
-
-* TrueType/ OpenType
+| Filetype | File size \(mb\) |
+| :--- | :--- |
+| Flowers.c4d | 14.7 |
+| Flowers.obj | 13.3 |
+| Flowers.fbx | 4.7 |
+| Flowers.gltf | 2.2 |
+| Flowers.glb | 1.7 |
 
