@@ -32,3 +32,12 @@ const FaceTracking = require('FaceTracking');
 Diagnostics.watch("Mouth Openness - ", FaceTracking.face(0).mouth.openness);
 ```
 
+When the console is not available, for instance when testing out on a device, go to Add &gt; 2D Objects &gt; 2D Text. Place the text object and then update its text value in code whenever information needs to be visible.
+
+```javascript
+const text = Scene.root.find('2dText0');
+text.text = myString;
+```
+
+
+
