@@ -72,7 +72,7 @@
   * [Resolume](l/s/resolume/README.md)
     * [Basics](l/s/resolume/basics.md)
     * [Preparing content](l/s/resolume/preparing-content.md)
-  * [Spark AR](l/s/spark-ar/README.md)
+  * [Spark AR \(draft\)](l/s/spark-ar/README.md)
     * [Tutorials](l/s/spark-ar/tutorials.md)
     * [Reducing 3D files](l/s/spark-ar/reducing-3d.md)
 * [Hardware](l/h/README.md)
