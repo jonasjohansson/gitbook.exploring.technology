@@ -1,7 +1,5 @@
 # Animation
 
-* [https://stackoverflow.com/questions/59268468/sparkar-studio-how-animation-driver-oncompleted-should-be-implemented](https://stackoverflow.com/questions/59268468/sparkar-studio-how-animation-driver-oncompleted-should-be-implemented)
-
 ```javascript
 const A = require("Animation");
 
