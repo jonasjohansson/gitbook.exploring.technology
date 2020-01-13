@@ -1,5 +1,7 @@
 # Basics
 
+Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations
+
 ## Editor
 
 ![](../../../../.gitbook/assets/bitsy1.png)
@@ -13,4 +15,8 @@ All windows can be rearranged and closed. Click on Tools to see a list of window
 In the **room** window, hit the play button. You should be able to move the character around with the arrow keys. Walk over to the cat!
 
 ![](https://lh3.googleusercontent.com/9wId48Ut16eMSSqX4phjeNIcgySVJMsVfLTFBHqMnEOJ1TirfrqzVKS3pt4TMo1z6PVE9pTZzkwl9IvTxDg7d0MAPd_Hwo6YtYx-zxUyqkvxxBXQ7vFdSYI8na1R2G3BCf8Hmwuo)
+
+{% hint style="info" %}
+This is currently a heavy copy & paste from a [guide](https://docs.google.com/document/d/11pfwuJ8GR1RViwL1nkvbD7pEqokDH9RLtamzxrsJuEc) written by [Everest Pipkin](https://twitter.com/everestpipkin), as well as this [Bitsy Workshop](https://static1.squarespace.com/static/58930a6c893fc0a33ae624db/t/5bacd94ac83025ead3937071/1538054510407/BITSY-WORKSHOP.pdf) by [Cecile Richard](https://haraiva.itch.io/).
+{% endhint %}
 

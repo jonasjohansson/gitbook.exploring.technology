@@ -1,6 +1,6 @@
 # Bitsy
 
-Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitter.com/adamledoux). However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight. Because it is so simple, it is also a great tool for prototyping ideas, or getting something down on paper right away. 
+Bitsy is a small emulator for small worlds, however, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight. Because it is so simple, it is also a great tool for prototyping ideas, or getting something down on paper right away. 
 
 ### Install
 
@@ -8,7 +8,7 @@ Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and req
 
 ### Tools
 
-Besides Bitsy there are several other game design tools that can be of interest, such as [Twine](https://twinery.org/) and [Pico-8](https://www.lexaloffle.com/pico-8.php)… and [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker).
+Besides Bitsy there are several other game design tools that can be of interest, such as [Twine](https://twinery.org/) and [Pico-8](https://www.lexaloffle.com/pico-8.php) \(and [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker)…\).
 
 ### Inspiration
 
