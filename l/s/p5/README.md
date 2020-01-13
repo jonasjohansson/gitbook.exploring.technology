@@ -1,6 +1,12 @@
 # Processing \(P5\)
 
-For over 15 years Processing has lowered the threshold of programming graphics, and with books like [The Nature of Code](http://natureofcode.com/), [Generative Gestaltung](http://www.generative-gestaltung.de/2/) and [Daniel Shiffman's](https://shiffman.net/) [The Coding Train](https://www.youtube.com/user/shiffman/videos), learning couldn't be easier!
+For over 15 years Processing has lowered the threshold of programming graphics, and with [The Nature of Code](http://natureofcode.com/), [Generative Gestaltung](http://www.generative-gestaltung.de/2/) and [Daniel Shiffman's](https://shiffman.net/) [The Coding Train](https://www.youtube.com/user/shiffman/videos), learning couldn't be easier!
+
+### Install
+
+P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installations. Create an account to enable saving and sharing. Ask questions in the [Processing Foundation Discourse](https://discourse.processing.org/) and use the [Reference](https://p5js.org/reference/) and [Examples](https://p5js.org/examples/).
+
+## Generative design
 
 Generative design and art is the symbiosis between machine and designer. The machine creates massive quantities while the designer uses its experience and knowledge to make qualitative choices. The designer in our case can, and is most likely, also the programmer. The line that was previously set decades ago is getting thinner and thinner, and with places such as [DAM Gallery](https://dam-gallery.de/) it is also becoming recognised. To further understand this emerging \(well, not really, it's been around…\) field, let's look at relevant art through history!
 

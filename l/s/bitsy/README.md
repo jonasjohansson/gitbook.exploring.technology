@@ -1,28 +1,14 @@
 # Bitsy
 
-> Bitsy is a little editor for little games or worlds. the goal is to make it easy to make games where you can walk around and talk to people and be somewhere. — Adam Le Doux, creator of Bitsy
+Bitsy is a small emulator for small worlds, however, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight. Because it is so simple, it is also a great tool for prototyping ideas, or getting something down on paper right away. 
 
-Games made in Bitsy range wildly in their size, scope, and genre, but it works especially well for short narrative games, little vignettes, or games about being in one place and wandering around. 
+### Install
 
-Bitsy is defined by its constraints. It has limited interaction, only three colors, and very little programming. The pixel canvas is tiny. However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight. Because it is so simple, it is also a great tool for prototyping ideas, or getting something down on paper right away. 
+Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations
 
-![](../../../.gitbook/assets/bitsybest.png)
+### Tools
 
-Besides Bitsy there are several other game design tools that can be of interest.
-
-| Name | Difficulty |
-| :--- | :--- |
-| [Twine](https://twinery.org/) | 🍰 |
-| [ZZT](http://zeta.asie.pl/) | 💀 |
-| [Pico-8](https://www.lexaloffle.com/pico-8.php) | 💀 |
-| [Phaser](https://phaser.io/) | 🧚 |
-| [Gdevelop](https://gdevelop-app.com/) | 🧚 |
-| [GameMaker](https://www.yoyogames.com/) | 🧚 |
-| [Babylon](https://www.babylonjs.com/games/) | 🧚 |
-| [Haxe](https://haxe.org/) | 💀 |
-| [Unreal](https://www.unrealengine.com/) | 🧚 |
-| [Unity](https://unity.com/) | 🧚 |
-| [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker) | 🍰 |
+Besides Bitsy there are several other game design tools that can be of interest, such as [Twine](https://twinery.org/) and [Pico-8](https://www.lexaloffle.com/pico-8.php) \(and [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker)…\).
 
 ### Inspiration
 

@@ -1,7 +1,5 @@
 # Basics
 
-P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installations. Create an account to enable saving and sharing. Ask questions in the [Processing Foundation Discourse](https://discourse.processing.org/) and use the [Reference](https://p5js.org/reference/) and [Examples](https://p5js.org/examples/).
-
 ## Editor
 
 ![](../../../../.gitbook/assets/p5-editor.png)
