@@ -2,11 +2,13 @@
 
 Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations
 
+## Editor
+
 ![](../../../../.gitbook/assets/bitsy1.png)
 
 * **Top**: Edit the name of your Bitsy project
 * **Room:** The level editor which your player will move in.
-* **Colors**: Bitsy uses only 3 colors; Background, tile and sprite.
+* **Colors**: Bitsy uses only 3 colors!
 
 All windows can be rearranged and closed. Click on Tools to see a list of windows available! Hovering over anything brings up a description.
 

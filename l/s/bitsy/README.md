@@ -33,11 +33,11 @@ Like Twine, Bitsy is nurturing creatives around the world, and spreading the joy
 
 ![The Fever by AYolland \(https://ayolland.itch.io/fever\)](../../../.gitbook/assets/bitsy-thefever.gif)
 
-To find inspiration from other tools install [Steam](https://store.steampowered.com/), and frequent sites like [Game Curator](https://game-curator.com/) and [Game Jolt](https://gamejolt.com/). And the best inspiration is a good challenge, [participate in "jams"](https://itch.io/jam/) such as [Ludum Dare](https://ldjam.com/)!
+For more than inspiration, play some games — Install [Steam](https://store.steampowered.com/), and frequent sites like [Game Curator](https://game-curator.com/) and [Game Jolt](https://gamejolt.com/), and challenge yourself by [participating in  "game jams"](https://itch.io/jam/) such as [Ludum Dare](https://ldjam.com/)!
 
 Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines).
 
-#### Games
+#### Games to play
 
 | Title | Author | Type |
 | :--- | :--- | :--- |
@@ -49,4 +49,9 @@ Peaked your interest in creating games? Get fired up by reading the [Scratchware
 | [Expecting](https://sebypops.itch.io/expecting) | [Sebypops](https://sebypops.itch.io/) | Bitsy |
 | [In the pines](https://laurahunt.itch.io/in-the-pines) | [Laura Hunt](https://laurahunt.itch.io/) | Bitsy |
 | [Exhume](https://batgut.itch.io/exhume) | [Dan Dudley](https://batgut.itch.io/) | Bitsy |
+| [Bitsy Spider](https://rabbitboots.itch.io/bitsy-spider) | [Rabbit Boots](https://rabbitboots.itch.io/) | Bitsy |
+| [Flotsam](https://candle.itch.io/flotsam) | [Mark Wonnacott](https://candle.itch.io/) | Bitsy |
+| [Shoal](https://candle.itch.io/shoal) | [Mark Wonnacott](https://candle.itch.io/) | Bitsy |
+
+### 
 
