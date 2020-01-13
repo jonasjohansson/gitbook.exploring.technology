@@ -1,6 +1,11 @@
 # FAQ
 
-{% embed url="https://docs.google.com/document/d/1jRz3wgkQU3kZN\_LGChw4UlMWhVoc145J-euBtkr7NeE/edit" %}
+|  |  |
+| :--- | :--- |
+| [Bitsy FAQ](https://docs.google.com/document/d/1jRz3wgkQU3kZN_LGChw4UlMWhVoc145J-euBtkr7NeE/edit) | General FAQ |
+| [https://bitsy.fandom.com/wiki/Bitsy\_Wiki](https://bitsy.fandom.com/wiki/Bitsy_Wiki) | In-depth wiki of tips, hacks, tutorials, and examples |
+
+
 
 [https://bitsy.fandom.com/wiki/Bitsy\_Wiki](https://bitsy.fandom.com/wiki/Bitsy_Wiki) \(very in-depth wiki of tips, hacks, tutorials, and examples\)
 
@@ -28,4 +33,8 @@ A few really useful breakdowns of dialog and variables in Bitsy, if you want dee
 [https://ayolland.itch.io/trevor/devlog/29520/bitsy-variables-a-tutorial](https://ayolland.itch.io/trevor/devlog/29520/bitsy-variables-a-tutorial) 
 
 \*\*\*\*
+
+{% hint style="info" %}
+This is currently a heavy copy & paste from a [guide](https://docs.google.com/document/d/11pfwuJ8GR1RViwL1nkvbD7pEqokDH9RLtamzxrsJuEc) written by [Everest Pipkin](https://twitter.com/everestpipkin), as well as this [Bitsy Workshop](https://static1.squarespace.com/static/58930a6c893fc0a33ae624db/t/5bacd94ac83025ead3937071/1538054510407/BITSY-WORKSHOP.pdf) by [Cecile Richard](https://haraiva.itch.io/).
+{% endhint %}
 
