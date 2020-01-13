@@ -22,17 +22,58 @@ It's dead simple adding audio!
 
 ## Existing hacks
 
-Thanks to a vibrant community there are [several hacks](https://github.com/seleb/bitsy-hacks) built on Kitsy, a small framework extending Bitsy. These hacks are [inserted into the Bitsy HTML file](https://github.com/seleb/bitsy-hacks#how-to-use), and if that process feels too complex, [Borksy](https://ayolland.itch.io/borksy) allows hacks to be easily toggled!
+Thanks to a vibrant community there are [several hacks](https://github.com/seleb/bitsy-hacks) \(some mentioned below\) extending Bitsy. These hacks are [inserted into the Bitsy HTML file](https://github.com/seleb/bitsy-hacks#how-to-use). If that process feels too complex, [Borksy](https://ayolland.itch.io/borksy) allows hacks to be easily toggled!
 
 {% hint style="warning" %}
 Some hacks are more or less difficult to implement, and in overall getting a hack to work as intended requires dedication and learning!
 {% endhint %}
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Hack</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><a href="https://seleb.github.io/bitsy-hacks/dist/exit-from-dialog.js">Exit on dialog</a>
+      </td>
+      <td style="text-align:left">Lets you exit to another room from dialog (including inside conditionals).
+        Use it to make an invisible sprite that acts as a conditional exit, use
+        it to warp somewhere after a conversation, use it to put a guard at your
+        gate who only lets you in once you&apos;re disguised, use it to require
+        payment before the ferryman will take you across the river.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://github.com/seleb/bitsy-hacks/blob/master/dist/dialog-prompt.js">Dialog prompt</a>
+      </td>
+      <td style="text-align:left">
+        <p>Adds a dialog command which prompts the user for input,</p>
+        <p>and stores the result in a variable.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://github.com/seleb/bitsy-hacks/blob/master/dist/transparent-sprites.js">Transparent sprites</a>
+      </td>
+      <td style="text-align:left">Makes all sprites have transparent backgrounds (tiles can be seen underneath
+        the player, sprites, and items).</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://github.com/seleb/bitsy-hacks/blob/master/dist/solid-items.js">Solid items</a>
+      </td>
+      <td style="text-align:left">Prevents certain items from being picked up or walked over, but still
+        triggers their dialog. This allows them to be treated like sprites that
+        can be placed multiple times.</td>
+    </tr>
+  </tbody>
+</table>### Adding hack
+
 These are the steps to follow:
 
 1. Find the code to the hack of interest \([example](https://github.com/seleb/bitsy-hacks/blob/master/dist/dialog-audio.js)\)
 2. Copy & paste the code into the HTML file \(see below\)
-3. Follow the instructions in the code
+3. Follow the code instructions
 4. Reload the game
 
 ```markup
@@ -62,12 +103,4 @@ If the hacks available just don't feel right, [write custom ones](https://github
   </body>
 </html>
 ```
-
-## **Copying Game Data**
-
-It is possible to copy the game data from Bitsy games made by others. Doing so may provide a clear explanation to an effect or design that seem complex. To accomplish this it is imperative to find the game data which rest within the website source code.‌
-
-1. Using Chrome, right click on the game and choose **Inspect**
-2. Press ⌘F to open the search window, and type _bitsyGameData_., a _script tag will be highlighted._
-3.  Click on the tag and ⌘C to copy it, then paste ⌘V to into the Bitsy Game Data window. Remove the `<script>` tag at the top and bottom.
 
