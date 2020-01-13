@@ -1,14 +1,24 @@
 # Hacking
 
-At some point, vanilla __Bitsy will not be enough, meaning, it's time to hack! Now, most hacks require some level of coding, whilst others are more like tools:
+At some point, vanilla __Bitsy will not be enough, meaning, it's time to hack! Now, most hacks require some level of coding, whilst others are more like tools, let's look at those!
 
-* Adding audio: [https://candle.itch.io/bitsy-audio](https://candle.itch.io/bitsy-audio)
+## Tools
+
 * Turn an image into pixels: [https://ruin.itch.io/image-to-bitsy](https://ruin.itch.io/image-to-bitsy)
 * Generate custom fonts: [https://seansleblanc.itch.io/fontsy](https://seansleblanc.itch.io/fontsy)
-* Automagically create exits connecting rooms: [https://voec.github.io/witchery/](https://voec.github.io/witchery/)
+* Automagically create exits: [https://voec.github.io/witchery/](https://voec.github.io/witchery/)
 * Get all the colours: [https://janosc.itch.io/rgbitsy](https://janosc.itch.io/rgbitsy)
+* Merge game data: [https://seansleblanc.itch.io/bitsy-merge](https://seansleblanc.itch.io/bitsy-merge)
 
-![Witchery connects rooms!](../../../../.gitbook/assets/bitsy-witchery%20%281%29.png)
+![](../../../../.gitbook/assets/bitsy-witchery%20%281%29.png)
+
+### Adding audio
+
+It's dead simple adding audio! 
+
+1. Dowload your Bitsy project as HTML
+2. Create a sound file using [Beepbox](https://www.beepbox.co/#8n31s0k0l00e03t2mm0a7g0fj07i0r1o3210T1v1L4u56q1d1f8y3z7C1c0A5F5B9V7Q0001PfaedE0067T1v1L4uebq3d5f8y6z8C0c2A9F6B9V1Q0681Pd756E00c2T1v1L4u37q1d1f6y1z6C1c0AbF6B0V1Q07beP9996E0006T2v1L4u15q0d1f8y0z1C2w0b4h400000000h4g000000014h000000004h400000000p16000000), [Ableton](https://www.ableton.com/) or with a sound file found from somewhere
+3. Visit [https://candle.itch.io/bitsy-audio](https://candle.itch.io/bitsy-audio) and follow the instructions!
 
 ## Existing hacks
 

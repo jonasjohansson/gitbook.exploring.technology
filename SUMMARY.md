@@ -38,6 +38,7 @@
       * [Save & Export](l/s/bitsy/basics/save-and-export.md)
     * [Advanced](l/s/bitsy/advanced/README.md)
       * [Hacking](l/s/bitsy/advanced/hacking.md)
+      * [Merge](l/s/bitsy/advanced/merge.md)
       * [Colors](l/s/bitsy/advanced/colors.md)
       * [Dialog](l/s/bitsy/advanced/dialog.md)
       * [The Spriters Resource](l/s/bitsy/advanced/witchery.md)
