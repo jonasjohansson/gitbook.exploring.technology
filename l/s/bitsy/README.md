@@ -8,7 +8,7 @@ Bitsy is defined by its constraints. It has limited interaction, only three colo
 
 ![](../../../.gitbook/assets/bitsybest.png)
 
-Besides Bitsy there are several other minimal game design tools and languages around that can be of interest.
+Besides Bitsy there are several other game design tools that can be of interest.
 
 | Name | Difficulty |
 | :--- | :--- |
@@ -25,7 +25,7 @@ Besides Bitsy there are several other minimal game design tools and languages ar
 
 ### Inspiration
 
-Like Twine, Bitsy is nurturing creatives around the world, and spreading the joy of games, and game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs) to see what is happening within the community around the world, and join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), the Bitsy discord channel. 
+Like Twine, Bitsy is nurturing creatives around the world, and spreading the joy game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs) to see what is happening within the community around the world, and join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), the Bitsy discord channel. 
 
 ![Novena by Cecile Richard \(https://haraiva.itch.io/novena\)](../../../.gitbook/assets/novena%20%281%29.gif)
 
@@ -37,13 +37,16 @@ To find inspiration from other tools install [Steam](https://store.steampowered.
 
 Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines).
 
-#### Games to play
+#### Games
 
-| Title | Author |
-| :--- | :--- |
-| [Forward](https://citron-curieux.itch.io/forward) | [Citron Curieux](https://citron-curieux.itch.io/) |
-| [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |
-| [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |
-| [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) |
-| [Spoons](https://le-onionboi.itch.io/spoons) | [Onion Boi](https://le-onionboi.itch.io/) |
+| Title | Author | Type |
+| :--- | :--- | :--- |
+| [Forward](https://citron-curieux.itch.io/forward) | [Citron Curieux](https://citron-curieux.itch.io/) |  |
+| [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |  |
+| [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |  |
+| [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) | Bitsy |
+| [Spoons](https://le-onionboi.itch.io/spoons) | [Onion Boi](https://le-onionboi.itch.io/) | Bitsy |
+| [Expecting](https://sebypops.itch.io/expecting) | [Sebypops](https://sebypops.itch.io/) | Bitsy |
+| [In the pines](https://laurahunt.itch.io/in-the-pines) | [Laura Hunt](https://laurahunt.itch.io/) | Bitsy |
+| [Exhume](https://batgut.itch.io/exhume) | [Dan Dudley](https://batgut.itch.io/) | Bitsy |
 
