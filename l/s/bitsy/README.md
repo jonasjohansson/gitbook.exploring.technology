@@ -13,7 +13,8 @@ Besides Bitsy there are several other game design tools that can be of interest.
 | Name | Difficulty |
 | :--- | :--- |
 | [Twine](https://twinery.org/) | 🍰 |
-| [Pico-8](https://www.lexaloffle.com/pico-8.php) | 🧚 |
+| [ZZT](http://zeta.asie.pl/) | 💀 |
+| [Pico-8](https://www.lexaloffle.com/pico-8.php) | 💀 |
 | [Phaser](https://phaser.io/) | 🧚 |
 | [Gdevelop](https://gdevelop-app.com/) | 🧚 |
 | [GameMaker](https://www.yoyogames.com/) | 🧚 |
