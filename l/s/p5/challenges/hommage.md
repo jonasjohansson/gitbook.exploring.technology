@@ -6,5 +6,5 @@ Each piece should be uploaded **as its own post**, and have text mentioning the 
 
 The purpose of this is for viewers to see the work on their own devices, view the code if curious,  understand where the inspiration came from and get in touch.
 
-![](../../../../.gitbook/assets/instagram-structure.png)
+![](../../../../.gitbook/assets/instagram-structure%20%282%29.png)
 
