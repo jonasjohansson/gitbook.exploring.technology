@@ -1,10 +1,10 @@
 # Bitsy
 
-Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitter.com/adamledoux). However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight. Because it is so simple, it is also a great tool for prototyping ideas, or getting something down on paper right away. 
+Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitter.com/adamledoux). However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight.
 
 ### Install
 
-Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations
+Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations.
 
 ### Tools
 
@@ -47,4 +47,11 @@ Below are some other types of games which are all very much worth playing.
 | [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/) | [Croteam](http://www.croteam.com/) |
 | [Untitled Goose Game](https://goose.game/) | [House House](http://househou.se/) |
 | [That Dragon, Cancer](http://www.thatdragoncancer.com/) | [Article](https://www.wired.com/2016/01/that-dragon-cancer/), [documentary](http://www.thankyouforplayingfilm.com/) |
+
+And if curious about game design, make sure to read:
+
+* [Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play)
+* [Game Design Reader](https://www.adlibris.com/se/e-bok/game-design-reader-9780262303170)
+* [Governing by Video Game](https://onezero.medium.com/governing-by-video-game-b8c7a82fdfbd)
+* [Enchanted Objects](https://www.goodreads.com/book/show/18143776-enchanted-objects)
 

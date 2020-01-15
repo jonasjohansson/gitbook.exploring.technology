@@ -78,6 +78,7 @@
   * [Spark AR \(draft\)](l/s/spark-ar/README.md)
     * [Animation](l/s/spark-ar/animation.md)
     * [Materials](l/s/spark-ar/materials.md)
+    * [Particles](l/s/spark-ar/particles.md)
     * [Target Tracker](l/s/spark-ar/target-tracker.md)
     * [Reducing 3D files](l/s/spark-ar/reducing-3d.md)
     * [Tutorials](l/s/spark-ar/tutorials.md)
