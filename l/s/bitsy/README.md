@@ -1,14 +1,14 @@
 # Bitsy
 
-Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitter.com/adamledoux). However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight. Because it is so simple, it is also a great tool for prototyping ideas, or getting something down on paper right away. 
+Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitter.com/adamledoux). However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight.
 
 ### Install
 
-Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations
+Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations.
 
 ### Tools
 
-Besides Bitsy there are several other game design tools that can be of interest, such as [Twine](https://twinery.org/) and [Pico-8](https://www.lexaloffle.com/pico-8.php)… and [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker).
+There are several other game design tools that can be of interest, such as [Twine](https://twinery.org/) and [Pico-8](https://www.lexaloffle.com/pico-8.php)… and [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker).
 
 ### Inspiration
 
@@ -24,21 +24,34 @@ For more than inspiration, play some games — Install [Steam](https://store.ste
 
 Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines).
 
-#### Games to play
+#### Great Bitsy games
 
-| Title | Author | Type |
-| :--- | :--- | :--- |
-| [Forward](https://citron-curieux.itch.io/forward) | [Citron Curieux](https://citron-curieux.itch.io/) |  |
-| [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |  |
-| [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |  |
-| [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) | Bitsy |
-| [Spoons](https://le-onionboi.itch.io/spoons) | [Onion Boi](https://le-onionboi.itch.io/) | Bitsy |
-| [Expecting](https://sebypops.itch.io/expecting) | [Sebypops](https://sebypops.itch.io/) | Bitsy |
-| [In the pines](https://laurahunt.itch.io/in-the-pines) | [Laura Hunt](https://laurahunt.itch.io/) | Bitsy |
-| [Exhume](https://batgut.itch.io/exhume) | [Dan Dudley](https://batgut.itch.io/) | Bitsy |
-| [Bitsy Spider](https://rabbitboots.itch.io/bitsy-spider) | [Rabbit Boots](https://rabbitboots.itch.io/) | Bitsy |
-| [Flotsam](https://candle.itch.io/flotsam) | [Mark Wonnacott](https://candle.itch.io/) | Bitsy |
-| [Shoal](https://candle.itch.io/shoal) | [Mark Wonnacott](https://candle.itch.io/) | Bitsy |
+| Title | Author |
+| :--- | :--- |
+| [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) |
+| [Spoons](https://le-onionboi.itch.io/spoons) | [Onion Boi](https://le-onionboi.itch.io/) |
+| [Expecting](https://sebypops.itch.io/expecting) | [Sebypops](https://sebypops.itch.io/) |
+| [In the pines](https://laurahunt.itch.io/in-the-pines) | [Laura Hunt](https://laurahunt.itch.io/) |
+| [Exhume](https://batgut.itch.io/exhume) | [Dan Dudley](https://batgut.itch.io/) |
+| [Bitsy Spider](https://rabbitboots.itch.io/bitsy-spider) | [Rabbit Boots](https://rabbitboots.itch.io/) |
+| [Flotsam](https://candle.itch.io/flotsam) | [Mark Wonnacott](https://candle.itch.io/) |
+| [Shoal](https://candle.itch.io/shoal) | [Mark Wonnacott](https://candle.itch.io/) |
 
-### 
+Below are some other types of games which are all very much worth playing.
+
+| Title | Creator |
+| :--- | :--- |
+| [Forward](https://citron-curieux.itch.io/forward) | [Citron Curieux](https://citron-curieux.itch.io/) |
+| [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |
+| [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |
+| [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/) | [Croteam](http://www.croteam.com/) |
+| [Untitled Goose Game](https://goose.game/) | [House House](http://househou.se/) |
+| [That Dragon, Cancer](http://www.thatdragoncancer.com/) | [Article](https://www.wired.com/2016/01/that-dragon-cancer/), [documentary](http://www.thankyouforplayingfilm.com/) |
+
+And if curious about game design, make sure to read:
+
+* [Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play)
+* [Game Design Reader](https://www.adlibris.com/se/e-bok/game-design-reader-9780262303170)
+* [Governing by Video Game](https://onezero.medium.com/governing-by-video-game-b8c7a82fdfbd)
+* [Enchanted Objects](https://www.goodreads.com/book/show/18143776-enchanted-objects)
 

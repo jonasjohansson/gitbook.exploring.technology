@@ -6,7 +6,7 @@ Artificial intelligence, a disputed term since it presents two vague and probabl
 
 ML5 \([link](https://ml5js.org/)\) runs in the browser and requires no installation. It works well in P5 \([link](https://editor.p5js.org/)\) with several examples available. Get started by reading the [learn section](https://learn.ml5js.org/docs/#/), and play with some machines! 
 
-## Learning about machines
+## AI
 
 {% embed url="https://vimeo.com/207831279" caption="Sound-controlled Wolfenstein 3d by Andreas Refsgaard" %}
 

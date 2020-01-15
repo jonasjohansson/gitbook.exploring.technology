@@ -6,12 +6,12 @@ Timers are not too complicated to write, but it gets messy fast if there are sev
 
 1. Download the [Chrono library](https://github.com/SofaPirate/Chrono/archive/master.zip)
 2. In Arduino go to **Sketch &gt; Include Library &gt; Add .ZIP Library...**  and select the zip folder
-3. Restart Arduino and run the code below
+3. Run the code below!
 
 ```cpp
 #include <Chrono.h>
 
-Chrono ledChrono;
+Chrono myTimer;
 
 int ledState = LOW;
 
@@ -22,9 +22,9 @@ void setup() {
 void loop() {
 
   // returns true if it passed 1000 ms since it was started
-  if (ledChrono.hasPassed(1000) ) {
+  if (myTimer.hasPassed(1000) ) {
    // restart the crono so that it triggers again later 
-    ledChrono.restart();
+    myTimer.restart();
 
     if (ledState == HIGH) {
       ledState = LOW;
