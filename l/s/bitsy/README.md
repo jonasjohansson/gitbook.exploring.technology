@@ -8,7 +8,7 @@ Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and req
 
 ### Tools
 
-There are several other game design tools that can be of interest, such as [Twine](https://twinery.org/) and [Pico-8](https://www.lexaloffle.com/pico-8.php)… and [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker).
+Besides Bitsy there are several other game design tools that can be of interest, such as [Twine](https://twinery.org/) and [Pico-8](https://www.lexaloffle.com/pico-8.php)… and [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker).
 
 ### Inspiration
 
@@ -24,27 +24,21 @@ For more than inspiration, play some games — Install [Steam](https://store.ste
 
 Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines).
 
-#### Great Bitsy games
+#### Games to play
 
-| Title | Author |
-| :--- | :--- |
-| [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) |
-| [Spoons](https://le-onionboi.itch.io/spoons) | [Onion Boi](https://le-onionboi.itch.io/) |
-| [Expecting](https://sebypops.itch.io/expecting) | [Sebypops](https://sebypops.itch.io/) |
-| [In the pines](https://laurahunt.itch.io/in-the-pines) | [Laura Hunt](https://laurahunt.itch.io/) |
-| [Exhume](https://batgut.itch.io/exhume) | [Dan Dudley](https://batgut.itch.io/) |
-| [Bitsy Spider](https://rabbitboots.itch.io/bitsy-spider) | [Rabbit Boots](https://rabbitboots.itch.io/) |
-| [Flotsam](https://candle.itch.io/flotsam) | [Mark Wonnacott](https://candle.itch.io/) |
-| [Shoal](https://candle.itch.io/shoal) | [Mark Wonnacott](https://candle.itch.io/) |
+| Title | Author | Type |
+| :--- | :--- | :--- |
+| [Forward](https://citron-curieux.itch.io/forward) | [Citron Curieux](https://citron-curieux.itch.io/) |  |
+| [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |  |
+| [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |  |
+| [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) | Bitsy |
+| [Spoons](https://le-onionboi.itch.io/spoons) | [Onion Boi](https://le-onionboi.itch.io/) | Bitsy |
+| [Expecting](https://sebypops.itch.io/expecting) | [Sebypops](https://sebypops.itch.io/) | Bitsy |
+| [In the pines](https://laurahunt.itch.io/in-the-pines) | [Laura Hunt](https://laurahunt.itch.io/) | Bitsy |
+| [Exhume](https://batgut.itch.io/exhume) | [Dan Dudley](https://batgut.itch.io/) | Bitsy |
+| [Bitsy Spider](https://rabbitboots.itch.io/bitsy-spider) | [Rabbit Boots](https://rabbitboots.itch.io/) | Bitsy |
+| [Flotsam](https://candle.itch.io/flotsam) | [Mark Wonnacott](https://candle.itch.io/) | Bitsy |
+| [Shoal](https://candle.itch.io/shoal) | [Mark Wonnacott](https://candle.itch.io/) | Bitsy |
 
-Below are some other types of games which are all very much worth playing.
-
-| Title | Creator |
-| :--- | :--- |
-| [Forward](https://citron-curieux.itch.io/forward) | [Citron Curieux](https://citron-curieux.itch.io/) |
-| [To the moon](https://freebirdgames.com/to_the_moon/) | [Freebird Games](https://freebirdgames.com/) |
-| [ORUL](https://egordorichev.itch.io/orul) | [Egor Dorichev](https://egordorichev.itch.io/) |
-| [The Talos Principle](https://store.steampowered.com/app/257510/The_Talos_Principle/) | [Croteam](http://www.croteam.com/) |
-| [Untitled Goose Game](https://goose.game/) | [House House](http://househou.se/) |
-| [That Dragon, Cancer](http://www.thatdragoncancer.com/) | [Article](https://www.wired.com/2016/01/that-dragon-cancer/), [documentary](http://www.thankyouforplayingfilm.com/) |
+### 
 
