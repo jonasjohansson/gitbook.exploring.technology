@@ -10,6 +10,8 @@
 
 {% embed url="https://learn.adafruit.com/all-about-laser-cutters/maintenance" %}
 
+{% embed url="https://docs.google.com/document/d/1deYoLGDjX4Ea\_GA4qU\_zkRR2qlqXV-ZuiBNfaGVxJyo/edit?urp=gmail\_link" %}
+
 
 
 \*\*\*\*[**https://medium.com/@yyyyyyyuan/assignment-1-the-laser-cutter-wip-dc643d9be63a**](https://medium.com/@yyyyyyyuan/assignment-1-the-laser-cutter-wip-dc643d9be63a)\*\*\*\*
