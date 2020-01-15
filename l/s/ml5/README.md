@@ -1,8 +1,12 @@
 # Machine Learning \(ML5\)
 
-A framework which aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of [TensorFlow.js](https://www.tensorflow.org/js) with no other external dependencies. ****
+Artificial intelligence, a disputed term since it presents two vague and probably incorrect words in combination. A large umbrella under which machine learning breathes bits and bytes. ML5 is a framework which aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of [TensorFlow.js](https://www.tensorflow.org/js) with no other external dependencies. ****
 
-![Train your own classifier](../../../.gitbook/assets/classification.gif)
+### Install
+
+ML5 \([link](https://ml5js.org/)\) runs in the browser and requires no installation. It works well in P5 \([link](https://editor.p5js.org/)\) with several examples available. Get started by reading the [learn section](https://learn.ml5js.org/docs/#/), and play with some machines! 
+
+## Learning about machines
 
 {% embed url="https://vimeo.com/207831279" caption="Sound-controlled Wolfenstein 3d by Andreas Refsgaard" %}
 
