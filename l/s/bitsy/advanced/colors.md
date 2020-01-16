@@ -1,4 +1,4 @@
-# Colors
+# More Colors
 
 It is technically possible to go beyond Bitsy's limited palette by opening **game data** and editing the text. Any change to the editor gets immediately writing to the game data, and vice versa.
 
