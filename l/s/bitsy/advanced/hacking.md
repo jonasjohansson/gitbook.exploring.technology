@@ -4,6 +4,7 @@ At some point, vanilla __Bitsy will not be enough, meaning, it's time to hack! N
 
 * Add audio \(use [Beetbox](https://www.beepbox.co/)\): [https://candle.itch.io/bitsy-audio](https://candle.itch.io/bitsy-audio)
 * Turn an image into pixels: [https://ruin.itch.io/image-to-bitsy](https://ruin.itch.io/image-to-bitsy)
+* Turn an image into a room: [https://hideous-cave-goblin.itch.io/room](https://hideous-cave-goblin.itch.io/room)
 * Generate custom fonts: [https://seansleblanc.itch.io/fontsy](https://seansleblanc.itch.io/fontsy)
 * Automagically create exits: [https://voec.github.io/witchery/](https://voec.github.io/witchery/)
 * Get all the colours: [https://janosc.itch.io/rgbitsy](https://janosc.itch.io/rgbitsy)
