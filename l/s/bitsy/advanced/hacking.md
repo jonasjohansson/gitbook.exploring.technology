@@ -209,7 +209,18 @@ window.gravity.hackOptions = {
 
 {% tab title="Corrupt" %}
 ```markup
-<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/corrupt.js"></script>
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/corrupt.js">
+window.corrupt.hackOptions = {
+  tilemapFreq: 1,
+  tilePixelsFreq: 1,
+  spritePixelsFreq: 1,
+  itemPixelsFreq: 1,
+  fontPixelsFreq: 1,
+  paletteFreq: 1,
+  globalFreq: 1, // multiplier for all the other `Freq` options
+  paletteAmplitude: 10 // how much to corrupt palette by (0-128)
+};
+</script>
 ```
 {% endtab %}
 
