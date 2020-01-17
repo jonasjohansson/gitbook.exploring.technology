@@ -9,13 +9,7 @@ If you expand the **animation** option at the bottom of the window, you can add 
 
 Picking the right colors help set the mood and ambiance! Color is defined for **background**, **tile** and **sprite**. 
 
-Toggle the **Palette select** to create multiple palettes, which can later be connected to specific rooms.  The default colors are: **\#0052cc** \(background\), **\#809fff** \(tile\) and  **\#ffffff** \(sprite\).
+Toggle the **Palette select** to create multiple palettes, which can later be connected to specific rooms.
 
-### Palette tools
-
-* [Adobe Color](https://color.adobe.com/create)
-*  [Happy Hues](https://www.happyhues.co/)
-* [Leonardo](https://leonardocolor.io/)
-* [Color Scheme Designer](http://colorschemedesigner.com/csd-3.5/)
-* [Palettsy](https://zenzoa.itch.io/palettsy)
+ Use [Happy Hues](https://www.happyhues.co/), [Leonardo](https://leonardocolor.io/) or [Palettsy](https://zenzoa.itch.io/palettsy) for inspiration! The default colors are: **\#0052cc** \(background\), **\#809fff** \(tile\) and  **\#ffffff** \(sprite\).
 

@@ -49,7 +49,7 @@ An alternative way of accomplishing same thing with much less code:
 4. Add this link in a `<script>` tag under the `src` attribute
 5. Overwrite `hackOptions` by writing `window.name_of_script.hackOptions`
 
-#### Useful hacks
+### Useful hacks
 
 {% tabs %}
 {% tab title="Transparent items" %}
@@ -92,35 +92,18 @@ window.unique_items.hackOptions = item => {
 </script>
 ```
 {% endtab %}
+{% endtabs %}
 
-{% tab title="Music per room" %}
+{% tabs %}
+{% tab title="Transparent dialog" %}
 ```markup
-<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/bitsymuse.js">
-window.bitsyMuse.hackOptions = {
-  // Put entries in this list for each audio file you want to use
-  // the key will be the id needed to play it in dialog tags and the musicByRoom options below,
-  // and the value will be the properties of the corresponding <audio> tag (e.g. src, loop, volume)
-  // Note: you can add <audio> tags to the html manually if you prefer
-  audio: {
-    // Note: the entries below are examples that should be removed and replaced with your own audio files
-    disco: { src: "./disco.mp3", loop: true, volume: 1 },
-    rock: { src: "./rock.mp3", loop: true, volume: 1 },
-    metal: { src: "./metal.mp3", loop: true, volume: 1 },
-    silence: { src: "./metal.mp3", volume: 0 } // trigger this for silence
-  },
-  // Put entries in this list for every room ID or name that will change the music
-  // If the player moves between rooms with the same audio ID, the music keeps playing seamlessly.
-  // Undefined rooms will keep playing whatever music they were last playing
-  musicByRoom: {
-    1: "disco",
-    2: "rock",
-    3: "metal",
-    4: "S"
-  },
-  silenceId: "S", // Use this song ID to make a room fall silent.
-  resume: false // If true, songs will pause/resume on change; otherwise, they'll stop/play (doesn't affect sound effects)
-};
-</script>
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/transparent-dialog.js"></script>
+```
+{% endtab %}
+
+{% tab title="Exit from dialog" %}
+```markup
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/exit-from-dialog.js"></script>
 ```
 {% endtab %}
 
@@ -164,6 +147,39 @@ window.dialog_audio_vocal_synth.hackOptions$1 = {
 </script>
 ```
 {% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Music per room" %}
+```markup
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/bitsymuse.js">
+window.bitsyMuse.hackOptions = {
+  // Put entries in this list for each audio file you want to use
+  // the key will be the id needed to play it in dialog tags and the musicByRoom options below,
+  // and the value will be the properties of the corresponding <audio> tag (e.g. src, loop, volume)
+  // Note: you can add <audio> tags to the html manually if you prefer
+  audio: {
+    // Note: the entries below are examples that should be removed and replaced with your own audio files
+    disco: { src: "./disco.mp3", loop: true, volume: 1 },
+    rock: { src: "./rock.mp3", loop: true, volume: 1 },
+    metal: { src: "./metal.mp3", loop: true, volume: 1 },
+    silence: { src: "./metal.mp3", volume: 0 } // trigger this for silence
+  },
+  // Put entries in this list for every room ID or name that will change the music
+  // If the player moves between rooms with the same audio ID, the music keeps playing seamlessly.
+  // Undefined rooms will keep playing whatever music they were last playing
+  musicByRoom: {
+    1: "disco",
+    2: "rock",
+    3: "metal",
+    4: "S"
+  },
+  silenceId: "S", // Use this song ID to make a room fall silent.
+  resume: false // If true, songs will pause/resume on change; otherwise, they'll stop/play (doesn't affect sound effects)
+};
+</script>
+```
+{% endtab %}
 
 {% tab title="Directional avatar" %}
 ```markup
@@ -182,9 +198,27 @@ window.directional_avatar.hackOptions = {
 ```
 {% endtab %}
 
-{% tab title="Exit from dialog" %}
+{% tab title="Gravity" %}
 ```markup
-<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/exit-from-dialog.js"></script>
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/gravity.js">
+window.gravity.hackOptions = {
+};
+</script>
+```
+{% endtab %}
+
+{% tab title="Corrupt" %}
+```markup
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/corrupt.js"></script>
+```
+{% endtab %}
+
+{% tab title="Character portraits" %}
+```markup
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/character-portraits.js">
+window.character_portraits.hackOptions = {
+};
+</script>
 ```
 {% endtab %}
 {% endtabs %}
