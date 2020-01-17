@@ -13,7 +13,7 @@
 7. Trim the video if needed with **⌘ + T** and export in the desired format.
 
 {% hint style="info" %}
-You can also download plugins like [Soundflower](https://rogueamoeba.com/freebies/soundflower/) or [Loopback](https://rogueamoeba.com/loopback/). This will allow you to record your computer's audio as well. You'll need to switch your Sound Output settings and select the right audio setting in Quicktime.
+You can also download plugins like Soundflower or Loopback. This will allow you to record your computer's audio as well. You'll need to switch your Sound Output settings and select the right audio setting in Quicktime.
 {% endhint %}
 
 ### On Iphone

@@ -130,6 +130,7 @@
 * [Tips & Trix](l/tips-trix/README.md)
   * [Documentation](l/tips-trix/documentation.md)
   * [MIDI & OSC](l/tips-trix/midi-and-osc.md)
+  * [Syphon & NDI](l/tips-trix/syphon-and-ndi.md)
   * [Web](l/tips-trix/web.md)
 
 ## Tools
