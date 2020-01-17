@@ -12,13 +12,17 @@ There are several other game design tools that can be of interest, such as [Twin
 
 ### Inspiration
 
-Bitsy is nurturing creatives of all types and sizes, and spreading the joy game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs), join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr) \(Discord channel\), play some [Bitsy Faves](https://itch.io/c/201121/bitsy-faves) and check [games tagged Bitsy on Itch](https://itch.io/games/tag-bitsy).
+Like Twine, Bitsy is nurturing creatives around the world, and spreading the joy game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs) to see what is happening within the community around the world, and join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), the Bitsy discord channel. 
 
 ![Novena by Cecile Richard \(https://haraiva.itch.io/novena\)](../../../.gitbook/assets/novena%20%281%29.gif)
 
 ![Depths by Marc Wonnacott \(https://candle.itch.io/depths\)](../../../.gitbook/assets/depths.gif)
 
 ![The Fever by AYolland \(https://ayolland.itch.io/fever\)](../../../.gitbook/assets/bitsy-thefever.gif)
+
+For more than inspiration, play some games — Install [Steam](https://store.steampowered.com/), and frequent sites like [Game Curator](https://game-curator.com/) and [Game Jolt](https://gamejolt.com/), and challenge yourself by [participating in  "game jams"](https://itch.io/jam/) such as [Ludum Dare](https://ldjam.com/)!
+
+Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines).
 
 #### Great Bitsy games
 
@@ -33,8 +37,6 @@ Bitsy is nurturing creatives of all types and sizes, and spreading the joy game-
 | [Flotsam](https://candle.itch.io/flotsam) | [Mark Wonnacott](https://candle.itch.io/) |
 | [Shoal](https://candle.itch.io/shoal) | [Mark Wonnacott](https://candle.itch.io/) |
 
-For more than inspiration, play some games — Install [Steam](https://store.steampowered.com/), and frequent sites like [Game Curator](https://game-curator.com/) and [Game Jolt](https://gamejolt.com/), and challenge yourself[ in "game jams"](https://itch.io/jam/) such as [Ludum Dare](https://ldjam.com/)!
-
 Below are some other types of games which are all very much worth playing.
 
 | Title | Creator |
@@ -46,7 +48,7 @@ Below are some other types of games which are all very much worth playing.
 | [Untitled Goose Game](https://goose.game/) | [House House](http://househou.se/) |
 | [That Dragon, Cancer](http://www.thatdragoncancer.com/) | [Article](https://www.wired.com/2016/01/that-dragon-cancer/), [documentary](http://www.thankyouforplayingfilm.com/) |
 
-Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines). And if curious about game design, make sure to read:
+And if curious about game design, make sure to read:
 
 * [Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play)
 * [Game Design Reader](https://www.adlibris.com/se/e-bok/game-design-reader-9780262303170)
