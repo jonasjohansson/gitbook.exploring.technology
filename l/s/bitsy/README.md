@@ -8,21 +8,17 @@ Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and req
 
 ### Tools
 
-There are several other game design tools that can be of interest, such as [Twine](https://twinery.org/) and [Pico-8](https://www.lexaloffle.com/pico-8.php)… and [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker).
+There are several other minimal game design tools that can be of interest, such as [Twine](https://twinery.org/), [Pico-8](https://www.lexaloffle.com/pico-8.php), [Voxatron](https://www.lexaloffle.com/voxatron.php) and [PuzzleScript](https://www.puzzlescript.net/). For more advanced types of editors check out [Phaser](https://phaser.io/), [Gdevelop](https://gdevelop-app.com/), [GameMaker](https://www.yoyogames.com/), [Babylon](https://www.babylonjs.com/games/) and [RPG Maker](https://en.wikipedia.org/wiki/RPG_Maker).
 
 ### Inspiration
 
-Like Twine, Bitsy is nurturing creatives around the world, and spreading the joy game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs) to see what is happening within the community around the world, and join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), the Bitsy discord channel. 
+Bitsy is nurturing creatives of all types and sizes, and spreading the joy game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs), join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr) \(Discord channel\), play some [Bitsy Faves](https://itch.io/c/201121/bitsy-faves) and check [games tagged Bitsy on Itch](https://itch.io/games/tag-bitsy).
 
 ![Novena by Cecile Richard \(https://haraiva.itch.io/novena\)](../../../.gitbook/assets/novena%20%281%29.gif)
 
 ![Depths by Marc Wonnacott \(https://candle.itch.io/depths\)](../../../.gitbook/assets/depths.gif)
 
 ![The Fever by AYolland \(https://ayolland.itch.io/fever\)](../../../.gitbook/assets/bitsy-thefever.gif)
-
-For more than inspiration, play some games — Install [Steam](https://store.steampowered.com/), and frequent sites like [Game Curator](https://game-curator.com/) and [Game Jolt](https://gamejolt.com/), and challenge yourself by [participating in  "game jams"](https://itch.io/jam/) such as [Ludum Dare](https://ldjam.com/)!
-
-Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines).
 
 #### Great Bitsy games
 
@@ -36,6 +32,16 @@ Peaked your interest in creating games? Get fired up by reading the [Scratchware
 | [Bitsy Spider](https://rabbitboots.itch.io/bitsy-spider) | [Rabbit Boots](https://rabbitboots.itch.io/) |
 | [Flotsam](https://candle.itch.io/flotsam) | [Mark Wonnacott](https://candle.itch.io/) |
 | [Shoal](https://candle.itch.io/shoal) | [Mark Wonnacott](https://candle.itch.io/) |
+| [I heard a dog barking](https://saranomy.itch.io/ihadb) | [Saranomy](https://saranomy.itch.io/) |
+| [Silence would be better](https://cephalopodunk.itch.io/silence-would-be-better) | [Cephalopodunk](https://cephalopodunk.itch.io/) |
+| [tsfetsciyrithsamwys](https://cephalopodunk.itch.io/tsfetsciyrithsamwys) | [Cephalopodunk](https://cephalopodunk.itch.io/) |
+| [I Wonder](https://seansleblanc.itch.io/i-wonder) | [Sean Leblanc](https://seansleblanc.itch.io/) |
+| [Third Crypt](https://jctwood.itch.io/thirdcrypt) | [Jctwood](https://jctwood.itch.io/) |
+| [Penroses](https://rarelikeaunicorn.itch.io/penroses) | [Rare like a unicorn](https://rarelikeaunicorn.itch.io/) |
+| [No Destination](https://candle.itch.io/no-destination) | [Marc Wonnacott](https://candle.itch.io/) |
+| [Tunnel](https://jctwood.itch.io/tunnel) | [Jctwood](https://jctwood.itch.io/) |
+
+For more than inspiration, play some games — Install [Steam](https://store.steampowered.com/), and frequent sites like [Game Curator](https://game-curator.com/) and [Game Jolt](https://gamejolt.com/), and challenge yourself[ in "game jams"](https://itch.io/jam/) such as [Ludum Dare](https://ldjam.com/)!
 
 Below are some other types of games which are all very much worth playing.
 
@@ -48,7 +54,7 @@ Below are some other types of games which are all very much worth playing.
 | [Untitled Goose Game](https://goose.game/) | [House House](http://househou.se/) |
 | [That Dragon, Cancer](http://www.thatdragoncancer.com/) | [Article](https://www.wired.com/2016/01/that-dragon-cancer/), [documentary](http://www.thankyouforplayingfilm.com/) |
 
-And if curious about game design, make sure to read:
+Peaked your interest in creating games? Get fired up by reading the [Scratchware Manifesto](http://homeoftheunderdogs.net/scratch.php) and [some great rants](https://voec.itch.io/zineszineszines). And if curious about game design, make sure to read:
 
 * [Rules of Play](https://en.wikipedia.org/wiki/Rules_of_Play)
 * [Game Design Reader](https://www.adlibris.com/se/e-bok/game-design-reader-9780262303170)
