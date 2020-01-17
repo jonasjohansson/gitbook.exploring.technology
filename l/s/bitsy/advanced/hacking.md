@@ -51,6 +51,8 @@ An alternative way of accomplishing same thing with much less code:
 
 ### Useful hacks
 
+#### Items
+
 {% tabs %}
 {% tab title="Transparent items" %}
 ```markup
@@ -93,6 +95,8 @@ window.unique_items.hackOptions = item => {
 ```
 {% endtab %}
 {% endtabs %}
+
+#### Dialog
 
 {% tabs %}
 {% tab title="Transparent dialog" %}
@@ -149,6 +153,38 @@ window.dialog_audio_vocal_synth.hackOptions$1 = {
 {% endtab %}
 {% endtabs %}
 
+#### Avatar
+
+{% tabs %}
+{% tab title="Directional avatar" %}
+```markup
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/directional-avatar.js">
+window.directional_avatar.hackOptions = {
+  // If `horizontalFlipAllowed` is true:
+  // pressing left will make the player's sprite face backwards
+  // pressing right will make the player's sprite face forwards
+  horizontalFlipAllowed: true,
+  // If `verticalFlipAllowed` is true:
+  // pressing down will make the player's sprite upside-down
+  // pressing up will make the player's sprite right-side up
+  verticalFlipAllowed: false
+};
+</script>
+```
+{% endtab %}
+
+{% tab title="Character portraits" %}
+```markup
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/character-portraits.js">
+window.character_portraits.hackOptions = {
+};
+</script>
+```
+{% endtab %}
+{% endtabs %}
+
+#### Other
+
 {% tabs %}
 {% tab title="Music per room" %}
 ```markup
@@ -181,32 +217,6 @@ window.bitsyMuse.hackOptions = {
 ```
 {% endtab %}
 
-{% tab title="Directional avatar" %}
-```markup
-<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/directional-avatar.js">
-window.directional_avatar.hackOptions = {
-  // If `horizontalFlipAllowed` is true:
-  // pressing left will make the player's sprite face backwards
-  // pressing right will make the player's sprite face forwards
-  horizontalFlipAllowed: true,
-  // If `verticalFlipAllowed` is true:
-  // pressing down will make the player's sprite upside-down
-  // pressing up will make the player's sprite right-side up
-  verticalFlipAllowed: false
-};
-</script>
-```
-{% endtab %}
-
-{% tab title="Gravity" %}
-```markup
-<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/gravity.js">
-window.gravity.hackOptions = {
-};
-</script>
-```
-{% endtab %}
-
 {% tab title="Corrupt" %}
 ```markup
 <script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/corrupt.js">
@@ -224,10 +234,10 @@ window.corrupt.hackOptions = {
 ```
 {% endtab %}
 
-{% tab title="Character portraits" %}
+{% tab title="Gravity" %}
 ```markup
-<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/character-portraits.js">
-window.character_portraits.hackOptions = {
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/gravity.js">
+window.gravity.hackOptions = {
 };
 </script>
 ```
