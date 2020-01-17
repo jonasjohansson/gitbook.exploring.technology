@@ -10,3 +10,5 @@ Record video in realtime from any Syphon-enabled application, and capture stills
 
 ## NDI
 
+[https://www.newtek.com/ndi/applications/](https://www.newtek.com/ndi/applications/)
+
