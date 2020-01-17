@@ -42,6 +42,7 @@
       * [More Colors](l/s/bitsy/advanced/colors.md)
       * [Dialog](l/s/bitsy/advanced/dialog.md)
     * [FAQ](l/s/bitsy/faq.md)
+  * [Live Coding](l/s/live-coding.md)
   * [Machine Learning \(ML5\)](l/s/ml5/README.md)
     * [Teachable Machine](l/s/ml5/teachable-machine/README.md)
       * [Image Classification](l/s/ml5/teachable-machine/video-classification.md)
