@@ -105,7 +105,8 @@ window.bitsyMuse.hackOptions = {
     // Note: the entries below are examples that should be removed and replaced with your own audio files
     disco: { src: "./disco.mp3", loop: true, volume: 1 },
     rock: { src: "./rock.mp3", loop: true, volume: 1 },
-    metal: { src: "./metal.mp3", loop: true, volume: 1 }
+    metal: { src: "./metal.mp3", loop: true, volume: 1 },
+    silence: { src: "./metal.mp3", volume: 0 } // trigger this for silence
   },
   // Put entries in this list for every room ID or name that will change the music
   // If the player moves between rooms with the same audio ID, the music keeps playing seamlessly.
@@ -205,4 +206,14 @@ If the hacks available just don't feel right, [write custom ones](https://github
   </body>
 </html>
 ```
+
+## Useful snippets
+
+{% tabs %}
+{% tab title="End game" %}
+```javascript
+startNarrating( ending[1], true);
+```
+{% endtab %}
+{% endtabs %}
 
