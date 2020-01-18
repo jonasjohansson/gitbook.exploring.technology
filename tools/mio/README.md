@@ -191,15 +191,3 @@ It is possible to speed up the communication between the serial device and compu
 
 ![](../../.gitbook/assets/serial.png)
 
-### No Communication
-
-No response is likely due to Mio is minimised, not visible on the screen or another app is in fullscreen. If any of this occurs the app enters passive mode and can no longer detect keys being released. If a projector or second screen is in use, simply make sure is is visible on either one. Version 1.1.6 re-introduced the exclamation mark which will force a key to be released.
-
-{% hint style="success" %}
-A neat trick is to turn on the zoom feature and zoom in on an app to make it appear fullscreen.
-{% endhint %}
-
-### Window Invisible
-
-If the window disappeared, go to Help &gt; Reset to restore all settings to normal.
-

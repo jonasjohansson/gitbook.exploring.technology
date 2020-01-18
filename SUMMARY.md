@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Getting started](README.md)
-* [Live Coding](live-coding.md)
+* [Live Coding](l/s/live-coding.md)
 
 ## Learn <a id="l"></a>
 
