@@ -8,7 +8,7 @@ Arduino comes in [many shapes with various purposes](https://makezine.com/compar
 
 ### Install
 
-Install the Arduino \([Mac](https://www.arduino.cc/en/Guide/MacOSX), [Windows](https://www.arduino.cc/en/Guide/Windows)\) application! When ready, open the app and find a new window, named with the current date, containing some basic code.
+Get Arduino \([Mac](https://www.arduino.cc/en/Guide/MacOSX), [Windows](https://www.arduino.cc/en/Guide/Windows)\), open the app and find a new window, named with the current date, containing some basic code.
 
 > Before we continue further, go to Arduino &gt; Preferences and tick "Display line numbers" and "Enable code folding".
 

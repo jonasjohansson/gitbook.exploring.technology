@@ -4,7 +4,11 @@ Mio is a minimal input and output application that enables serial communication 
 
 ### Install
 
-Begin by [installing the Mio app](https://jonasjohansson.itch.io/mio). It is only available for Mac but the [source is open](https://github.com/jonasjohansson/mio) so it can be built for other platforms \(requires Electron and Node knowledge\).
+Get Mio \([Mac](https://jonasjohansson.itch.io/mio)\). Because Mio is made by an [Unidentified Developer](https://jonasjohansson.se/) the Control key must be pressed while clicking the app icon. Then choose **Open** from the menu.
+
+In order to function properly, Mio requires permissions. Go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. **If a new version has been installed, this must be done again by toggling the checkbox!**
+
+![](../../.gitbook/assets/permissions.png)
 
 ### Connect
 
@@ -107,7 +111,7 @@ void mio(){
 | Button 3 \(blue wire\) | Digital 2 |
 | Button 4 \(purple wire\) | Digital 3 |
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 
 {% tab title="P5" %}
@@ -177,16 +181,6 @@ Mio creates a local server through port 8080 making all commands available from 
 
 ## Troubleshooting
 
-### Unidentified Developer
-
-Because Mio is made by an [Unidentified Developer](https://jonasjohansson.se/) the Control key must be pressed while clicking the app icon. Then choose **Open** from the menu.
-
-### Permission
-
-In order to control the keyboard, Mio requires permissions. On Mac, go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. **If a new version has been installed, this must be done again by toggling the checkbox!**
-
-![](../.gitbook/assets/permissions.png)
-
 ### Resource Busy
 
 Mio can not be connected at the same time that any other device is listening to the serial communication, such as **Arduino Monitor or Plotter**. The same is true for the other way around.
@@ -195,7 +189,7 @@ Mio can not be connected at the same time that any other device is listening to 
 
 It is possible to speed up the communication between the serial device and computer, by bumping up the **Baudrate** from **9600** to **115200**. This must be done within the code as well as in Mio. If you are running Arduino, remember to change it also in the monitor \(in the bottom right corner\).
 
-![](../.gitbook/assets/serial.png)
+![](../../.gitbook/assets/serial.png)
 
 ### No Communication
 
