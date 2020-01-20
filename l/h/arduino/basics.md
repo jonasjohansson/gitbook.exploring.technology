@@ -17,7 +17,7 @@ Before writing code, make sure you can write the characters! Programming uses se
 
 `/* ( ) { } [ ] | & / > < ; */`
 
-### [Blink](https://www.arduino.cc/en/tutorial/blink)
+### Blink
 
 {% tabs %}
 {% tab title="Code" %}
@@ -57,7 +57,7 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-### [Button](https://www.arduino.cc/en/tutorial/button)
+### Button
 
 {% tabs %}
 {% tab title="Schematic" %}
@@ -169,7 +169,7 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-### [Potentiometer](https://www.arduino.cc/en/tutorial/potentiometer)
+### Potentiometer
 
 {% tabs %}
 {% tab title="Schematic" %}
@@ -221,7 +221,7 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
-### [Photocell](https://learn.adafruit.com/photocells/arduino-code)
+### Photocell
 
 {% tabs %}
 {% tab title="Schematic" %}

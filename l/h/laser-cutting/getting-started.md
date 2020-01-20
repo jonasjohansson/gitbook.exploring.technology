@@ -1,62 +1,65 @@
 # Basics
 
-Laser cutting comes down to two properties:
+Laser cutting comes down to **Speed** \(mm/s\) and **Power** \(% of laser tube power\). Laser tubes come in different strengths, from 1W to 200W, and these power ratings tend to fade over time, which is why percentage is used instead of a fixed number.
 
-1. **Speed** \(expressed in mm/s\)
-2. **Power** \(what % of laser tube power\).  Laser tubes come in lots of different strengths, from 1W to 200W, and these power ratings tend to fade over time, so that is why a % is used instead of a fixed number.
+There are also two ways to make the laser move, **Cutting** and **Scanning** \(engraving\).
 
-Something very important to remember is that your settings are never permanent- settings you used today might not be exactly the same tomorrow. Testing is crucial in laser cutting to make sure that neither time nor material is wasted.
+![](../../../.gitbook/assets/laser-circles.png)
 
-There are also two ways to make the laser move, **Cutting** and **Scanning**. Cutting is easy, the laser moves along the vector path you have drawn at the speed and power you have set. 
+Cutting \(left\) is easy, the laser moves along the vector path you have drawn at the set speed and power. Scanning \(right\) runs the laser inside the entire area of a closed vector.
 
-![](../../../.gitbook/assets/screen-shot-2019-11-18-at-13.37.01.png)
+Shapes for cutting should have **no fill** and **0.1 mm stroke**. The width of the stroke should ideally match the width of the laser, measure if needed. The stroke color is later referenced in the laser software, and the conventions are **red** for cutting through, **blue** for "marking".  You can use as many different colors as you would like, with each color corresponding to a different laser operation.
 
-Scanning runs the laser inside the entire area of a closed vector at the speed and power you have set.
+Shapes and images for scanning should have a **black fill** and **no outline**.
 
-![Scanning will run the laser at every point INSIDE this circle, creating an engraved circle shape](../../../.gitbook/assets/screen-shot-2019-11-18-at-13.37.46.png)
+_Let's try it out!_
 
-You could technically cut out a circle by scanning and burning away all the material inside the circle, but it is much much faster to cut out the circle.
+## Setup
 
-{% hint style="info" %}
-Speed is also written as a minimum and a maximum number. To start, make both of these numbers the same, but if you are looking for cleaner parts, try playing with a lower minimum number. This will reduce the laser power as it turns corners, resulting in less burning.
-{% endhint %}
+With a vector design tool, create a new document with the same dimensions as the intended laser printer. Use millimeters \(mm\). The Color Mode should be RGB. This example is using Adobe Illustrator, but Inkscape, Fusion 360 and TinkerCad will also work.
 
-{% hint style="danger" %}
-Using the machine without proper knowledge is prohibited.
+![](../../../.gitbook/assets/laser-preset.png)
 
-1. Do not leave machine unattended when it is working \(stay close and have a look at regular intervals\).
-2. Do not cut materials you do not know.
-3. Do not stare at a running laser beam. It is bad for your eyes.
-4. You should only be cutting materials with no coatings; no paint, lacquer or glue. If you have any doubts about the material you are trying to laser, don’t do it.
-5. Do not laser vinyl records, that releases toxic gas that will destroy the laser tube.
-6. Check lens and mirrors regularly
-7. Check level of coolant and cooler temperature regularly
-8. Do not run machine at 100%, think of 80% as the max
-9. Clean up after you use the machine If there is something not working properly, make note of it and let others know so it can be fixed.
-10. Material not marked is up for grabs, just check that you know what you are cutting.
-11. Replenish materials if you are able to do so.
-{% endhint %}
+Confirm that the document units and color mode. In Illustrator this can be done under Window &gt; Properties and File &gt; Document Color Mode.
 
-## Prepare your file
+## Design
 
-### Vector drawing
+Let's create something that includes both cutting and engraving. A round pendant with an inner shape, text and a hole for a thread.
 
-Laser cutters need a vector drawing to operate. We are using Adobe Illustrator to do this, but any program that can export a .dxf file will work, such as Inkscape, Fusion 360 and TinkerCad.
+1. Draw an outer shape with **no fill** and a **red stroke**. This shape will be cut. 
+2. Draw a smaller shape with the same settings for the hole.
+3. Draw an inner shape with a **blue stroke**. This shape will be marked.
+4. Add a text layer with a **black fill**.
+5. Draw a smaller 
+6. Resize the shape to fit the desired measurements.
 
-![Your drawing should look like this.](../../../.gitbook/assets/screen-shot-2019-11-18-at-13.46.36.png)
+![](../../../.gitbook/assets/laser-design-2.png)
 
-This drawing is in two colors because we want two different laser operations- black will be a cutting operation \(40mm/s @ 65% power\), and red will be a scanning operation \(200mm/s @ 35% power\). This will create a circle with the words engraved on it. You can use as many different colors as you would like, with each color corresponding to a different laser operation.
+{% file src="../../../.gitbook/assets/laser-pendant.dxf" %}
+
+{% file src="../../../.gitbook/assets/laser-template.ai" %}
 
 ### Kerf
 
-Laser cutters have a kerf, meaning that all of your cuts will burn away a certain amount of material, making your cut pieces slightly smaller than designed. Once this number is calculated, you can compensate for it by offsetting your designs. The above example is 150mm wide in Illustrator, but will be something like 149.5mm in real life. For this design, its not super important, but if you are designing parts to fit together, this will affect the fit. [Make a Box ](https://makeabox.io/), a great tool for generating box plans has a field that compensates for kerf, which will translate into how tight the fit of your box pieces is.
+Laser cutters have a kerf, meaning that all cuts will burn away a certain amount of material, making your cut pieces slightly smaller than designed. Once this number is calculated, you can compensate for it by offsetting your designs. The above example is 50mm wide, but will be something like 49.5mm in real life. For this design, its not super important, but if you are designing parts to fit together, this will affect the fit.
 
-### Stroke
+## Export
 
-All drawings for laser cutting are strokes only, and the smallest possible stroke size. Do not use fills.
+Several formats can be used to save the file, and a very common one is DXF \(Drawing eXchange Format\) which is often used for architectural drawings. If exporting to Inkscape, AI and SVG formats will work fine.
 
-### File export
+When importing this file into the laser software, double check to make sure it is the correct size since DXF files do not have a unit attached to them and the file could get imported at 10x or 1000x.
 
-From Illustrator, export a .dxf file, and don't change any of the default settings. When importing this file into the laser software, double check to make sure it is the correct size since dxf files do not have a unit attached to them and your file could get imported at 10x or 1000x bigger sometimes.  
+In case the design happens on the same machine as the laser software it should be possible to "print" directly to the laser. In that case, simply print and choose the laser printer. It should then show up in the laser software or on the printer display.
 
+## Settings
+
+Below are guideline values based on [Material Test Card for Laser Cutting and Engraving](https://www.thingiverse.com/thing:2243854).
+
+{% file src="../../../.gitbook/assets/laser-test-pattern-0.1.ai" %}
+
+{% file src="../../../.gitbook/assets/laser-test-pattern-0.1.dxf" %}
+
+{% file src="../../../.gitbook/assets/laser-test-pattern-0.2.ai" %}
+
+{% file src="../../../.gitbook/assets/laser-test-pattern-0.2.dxf" %}
 

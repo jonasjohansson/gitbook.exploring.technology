@@ -1,26 +1,5 @@
 # Resources
 
-## Guides
-
-* [**LaserProcessingGuide\_Plastics.pd**](http://www.synrad.com/synradinside/pdfs/LaserProcessingGuide_Plastics.pdf)
-* [**Laser\_Cutter\_Materials**](https://atxhs.org/wiki/Laser_Cutter_Materials)
-* [**http://thingiverse.com**](http://thingiverse.com)\*\*\*\*
-
-\*\*\*\*[**https://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/**](https://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/)\*\*\*\*
-
-{% embed url="https://learn.adafruit.com/all-about-laser-cutters/maintenance" %}
-
-{% embed url="https://docs.google.com/document/d/1deYoLGDjX4Ea\_GA4qU\_zkRR2qlqXV-ZuiBNfaGVxJyo/edit?urp=gmail\_link" %}
-
-
-
-\*\*\*\*[**https://medium.com/@yyyyyyyuan/assignment-1-the-laser-cutter-wip-dc643d9be63a**](https://medium.com/@yyyyyyyuan/assignment-1-the-laser-cutter-wip-dc643d9be63a)\*\*\*\*
-
-  
-
-
-## Design tools
-
 | Software | Awesomeness | Comment |
 | :--- | :--- | :--- |
 | [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) | 🔥🔥 | Super advanced CAD software |

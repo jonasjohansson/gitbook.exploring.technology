@@ -6,6 +6,10 @@ Building Augmented Reality experiences for Instagram is possible using Facebook 
 
 Begin by installing the Spark AR \([download](https://sparkar.facebook.com/ar-studio/)\) application.
 
+### Capabilities
+
+Under Project  &gt; Edit Properties… &gt; Capabilities tick the items that match the project. Otherwise the console will through error messages.
+
 ### [Debugging](https://sparkar.facebook.com/ar-studio/learn/documentation/docs/testing-debugging/)
 
 ```javascript

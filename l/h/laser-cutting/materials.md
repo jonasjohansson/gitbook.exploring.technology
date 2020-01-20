@@ -1,9 +1,9 @@
 # Materials
 
-Laser cutters can cut and engrave in several materials. For an extensive list visit [https://fslaser.com/Applications/](https://fslaser.com/Applications/) and [https://atxhs.org/wiki/Laser\_Cutter\_Materials](https://atxhs.org/wiki/Laser_Cutter_Materials).
+Laser cutters can cut and engrave in several materials. For an extensive list visit [https://fslaser.com/Applications/](https://fslaser.com/Applications/) and [https://atxhs.org/wiki/Laser\_Cutter\_Materials](https://atxhs.org/wiki/Laser_Cutter_Materials). 
 
 {% hint style="danger" %}
-Do not cut any of [these materials](http://cardiffhackspace.co.uk/knowledge-base/laser-cutter-dangerous-materials/). Do not use anything that is made of, or may contain, **vinyl**. When lasered, a gas will be created which **will ruin the laser cutter** and **your health**. Do not use **fake leather**, unless it's known to be ​non-chlorinated​ PU \(PolyUrethane\).
+Do not cut any of [these materials](http://cardiffhackspace.co.uk/knowledge-base/laser-cutter-dangerous-materials/) and do not use anything that is made of, or may contain, **vinyl.** Do not use **fake leather**, unless it's known to be ​non-chlorinated​ PU \(PolyUrethane\).
 {% endhint %}
 
 ### Cardboard
