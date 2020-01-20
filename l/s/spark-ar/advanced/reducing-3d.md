@@ -2,7 +2,7 @@
 
 Since Spark has a file size limit of 4mb models must be reduced in order to fit within the constraints.
 
-![](../../../.gitbook/assets/spark-flowers.png)
+![](../../../../.gitbook/assets/spark-flowers.png)
 
 The polygon reduction has already helped immensely, reducing the amount of polygons in the scene with up to 90%. Let's see what size the different export options yield.
 

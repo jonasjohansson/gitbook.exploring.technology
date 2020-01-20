@@ -16,7 +16,7 @@ trackerFound.monitor().subscribe(function(e) {
 });
 ```
 
-![](../../../.gitbook/assets/spark-tracker.png)
+![](../../../../.gitbook/assets/spark-tracker.png)
 
 * [https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/patchesmodule/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/patchesmodule/)
 * [https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/scenemodule.targettracker/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/scenemodule.targettracker/)

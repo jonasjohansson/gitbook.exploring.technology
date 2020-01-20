@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Getting started](README.md)
-* [Live Coding](l/s/live-coding.md)
 
 ## Learn <a id="l"></a>
 
@@ -76,11 +75,13 @@
     * [Basics](l/s/resolume/basics.md)
     * [Preparing content](l/s/resolume/preparing-content.md)
   * [Spark AR \(draft\)](l/s/spark-ar/README.md)
-    * [Animation](l/s/spark-ar/animation.md)
-    * [Materials](l/s/spark-ar/materials.md)
-    * [Particles](l/s/spark-ar/particles.md)
-    * [Target Tracker](l/s/spark-ar/target-tracker.md)
-    * [Reducing 3D files](l/s/spark-ar/reducing-3d.md)
+    * [Basics](l/s/spark-ar/basics/README.md)
+      * [Particles](l/s/spark-ar/basics/particles.md)
+      * [Materials](l/s/spark-ar/basics/materials.md)
+      * [Animation](l/s/spark-ar/basics/animation.md)
+      * [Target Tracker](l/s/spark-ar/basics/target-tracker.md)
+    * [Advanced](l/s/spark-ar/advanced/README.md)
+      * [Reducing 3D files](l/s/spark-ar/advanced/reducing-3d.md)
     * [Tutorials](l/s/spark-ar/tutorials.md)
 * [Hardware](l/h/README.md)
   * [Arduino](l/h/arduino/README.md)
