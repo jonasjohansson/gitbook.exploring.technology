@@ -1,20 +1,17 @@
 # Basics
 
-Laser cutting comes down to two properties: Speed \(expressed in mm/s\) and Power \(what % of laser tube power\).  Laser tubes come in lots of different strengths, from 1W to 200W, and these power ratings tend to fade over time, so that is why a % is used instead of a fixed number.
+Laser cutting comes down to two properties:
 
-Something very important to remember is that your settings are never permanent- settings you used today might not be exactly the same tomorrow. Testing is very very very important in laser cutting to make sure that you aren't wasting time and material.
+1. **Speed** \(expressed in mm/s\)
+2. **Power** \(what % of laser tube power\).  Laser tubes come in lots of different strengths, from 1W to 200W, and these power ratings tend to fade over time, so that is why a % is used instead of a fixed number.
 
-There are two ways to make the laser move: cutting and scanning. Cutting is easy, the laser moves along the vector path you have drawn at the speed and power you have set. 
+Something very important to remember is that your settings are never permanent- settings you used today might not be exactly the same tomorrow. Testing is crucial in laser cutting to make sure that neither time nor material is wasted.
 
-![Cutting will run the laser along this vector, cutting out a circle.](../../../.gitbook/assets/screen-shot-2019-11-18-at-13.37.01.png)
+There are also two ways to make the laser move, **Cutting** and **Scanning**. Cutting is easy, the laser moves along the vector path you have drawn at the speed and power you have set. 
 
-
-
-
+![](../../../.gitbook/assets/screen-shot-2019-11-18-at-13.37.01.png)
 
 Scanning runs the laser inside the entire area of a closed vector at the speed and power you have set.
-
-
 
 ![Scanning will run the laser at every point INSIDE this circle, creating an engraved circle shape](../../../.gitbook/assets/screen-shot-2019-11-18-at-13.37.46.png)
 
