@@ -1,6 +1,6 @@
 # Interface
 
-Work in **teams of two** and create an Arduino **music or game interface**. The interface should use [Mio](../advanced/keyboard-midi.md#mio), and the  application of your choice.
+Work in **teams of two** and create an Arduino **music or game interface**. The interface should use [Mio](../expert/keyboard-midi.md#mio), and the  application of your choice.
 
 For music, check out [Soundplant](https://soundplant.org/) and [Ableton](http://ableton.com/).
 

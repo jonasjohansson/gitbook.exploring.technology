@@ -17,6 +17,8 @@ Before writing code, make sure you can write the characters! Programming uses se
 
 `/* ( ) { } [ ] | & / > < ; */`
 
+## Example 1
+
 ### Blink
 
 {% tabs %}
@@ -89,7 +91,7 @@ void loop() {
 
 **Serial monitor** and **Serial plotter** help troubleshoot moments when expectations don't meet reality, i.e "the code doesn't work!".
 
-We can tell our Arduino to send information about what is happening using "serial communication" and by typing `Serial.begin(9600)` in  `setup()` with 9600 being the default baudrate, the speed which the computer and the Arduino communicates.
+We can tell our Arduino to send information about what is happening using "serial communication" and by typing `Serial.begin(9600)` in  `setup()` with 9600 being the default baud rate, the speed which the computer and the Arduino communicates.
 
 To print information type `Serial.println()` and within the parentheses you can print out variables, strings, numbers and more.
 
@@ -125,6 +127,8 @@ void loop() {
 {% endtab %}
 {% endtabs %}
 
+## Example 2
+
 ### [Fade](https://www.arduino.cc/en/tutorial/fade)
 
 {% tabs %}
@@ -136,34 +140,20 @@ void loop() {
 ```cpp
 int brightness = 0;
 int fadeAmount = 5;
-int ledPin = 9;
 
-void setup() {
-  pinMode(ledPin, OUTPUT);
-}
-
-void loop() {
-  analogWrite(ledPin, brightness);
-  brightness = brightness + fadeAmount;
-  if (brightness <= 0 || brightness >= 255) {
-    fadeAmount = -fadeAmount;
-  }
-  delay(30);
-}
-```
-{% endtab %}
-
-{% tab title="Advanced" %}
-```cpp
 void setup() {
   pinMode(9, OUTPUT);
 }
 
 void loop() {
-  float timer = millis()/1000.0;
-  int brightness = 128 + 128 * sin(timer);
+  // float timer = millis()/1000.0;
+  // brightness = 128 + 128 * sin(timer);
   analogWrite(9, brightness);
-  delay(30);
+  brightness += fadeAmount
+  if (brightness <= 0 || brightness >= 255) {
+    fadeAmount = -fadeAmount;
+  }
+  delay(10);
 }
 ```
 {% endtab %}
@@ -220,6 +210,8 @@ void loop() {
 * [ ] Add a second potentiometer and LED and get it control the LED brightness
 {% endtab %}
 {% endtabs %}
+
+## Example 3
 
 ### Photocell
 
