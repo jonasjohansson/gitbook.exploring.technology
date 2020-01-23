@@ -1,6 +1,6 @@
 # Resolume
 
-Resolume is an audiovisual performance tool and comes in two flavours: Avenue and Arena. Both enable you to play video and audio, and even use built-in generators for text and graphics. Arena also provides projection mapping possibilities, and is preferred route for learning.
+Resolume is made for audiovisual performances and comes in two flavours: **Avenue** and **Arena**. Both enable you to play video and audio, and even use built-in generators for text and graphics. Arena also provides projection mapping possibilities, and is preferred route for learning.
 
 ### Install
 
@@ -14,7 +14,13 @@ Upon starting the application an example composition is presented. It's a great 
 
 Before deciphering the interface, click **View** and untick **Audio Controls**, **Crossfader, Dashboard, Help** and **Compositions**. Save by clicking **Layout** and **Save.** Name it "Simple".
 
-The interface should now be easier to navigate!
+Here is the simple layout along with an advanced version.
+
+{% file src="../../../.gitbook/assets/simple.xml" %}
+
+{% file src="../../../.gitbook/assets/advanced.xml" %}
+
+_The interface should now be easier to navigate!_
 
 ![](../../../.gitbook/assets/resolumeinterfaceclean.png)
 
@@ -22,9 +28,11 @@ The interface should now be easier to navigate!
 
 ![](../../../.gitbook/assets/savecomp%20%281%29.png)
 
-Name the composition and change the **Size**. **960x540** will be fine. The values should ideally reflect the final output resolution \(most likely from a projector\), but for learning and experimenting it is less taxing on the computer to run at lower values.
+Name the composition and change the **Size** to **960x540**. The values should ideally reflect the final output resolution \(most likely from a projector\), but for learning and experimenting it is less taxing on the computer to run at lower values.
 
-Click **Save** and a new .avc file will be created in the Resolume folder, found under Documents on Mac. This file can be shared with others, but the video files are not embedded, so make sure that if collaborating to also sync the media.
+Click **Save** and a new AVC file will be created in the Resolume folder, found under Documents. This file can be shared with others, but the video files are not embedded, so make sure that if collaborating to also sync the media.
 
 ![](../../../.gitbook/assets/documents.png)
+
+
 
