@@ -6,7 +6,7 @@ Whether it is the **Composition**, **Layer** or **Clip**, each come with a set o
 * Changes to a layer affects all clips on that layer.
 * Changes to the composition affects all layers.
 
-Knowing that, let's check out the common parameters found under Transform: Position, Scale, Rotation and Anchor.  Click the arrow next to the parameter to get finer control.
+Knowing that, let's check out the common parameter **Transform**. Expand it to find **Position**, **Scale**, **Rotation** and **Anchor**.  Click the arrow next to the parameter to get finer control.
 
 {% hint style="info" %}
 Right-click on a parameters to have it reset to its default value!

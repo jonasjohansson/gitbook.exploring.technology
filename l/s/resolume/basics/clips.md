@@ -22,3 +22,5 @@ Click **Files** and go through the folders. One the folder is found, the files w
 Create a dedicated folder for your files and avoid having them in **Downloads**. Design the workflow with live performances in mind where lighting conditions are poor and it is crucial to find things fast.
 {% endhint %}
 
+
+
