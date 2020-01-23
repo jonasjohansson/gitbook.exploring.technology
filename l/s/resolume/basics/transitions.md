@@ -8,3 +8,5 @@ _Add a few clips, increase the time and click them in order to transition!_
 
 In this example the top layer blending mode is set to **Multiply**, causing the colors to colorise the layer below.
 
+For some excellent examples of great musical transitioning, [listen to John Digweeds show Transitions](https://www.mixcloud.com/johndigweed/).
+
