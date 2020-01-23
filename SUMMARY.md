@@ -77,6 +77,7 @@
       * [Layers](l/s/resolume/basics/layers.md)
       * [Parameters](l/s/resolume/basics/parameters.md)
       * [Animation](l/s/resolume/basics/animation.md)
+      * [Effects](l/s/resolume/basics/effects.md)
     * [Advanced](l/s/resolume/advanced/README.md)
       * [Projection Mapping](l/s/resolume/advanced/projection-mapping.md)
       * [Preparing content](l/s/resolume/advanced/preparing-content.md)
