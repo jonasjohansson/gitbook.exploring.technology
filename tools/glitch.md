@@ -18,6 +18,10 @@ A few quick ones… You can change the domain name in the top left by clicking t
 
 While not recommended, it is possible to use Glitch as a storage for files. [Read the restrictions](https://glitch.com/help/restrictions/) for information on limit.
 
+To upload, click **assets** and add the file\(s\). When finished, click the asset and **Copy** to get the URL. Use this wherever you need the file linked.
+
+![](../.gitbook/assets/glitch-upload.png)
+
 ### Help tidy code
 
 ~~When coding it's easy to make things messy. Use the~~ [~~Prettier Glitch Bookmarklet~~](https://prettier-new.glitch.me/) ~~to help maintain sanity!~~
@@ -51,6 +55,10 @@ It's not possible to drag and drop a folder, but there is a fairly painless way!
 unzip file.zip -d .  
 rm file.zip  
 refresh`
+
+{% hint style="info" %}
+Certain files are automatically uploaded in the folder tree while others become assets with a generated URL. Upload your file with an accepted extension, such as HTML or JS and then change it once uploaded for it to remain.
+{% endhint %}
 
 ## Domain
 
