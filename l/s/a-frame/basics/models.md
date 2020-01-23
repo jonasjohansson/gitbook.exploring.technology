@@ -18,7 +18,7 @@ This file is often seen when downloading from 3d asset sites, and loading an obj
 ```
 
 {% hint style="danger" %}
-Beware that the .mtl file will often point to a texture which is local. Make sure to upload the texture separately, copy it's link and update the material reference in the .mtl file.
+Beware that the MTL file will often point to a texture which is local. Make sure to upload the texture separately, copy the link and update the material reference in the MTL file.
 {% endhint %}
 
 ### FBX
@@ -33,7 +33,7 @@ The filmbox is a proprietary format created by Autodesk for 3d file transfers. T
 ```
 
 {% hint style="danger" %}
-Sometimes they come with textures _baked_ and work directly, but not always. If the .fbx file does not show textures, then if possible ignore it and try another one.
+Sometimes they come with textures _baked_ and work directly, but not always. If the FBX file does not show textures, then if possible ignore it and try another one.
 {% endhint %}
 
 It is possible to export complete scenes from Cinema4D or Blender and use them in A-Frame. However, be mindful of the fact that A-Frame does not understand functions such as the Cloner. All objects must be reduced to pure geometry with standard materials applied \(Octane materials will not work\).
