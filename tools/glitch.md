@@ -4,7 +4,7 @@ Glitch is a creative and expressive platform that everyone can use to create the
 
 ## Getting started
 
-Visit [Glitch](https://glitch.com/) and create a new account or login through [Github](https://github.com). Then choose **New Project** and _hello-webpage_.
+Visit [Glitch](https://glitch.com/) and create a new account or login through [Github](https://github.com). Choose **New Project** and _hello-webpage_.
 
 ![](../.gitbook/assets/screenshot-2019-09-23-at-22.47.33.png)
 
@@ -12,7 +12,11 @@ Once done you will see an editor similar to this. On the left menu you see some 
 
 ![](../.gitbook/assets/screenshot-2019-09-23-at-22.51.39.png)
 
-A few quick ones… You can change the domain name in the top left by clicking the current title. By clicking Show you can choose to view the public version of the site as a new window, or inline with your editor.
+A few quick ones… You can change the domain name in the top left by clicking the current title. By clicking **Show** you can choose to view the public version of the site as a new window, or inline with your editor.
+
+### Upload assets
+
+While not recommended, it is possible to use Glitch as a storage for files. [Read the restrictions](https://glitch.com/help/restrictions/) for information on limit.
 
 ### Help tidy code
 
