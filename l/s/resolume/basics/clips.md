@@ -6,9 +6,9 @@ _Have no video clips? Don't fret._
 
 ### Sources
 
-Click **Sources** and drag a **Solid Color** and **Lines** to the top and second layer of the first column. These sources are **Generators**, packages of code written to create specific graphics. 
+Click **Sources** and drag a **Solid Color** and **Lines** to the top and second layer of the first column. These sources are **Generators**, packages of code written to create specific graphics. Click the clip thumbnail to activate it, or click the clip name just below, to see it in the **Preview Monitor**.
 
-![](../../../../.gitbook/assets/resolume-layers-active.png)
+![](../../../../.gitbook/assets/resolume-sources%20%281%29.gif)
 
 Besides the many generators, there are other sources available, such as the **Capture Devices** which enable connected web cameras and more. There is also NDI and Syphon, but that's for another day.
 
