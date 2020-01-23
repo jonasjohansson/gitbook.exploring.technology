@@ -14,7 +14,5 @@ Read from top to bottom, layers behave just like in other software as they are "
 
 ![](../../../../.gitbook/assets/resolume-layers%20%282%29.png)
 
-If the layer is highlighted, by clicking "Layer 2" for example,
-
 
 
