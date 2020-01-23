@@ -3,8 +3,8 @@
 | Parts | Quantity |
 | :--- | :--- |
 | Arduino Uno | 1 |
-| Breadboard | 1 |
-| LDR \(Photocell\) | 1 |
+| [Breadboard]() | 1 |
+| LDR \(Photo resistor\) | 1 |
 | LED \(any color\) | 3 |
 | Button | 1 |
 | Piezo | 1 |
@@ -17,12 +17,18 @@ Before writing code, make sure you can write the characters! Programming uses se
 
 `/* ( ) { } [ ] | & / > < ; */`
 
+### Debug
+
+**Serial monitor** and **Serial plotter** help troubleshoot moments when expectations don't meet reality, i.e "the code doesn't work!".
+
+We can tell our Arduino to send information about what is happening using "serial communication" and by typing `Serial.begin(9600)` in  `setup()` with 9600 being the default baud rate, the speed which the computer and the Arduino communicates.
+
+To print information type `Serial.println()` and within the parentheses you can print out variables, strings, numbers and more.
+
 ## Example 1
 
 ### Blink
 
-{% tabs %}
-{% tab title="Code" %}
 ```cpp
 void setup() {
   pinMode(13, OUTPUT);
@@ -35,29 +41,6 @@ void loop() {
   delay(1000);
 }
 ```
-
-* [ ] Change the LED blink speed using the delay function
-* [ ] Create variables for the led pin number and delay amount
-{% endtab %}
-
-{% tab title="Solution" %}
-```cpp
-int ledPin = 13;
-int wait = 500;
-
-void setup() {
-  pinMode(ledPin, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(ledPin, HIGH);
-  delay(wait);
-  digitalWrite(ledPin, LOW);
-  delay(wait);
-}
-```
-{% endtab %}
-{% endtabs %}
 
 ### Button
 
@@ -80,20 +63,8 @@ void loop() {
   Serial.println(buttonState); // send value to your computer
 }
 ```
-
-* [ ] Use the Serial Monitor to read the state of the button
-* [ ] Create a variable for the button pin
-* [ ] Create your own button using your body
 {% endtab %}
 {% endtabs %}
-
-### Debug
-
-**Serial monitor** and **Serial plotter** help troubleshoot moments when expectations don't meet reality, i.e "the code doesn't work!".
-
-We can tell our Arduino to send information about what is happening using "serial communication" and by typing `Serial.begin(9600)` in  `setup()` with 9600 being the default baud rate, the speed which the computer and the Arduino communicates.
-
-To print information type `Serial.println()` and within the parentheses you can print out variables, strings, numbers and more.
 
 ### Blink + Button
 
