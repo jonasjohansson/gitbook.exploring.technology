@@ -1,8 +1,6 @@
 # Preparing content
 
-## Preparing content
-
-There are many performing styles, some choose to remix existing content, whilst others create inspired pieces from scratch. Video content for remixing can be found on [Youtube](https://www.youtube.com/) and [Vimeo](https://vimeo.com/). To get a hold of the actual video file use [Clipgrab](https://clipgrab.org/) or [Keepvid](http://keepvid.com/). Choose the highest resolution when downloading, and pay respect to copyright restrictions.
+Video content for remixing can be found on [Youtube](https://www.youtube.com/) and [Vimeo](https://vimeo.com/). To get a hold of the actual video file use [Clipgrab](https://clipgrab.org/) or [Keepvid](http://keepvid.com/). Choose the highest resolution when downloading, and pay respect to copyright restrictions.
 
 > Visual collective Smash TV creates stunning audio-visual compilations based on archived video footage.
 

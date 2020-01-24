@@ -1,2 +1,2 @@
-# Projection Mapping
+# Projection mapping
 
