@@ -16,11 +16,19 @@ Besides the many generators, there are other sources available, such as the **Ca
 
 _If there are some video clips prepared, let's grab them._
 
-Click **Files** and go through the folders. Once the folder is found, the files within should appear as thumbnails. Drag these to the layers just like the sources. It is possible to ignore the built-in file system and simply drag and drop!
+Click **Files** and go through the folders. Once the folder is found, the files within should appear as thumbnails. Drag these to the layers just like the sources. It is also possible to ignore the built-in file system and simply drag and drop!
 
-Accepted files are common image, audio and video formats. Video and audio content for remixing can be found on [Youtube](https://www.youtube.com/) and [Vimeo](https://vimeo.com/). To get a hold of the actual file use [Clipgrab](https://clipgrab.org/) or [Keepvid](http://keepvid.com/). Choose the highest resolution when downloading, and pay respect to copyright restrictions.
+Accepted files are common image, audio and video formats. Video and audio content can be found on [Youtube](https://www.youtube.com/) and [Vimeo](https://vimeo.com/). To get a hold of the actual file use [Clipgrab](https://clipgrab.org/) or [Keepvid](http://keepvid.com/). Choose the highest resolution when downloading, and pay respect to copyright restrictions.
 
 {% hint style="info" %}
 Create a dedicated folder for your files and avoid having them in **Downloads**. Design the workflow with live performances in mind where lighting conditions are poor and it is crucial to find things fast.
 {% endhint %}
+
+### Video conversion
+
+Depending on the specifications of the machine, the video files may stagger when being played. To avoid this, Resolume comes with DXV, their own codec which tenfolds the file size but ensures cool runnings. They have also built Alley, a software dedicated to encoding video files. It comes installed along with Resolume, and the DXV codec as well.
+
+Always convert all video files to DXV before a performance!
+
+![](../../../../.gitbook/assets/resolume-alley.png)
 
