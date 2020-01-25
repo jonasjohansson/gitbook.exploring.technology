@@ -53,9 +53,7 @@ For 360 video, use `<a-videosphere>` which will wrap a video around a sphere, pe
 <a-videosphere src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"></a-videosphere>
 ```
 
-### Troubleshooting
-
-#### Audio or Video does not work on mobile
+### Media does not play on mobile
 
 Due to privacy settings audio or video does not autoplay on mobile devices, instead they must be triggered by a user action.  However, it is possible to circumvent this by adding a custom script in `<head>`.
 
