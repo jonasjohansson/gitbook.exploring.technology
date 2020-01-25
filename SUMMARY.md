@@ -80,6 +80,7 @@
       * [Transitions](l/s/resolume/basics/transitions.md)
       * [Effects](l/s/resolume/basics/effects.md)
       * [Styles](l/s/resolume/basics/styles.md)
+      * [Record](l/s/resolume/basics/record.md)
     * [Advanced](l/s/resolume/advanced/README.md)
       * [Preparing content](l/s/resolume/advanced/preparing-content.md)
       * [Timeline](l/s/resolume/advanced/timeline.md)

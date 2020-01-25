@@ -1,6 +1,6 @@
 # Basics
 
-Upon starting the application an example composition is presented. A great starting point, but ultimately a possibly overwhelming distraction. To create a new press **⌘N**, or click **Composition** and **New**.
+Upon starting the application an example composition is presented. A great starting point, but ultimately a distraction. Create a new composition by pressing **⌘N**, or click **Composition** and **New**.
 
 ![](../../../../.gitbook/assets/resolumeinterface.png)
 
