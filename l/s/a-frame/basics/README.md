@@ -84,6 +84,15 @@ We can add a background with `<a-sky>` that surrounds the scene. `<a-sky>`, whic
 <a-sky color="#6EBAA7"></a-sky>
 ```
 
+360 Panoramas from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page):
+
+* [Halde Zollern](https://commons.wikimedia.org/wiki/File:Halde_Zollern_Panorama_01.jpg)
+* [Lake Byllesby Regional Park](https://commons.wikimedia.org/wiki/File:Lake_Byllesby_Regional_Park_-_360%C2%B0_Equirectangular_Street_View_Photo_%2827332591527%29.jpg)
+* [Kloster Paulinzella, Thüringen](https://commons.wikimedia.org/wiki/File:Kloster_Paulinzella,_Th%C3%BCringen,_360x180,_170316,_ako_%281%29.jpg)
+* [Tiger And Turtle, Duisburg](https://commons.wikimedia.org/wiki/File:Tiger_And_Turtle_Panorama.jpg)
+* [Zapporthorn, Switzerland](https://commons.wikimedia.org/wiki/File:Zapporthorn_Spherical_Panorama.jpg)
+* [Naturalis Biodiversity Center](https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_Museum_-_Exhibition_Primeval_parade_33_-_Overview_room_with_skeletons_-_Panorama_360_3D.jpg)
+
 ### Ground
 
 To add a ground, we can use `<a-plane>`. By default, planes are oriented parallel to the XY axis. To make it parallel to the ground, we need to orient it along the XZ axis. We can do so by rotating the plane negative 90° on the X-axis. 

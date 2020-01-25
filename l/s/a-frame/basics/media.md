@@ -1,12 +1,12 @@
 # Media
 
-Attaching external media can have a great impact, especially when using audio. To avoid having the media play when loaded \(which is often the case with large media files\) use the built-in asset manager! It will create a [loading screen](https://github.com/aframevr/aframe/blob/master/docs/components/loading-screen.md) that comes with some default styling which can be changed.
+Attaching external media can have a great impact, especially when using audio. To avoid having the media play when loaded \(which is often the case with large media files\) use the built-in asset manager It will create a [loading screen](https://github.com/aframevr/aframe/blob/master/docs/components/loading-screen.md) that comes with some default styling which can be changed.
 
 ```markup
-<a-scene loading-screen="dotsColor: red; backgroundColor: black; enabled: true"></a-scene>
+<a-scene loading-screen="dotsColor: red; backgroundColor: black;"></a-scene>
 ```
 
-To add assets add either an `<audio>` or `<video>` element in `<a-assets>` and then reference the element in the scene, with `<a-sound>` for audio and `<a-video>` for video. To ignore the asset manager, simply add the sound link directly to the `src` attribute. 
+To add assets add either an `<audio>` or `<video>` element in `<a-assets>` and then reference the element in the scene, with `<a-sound>` for audio and `<a-video>` for video. To ignore the asset manager, simply add the sound link directly to the `src` attribute.
 
 {% tabs %}
 {% tab title="Audio" %}
@@ -52,6 +52,8 @@ For 360 video, use `<a-videosphere>` which will wrap a video around a sphere, pe
 ```markup
 <a-videosphere src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"></a-videosphere>
 ```
+
+It's possible to upload assets and reference them, and to get started even faster, visit [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) where there is a large database of open media!
 
 ### Media does not play on mobile
 
