@@ -59,6 +59,8 @@ It's possible to upload assets and reference them, and to get started even faste
 
 Due to privacy settings audio or video does not autoplay on mobile devices, instead they must be triggered by a user action.  However, it is possible to circumvent this by adding a custom script in `<head>`.
 
+{% tabs %}
+{% tab title="Version 1" %}
 ```markup
 <script>
   window.addEventListener("click", function() {
@@ -68,6 +70,24 @@ Due to privacy settings audio or video does not autoplay on mobile devices, inst
   });
 </script>
 ```
+{% endtab %}
+
+{% tab title="Version 2" %}
+```markup
+<script>
+  document.body.addEventListener(
+    "touchstart",
+    function() {
+      for (el of document.querySelectorAll("audio,video")) {
+        el.play();
+      }
+    },
+    false
+  );
+</script>
+```
+{% endtab %}
+{% endtabs %}
 
 If using AR it is possible to use a marker being found as a trigger.
 
