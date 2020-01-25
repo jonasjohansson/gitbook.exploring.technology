@@ -78,6 +78,7 @@
       * [Animation](l/s/resolume/basics/animation.md)
       * [Transitions](l/s/resolume/basics/transitions.md)
       * [Effects](l/s/resolume/basics/effects.md)
+      * [Optimisation](l/s/resolume/basics/optimisation.md)
     * [Advanced](l/s/resolume/advanced/README.md)
       * [Record](l/s/resolume/advanced/record.md)
       * [Styles](l/s/resolume/advanced/styles.md)

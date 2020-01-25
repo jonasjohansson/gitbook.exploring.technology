@@ -18,13 +18,25 @@ If there are some video clips prepared, let's grab them. Click **Files** and bro
 
 Accepted files are common image, audio and video formats. Video and audio content can be found on [Youtube](https://www.youtube.com/) and [Vimeo](https://vimeo.com/). To get a hold of the actual file use [Clipgrab](https://clipgrab.org/) or [Keepvid](http://keepvid.com/). Choose the highest resolution when downloading, and pay respect to copyright restrictions.
 
-
-
 {% hint style="info" %}
 Create a dedicated folder for your files and avoid having them in **Downloads**. Design the workflow with live performances in mind where lighting conditions are poor and it is crucial to find things fast.
 {% endhint %}
 
 ### Preparing content
+
+#### Partitioning
+
+Attempt to divide a clip into multiple smaller ones, this allows for a flexible set where the performer can efficiently create compositions that does not feel repetitive.
+
+1. Open Quicktime Player
+2. File &gt; Open File &gt; Select video clip
+3. Edit &gt; Trim
+4. Drag to select start and end frame
+5. Trim and save!
+
+Consider the length and the pacing of the clip, there is no definite rule but between 5 to 20 seconds is normally good. It's great to try and structure ones material based on pacing as we strive for dynamic compositions that enhance the music and keep the energy going.
+
+#### Video conversation
 
 Depending on the specifications of the machine, the video files may stagger when being played. Resolume comes with DXV, a codec that decompress the video frames on the GPU instead of the CPU, and Alley, a video conversion software. [Check out the official guide](https://resolume.com/support/conversion-with-alley).
 
