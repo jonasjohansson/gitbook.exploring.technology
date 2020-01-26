@@ -4,7 +4,7 @@ Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitte
 
 ### Install
 
-Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations.
+Bitsy \([link](http://ledoux.io/bitsy/editor.html)\) runs in the browser and requires no installations. There is also an advanced standalone version named [Bitsy Savior](https://aloelazoe.itch.io/bitsy-savior).
 
 ### Tools
 
