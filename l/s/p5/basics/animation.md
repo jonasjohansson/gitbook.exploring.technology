@@ -70,7 +70,24 @@ This will provide us with a smooth transition between 1 and -1, moving forward a
 
 ## Map
 
-Map is used most often converting a sensor input reading into a useful output, but is extremely useful for animations. It takes the **minimum and maximum input** and transforms into to the **minimum and maximum output**
+To convert one range of numbers into another we use `map(value,minIn,maxIn,minOut,maxOut)` which is most often used converting a sensor input reading into a useful output, but is also useful for animations. It takes the **minimum and maximum input** and transforms into to the **minimum and maximum output.**
+
+```javascript
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  var a = mouseX;
+  //a = constrain(a, 0, width);
+  var b = map(a, 0, 400, 0, 255);
+  var c = map(a, 0, 400, 255, 0);
+  print(`When a is ${a}, b is ${round(b)} and c is ${round(c)}`);
+}
+```
+
+![](../../../../.gitbook/assets/p5-map%20%282%29.png)
 
 ```javascript
 function draw() {
