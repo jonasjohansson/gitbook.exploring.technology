@@ -4,9 +4,13 @@ Upon starting the application an example composition is presented. A great start
 
 ![](../../../../.gitbook/assets/resolumeinterface.png)
 
-Before deciphering the interface, click **View** and untick **Audio Controls**, **Crossfader, Dashboard, Help** and **Compositions**. Save by clicking **Layout** and **Save.** Name it "Simple". _The interface should now be easier to navigate!_
+Before deciphering the interface, click **View** and make sure only **Audio Controls**, **Layer Transition Controls, Dashboard, Autopilot** is checked.
 
-![](../../../../.gitbook/assets/resolumeinterfaceclean.png)
+![](../../../../.gitbook/assets/resolume-view.png)
+
+Save by clicking **Layout** and **Save.** Name it "Simple". _The interface should now be easier to navigate!_
+
+![](../../../../.gitbook/assets/resolume-simple%20%281%29.png)
 
 Here is the simple layout along with an advanced version.
 

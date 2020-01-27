@@ -7,7 +7,7 @@ Read from top to bottom, layers behave just like in other software as they are "
 * The **Add** selection reveals several blending modes defining how the pixels of the layer will blend. Change the Solid Color blending mode to Multiply and see how the white lines become red.
 * Use **X** to clear the active clip of the layer.
 * If there are several clips in the layer, the transition time \(**T**\) will create a graphical transition between the two clips of the duration. The default effect is **Alpha**, meaning that the original clip will slowly fade out, while the new clip will fade in. There are several effects beside the default!
-* The bar where it says **Layer 3** is the layer handle.
+* The bar where it says **Layer 2** is the layer handle.
   * Click to select the layer.
   * Click and drag to change its order.
   * Right click for more settings, such as renaming the layer.
