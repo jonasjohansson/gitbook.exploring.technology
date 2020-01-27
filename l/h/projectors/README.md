@@ -24,11 +24,11 @@ As a good practice you should always plan ahead and make a checklist before choo
 * Where is the projection Sweet Spot?
 * Is there a potential people casting shadows?
 
-![Hakana&#xEF; \[Adrien M &amp; Claire B\]](../../../.gitbook/assets/amcb-hakanai-c-romainetienne5123-w1800-h1800-1170x780.jpg)
+{% embed url="https://vimeo.com/46045360" caption="Hakanaï \(2013\) by Adrien M & Claire B" %}
 
 Visiting the installation venue/space is optimal when starting to plan your installation. This will get you the best sense of space, positioning options and sense of ambient light.  Another important thing is to ask for the CAD drawings of the space.  So now it is up to you if you want to make a 3D render of the placement or even making a scale mode. 
 
-![3D render layout from Hakana&#xEF; \[Adrien M &amp; Claire B\]](../../../.gitbook/assets/adrienm-and-claireb_hakanai-_projectorsetup.png)
+![3D render layout from Hakana&#xEF;](../../../.gitbook/assets/adrienm-and-claireb_hakanai-_projectorsetup.png)
 
 
 

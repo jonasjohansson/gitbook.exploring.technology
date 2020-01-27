@@ -14,5 +14,11 @@ Read from top to bottom, layers behave just like in other software as they are "
 
 ![](../../../../.gitbook/assets/resolume-layers%20%282%29.png)
 
+Above the layers there's the Composition clear \(**X**\) and block \(**B**\), as well as the master opacity \(**M**\) and master sound \(**S**\). Use the latter ones for when wanting to fade in our out the whole composition.
+
+It's possible to add way more layers than the default, but each layer makes the interface a bit more obscure. Watch out, you may end up like…
+
+{% embed url="https://vimeo.com/50071434" %}
+
 
 

@@ -8,6 +8,8 @@ Download [Resolume Arena](https://resolume.com/download/) and run the installati
 
 ### Inspiration
 
+{% embed url="https://vimeo.com/141932372" %}
+
 
 
 ### Community
