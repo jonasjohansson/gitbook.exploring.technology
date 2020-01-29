@@ -84,6 +84,7 @@
       * [Styles](l/s/resolume/advanced/styles.md)
       * [Timeline](l/s/resolume/advanced/timeline.md)
       * [Projection mapping](l/s/resolume/advanced/projection-mapping.md)
+      * [Syphon Recorder](l/s/resolume/advanced/syphon-recorder.md)
   * [Spark AR \(draft\)](l/s/spark-ar/README.md)
     * [Basics](l/s/spark-ar/basics/README.md)
       * [Particles](l/s/spark-ar/basics/particles.md)
