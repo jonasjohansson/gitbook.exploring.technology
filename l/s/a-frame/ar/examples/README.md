@@ -1,10 +1,14 @@
 # Examples
 
+## [Virtual Dancer](https://jonasjohansson.github.io/virtualdancer/ar/)
+
+![](../../../../../.gitbook/assets/armarker%20%281%29.jpg)
+
 ## [Ash' Tree](https://aframe-ash-tree.glitch.me/)
 
 {% tabs %}
-{% tab title="Image" %}
-…
+{% tab title="Marker" %}
+![](https://cdn.glitch.com/9fefbf1d-1435-435b-a215-8f0dd88f40eb%2Fpattern-tree.png?v=1570454328480)
 {% endtab %}
 
 {% tab title="Code" %}
@@ -86,10 +90,6 @@
 </html>
 
 ```
-{% endtab %}
-
-{% tab title="Marker" %}
-![](https://cdn.glitch.com/9fefbf1d-1435-435b-a215-8f0dd88f40eb%2Fpattern-tree.png?v=1570454328480)
 {% endtab %}
 {% endtabs %}
 
