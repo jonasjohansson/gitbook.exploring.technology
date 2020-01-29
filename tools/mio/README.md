@@ -22,10 +22,14 @@ All logic is handled on the sending device and made possible by printing specifi
 | :--- | :--- | :--- |
 | $w | Press key \([available keys](https://robotjs.io/docs/syntax#keys)\) | 1.0.0 |
 | !w | Release key | 1.1.6 |
-| $mouse | Click mouse | 1.1.3 |
-| 100,200 | Move cursor position. Any number, comma separated. | 1.1.3 |
 | /composition/master0.1 | Send value to address. Any float. | 1.1.4 |
 | r255 | Send id and val. Any name and number. | 1.1.1 |
+| moveMouse | [Move cursor position](https://robotjs.io/docs/syntax#movemousex-y) | 1.1.10 |
+| moveMouseSmooth | [Move cursor position like a human](https://robotjs.io/docs/syntax#movemousesmoothx-y) | 1.1.10 |
+| mouseClick | [https://robotjs.io/docs/syntax\#mouseclickbutton-double](https://robotjs.io/docs/syntax#mouseclickbutton-double) | 1.1.10 |
+| mouseToggle | [https://robotjs.io/docs/syntax\#movemousex-y](https://robotjs.io/docs/syntax#movemousex-y) | 1.1.10 |
+| dragMouse | [https://robotjs.io/docs/syntax\#dragmousex-y](https://robotjs.io/docs/syntax#dragmousex-y) | 1.1.10 |
+| scrollMouse | [https://robotjs.io/docs/syntax\#scrollmousex-y](https://robotjs.io/docs/syntax#scrollmousex-y) | 1.1.10 |
 
 {% hint style="success" %}
 When sending a string and integer to Arduino only the first character will be used eg. red255 will become r255.
@@ -60,7 +64,7 @@ void loop() {
 
   if (btn3 == LOW) {
     // move cursor to x 100 and y 200
-    Serial.println("100,200");
+    Serial.println("moveMouse("+String(100)+","+String(200)+")");
   }
 
   if (btn4 == LOW) {
