@@ -2,9 +2,9 @@
 
 It is possible to create custom training models using [Teachable Machine](https://teachablemachine.withgoogle.com/)! 
 
-As you get started, there are three types of training projects: Image, Audio and Pose. Choose the one appropriate for the project. This example will use **Audio** but they all share a similar process:
+As you get started, there are three types of training projects: **Image**, **Audio** and **Pose**. Choose the one appropriate for the project. This example will use **Audio** but they all share a similar process:
 
-1. Record Background Noise by choosing Mic, Record 20 seconds and Extract Sample.
+1. Record **Background Noise** by choosing **Mic**, **Record 20 seconds** and **Extract Sample**.
 2. Record Class 2 in the same manner, make it distinct.
 3. Add a class, and train it with a different sound.
 4. Keep adding classes until the training set is "complete". Remember to name the classes something relevant.
