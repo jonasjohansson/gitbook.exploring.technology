@@ -92,6 +92,7 @@
       * [Materials](l/s/spark-ar/basics/materials.md)
       * [Animation](l/s/spark-ar/basics/animation.md)
       * [Target Tracker](l/s/spark-ar/basics/target-tracker.md)
+      * [Upload Effect](l/s/spark-ar/basics/upload-effect.md)
     * [Advanced](l/s/spark-ar/advanced/README.md)
       * [Reducing 3D files](l/s/spark-ar/advanced/reducing-3d.md)
     * [Tutorials](l/s/spark-ar/tutorials.md)
