@@ -1,0 +1,46 @@
+# Pepakura
+
+Ever heard of paper craft?  It's the art of creating one, two or three-dimensional objects in paper and card stock \(thick paper\). Pepakura Designer is a great and popular program for making real world papercraft models from 3D digital models. Expand all the measurements to create large scale sculptures!
+
+### Install
+
+Get Pepakura \([link](https://tamasoft.co.jp/pepakura-en/download/index.html)\) and if you are on Windows, proceed, and if on Mac install Wineskin Winery \([link](https://sourceforge.net/projects/wineskin/)\).
+
+#### Installing Wineskin Winery
+
+Wineskin enables Linux and Mac \(and more\) users to run Windows applications without a copy of Microsoft Windows. There are several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET0w) and [this](https://www.maketecheasier.com/pepakura-designer-mac/)\) out there which are great since the setup can be a bit awkward.
+
+Open Wineskin Winery, click the **plus** symbol and add the latest. Also click **Update** and get the latest wrapper version. Once ready, click **Create New Blank Wrapper** and give the blank wrapper the name "Pepakura Designer". Give it some time, and when complete, click **View wrapper in Finder**. 
+
+![](../.gitbook/assets/pepakura-wineskin-winery-setup.png)
+
+Open the newly created app \(if it says it can't be opened, try again\). Select **Install Software** and select the previously downloaded Pepakura Windows executable. It should be named _setup\_pepakura416\_en.exe_ or similar. Follow the instructions and agree to everything.
+
+{% hint style="info" %}
+Ignore the error saying "Error: Invalid operation".
+{% endhint %}
+
+The software should now open!
+
+![](../.gitbook/assets/pepakura-untitled.png)
+
+Close Pepakura Designer and open it again. It will now request which executable it should use. Make sure to select _pepakura4.exe_ from the list.
+
+![](../.gitbook/assets/pepakura-select.png)
+
+ Click OK and exit Wineskin by simply closing the window. Next time the app is opened it should open the app directly.
+
+If you don't like the default app icon, download the official Pepakura icon below, then right-click the app and drag the icon to the thumbnail. Done!
+
+{% file src="../.gitbook/assets/pepakura.icns" caption="" %}
+
+### Using Pepakura
+
+Pepakura works with several 3d formats but OBJ is recommended. This format can be easily exported from Cinema4D or Blender. Click **File** and **Open** and choose your OBJ file. Below is an example.
+
+{% file src="../.gitbook/assets/platonic.obj" %}
+
+![](../.gitbook/assets/pepakura-export.png)
+
+
+
