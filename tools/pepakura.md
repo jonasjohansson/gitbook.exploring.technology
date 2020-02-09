@@ -36,11 +36,13 @@ If you don't like the default app icon, download the official Pepakura icon belo
 
 ### Using Pepakura
 
-Pepakura works with several 3d formats but OBJ is recommended. This format can be easily exported from Cinema4D or Blender. Click **File** and **Open** and choose your OBJ file. Below is an example.
+Pepakura works with several formats but OBJ is recommended. This format can be easily exported from Cinema4D or Blender. Click **File** and **Open** and choose your OBJ file. Below is an example.
 
 {% file src="../.gitbook/assets/platonic.obj" %}
 
+Once opened, click **Unfold** and follow the instructions. Then, simply export the output.
+
 ![](../.gitbook/assets/pepakura-export.png)
 
-
+For information on how to understand the instructions, view the guide [What is Pepakura and how to start](https://www.instructables.com/id/What-is-Pepakura-and-how-to-start/).
 
