@@ -4,13 +4,11 @@ Ever heard of paper craft?  It's the art of creating one, two or three-dimension
 
 ![Experiments by Dev Harlan](https://images.squarespace-cdn.com/content/52232c95e4b0ba9919a4b265/1381674787124-8ENL4WZ7STSTXSCHIQJA/parmenides-dev-harlan-1-576x3241.png?content-type=image%2Fpng)
 
-For large projects make sure to use Foam Board \(Kapaskiva\), at either [3mm](https://www.svexo.se/kapaskiva-3mm-70x100cm-25fp) or [5mm](https://www.svexo.se/kapaskiva-5mm-100x140cm-25fp) \(preferred\) thickness.  Use fishing wire to cross-stitch several boards together.
+For large projects make sure to use Foam Board \(Kapaskiva\), at either [3mm](https://www.svexo.se/kapaskiva-3mm-70x100cm-25fp) or [5mm](https://www.svexo.se/kapaskiva-5mm-100x140cm-25fp) \(preferred\) thickness.  Use fishing wire to cross-stitch several boards together. Cut the boards with a sharp mat cutter or X-Acto knife.
 
 ### Install
 
 Get Pepakura \([link](https://tamasoft.co.jp/pepakura-en/download/index.html)\) and if you are on Windows, proceed, and if on Mac install Wineskin Winery \([link](https://sourceforge.net/projects/wineskin/)\).
-
-#### Installing Wineskin Winery
 
 Wineskin enables Linux and Mac \(and more\) users to run Windows applications without a copy of Microsoft Windows. There are several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET0w) and [this](https://www.maketecheasier.com/pepakura-designer-mac/)\) out there which are great since the setup can be a bit awkward.
 
