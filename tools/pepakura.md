@@ -1,8 +1,10 @@
 # Pepakura
 
-Ever heard of paper craft?  It's the art of creating one, two or three-dimensional objects in paper and card stock \(thick paper\). Pepakura Designer is a great and popular program for making real world papercraft models from 3D digital models. Expand all the measurements to create large scale sculptures, and light them up with projection mapping for radical paper brightness!
+Ever heard of paper craft?  It's the art of creating one, two or three-dimensional objects in paper. Pepakura Designer is a great and popular program for making real world papercraft models from 3D digital models. Expand all the measurements to create large scale sculptures, and light them up with projection mapping for radical paper brightness!
 
 ![Experiments by Dev Harlan](https://images.squarespace-cdn.com/content/52232c95e4b0ba9919a4b265/1381674787124-8ENL4WZ7STSTXSCHIQJA/parmenides-dev-harlan-1-576x3241.png?content-type=image%2Fpng)
+
+For large projects make sure to use Foam Board \(Kapaskiva\), at either [3mm](https://www.svexo.se/kapaskiva-3mm-70x100cm-25fp) or [5mm](https://www.svexo.se/kapaskiva-5mm-100x140cm-25fp) \(preferred\) thickness.  Use fishing wire to cross-stitch several boards together.
 
 ### Install
 
