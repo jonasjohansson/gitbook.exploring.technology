@@ -48,13 +48,7 @@ For information on how to understand the instructions, view the guide [What is P
 
 {% page-ref page="../l/s/a-frame/basics/models.md" %}
 
-### Inspiration
-
-![](http://www.basto-elbers.com/wp-content/uploads/2016/07/gallery_racecar_18.jpg)
-
-![](http://www.basto-elbers.com/wp-content/uploads/2016/07/MG_1954-1240x827.jpg)
-
-
+{% embed url="https://vimeo.com/328475901" %}
 
 
 
