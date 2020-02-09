@@ -1,6 +1,6 @@
 # Pepakura
 
-Ever heard of paper craft?  It's the art of creating one, two or three-dimensional objects in paper. Pepakura Designer is a great and popular program for making real world papercraft models from 3D digital models. Expand all the measurements to create large scale sculptures, and light them up with projection mapping for radical paper brightness!
+Ever heard of paper craft?  It's the art of creating one, two or three-dimensional objects in paper. Pepakura Designer is a great and popular program for making real world papercraft models from 3D digital models. Expand all the measurements to create large scale sculptures, and [light them up with projection mapping](https://vimeo.com/328475901) for radical paper brightness!
 
 ![Experiments by Dev Harlan](https://images.squarespace-cdn.com/content/52232c95e4b0ba9919a4b265/1381674787124-8ENL4WZ7STSTXSCHIQJA/parmenides-dev-harlan-1-576x3241.png?content-type=image%2Fpng)
 
@@ -47,8 +47,6 @@ Once opened, click **Unfold** and follow the instructions. Then, simply export t
 For information on how to understand the instructions, view the guide [What is Pepakura and how to start](https://www.instructables.com/id/What-is-Pepakura-and-how-to-start/). Go ahead and create some spectacular designs or use existing ones!
 
 {% page-ref page="../l/s/a-frame/basics/models.md" %}
-
-{% embed url="https://vimeo.com/328475901" %}
 
 
 
