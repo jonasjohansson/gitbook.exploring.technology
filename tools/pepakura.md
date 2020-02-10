@@ -1,16 +1,16 @@
 # Pepakura
 
-Ever heard of paper craft?  It's the art of creating one, two or three-dimensional objects in paper. Pepakura is a great and popular program for turning digital designs into real world paper sculptures. Upscale  the measurements to create large scale sculptures, and [light them up using projection mapping](https://vimeo.com/328475901) for radical paper brightness!
-
-![The Skull by APM300, https://vimeo.com/52945329](../.gitbook/assets/apm300-skull.jpg)
+Ever heard of paper craft?  It's the art of creating one, [two](https://www.google.com/search?q=paper+craft+2d) or [three-dimensional](https://www.google.com/search?q=paper+craft+3d) objects in paper. To create custom and complex designs, Pepakura offers the transformation from digital object to real world folding instructions. Upscale  the measurements to create large scale sculptures, and [light them up using projection mapping](https://vimeo.com/328475901) for radical paper brightness!
 
 _For large projects make sure to use Foam Board \(Kapaskiva\), at either_ [_3mm_](https://www.svexo.se/kapaskiva-3mm-70x100cm-25fp) _or_ [_5mm_](https://www.svexo.se/kapaskiva-5mm-100x140cm-25fp) _\(preferred\) thickness.  Use fishing wire to cross-stitch several boards together. Cut the boards with a sharp mat cutter or X-Acto knife._
 
+![The Skull by APM300, https://vimeo.com/52945329](../.gitbook/assets/apm300-skull.jpg)
+
 ### Install
 
-Get Pepakura \([link](https://tamasoft.co.jp/pepakura-en/download/index.html)\) and if you are a non Windows user, install Wineskin \([link](https://sourceforge.net/projects/wineskin/)\) as it enables Windows applications to run on Mac \(and Linux\)
+Get Pepakura \([link](https://tamasoft.co.jp/pepakura-en/download/index.html)\) and if you are a non Windows user, install Wineskin \([link](https://sourceforge.net/projects/wineskin/)\) as it enables Windows applications to run on Mac_._
 
- Follow any of the several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET0w) and [this](https://www.maketecheasier.com/pepakura-designer-mac/)\) out there, or why not this one?
+ Use any of the several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET0w) and [this](https://www.maketecheasier.com/pepakura-designer-mac/)\) out there, or join in these steps:
 
 1. Open Wineskin, click the **plus** symbol and add the latest version.
 2. Return, and click **Update** and get the latest wrapper version.
@@ -45,8 +45,6 @@ Once opened, click **Unfold** and follow the instructions. Then, simply export t
 For information on how to understand the instructions, view the guide [What is Pepakura and how to start](https://www.instructables.com/id/What-is-Pepakura-and-how-to-start/). Go ahead and create some spectacular designs or use [existing ones](https://www.exploring.technology/l/s/a-frame/basics/models)!
 
 ![&quot;Parmenides I&#x201D; by Dev Harlan \(2011\), https://vimeo.com/30108920](http://thesuperslice.com/wp-content/uploads/2011/10/dh_starg_img_3868_2k_crophz.jpg)
-
-
 
 
 
