@@ -8,7 +8,13 @@ _For large projects make sure to use Foam Board \(Kapaskiva\), at either_ [_3mm_
 
 ### Install
 
-Get [Pepakura](https://tamasoft.co.jp/pepakura-en/download/index.html) and if you are a non Windows user, install [Wineskin](https://sourceforge.net/projects/wineskin/) as it enables Windows applications to run on Mac_._ Use any of the several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET0w) and [this](https://www.maketecheasier.com/pepakura-designer-mac/)\) out there, or follow along:
+Get [Pepakura](https://tamasoft.co.jp/pepakura-en/download/index.html) and if you are a non Windows user, install [Wineskin](https://sourceforge.net/projects/wineskin/) as it enables Windows applications to run on Mac_._ 
+
+{% hint style="danger" %}
+Does not work on Catalina!
+{% endhint %}
+
+Use any of the several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET0w) and [this](https://www.maketecheasier.com/pepakura-designer-mac/)\) out there, or follow along:
 
 1. Open Wineskin, click the **plus** symbol and add the latest version. Return to the main window.
 2. Click **Update** and get the latest wrapper version.
