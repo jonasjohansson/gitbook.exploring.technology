@@ -8,14 +8,12 @@ _For large projects make sure to use Foam Board \(Kapaskiva\), at either_ [_3mm_
 
 ### Install
 
-Get Pepakura \([link](https://tamasoft.co.jp/pepakura-en/download/index.html)\) and if you are a non Windows user, install Wineskin \([link](https://sourceforge.net/projects/wineskin/)\) as it enables Windows applications to run on Mac_._
+Get [Pepakura](https://tamasoft.co.jp/pepakura-en/download/index.html) and if you are a non Windows user, install [Wineskin](https://sourceforge.net/projects/wineskin/) as it enables Windows applications to run on Mac_._ Use any of the several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET0w) and [this](https://www.maketecheasier.com/pepakura-designer-mac/)\) out there, or follow along:
 
- Use any of the several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET0w) and [this](https://www.maketecheasier.com/pepakura-designer-mac/)\) out there, or join in these steps:
-
-1. Open Wineskin, click the **plus** symbol and add the latest version.
-2. Return, and click **Update** and get the latest wrapper version.
+1. Open Wineskin, click the **plus** symbol and add the latest version. Return to the main window.
+2. Click **Update** and get the latest wrapper version.
 3. Once ready, click **Create New Blank Wrapper** and name it "Pepakura Designer".
-4. Give it some time, and when complete, click **View wrapper in Finder** and open the wrapper app.
+4. Give it some time… click **View wrapper in Finder** and open the wrapper app.
 5. Click **Install Software** and select the  Pepakura executable _setup\_pepakura416\_en.exe from before._
 6. Follow the instructions and agree to everything. Ignore the error saying "Error: Invalid operation". 
 7. The software should now open!
