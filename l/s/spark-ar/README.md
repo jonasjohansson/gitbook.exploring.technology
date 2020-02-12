@@ -10,5 +10,9 @@ Begin by installing the Spark AR \([download](https://sparkar.facebook.com/ar-st
 
 Under Project  &gt; Edit Properties… &gt; Capabilities tick the items that match the project. Otherwise the console will through error messages.
 
+### Sharing
+
+[https://www.instagram.com/a/r/?effect\_id=1375056715999309](https://www.instagram.com/a/r/?effect_id=1375056715999309)
+
 
 
