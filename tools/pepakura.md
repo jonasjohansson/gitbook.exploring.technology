@@ -6,7 +6,7 @@ _For large projects make sure to use Foam Board \(Kapaskiva\), at either_ [_3mm_
 
 ![The Skull by APM300, https://vimeo.com/52945329](../.gitbook/assets/apm300-skull.jpg)
 
-There is also a [Export Paper Model](https://addam.github.io/Export-Paper-Model-from-Blender/) addon for Blender that achieves a similar result.
+There is also a [Export Paper Model](https://addam.github.io/Export-Paper-Model-from-Blender/) addon for [Blender](https://www.blender.org/) that achieves a similar result.
 
 {% embed url="https://www.youtube.com/watch?v=Y6ECUuwHA4s" %}
 
