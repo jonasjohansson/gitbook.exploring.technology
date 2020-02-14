@@ -26,3 +26,23 @@ By far the most expensive material, but the nicest to cut. It usually comes with
 🌱Be mindful of the environment when choosing materials and planning your cuts. Some materials such as \(a lot of types of\) acrylic are very difficult to recycle, others are actually recycled materials themselves. When submitting your project for cutting, we ask you to first make a version cut out of cardboard to test your design. Also try to be as efficient as possible with your cutting surface to reduce waste.
 {% endhint %}
 
+### Buyers guide
+
+Finding materials is not trivial as most distributors does not provide wood nor plastic sheets in small sizes and low quantities. Make sure to verify with the distributor beforehand that they can provide according to your needs.
+
+| Name | Has | Rating | Price |
+| :--- | :--- | :--- | :--- |
+| [Plastic produkter](https://www.plasticprodukter.se) | Plastic | - | 💰 |
+| [GOP](https://www.gop.se) | Plastic | - | 💰 |
+| [Slöjd & Detaljer](https://www.slojd-detaljer.se/sortiment/tra-metallslojd/plast-gummi/akrylplastskivor/) | Plastic, wood | ❤️❤️ | 💰💰 |
+| [Panduro](https://panduro.com) | Plastic | ❤️ | 💰💰 |
+| [Matton](https://www.mattonbutiken.se) | Plastic, paper |  |  |
+| [Materialbutiken](https://www.materialbutiken.se/) | Plastic, wood | ❤️❤️❤️ | 💰💰💰 |
+| [Träbutiken](https://www.trabutiken.se) | Wood | - |  |
+| [Skivspecialisten](http://www.skivspecialisten.se) | Wood | ❤️❤️❤️ | 💰💰💰 |
+| [Bauhaus](https://www.bauhaus.se/bygg/skivmaterial) | Plastic, wood | ❤️❤️❤️ | 💰 |
+| [Hornbach](https://www.hornbach.se/shop/Skivmaterial/S16715/artikel-listning.html) | Plastic, wood | - |  |
+| [Signcom](http://www.signcom.se/default.aspx?pageCode=category3&category=20103) | Metal | - |  |
+| [Fredricsons Trä](https://www.fredricsons.com/) | Wood | - |  |
+| [Jan O. Mattsson](http://www.janomattsson.se/) | Plastic | ❤️❤️ | 💰 |
+
