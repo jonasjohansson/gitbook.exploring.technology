@@ -5,6 +5,8 @@
 ## Learn <a id="l"></a>
 
 * [Software](l/s/README.md)
+  * [Music introduction](l/s/music-theory/README.md)
+    * [Beepbox](l/s/music-theory/beepbox.md)
   * [A-Frame](l/s/a-frame/README.md)
     * [Basics](l/s/a-frame/basics/README.md)
       * [Animation](l/s/a-frame/basics/animation.md)
