@@ -1,6 +1,8 @@
 # Cinema 4D
 
-A staple in 3d, Cinema 4D \(C4D\) provides an "easy to learn, difficult to master" adaptive interface. For a fantastic, free and community driven alternative, have a look at [Blender](https://www.blender.org/).
+A staple in 3d, Cinema 4D \(C4D\) provides an adaptive interface with huge potential. For a fantastic, free and community driven alternative, have a look at [Blender](https://www.blender.org/).
+
+![Walk Cycle \(2020\) by students at Beckmans college of Design](../../.gitbook/assets/walkcycle.gif)
 
 ### Install
 
