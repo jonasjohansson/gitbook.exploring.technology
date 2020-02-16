@@ -1,4 +1,0 @@
-# Lighting
-
-Neutrik connectors
-

@@ -131,8 +131,6 @@
     * [Machines](l/h/laser-cutting/machines.md)
     * [Materials](l/h/laser-cutting/materials.md)
     * [🏆 Challenges](l/h/laser-cutting/puzzle-challenge.md)
-  * [Lighting](l/h/lighting/README.md)
-    * [Laser](l/h/lighting/laser.md)
   * [Projectors](l/h/projectors/README.md)
     * [Technology](l/h/projectors/technology.md)
     * [Techniques](l/h/projectors/techniques.md)
