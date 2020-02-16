@@ -4,6 +4,8 @@
 
 ## Draft <a id="legacy"></a>
 
+* [Laser](laser.md)
+* [3D Scanning](3d-scanning.md)
 * [Spark AR](spark-ar.md)
 * [Shaders](shaders.md)
 * [Biotechnology](biotechnology/README.md)
