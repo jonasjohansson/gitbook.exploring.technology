@@ -24,11 +24,9 @@ The purple selection defines the amount of columns to be included in the playbac
 
 To play music, "draw" notes on the notes on the piano roll by click, drag and release on any selected cell. Click **Play** or hit **Space** to listen.
 
-![](../../../.gitbook/assets/immagine%20%288%29.png)
+![](../../../.gitbook/assets/beepbox-drawnotes.gif)
 
 After drawing a note it is possible to modify it by dragging up or down, obtaining a **Glide Effect**, removing the interruptions between notes as the pitch will slide between different values instead of jumping. You can find this function in several synths, and can also be called **Portamento**.
-
-![](../../../.gitbook/assets/immagine%20%289%29.png)
 
 Every row \(besides gray\) has a **different octave** with red being the lowest and teal the highest; meaning it is preferable to use red for bass lines and harmonies, while teal and yellow are ideal for melodies and arpeggios. As we said before, grey, the bottom row can only contain percussive sounds.
 
