@@ -36,9 +36,7 @@ A _specific_ sequence of intervals generates a **scale.** In the following examp
 
 If notes are changed, defining a so called new **key**, but the interval sequence is mantained, we will still obtain a major scale, just with a different pitch.
 
- 
-
-![](../../../.gitbook/assets/immagine%20%2817%29.png)
+![](../../../.gitbook/assets/immagine%20%2818%29.png)
 
 [E major scale example](https://beepbox.co/#8n31s6k4l00e00t2mm0a7g00j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h4p1r0aq_y1wo2O1wrZYB15Zhvinw000)
 
@@ -46,11 +44,17 @@ If we now change the interval sequence, we will obtain a new type of scale. In t
 
 ![](../../../.gitbook/assets/immagine%20%282%29.png)
 
+[A minor scale example](https://beepbox.co/#8n31s7k9l00e00t2mm0a7g00j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h4p1r0aq_y1w86O0wrZYB15Zhvinw000) \| [C\# minor scale example](https://beepbox.co/#8n31s7k1l00e00t2mm0a7g00j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h4p1r0aq_y1w86O0wrZYB15Zhvinw000)
 
+What we learned until now can already show us **how important is the relashionship between different notes.** If we write a short melody and we use different notes as a _pedal_ to create a context for them, the result will be really different: [melody with a C pedal](https://beepbox.co/#8n31s6k0l00e03t22m2a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T0v1L4u13q1d1f7y1z1C0w5c0h1T1v1L4uc7q1d4f6y1z1C0c0A6F1B2V1Q5209Pca84E0021T2v1L4u15q0d1f8y0z1C2w0b4h400000000h4g000000014h000000004h400000000p1oFHZwwpa2xp5dHW82CZ7-0000), [melody with a A pedal](https://beepbox.co/#8n31s6k0l00e03t22m2a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T0v1L4u13q1d1f7y1z1C0w5c0h1T1v1L4uc7q1d4f6y1z1C0c0A6F1B2V1Q5209Pca84E0021T2v1L4u15q0d1f8y0z1C2w0b4h400000000h4g000000014h000000004h400000000p1pFHZwwpa2xp5dHW82CZ7Qw0000).
 
-[A minor scale example](https://beepbox.co/#8n31s7k9l00e00t2mm0a7g00j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h4p1r0aq_y1w86O0wrZYB15Zhvinw000)
+### Chords and arpeggios
 
+A chord is a set of **multiple notes played simultaneously**. We can create a chord from a given scale, starting from each step of the scale: we start from one note, we jump one, we take the next one, we jump one, and we take the next one. These three notes can either create a major chord or a minor chord, depending on the intervals that connect them.
 
+![](../../../.gitbook/assets/immagine%20%2817%29.png)
+
+[Chords example](https://beepbox.co/#8n31s6k0l00e00t2mm0a7g00j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h4p1s0bCWvweCrFZaWq_yC2bWy-AL0000)
 
 
 
