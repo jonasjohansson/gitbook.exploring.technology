@@ -1,11 +1,17 @@
 # Music introduction
 
-Common denominator to define music is **sound** and every kind of **vibration** that can reach our ear.  
-Edgard Varèse \(1883 -1965\) described music as "organised sound", while Luciano Berio \(1925 - 2003\) as "everything that one listens to with the intention of listening to music".
+### Introduction
 
-Three main parameters can be considered to describe sound: **duration** \(time\), **pitch** \(frequency\), **amplitude** \(intensity\).  These parameters can be represented in different ways, for instance can be written on **sheet music** or analysed with a **spectrogram**. A spectrogram, showing the spectral content of a sound, gives accurate information about the timbre.
+If we think about music, probably everyone can picture something different in his mind: piano lessons, his records collection, a techno party, etc.   
+Music is all of this, for sure, but if we need to find a common denominator to define it, we can choose these two words: **sound** and **vibration**. Every kind of vibration that can reach our ear produce a sound, and this can be consider music, specially when is organised into a composition.  
+  
+[Edgard Varèse](https://en.wikipedia.org/wiki/Edgard_Var%C3%A8se) \(1883 -1965\) described music as "organised sound", while [Luciano Berio](https://en.wikipedia.org/wiki/Luciano_Berio) \(1925 - 2003\) as "everything that one listens to with the intention of listening to music".  
 
-## Notes and their relationships.
+
+Since the prehistory, people always tried to represent music, as the only way to preserve musical ideas and to let them travel around the world without being orally transmitted.  
+Physically speaking, three main parameters can be considered to describe sound: **duration** \(time\), **pitch** \(frequency\), **amplitude** \(intensity\).  The intent of representing these parameters brought to the growth of musical notation: defining pitch and duration is for instance the easiest way transmit a melody to someone else  can be represented in different ways, for instance can be written on **sheet music** or analysed with a **spectrogram**. A spectrogram, showing the spectral content of a sound, gives accurate information about the timbre.
+
+## Notes and their relationships
 
 
 
