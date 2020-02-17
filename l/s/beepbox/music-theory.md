@@ -13,9 +13,7 @@ _But knowing some rule doesn't hurt so let's see how it works!_
 
 ### Intervals
 
-Physically speaking, three main parameters can be considered to describe sound: **duration** \(time\), **pitch** \(frequency\), **amplitude** \(intensity\). 
-
-  
+Physically speaking, three main parameters should be considered to describe sound: **duration** \(time\), **pitch** \(frequency\), **amplitude** \(intensity\).   
 
 
 ![Spectrogram of a synth note: duration on X axis, pitch on Y axis, amplitude  on a scale from blue to orange.](../../../.gitbook/assets/immagine%20%286%29.png)
