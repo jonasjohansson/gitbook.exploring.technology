@@ -20,7 +20,15 @@ Three main parameters can be considered to describe sound: **duration** \(time\)
 ![](../../../.gitbook/assets/immagine%20%282%29.png)
 
 Setting different relationships between notes will bring to really different results.  
-In the following examples you can ear the same melody, juxtapose to different _pedal_ notes
+In the following examples you can ear the same melody, juxtapose to different _pedal_ notes.
+
+[Basic example](https://beepbox.co/#8n31s6k0l00e03t22m2a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T0v1L4u13q1d1f7y1z1C0w5c0h1T1v1L4uc7q1d4f6y1z1C0c0A6F1B2V1Q5209Pca84E0021T2v1L4u15q0d1f8y0z1C2w0b4h400000000h4g000000014h000000004h400000000p1oFHZwwpa2xp5dHW82CZ7-0000)
+
+
+
+{% file src="../../../.gitbook/assets/beepbox-song.wav" caption="Beepbox" %}
+
+
 
 {% embed url="https://beepbox.co/\#8n31s6k0l00e03t22m2a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T0v1L4u13q1d1f7y1z1C0w5c0h1T1v1L4uc7q1d4f6y1z1C0c0A6F1B2V1Q5209Pca84E0021T2v1L4u15q0d1f8y0z1C2w0b4h400000000h4g000000014h000000004h400000000p1oFHZwwpa2xp5dHW82CZ7-0000" %}
 
