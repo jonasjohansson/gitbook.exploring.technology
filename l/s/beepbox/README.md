@@ -26,21 +26,15 @@ To play music, "draw" notes on the notes on the piano roll by click, drag and re
 
 ![](../../../.gitbook/assets/immagine%20%288%29.png)
 
-After writing a note it is possible to modify it, by clicking and dragging up or down: in this way you will obtain the so called **Glide Effect**. ****That means there will be no interruption between one note and the next one, and the pitch will slide between different values, instead of jumping. You can find this function in several synths, and can also be called **Portamento**.
+After drawing a note it is possible to modify it by dragging up or down, obtaining a **Glide Effect**, removing the interruptions between notes as the pitch will slide between different values instead of jumping. You can find this function in several synths, and can also be called **Portamento**.
 
 ![](../../../.gitbook/assets/immagine%20%289%29.png)
 
-Every row \(besides gray\) has a **different octave** with red being the lowest and teal the highest; meaning it is preferable to use red for bass lines and harmonies, while teal and yellow are ideal for melodies and arpeggios. As we said before, the bottom row \(grey\) can only contain percussive sounds.
+Every row \(besides gray\) has a **different octave** with red being the lowest and teal the highest; meaning it is preferable to use red for bass lines and harmonies, while teal and yellow are ideal for melodies and arpeggios. As we said before, grey, the bottom row can only contain percussive sounds.
 
 ### Save
 
-After composig your tune, copy the link to safe your work! In this way, opening the link again, you'll be able to edit your song. 
+As soon as a new file is begun it is given a random URL containing all the data. Write down the link or export as JSON as this file can be imported. When ready, export a WAV file under **File** and **Export Song…**
 
-When you are finished, you can export a .wav fine through the file menu: file &gt; export song. At this point you will see something like that:
-
-![](../../../.gitbook/assets/immagine%20%283%29.png)
-
-Select "export to .wav file" to obtain an audio file, and choose the number of times you want your loop to be played by the sequencer. You will then find your file in the _download_ folder.
-
-Let's understand some music theory to be guided during the writing process!
+_Let's understand some music theory to be guided during the writing process!_
 
