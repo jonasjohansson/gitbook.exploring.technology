@@ -7,6 +7,7 @@
 * [Software](l/s/README.md)
   * [Beepbox](l/s/beepbox/README.md)
     * [Music introduction](l/s/beepbox/music-theory.md)
+    * [🏆 Challenges](l/s/beepbox/challenges.md)
   * [A-Frame](l/s/a-frame/README.md)
     * [Basics](l/s/a-frame/basics/README.md)
       * [Animation](l/s/a-frame/basics/animation.md)

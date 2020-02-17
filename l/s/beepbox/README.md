@@ -1,6 +1,6 @@
 # Beepbox
 
-Considering sound can elevate a project, help the listener along, provide cues and more. Sounds can be understood in many shapes, music, melody, sound effect or even complete silence. There are several great applications out there for getting started, such as [Ableton Live](http://ableton.com/) and [Reaper](https://www.reaper.fm/). To venture into more unknown territories, have a look at [TidalCycles](https://tidalcycles.org/index.php/Welcome), where music happens through code.  [Beepbox](https://www.beepbox.co/) is a dead simple tool with several opportunities, and an inspiring helping hand into the world of audio production. 
+Audio can be understood in many shapes, music, melody, sound effect or even complete silence. There are several great applications out there for getting started, such as [Ableton Live](http://ableton.com/) and [Reaper](https://www.reaper.fm/). To venture into more unknown territories, have a look at [TidalCycles](https://tidalcycles.org/index.php/Welcome), where music happens through code.  [Beepbox](https://www.beepbox.co/) is a dead simple tool with several opportunities, and an inspiring helping hand into the world of audio production. It is essentially a sequencer with great possibilities, often lending itself to a retro video game type of sound.
 
 ### Install
 
@@ -8,37 +8,29 @@ Beepbox \([link](https://www.beepbox.co/#8n31s0k0l00e03t2mm0a7g0fj07i0r1o3210T5v
 
 ### Setup
 
-To get a better view of the interface, open **Preferences** and select **Full-Screen Layout**. You should see something like this.
+To get a better view of the interface, open **Preferences** and select **Full-Screen Layout** and **Show Piano Keys**. Change the scale to any of the "Normal" options under **Song Settings**. Scale defines the notes available, with **Easy** making only room for "harmony safe" notes. 
 
 ![](../../../.gitbook/assets/beepbox-interface.png)
 
-In the bottom there are **4 rows** and **16 columns**, with **4 of the columns highlighted**. 
+### Sequencer
 
-The purple selection defines the amount of columns to be included.
+In the bottom there are **4 rows** and **16 columns.** Each row has a color, corresponding to an instrument. **Teal/Yellow/Red** can be set to any type of instrument, while **Grey** is used for percussion. Besides the color there is number containing a unique pattern. Each instrument can have ten different patterns 0-9.  All highlighted cells have patterns, with 0's are empty.
 
-Each row has a color, corresponding to an instrument. **Teal/Yellow/Red** can be set to any type of instrument, while **Grey** is used for percussion. Besides the color there is number containing a unique pattern. Each instrument can have ten different patterns 0-9.
+Click any of the cells and look at **Instrument Settings** to change the instrument.
 
-![](../../../.gitbook/assets/immagine%20%285%29.png)
+{% hint style="success" %}
+The purple selection defines the amount of columns to be included in the playback and export.
+{% endhint %}
 
-
-
-Each number corresponds to a **pattern,** which  can be edited in the piano roll section.  Each instrument can have ten different patterns.
-
-In _song settings -_ that you see in the following image -  __you can change the **tempo** \(BPM\) of the sequencer. Press **space bar** to **play/stop**. The scale "normal :\)" corresponds to a major scale, while "normal :\(" to a minor scale. If you select a scale, you will be allowed to use only notes that belogs to that scale \(harmony safe option\). Selecting expert you can use all notes \(weird stuff option\).
-
-![](../../../.gitbook/assets/immagine%20%2813%29.png)
-
-### Play
-
-Now that the setup is  done, you can start to create by "drawing" notes on the pianoroll: you do it by clicking in a selected cell.  When you add notes you can change the duration of each note by clicking and dragging. In this way you can use different time divisions, creating different rhythmic patterns.
+To play music, "draw" notes on the notes on the piano roll by click, drag and release on any selected cell. Click **Play** or hit **Space** to listen.
 
 ![](../../../.gitbook/assets/immagine%20%288%29.png)
 
-After writing a note it is possible to modify it, by clicking and dragging up or down: in this way you will obtain the so called **glide effect**. ****That means there will be no interruption between one note and the next one, and the pitch will slide between different values, instead of jumping. You can find this function in several synths, and can also be called **portamento**. In the following image you'll see how a note with glide effect looks like in Beepbox.
+After writing a note it is possible to modify it, by clicking and dragging up or down: in this way you will obtain the so called **Glide Effect**. ****That means there will be no interruption between one note and the next one, and the pitch will slide between different values, instead of jumping. You can find this function in several synths, and can also be called **Portamento**.
 
 ![](../../../.gitbook/assets/immagine%20%289%29.png)
 
-**Every row** \(Teal/Yellow/Red\) **has a different octave**: red is the lowest one, teal the highest one. That means that is preferable to use patterns in the **red row to create bass lines** and harmonies, while using teal/yellow row for melodies and arpeggios. As we said before, the bottom row \(grey\) can only contain percussive sounds.
+Every row \(besides gray\) has a **different octave** with red being the lowest and teal the highest; meaning it is preferable to use red for bass lines and harmonies, while teal and yellow are ideal for melodies and arpeggios. As we said before, the bottom row \(grey\) can only contain percussive sounds.
 
 ### Save
 
