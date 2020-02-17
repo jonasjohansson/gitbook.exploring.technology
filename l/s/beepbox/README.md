@@ -22,15 +22,21 @@ Each row has a color, corresponding to an instrument. **Teal/Yellow/Red** can be
 
 
 
-Each number corresponds to a pattern. which,  can be edited in the piano roll section.  Each voice can have ten different patterns.
+Each number corresponds to a **pattern,** which  can be edited in the piano roll section.  Each instrument can have ten different patterns.
 
-![](../../../.gitbook/assets/immagine%20%2811%29.png)
+In _song settings -_ that you see in the following image -  __you can change the **tempo** \(BPM\) of the sequencer. Press **space bar** to **play/stop**. The scale "normal :\)" corresponds to a major scale, while "normal :\(" to a minor scale. If you select a scale, you will be allowed to use only notes that belogs to that scale \(harmony safe option\). Selecting expert you can use all notes \(weird stuff option\).
 
-In _song settings_ you can change the tempo \(BPM\) or the sequencer. Press space bar to play/stop. The scale normal + happy face corresponds to a major scale, while normal + sad face to a minor scale. Selecting a scale, you will be allowed to use only notes that belogs to that scale \(harmony safe option\). Selecting expert you can use all notes \(weird stuff option\).
+![](../../../.gitbook/assets/immagine%20%2812%29.png)
+
+### Play
+
+Now that the setup is  done, you can start to create by "drawing" notes on the pianoroll: you do it by clicking in a selected cell.  When you add notes you can change the duration of each note by clicking and dragging. In this way you can use different time divisions, creating different rhythmic patterns.
 
 ![](../../../.gitbook/assets/immagine%20%287%29.png)
 
-When you add notes to the piano roll you can change the duration of each note by clicking and dragging.
+After writing a note it is possible to modify it, by clicking and dragging up or down: in this way you will obtain the so called **glide effect**. ****That means there will be no interruption between one note and the next one, and the pitch will slide between different values, instead of jumping. You can find this function in several synths, and can also be called **portamento**. In the following image you'll see how a note with glide effect looks like in Beepbox.
+
+![](../../../.gitbook/assets/immagine%20%288%29.png)
 
 #### After composig your tune, copy the link to safe your work! 
 

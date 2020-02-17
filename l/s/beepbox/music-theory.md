@@ -1,17 +1,17 @@
 # Music introduction
 
-Common denominator to define music is sound and every kind of vibration that can reach our ear.  
-Edgard Varèse described music as "organised sound", and Luciano Berio as "everything that one listens to with the intention of listening to music".
+Common denominator to define music is **sound** and every kind of **vibration** that can reach our ear.  
+Edgard Varèse \(1883 -1965\) described music as "organised sound", while Luciano Berio \(1925 - 2003\) as "everything that one listens to with the intention of listening to music".
 
-Three main parameters can be considered to describe sound: duration \(time\), pitch \(frequency\), amplitude \(intensity\).  These parameters can be represented in different ways, for instance can be written on sheet music or analysed with a spectrogram. A spectrogram, showing the spectral content of a sound, gives accurate information about the timbre.
+Three main parameters can be considered to describe sound: **duration** \(time\), **pitch** \(frequency\), **amplitude** \(intensity\).  These parameters can be represented in different ways, for instance can be written on **sheet music** or analysed with a **spectrogram**. A spectrogram, showing the spectral content of a sound, gives accurate information about the timbre.
 
 ## Notes and their relationships.
 
 
 
-![](../../../.gitbook/assets/immagine%20%2810%29.png)
+![](../../../.gitbook/assets/immagine%20%2811%29.png)
 
-![](../../../.gitbook/assets/immagine%20%288%29.png)
+![](../../../.gitbook/assets/immagine%20%289%29.png)
 
 ![](../../../.gitbook/assets/immagine.png)
 
