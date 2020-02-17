@@ -9,13 +9,13 @@ Three main parameters can be considered to describe sound: **duration** \(time\)
 
 
 
-![](../../../.gitbook/assets/immagine%20%2811%29.png)
+![](../../../.gitbook/assets/immagine%20%2812%29.png)
 
-![](../../../.gitbook/assets/immagine%20%289%29.png)
+![](../../../.gitbook/assets/immagine%20%2810%29.png)
 
 ![](../../../.gitbook/assets/immagine.png)
 
-![](../../../.gitbook/assets/immagine%20%285%29.png)
+![](../../../.gitbook/assets/immagine%20%286%29.png)
 
 ![](../../../.gitbook/assets/immagine%20%282%29.png)
 
@@ -30,7 +30,7 @@ In the following examples you can ear the same melody, juxtapose to different _p
 
 ![](../../../.gitbook/assets/immagine%20%281%29.png)
 
-![](../../../.gitbook/assets/immagine%20%283%29.png)
+![](../../../.gitbook/assets/immagine%20%284%29.png)
 
 {% embed url="https://beepbox.co/\#8n31s6k0l00e03t4Im0a7g0fj07i0r1o3210T0v1L4u10q0d0f8y0z1C2w2c0h0T1v1L4u91q1d4f6y2z1C0c2AbF6B8V9Q28c0Pb745E0001T1v1L4uc6q1d4f8y1z9C0c0A6F1B2VgQ0507P7c62E0011T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS\_\_\_\_Qg99habbCAYrDzh00b4x800000000h4g000000014h000000004h400000000p1pFH\_Ee-CGCGD0glJdldl800000" %}
 
