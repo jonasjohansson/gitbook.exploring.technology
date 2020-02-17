@@ -98,6 +98,7 @@
       * [Debugging](l/s/spark-ar/basics/debugging.md)
       * [Upload Effect](l/s/spark-ar/basics/upload-effect.md)
     * [Advanced](l/s/spark-ar/advanced/README.md)
+      * [Face](l/s/spark-ar/advanced/face.md)
       * [Reducing 3D files](l/s/spark-ar/advanced/reducing-3d.md)
       * [Instructions](l/s/spark-ar/advanced/instructions.md)
     * [Tutorials](l/s/spark-ar/tutorials.md)
