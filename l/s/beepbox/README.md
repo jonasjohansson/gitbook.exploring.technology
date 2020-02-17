@@ -50,3 +50,5 @@ When you are finished, you can export a .wav fine through the file menu: file &g
 
 Select "export to .wav file" to obtain an audio file, that you will then find in the _download_ folder.
 
+Let's understand some music theory to be guided during the writing process!
+
