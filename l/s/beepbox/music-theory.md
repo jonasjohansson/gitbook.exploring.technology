@@ -7,7 +7,9 @@ Music is all of this, for sure, but if we need to find a common denominator to d
   
 [Edgard Varèse](https://en.wikipedia.org/wiki/Edgard_Var%C3%A8se) \(1883 -1965\) described music as "organised sound", while [Luciano Berio](https://en.wikipedia.org/wiki/Luciano_Berio) \(1925 - 2003\) as "everything that one listens to with the intention of listening to music".
 
-These suggestions are here to let you think about music not as something framed into theory, scores, genres, intruments.
+These suggestions are here to let you think about music as something that is not just framed into theory, scores, genres, intruments. Everything related with our perception through our ears can be creatively used and transformed into music.
+
+_But knowing some rule doesn't hurt so let's see how it works!_
 
 ### Intervals
 
