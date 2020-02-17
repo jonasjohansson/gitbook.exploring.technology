@@ -48,7 +48,7 @@ When you are finished, you can export a .wav fine through the file menu: file &g
 
 ![](../../../.gitbook/assets/immagine%20%283%29.png)
 
-Select "export to .wav file" to obtain an audio file, that you will then find in the _download_ folder.
+Select "export to .wav file" to obtain an audio file, and choose the number of times you want your loop to be played by the sequencer. You will then find your file in the _download_ folder.
 
 Let's understand some music theory to be guided during the writing process!
 
