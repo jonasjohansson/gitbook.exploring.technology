@@ -11,7 +11,7 @@ These suggestions are here to let you think about music as something that is not
 
 _But knowing some rule doesn't hurt so let's see how it works!_
 
-### Intervals
+### Intervals and scales
 
 Physically speaking, three main parameters should be considered to describe sound: **duration** \(time\), **pitch** \(frequency\), **amplitude** \(intensity\).   
 
@@ -26,11 +26,21 @@ To compose using notes, we should see the **pitch as a sequence of equal interva
 
 ![](../../../.gitbook/assets/immagine%20%286%29.png)
 
-\*\*\*\*[**Octaves examples**](https://beepbox.co/#8n31s0k0l00e01t2mm0a7g01j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h0h4gp1fFKDWI0kTjYl0000) **\|** [**Tone-semitones examples**](https://beepbox.co/#8n31sbk0l00e01t2mm0a7g01j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b018h4gp1r0aq_wLwi-ALFbZ9v05Z9vinw000)\*\*\*\*
+\*\*\*\*[Octaves examples](https://beepbox.co/#8n31s0k0l00e01t2mm0a7g01j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h0h4gp1fFKDWI0kTjYl0000) **\|** [Tone-semitones examples](https://beepbox.co/#8n31sbk0l00e01t2mm0a7g01j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b018h4gp1r0aq_wLwi-ALFbZ9v05Z9vinw000)
 
-A _specific_ sequence of intervals generates a **scale.**
+A _specific_ sequence of intervals generates a **scale.** In the following example the intervals needed to create a **major scale** are showed.
 
 ![](../../../.gitbook/assets/immagine%20%2810%29.png)
+
+[C major scale example](https://beepbox.co/#8n31s6k0l00e00t2mm0a7g00j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h4p1r0aq_y1wo2O1wrZYB15Zhvinw000)
+
+If notes are changed, defining a so called new **key**, but the interval sequence is mantained, we will still obtain a major scale, just with a different pitch.
+
+ 
+
+![](../../../.gitbook/assets/immagine%20%2816%29.png)
+
+[E major scale example](https://beepbox.co/#8n31s6k4l00e00t2mm0a7g00j07i0r1o3210T5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT5v1L4u23q1d5f9y2z7C0c0h3H_RRtrAyzrrjriiT1v1L4ua8q3d4f7y1z1C0c1AbFhB2V2Q2ae1Pa514E0001T4v1L4uf0q1z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00b0h4p1r0aq_y1wo2O1wrZYB15Zhvinw000)
 
 
 
