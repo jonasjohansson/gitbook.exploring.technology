@@ -7,6 +7,8 @@ Music is all of this, for sure, but if we need to find a common denominator to d
   
 [Edgard Varèse](https://en.wikipedia.org/wiki/Edgard_Var%C3%A8se) \(1883 -1965\) described music as "organised sound", while [Luciano Berio](https://en.wikipedia.org/wiki/Luciano_Berio) \(1925 - 2003\) as "everything that one listens to with the intention of listening to music".
 
+These suggestions are here to let you think about music not as something framed into theory, scores, genres, intruments.
+
 ### Intervals
 
 Physically speaking, three main parameters can be considered to describe sound: **duration** \(time\), **pitch** \(frequency\), **amplitude** \(intensity\). 
@@ -16,7 +18,7 @@ Physically speaking, three main parameters can be considered to describe sound: 
 
 ![Spectrogram of a synth note: duration on X axis, pitch on Y axis, amplitude  on a scale from blue to orange.](../../../.gitbook/assets/immagine%20%286%29.png)
 
-
+Now we will focus on how we can deal with the pitch.
 
 
 
