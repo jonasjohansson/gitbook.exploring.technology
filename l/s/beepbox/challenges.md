@@ -4,7 +4,7 @@
 
 #### Individual challenge
 
-Create a track and explore the different possibilities in Beepbox.  Export the track as a WAV file and send it to fnctorelli@gmail.com.
+Create a track and explore the different possibilities in Beepbox.  Email the Beepbox track URL  to fnctorelli@gmail.com.
 
 #### Group challenge
 
