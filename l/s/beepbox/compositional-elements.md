@@ -7,7 +7,7 @@ Same thing happens with rhythm: changing, during time, few elements of a repetit
 
 ### Silence
 
-Silence is part of the music, like small pauses are part of a conversation, never forget about him on a micro level \(melody\) and on a macro level \(structure\).
+Silence is part of the music, like small pauses are part of a conversation, never forget about it on a micro level \(melody\) and on a macro level \(structure\).
 
 ### Surprise!
 

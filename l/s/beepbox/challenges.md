@@ -2,6 +2,8 @@
 
 ## Create a soundtrack
 
+Individual work
+
 That has:  
 - a structure  
 - at least 3 chords progression  
