@@ -76,7 +76,7 @@ If we choose a 3/4 time signature, one bar will contain four 1/4 notes.
 
 ![](../../../.gitbook/assets/immagine%20%2820%29.png)
 
-**The quarte note can be divided in sub divisions**, creating new time values. We should just be aware that the total amount of each bar should always be 4/4 \(if this is the chosen time signature\).
+**The quarter note can be divided in sub divisions**, creating new time values. We should just be aware that the total amount of each bar should always be 4/4 \(if this is the chosen time signature\).
 
 ![](../../../.gitbook/assets/immagine%20%2827%29.png)
 
