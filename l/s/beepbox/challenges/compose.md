@@ -1,6 +1,4 @@
-# 🏆 Challenges
-
-## Compose a musical piece
+# Compose
 
 #### Individual challenge
 
@@ -17,7 +15,4 @@ In teams of two, create a audiovisual piece \(30-60 seconds\) with a "complex" m
 The musical piece should be combined with visual content that you decide; Film something on your phone, create a collage from videos found online or something else.
 
 Upload the piece to [Instagram](https://www.instagram.com/beckmans_rgb/).
-
-  
-  
 
