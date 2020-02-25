@@ -32,7 +32,7 @@ With modern tools many have been tempted to further understand abstract art, by 
 
 ![Hommage &#xE0; Paul Klee \(1965\) by Frieder Nake](https://storage.strelka.com/i/acc35992-8b7d-437d-bc49-91e514ca32ee/w/840)
 
-Modern artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) use the freedom that the machine provides, leveraging its power, and iterates every day, as means of artistic expression. [Jan Jarfalk](https://www.instagram.com/janjarfalk/) uses his generative code in combination with an [Axidraw](https://axidraw.com/) writing and drawing machine. For more inspiration, visit [Open Processing](https://www.openprocessing.org/). And, let's end this segment with a bang, with [Yajoi Kusama](https://www.artnews.com/wp-content/uploads/2019/01/kusama-portrait4.jpg).
+Modern artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) work within the field of [Computer Graphics](https://www.e-flux.com/architecture/becoming-digital/248077/some-notes-on-making-images-with-computers/), and use the freedom that the machine provides, leveraging its power, and iterates every day, as means of artistic expression. [Jan Jarfalk](https://www.instagram.com/janjarfalk/) uses his generative code in combination with an [Axidraw](https://axidraw.com/) writing and drawing machine. For more inspiration, visit [Open Processing](https://www.openprocessing.org/). And, let's end this segment with a bang, with [Yajoi Kusama](https://www.artnews.com/wp-content/uploads/2019/01/kusama-portrait4.jpg).
 
 ### Generative design elsewhere
 
