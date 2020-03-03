@@ -157,6 +157,12 @@ window.dialog_audio_vocal_synth.hackOptions$1 = {
 <script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/edit-image-from-dialog.js"></script>
 ```
 {% endtab %}
+
+{% tab title="Dialog choices" %}
+```markup
+<script src="https://raw.githack.com/seleb/bitsy-hacks/master/dist/dialog-choices.js"></script>
+```
+{% endtab %}
 {% endtabs %}
 
 #### Avatar
