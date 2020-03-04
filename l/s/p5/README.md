@@ -6,6 +6,10 @@ For over 15 years Processing has lowered the threshold of programming graphics, 
 
 P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installation. Create an account to enable saving and sharing. Ask questions in the [Processing Foundation Discourse](https://discourse.processing.org/) and use the [Reference](https://p5js.org/reference/) and [Examples](https://p5js.org/examples/).
 
+{% hint style="success" %}
+It is also possible to code live using [Ted Davis P5 Live](https://teddavis.org/p5live/).
+{% endhint %}
+
 ## Generative design
 
 Generative design and art is the symbiosis between machine and designer. The machine creates massive quantities while the designer uses its experience and knowledge to make qualitative choices. The designer in our case can, and is most likely, also the programmer. The line that was previously set decades ago is getting thinner and thinner, and with places such as [DAM Gallery](https://dam-gallery.de/) it is also becoming recognised. To further understand this emerging \(well, not really, it's been around…\) field, let's look at relevant art through history!
