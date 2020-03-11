@@ -1,5 +1,31 @@
 # Overview
 
+## RunwayML
+
+Runway is a good gate way drug for machine learning, its the first prpduct of its kind, has been around for a year, is in still beta, made by students at NYU, gene is an advisor. 
+
+Some of the models can be run locally.
+
+Paul is trying to make a tattoo generator
+
+There is also DC GAN
+
+## Colab
+
+scrape flicker
+
+Set runtime to GPU
+
+Create Google Cloud account, 10 usd per month
+
+custom mirror augmented = true, artificlally double image, flip in all angles.
+
+Upload files on Google cloud account
+
+Use NGROK to pipe local por to external sever so you can access sTEnsorboard extenrally remote
+
+You want to lower the batch size
+
 ## GAN
 
 Two neural networks, gonna plat a game.
