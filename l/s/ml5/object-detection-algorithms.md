@@ -1,5 +1,63 @@
 # Overview
 
+## GAN
+
+Two neural networks, gonna plat a game.
+
+
+
+There is one called the GEENRATOR, and the Discrimninator.
+
+
+
+The generator has a random vector, lik a gaussian distriution, and you feed those numbers. And then the genrators will turn that into an image. Called the Fake Sample. Because it was generated.The fake sample is connected to the discriminator.
+
+The discirimnator has one job to do, to look at he images that re comingi n, fake sample and real samples. The only job is to find the real or the fake sample.
+
+
+
+generative adversiarial nets 2014 64 64
+
+xander links slide mabe put into gitbook
+
+
+
+Stle-Gan
+
+zalando machine learning gan
+
+generative 4x super resolution SRGAN bicup original
+
+suprass the shannon / channel  limit.
+
+neural inpainting photoshop
+
+GLOW gan
+
+
+
+50000 images tops out, 10000 is good.
+
+
+
+OK to film, and the ncapture the frames.
+
+julian oliver solar driven unit, windmill that powers a computer that mines minero cryptocurrency to find climate change.
+
+
+
+### StyleGAN
+
+A **generative adversarial network** \(**GAN**\) is a class of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) systems invented by [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow) and his colleagues in 2014.[\[1\]](https://en.wikipedia.org/wiki/Generative_adversarial_network#cite_note-GANnips-1) Two [neural networks](https://en.wikipedia.org/wiki/Neural_network) contest with each other in a game \(in the sense of [game theory](https://en.wikipedia.org/wiki/Game_theory), often but not always in the form of a [zero-sum game](https://en.wikipedia.org/wiki/Zero-sum_game)\). Given a training set, this technique learns to generate new data with the same statistics as the training set. For example, a GAN trained on photographs can generate new photographs that look at least superficially authentic to human observers, having many realistic characteristics. Though originally proposed as a form of [generative model](https://en.wikipedia.org/wiki/Generative_model) for [unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning), GANs have also proven useful for [semi-supervised learning](https://en.wikipedia.org/wiki/Semi-supervised_learning),[\[2\]](https://en.wikipedia.org/wiki/Generative_adversarial_network#cite_note-ITT_GANs-2) fully [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning),[\[3\]](https://en.wikipedia.org/wiki/Generative_adversarial_network#cite_note-3) and [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning).[\[4\]](https://en.wikipedia.org/wiki/Generative_adversarial_network#cite_note-4) In a 2016 seminar, [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun) described GANs as "the coolest idea in machine learning in the last twenty years".[\[5\]](https://en.wikipedia.org/wiki/Generative_adversarial_network#cite_note-5)
+
+Generative models are important in science and engineering. They are used for a lot of content generation.
+
+> What I cannot create, I do not understand — Richard Feynman
+
+An agent = A robot.
+
+ML5A github
+
 ## Neural Network
 
 Neural networks are a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns. They interpret sensory data through a kind of machine perception, labeling or clustering raw input. The patterns they recognize are numerical, contained in vectors, into which all real-world data, be it images, sound, text or time series, must be translated.
