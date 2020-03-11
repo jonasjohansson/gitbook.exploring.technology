@@ -4,23 +4,15 @@
 
 Two neural networks, gonna plat a game.
 
-
-
 There is one called the GEENRATOR, and the Discrimninator.
-
-
 
 The generator has a random vector, lik a gaussian distriution, and you feed those numbers. And then the genrators will turn that into an image. Called the Fake Sample. Because it was generated.The fake sample is connected to the discriminator.
 
 The discirimnator has one job to do, to look at he images that re comingi n, fake sample and real samples. The only job is to find the real or the fake sample.
 
-
-
 generative adversiarial nets 2014 64 64
 
 xander links slide mabe put into gitbook
-
-
 
 Stle-Gan
 
@@ -33,8 +25,6 @@ suprass the shannon / channel  limit.
 neural inpainting photoshop
 
 GLOW gan
-
-
 
 50000 images tops out, 10000 is good.
 
