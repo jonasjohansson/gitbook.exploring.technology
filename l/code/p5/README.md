@@ -1,4 +1,4 @@
-# Processing \(P5\)
+# Processing
 
 For over 15 years Processing has lowered the threshold of programming graphics, and with [The Nature of Code](http://natureofcode.com/), [Generative Gestaltung](http://www.generative-gestaltung.de/2/) and [Daniel Shiffman's](https://shiffman.net/) [The Coding Train](https://www.youtube.com/user/shiffman/videos), learning couldn't be easier!
 

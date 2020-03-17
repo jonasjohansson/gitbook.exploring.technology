@@ -1,4 +1,4 @@
-# Machine Learning \(ML5\)
+# Machine Learning
 
 Artificial intelligence, a disputed term since it presents two vague and probably incorrect words in combination. A large umbrella under which machine learning breathes bits and bytes. ML5 is a framework which aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of [TensorFlow.js](https://www.tensorflow.org/js) with no other external dependencies. ****
 
