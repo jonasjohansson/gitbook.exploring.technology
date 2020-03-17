@@ -1,14 +1,14 @@
 # Spark
 
-Building Augmented Reality experiences for Instagram is possible using Facebook software Spark AR. Through its interface designs for face, neck, eyes, flat surfaces and even custom images can be made!
+Create Augmented Reality experiences for Instagram and Facebook. 
 
 ### Install
 
-Begin by installing the Spark AR \([download](https://sparkar.facebook.com/ar-studio/)\) application.
+Begin by installing the Spark AR \([download](https://sparkar.facebook.com/ar-studio/)\) application. Also install Spark AR Player \([link](https://apps.apple.com/us/app/spark-ar-player/id1231451896)\) on your mobile device for testing. **In order to use Spark you also require a Facebook account.**
 
 ### Capabilities
 
-Under Project  &gt; Edit Properties… &gt; Capabilities tick the items that match the project. Otherwise the console will through error messages.
+Under Project  &gt; Edit Properties… &gt; Capabilities tick the items that match the project. Otherwise the console will throw error messages.
 
 ### Sharing
 
