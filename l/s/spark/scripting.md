@@ -1,4 +1,4 @@
-# Basics
+# Scripting
 
 ## Materials
 
@@ -23,11 +23,6 @@ Each type comes with its own set of parameters and therefore also script referen
 
   object.material.setTexture(col, { textureSlotName: textureSlot });
 ```
-
-### Links
-
-* [https://stackoverflow.com/questions/59683552/tweening-colors-on-spark-ar-via-script](https://stackoverflow.com/questions/59683552/tweening-colors-on-spark-ar-via-script)
-* [https://stackoverflow.com/questions/58054968/changing-material-colours-using-script-in-spark-ar](https://stackoverflow.com/questions/58054968/changing-material-colours-using-script-in-spark-ar)
 
 ## Animation
 
@@ -54,29 +49,6 @@ let baseDriver = A.timeDriver({
       Diagnostics.log("Animation completed!");
   });
 ```
-
-## Target Tracker
-
-
-
-* ​[https://sparkar.facebook.com/ar-studio/learn/documentation/tracking-people-and-places/target-best-practice/](https://sparkar.facebook.com/ar-studio/learn/documentation/tracking-people-and-places/target-best-practice/)​
-* ​[https://sparkar.facebook.com/ar-studio/learn/documentation/tracking-people-and-places/effects-in-surroundings/creating-a-target-ar-effect/](https://sparkar.facebook.com/ar-studio/learn/documentation/tracking-people-and-places/effects-in-surroundings/creating-a-target-ar-effect/)​
-
-‌
-
-## Found <a id="found"></a>
-
-Script
-
-```text
-const P = require("Patches");var trackerFound = P.getBooleanValue("trackerFound");​trackerFound.monitor().subscribe(function(e) {  Diagnostics.log(e.newValue);});
-```
-
-​![](https://gblobscdn.gitbook.com/assets%2F-LFNtKzfzIWfc8anmKip%2F-LyP-9m0nmOnArbAayXd%2F-LyQ4rc-__ZxaYIZdHku%2Fspark-tracker.png?alt=media&token=fefd47da-3d7d-4d4e-863d-07831cbea332)
-
-* ​[https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/patchesmodule/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/patchesmodule/)​
-* ​[https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/scenemodule.targettracker/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/scenemodule.targettracker/)​
-* ​[https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/Rmodule.boolsignal/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/Rmodule.boolsignal/)​
 
 ## Debugging
 
@@ -113,5 +85,15 @@ const text = Scene.root.find('2dText0');
 text.text = myString;
 ```
 
+## Found <a id="found"></a>
 
+```javascript
+const P = require("Patches");var trackerFound = P.getBooleanValue("trackerFound");​trackerFound.monitor().subscribe(function(e) {  Diagnostics.log(e.newValue);});
+```
+
+​![](https://gblobscdn.gitbook.com/assets%2F-LFNtKzfzIWfc8anmKip%2F-LyP-9m0nmOnArbAayXd%2F-LyQ4rc-__ZxaYIZdHku%2Fspark-tracker.png?alt=media&token=fefd47da-3d7d-4d4e-863d-07831cbea332)
+
+* ​[https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/patchesmodule/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/patchesmodule/)​
+* ​[https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/scenemodule.targettracker/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/scenemodule.targettracker/)​
+* ​[https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/Rmodule.boolsignal/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/Rmodule.boolsignal/)​
 
