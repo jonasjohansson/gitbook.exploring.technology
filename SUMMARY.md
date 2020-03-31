@@ -90,7 +90,7 @@
     * [Timeline](s/resolume/advanced/timeline.md)
     * [Projection mapping](s/resolume/advanced/projection-mapping.md)
     * [Syphon Recorder](s/resolume/advanced/syphon-recorder.md)
-* [Spark](s/spark/README.md)
+* [Spark \(draft\)](s/spark/README.md)
   * [Face Mask](s/spark/face-mask.md)
   * [Face Decoration](s/spark/face-decoration.md)
   * [Tracking](s/spark/target-tracker.md)
@@ -140,14 +140,12 @@
   * [Software](h/projectors/software.md)
   * [Buyers Guide](h/projectors/buyers-guide.md)
 * [Tips & Trix](tips-trix/README.md)
+  * [Mio](tips-trix/mio/README.md)
+    * [Changelog](tips-trix/mio/changelog.md)
+  * [Electron \(draft\)](tips-trix/electron-draft.md)
+  * [Glitch](tips-trix/glitch.md)
   * [Documentation](tips-trix/documentation.md)
   * [MIDI & OSC](tips-trix/midi-and-osc.md)
   * [Resources](tips-trix/resources.md)
   * [Web](tips-trix/web.md)
-
-## Tools
-
-* [Glitch](tools/glitch.md)
-* [Mio](tools/mio/README.md)
-  * [Changelog](tools/mio/changelog.md)
 
