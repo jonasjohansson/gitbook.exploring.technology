@@ -1,4 +1,4 @@
-# Spark \(draft\)
+# Spark
 
 Create Augmented Reality experiences for Instagram and Facebook. 
 

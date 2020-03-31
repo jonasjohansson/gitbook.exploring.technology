@@ -73,8 +73,6 @@
     * [More Colors](s/bitsy/advanced/colors.md)
     * [Dialog](s/bitsy/advanced/dialog.md)
   * [FAQ](s/bitsy/faq.md)
-* [Cinema](s/cinema.md)
-* [Pepakura](s/pepakura.md)
 * [Resolume](s/resolume/README.md)
   * [Basics](s/resolume/basics/README.md)
     * [Clips](s/resolume/basics/clips.md)
@@ -90,13 +88,6 @@
     * [Timeline](s/resolume/advanced/timeline.md)
     * [Projection mapping](s/resolume/advanced/projection-mapping.md)
     * [Syphon Recorder](s/resolume/advanced/syphon-recorder.md)
-* [Spark \(draft\)](s/spark/README.md)
-  * [Face Mask](s/spark/face-mask.md)
-  * [Face Decoration](s/spark/face-decoration.md)
-  * [Tracking](s/spark/target-tracker.md)
-  * [Scripting](s/spark/scripting.md)
-  * [Upload Effect](s/spark/upload-effect.md)
-  * [Reducing 3D files](s/spark/reducing-3d.md)
 
 ## Hardware <a id="h"></a>
 
@@ -142,10 +133,22 @@
 * [Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
     * [Changelog](tips-trix/mio/changelog.md)
-  * [Electron \(draft\)](tips-trix/electron-draft.md)
   * [Glitch](tips-trix/glitch.md)
   * [Documentation](tips-trix/documentation.md)
   * [MIDI & OSC](tips-trix/midi-and-osc.md)
   * [Resources](tips-trix/resources.md)
   * [Web](tips-trix/web.md)
+
+## Draft
+
+* [Electron](draft/electron-draft.md)
+* [Cinema](draft/cinema.md)
+* [Pepakura](draft/pepakura.md)
+* [Spark](draft/spark/README.md)
+  * [Face Mask](draft/spark/face-mask.md)
+  * [Face Decoration](draft/spark/face-decoration.md)
+  * [Tracking](draft/spark/target-tracker.md)
+  * [Scripting](draft/spark/scripting.md)
+  * [Upload Effect](draft/spark/upload-effect.md)
+  * [Reducing 3D files](draft/spark/reducing-3d.md)
 
