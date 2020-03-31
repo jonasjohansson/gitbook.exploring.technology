@@ -4,7 +4,7 @@ Processing has lowered the threshold of programming, and with [The Nature of Cod
 
 ### Install
 
-P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installation. Create an account to enable saving and sharing. Ask questions in the [Processing Foundation Discourse](https://discourse.processing.org/) and use the [Reference](https://p5js.org/reference/) and [Examples](https://p5js.org/examples/).
+P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no installation. Create an account to enable saving and sharing. Ask questions in the [forum](https://discourse.processing.org/) and use the official [Reference](https://p5js.org/reference/) and [Examples](https://p5js.org/examples/).
 
 {% hint style="success" %}
 It is also possible to code live using [Ted Davis P5 Live](https://teddavis.org/p5live/).
@@ -32,7 +32,7 @@ _There are several other artist movements to use as search terms: cubism, expres
 
 ### [Will artificial intelligence replace professional cultural creators?](https://strelkamag.com/en/article/lev-manovich-ai-aesthetics)
 
-With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And Vera Molnár, a few years layer, made her own explorations as to what generative art could be. [Read this fantastic post about her](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5).
+With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And Vera Molnár \([post](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5)\), a few years layer, made her own explorations as to what generative and algorithmic art could be.
 
 ![Hommage &#xE0; Paul Klee \(1965\) by Frieder Nake](https://storage.strelka.com/i/acc35992-8b7d-437d-bc49-91e514ca32ee/w/840)
 
