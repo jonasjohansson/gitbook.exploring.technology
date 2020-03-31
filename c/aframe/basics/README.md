@@ -5,39 +5,28 @@
 ```markup
 <html>
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe@latest"></script>
   </head>
   <body>
-    <a-scene>
+    <a-scene vr-mode-ui="enabled: false">
     </a-scene>
   </body>
 </html>
 ```
 
-Include the A-Frame library as a `<script>` in  `<head>` and add the `<a-scene>` in  `<body>`.
-
-{% hint style="info" %}
-Notice `<meta name="viewport">` in the top! It ensures that content will look as expected on mobile devices.
-{% endhint %}
-
-To remove the VR icon visible in the bottom right tell `<a-scene>` to hide it.
-
-```markup
-<a-scene vr-mode-ui="enabled: false">
-```
+Include the A-Frame library as a `<script>` in  `<head>` and add the `<a-scene>` in  `<body>`. To remove the VR icon visible in the bottom right we tell `<a-scene>` to hide it using `vr-mode-ui` attribute .
 
 ### Adding an entity
 
-Within the `<a-scene>` entities can be added. There are several types of entities, and the `<a-box>` from the [three-dimensional primitives](https://aframe.io/docs/1.0.0/primitives/a-box.html) will be our starting point. 
+Within the `<a-scene>` entities \(think of them as objects\) can be added. There are several types of entities, but let's start with a simple box.
 
 ```markup
 <a-box color="red" position="0 0 -3"></a-box>
 ```
 
-The position attribute takes three values; x, y and z. If you are unable to see the box it's likely because default camera and the box are positioned at the `0 0 0` origin, we won’t be able to see the box unless we move it using `position`. 
+The position attribute takes three values; x, y and z. If you are unable to see the box it's likely because the default camera and the box are both positioned at the `0 0 0` origin. We won’t be able to see the box unless we move it using `position`. 
 
-It's simple to add more boxes, just make sure to have them in different positions so they don't overlap.
+It's simple to add more boxes, just make sure to have them in different positions.
 
 ```markup
 <a-box color="red" position="-1 0.5 -3"></a-box>
@@ -49,7 +38,7 @@ It's simple to add more boxes, just make sure to have them in different position
 Apart from `color` and `position` there's also `rotation`, `depth`, `width`, `height` and `scale`.
 {% endhint %}
 
-Besides &lt;a-box&gt; there's several other primitives available. [Visit the A-Frame documentation](https://aframe.io/docs/0.9.0/introduction/) to see what else is and scroll down the menu on the left to see a list of primitives that come with A-Frame. Here's a few more.
+Besides `<a-box>` there's several other entities available, [visit the A-Frame documentation](https://aframe.io/docs/0.9.0/introduction/) and scroll down the menu on the left to see a list of primitives. Here's a few more:
 
 ```markup
 <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9" shadow></a-box>
