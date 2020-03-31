@@ -138,17 +138,15 @@
   * [MIDI & OSC](tips-trix/midi-and-osc.md)
   * [Resources](tips-trix/resources.md)
   * [Web](tips-trix/web.md)
-
-## Draft
-
-* [Electron](draft/electron-draft.md)
-* [Cinema](draft/cinema.md)
-* [Pepakura](draft/pepakura.md)
-* [Spark](draft/spark/README.md)
-  * [Face Mask](draft/spark/face-mask.md)
-  * [Face Decoration](draft/spark/face-decoration.md)
-  * [Tracking](draft/spark/target-tracker.md)
-  * [Scripting](draft/spark/scripting.md)
-  * [Upload Effect](draft/spark/upload-effect.md)
-  * [Reducing 3D files](draft/spark/reducing-3d.md)
+* [Draft](draft-1/README.md)
+  * [Electron](draft-1/electron-draft.md)
+  * [Cinema](draft-1/cinema.md)
+  * [Pepakura](draft-1/pepakura.md)
+  * [Spark](draft-1/spark/README.md)
+    * [Face Mask](draft-1/spark/face-mask.md)
+    * [Face Decoration](draft-1/spark/face-decoration.md)
+    * [Tracking](draft-1/spark/target-tracker.md)
+    * [Scripting](draft-1/spark/scripting.md)
+    * [Upload Effect](draft-1/spark/upload-effect.md)
+    * [Reducing 3D files](draft-1/spark/reducing-3d.md)
 
