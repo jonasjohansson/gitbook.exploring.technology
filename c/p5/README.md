@@ -40,11 +40,7 @@ Modern artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman
 
 ### Generative design elsewhere
 
-Other fields has fun with machines as well \(of course\). Steve Reichs [Piano Phase](https://www.youtube.com/watch?v=gobDFubBiRg) is a minimalist composition, written in 1967 for two pianos \(or piano and tape\). It is one of his first attempts at applying his "phasing" technique.
-
-Deconstructing and recomposing like this has later evolved into unique languages and cultures, such as the [algorithmic music scene](https://youtu.be/CSQ8npnlk0I), where codified music is written on the spot, creating compositions never heard before.
+Other fields has fun with machines as well \(of course\). Steve Reichs [Piano Phase](https://www.youtube.com/watch?v=gobDFubBiRg) is a minimalist composition, written in 1967 for two pianos \(or piano and tape\). It is one of his first attempts at applying his "phasing" technique. Deconstructing and recomposing like this has later evolved into unique languages and cultures, such as the [algorithmic music scene](https://youtu.be/CSQ8npnlk0I), where codified music is written on the spot, creating compositions never heard before.
 
 Together, we will take the first steps into deconstructing the world around us, and rebuilding it with our own hands.
-
-_Let's get started!_
 
