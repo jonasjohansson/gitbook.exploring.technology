@@ -18,5 +18,5 @@ Don't fret, it's not the end of the world. Unless you believe a specific change 
 
 The review process for uploading an effect can be anything from a few hours to 10 days, so plan accordingly. It is possible to reach out to the [Spark AR Creators](https://www.facebook.com/SparkARcreators/) page if more than 10 days have passed since the latest submission.
 
-![](../../.gitbook/assets/sparkar-creators.png)
+![](../.gitbook/assets/sparkar-creators.png)
 

@@ -4,7 +4,7 @@ Ever heard of paper craft?  It's the art of creating one, [two](https://www.goog
 
 _For large projects make sure to use Foam Board \(Kapaskiva\), at either_ [_3mm_](https://www.svexo.se/kapaskiva-3mm-70x100cm-25fp) _or_ [_5mm_](https://www.svexo.se/kapaskiva-5mm-100x140cm-25fp) _\(preferred\) thickness.  Use fishing wire to cross-stitch several boards together. Cut the boards with a sharp mat cutter or X-Acto knife._
 
-![The Skull by APM300, https://vimeo.com/52945329](../.gitbook/assets/apm300-skull.jpg)
+![The Skull by APM300, https://vimeo.com/52945329](.gitbook/assets/apm300-skull.jpg)
 
 There is also a [Export Paper Model](https://addam.github.io/Export-Paper-Model-from-Blender/) addon for [Blender](https://www.blender.org/) that achieves a similar result.
 
@@ -28,27 +28,27 @@ Use any of the several guides \([this](https://www.youtube.com/watch?v=cHpqP0FET
 6. Follow the instructions and agree to everything. Ignore the error saying "Error: Invalid operation". 
 7. The software should now open!
 
-![](../.gitbook/assets/pepakura-untitled.png)
+![](.gitbook/assets/pepakura-untitled.png)
 
 Close Pepakura and open it again. It will now request which executable it should use. Make sure to select _pepakura4.exe_ from the list.
 
-![](../.gitbook/assets/pepakura-select.png)
+![](.gitbook/assets/pepakura-select.png)
 
 Click **OK** and exit Wineskin by simply closing the window. Next time it is opened it should open the app directly.
 
 _If you don't like the default app icon, download the official  icon below, then right-click the app and drag the icon to the thumbnail._
 
-{% file src="../.gitbook/assets/pepakura.icns" caption="" %}
+{% file src=".gitbook/assets/pepakura.icns" caption="" %}
 
 ### Using Pepakura
 
 Pepakura works with several formats but OBJ is recommended. This format can be easily exported from popular 3d tools. Click **File** and **Open** and choose your OBJ file \(use the example file below to test\).
 
-{% file src="../.gitbook/assets/platonic.obj" %}
+{% file src=".gitbook/assets/platonic.obj" %}
 
 Once opened, click **Unfold** and follow the instructions. Then, simply export the output.
 
-![](../.gitbook/assets/pepakura-export.png)
+![](.gitbook/assets/pepakura-export.png)
 
 For information on how to understand the instructions, view the guide [What is Pepakura and how to start](https://www.instructables.com/id/What-is-Pepakura-and-how-to-start/). Go ahead and create some spectacular designs or use [existing ones](https://www.exploring.technology/l/s/a-frame/basics/models)!
 
