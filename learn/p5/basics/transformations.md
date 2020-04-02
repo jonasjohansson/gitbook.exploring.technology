@@ -1,8 +1,21 @@
-# Transform
+# Transformations
 
 ## Rotation
 
-Use `rotate(deg|rad)` to draw shapes in different angles. Keep in mind, rotation is applied to the “canvas” and not to the shapes you are drawing. Think as if we are rotating the paper we are drawing on. By default, rotation is measure in radians, to use angles type `angleMode(DEGREES)` in **setup** to make life easier.
+Use `rotate()` to draw shapes in different angles. Keep in mind, rotation is applied to the “canvas” and not to the shapes. Think of it as if we are rotating the paper we are drawing on. By default, rotation is measured in radians, to use angles type `angleMode(DEGREES)` or use `radians()` to convert degrees into radians.
+
+{% tabs %}
+{% tab title="JavaScript" %}
+```javascript
+function draw() {
+  rectMode(CENTER);
+  rect(width/2, width/2, 20, 400);
+}
+```
+{% endtab %}
+{% endtabs %}
+
+
 
 ![](../../../.gitbook/assets/p5-rotate.png)
 

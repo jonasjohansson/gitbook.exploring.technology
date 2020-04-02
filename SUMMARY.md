@@ -86,7 +86,7 @@
   * [Basics](learn/p5/basics/README.md)
     * [Shapes](learn/p5/basics/shapes.md)
     * [Color](learn/p5/basics/color.md)
-    * [Transform](learn/p5/basics/transform.md)
+    * [Transformations](learn/p5/basics/transformations.md)
     * [Lines and Curves](learn/p5/basics/lines.md)
     * [Variables](learn/p5/basics/variables.md)
   * [Advanced](learn/p5/advanced/README.md)
