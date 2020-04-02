@@ -7,11 +7,15 @@ For a long time, great augmented reality has been only available for native apps
 ```markup
 <html>
   <head>
-    <script src="https://unpkg.com/aframe@1.0.1/dist/aframe-master.min.js"></script>
+    <script src="https://unpkg.com/aframe@latest"></script>
     <script src="https://rawgit.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
   </head>
   <body>
-    <a-scene>
+    <a-scene vr-mode-ui="enabled: false;"
+      renderer="logarithmicDepthBuffer: true;"
+      embedded
+      arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;">
+     >
       <a-marker preset="hiro">
         <a-box color="red"></a-box>
       </a-marker>
