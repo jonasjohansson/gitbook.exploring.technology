@@ -15,7 +15,6 @@ For a long time, great augmented reality has been only available for native apps
       renderer="logarithmicDepthBuffer: true;"
       embedded
       arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;">
-     >
       <a-marker preset="hiro">
         <a-box color="red"></a-box>
       </a-marker>
