@@ -1,24 +1,19 @@
 # 3. Shapes
 
-Processing gives you the option to draw all kinds of shapes, but let us begin with the basics.
-
-### Circle
-
-Draw a circle using  `circle(x, y, diameter)`.
+Processing gives you the option to draw all kinds of shapes, but let us begin with the basics and draw a circle using  `circle(x, y, diameter)`.
 
 ```javascript
 circle(200, 200, 300);
 ```
 
-The first two values tell the circle where to be positioned, while the third  defines the size. With the default canvas size of **400 pixels**, the circle will be placed in the middle, since the circle point of origin is its centre.
+The first two values tell the circle where to be positioned, while the third defines its size. With the default canvas size of **400 pixels**, the circle will be placed in the middle, since the circle point of origin is its centre.
 
 ![](../../.gitbook/assets/p5-circle.png)
 
-### Square
-
-Besides circles we can also add a `square(x, y, size)`. After the circle, make a new line by pressing Enter, then type…
+Besides circles we can also add a square using `square(x, y, size)`.
 
 ```javascript
+circle(200, 200, 300);
 square(200, 200, 200);
 square(0, 0, 200);
 ```
@@ -27,7 +22,7 @@ The values for the square are similar to that of the circle, however, squares ha
 
 ![](../../.gitbook/assets/p5-rect.png)
 
-### Related links
+## Related links
 
 * [circle\(\)](https://p5js.org/reference/#/p5/circle)
 * [square\(\)](https://p5js.org/reference/#/p5/square)

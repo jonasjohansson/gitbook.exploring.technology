@@ -10,3 +10,13 @@ P5 \([link](https://editor.p5js.org/)\) runs in the browser and requires no inst
 It is also possible to code live using [Ted Davis P5 Live](https://teddavis.org/p5live/).
 {% endhint %}
 
+### References
+
+* [https://www.instagram.com/zach.lieberman/](https://www.instagram.com/zach.lieberman/)
+* [https://www.instagram.com/manoloide/?hl=en](https://www.instagram.com/manoloide/?hl=en)
+* [https://creative-coding.decontextualize.com/](https://creative-coding.decontextualize.com/)
+* [https://www.instagram.com/symmetryinchaosart/](https://www.instagram.com/symmetryinchaosart/)
+* [http://formandcode.com/bibliography](http://formandcode.com/bibliography)
+* [https://github.com/genekogan/p5js-sketches](https://github.com/genekogan/p5js-sketches)
+* [http://cmuems.com/2018/60212f/](http://cmuems.com/2018/60212f/)
+

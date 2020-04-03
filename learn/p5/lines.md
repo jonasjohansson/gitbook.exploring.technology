@@ -1,6 +1,6 @@
 # 6. Lines and Curves
 
-### Line
+## Line
 
 Draw a line using `line(x1,y1,x2,y2)` where x1/y1 define the start and x2/y2 the end. 
 
@@ -10,7 +10,7 @@ function draw() {
 }
 ```
 
-### Triangle
+## Triangle
 
 Draw a triangle using `triangle(x1,y1,x2,y2,x3,y3)`. Notice the additional x3/y3.
 
@@ -20,7 +20,7 @@ function draw() {
 }
 ```
 
-### Polygons
+## Polygons
 
 Draw polygons \(means basically "many sides"\). The number of sides are defined by the amount of vertices and are added using `vertex(x,y`\). Type `beginShape()` to signify that a new shape will begin. Add the vertices, and close with `endShape()`. Make the final vertex identical to the start vertex to "close" the shape.
 
@@ -37,7 +37,7 @@ function draw() {
 }
 ```
 
-### Curves
+## Curves
 
 Curves are trickier… to get started use `curveVertex(x,y)` . The first and last vertices define the direction, as illustrated by the two lines.
 
@@ -68,7 +68,7 @@ function draw() {
 }
 ```
 
-### Related links
+## Related links
 
 * [line\(\)](https://p5js.org/reference/#/p5/line)
 * [triangle\(\)](https://p5js.org/reference/#/p5/triangle)

@@ -1,8 +1,8 @@
 # 4. Color
 
-Colors are most commonly represented with RGB \(Red, Green, Blue\) or HSB \(Hue, Saturation, Brightness\).
+Colors are most commonly represented with **RGB \(Red, Green, Blue\)** or **HSB \(Hue, Saturation, Brightness\)**.
 
-All shapes are by default white, with a 1px black outline. To change this we use the functions `stroke` and `fill` and add them _before_ our shape. Code is always _read_ from top to bottom, so whatever becomes before the shapes will be applied.
+All shapes are by default white, with a 1 pixel black outline. To change this we use the functions `stroke()` and `fill()` and add them _before_ our shape. Since code is read from top to bottom, whatever becomes before the shapes will be applied.
 
 {% hint style="warning" %}
 The draw function does not reset itself, and remembers the values set the last time.
@@ -10,7 +10,7 @@ The draw function does not reset itself, and remembers the values set the last t
 
 ## Stroke
 
-Let us make outline of the circle red by typing `stroke(255,0,0)` **before** the circle, and our squares green by typing `stroke(0,255,0)` before the squares. We can also increase the stroke thickness  using the [**strokeWeight** ](https://p5js.org/reference/#/p5/strokeWeight)function with a value in pixels.
+Let us make outline of the circle red by typing `stroke(255, 0, 0)` **before** the circle, and our squares green by typing `stroke(0, 255, 0)` before the squares. We can also increase the stroke thickness  using the [**strokeWeight** ](https://p5js.org/reference/#/p5/strokeWeight)function with a value in pixels.
 
 ![](../../.gitbook/assets/p5-stroke%20%281%29.png)
 

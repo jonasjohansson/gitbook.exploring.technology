@@ -31,6 +31,22 @@ There are also predefined variables which are great to play with!
 | mouseX | Mouse x position |
 | mouseY | Mouse y position |
 
+To make the canvas responsive to the size of the browser, replace the numbers with predefined variables `windowWidth` and `windowHeight`.
+
+```javascript
+function setup(){
+    createCanvas(windowWidth, windowHeight);
+}
+```
+
+For the canvas to resize together with the window, a special function is added that is triggered any time the window is resized.
+
+```javascript
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+```
+
 ## Scope
 
 Notice that the variables are sometimes inside of a function, such as diameter, and sometimes outside in the top. This is has to do with something called “scope”. Anything that is declared at the top is “global”, meaning it can be accessed from anywhere in the code. In the example here “diameter” is local, and can only be read from within the draw-function. In most cases you can use global variables, but it is good practice to only have variables be available where they are needed.
