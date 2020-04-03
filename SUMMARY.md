@@ -95,6 +95,7 @@
   * [11. Loops](learn/p5/11.-loops.md)
   * [12. Interaction](learn/p5/interaction.md)
   * [13. Audio](learn/p5/sound.md)
+  * [14. Image](learn/p5/14.-image.md)
   * [Tips & Trix](learn/p5/tips-and-trix.md)
   * [Hommage](learn/p5/hommage.md)
 * [Projectors](learn/projectors/README.md)

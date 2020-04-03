@@ -15,7 +15,7 @@ circle(100, 100, diameter);
 square(0, 0, diameter / 2);
 ```
 
-Variables are initiated by typing **var** or **let** followed by the name of the variable. Names should follow the English Alphabet,  avoiding numbers and special characters. If your variable has several words, type it in "camel case", for instance **myVariable** instead of **myvariable**.
+Variables are initiated by typing **var** or **let** followed by the name of the variable. Names should follow the English Alphabet, avoiding numbers and special characters. If your variable has several words, type it in "camel case", for instance **myCoolVariable**.
 
 ## Predefined variables
 
@@ -24,12 +24,12 @@ There are also predefined variables which are great to play with!
 |  |  |
 | :--- | :--- |
 | [frameCount](https://p5js.org/reference/#/p5/frameCount) | Increases by one on every frame |
-| windowWidth | Width of the window |
-| windowHeight | Height of the window |
-| width | Canvas width |
-| height | Canvas height |
-| mouseX | Mouse x position |
-| mouseY | Mouse y position |
+| [windowWidth](https://p5js.org/reference/#/p5/windowWidth) | Width of the window |
+| [windowHeight](https://p5js.org/reference/#/p5/windowHeight) | Height of the window |
+| [width](https://p5js.org/reference/#/p5/width) | Canvas width |
+| [height](https://p5js.org/reference/#/p5/height) | Canvas height |
+| [mouseX](https://p5js.org/reference/#/p5/mouseX) | Mouse x position |
+| [mouseY](https://p5js.org/reference/#/p5/mouseY) | Mouse y position |
 
 To make the canvas responsive to the size of the browser, replace the numbers with predefined variables `windowWidth` and `windowHeight`.
 
