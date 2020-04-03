@@ -115,7 +115,7 @@ void mio(){
 | Button 3 \(blue wire\) | Digital 2 |
 | Button 4 \(purple wire\) | Digital 3 |
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 {% endtab %}
 
 {% tab title="P5" %}

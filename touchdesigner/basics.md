@@ -18,11 +18,11 @@ If you want to return to the Key manager, you can find it on the top left under 
 
 Now we're ready to start exploring. One of the first things you might notice is that TouchDesigner has quite a lot happening in its interface.
 
-![First time opening TouchDesigner](../.gitbook/assets/image%20%2813%29.png)
+![First time opening TouchDesigner](../.gitbook/assets/image%20%2815%29.png)
 
 Don't worry, we'll go through each of these, and we'll only be using some of them, so no need to memorize everything. Before going through the interface elements, lets look at basic navigation first.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 TouchDesigner works in a very similar way as the folder system on your computer. It has folders \(called OP's or operators\) and inside them you can have even more folders. The address bar on the top shows you at all times where you currently are in the path structure of your project. This path structure will become relevant as soon as we start referring to parameters or data between operators.
 
@@ -36,29 +36,29 @@ Although you often can achieve the same thing in various ways, TouchDesigner rea
 
 
 
-![Playback bar](../.gitbook/assets/image%20%283%29.png)
+![Playback bar](../.gitbook/assets/image%20%285%29.png)
 
 TouchDesigner works with interactive environments but also allows for scripting on the timeline, similar to what you might know from Cinema4D or After Effects. What is important to know at this point is that your project can be paused using the playback buttons here. This can be toggled using the spacebar, always keep in mind to check the playback state from your project if something isn't working, it might just be that you accidentally hit pause.
 
 Another key component you see here on the far left is your framerate, indicated as FPS. This is currently set to 60, meaning TouchDesigner tries to refresh your entire system 60 times per second. If you have a lot of things happening in your project this framerate might be lower, the actual framerate you can find in the Menu bar, also indicated with FPS. The Realtime checkbox next to it lets you choose to render every frame, to allow for skipping frames, by default it is set to skip frames.
 
-![Menu bar](../.gitbook/assets/image%20%2812%29.png)
+![Menu bar](../.gitbook/assets/image%20%2814%29.png)
 
 Lastly we have the Palette browser on the left, and the Parameter window on the right. We'll dive into the Parameter window in a moment. The Palette browser is a place where you can drag very handy pre-build TouchDesigner components into your project, for now you can close this window. To bring it back take a look at the **Dialogs** dropdown menu.
 
 
 
-### Interacting with operators
+### Operators
 
 Operators can be seen as tiny programs that can be chained together to build all sorts of things. There are a lot of them, and they come in various types as well. Most operators work in a way that you put some type of data in the left and retrieve the manipulated data on the right.
 
 To add an operator you can right click and in the menu select add operator, or to be much quicker, hit `TAB`.  This brings up the OP Create Dialog. Here you see the various types on the top, and you can hover over each OP to get a small description on the bottom. Hitting `TAB` again will take you to the overview of the next operator type.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 The four main ones you will likely work with are TOP's, CHOP's, SOP's and DAT's. Lets briefly go into the difference between these types.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 **TOP**
 
@@ -76,9 +76,17 @@ Surface operators are **blue** and relate to shapes happening in 3D space. Here 
 
 Data operators are **violet-red** and can be used to store spreadsheets, as well as do things that are more text and scripting related. DATs often go hand in hand with Python scripting. This won't be essential to start using TouchDesigner, but Python is certainly one of the things that will greatly enhance what you can do in Touch.
 
+### Interacting with OPs
 
+Lets try to make a basic network to understand how we can exchange information between these operators. Hit `CTRL + A` and `BACKSPACE` to remove the operators from the example file. Hit `TAB` and type the words **Constant**.  You'll see that as you type TD sorts out the OPs which match your criteria. Hit Enter and the Constant OP is sitting in your network. Repeat the process so we have two Constant OPs and one Switch OP.
 
+You might have noticed, that each time when we select a different operator, the window on the right side of our editor changes. This is called the Parameter window, and it contains the settings of that given operator. Here we can change these settings, or create a direct link between a parameter, and a piece of data coming from somewhere else. Select one of the Constant operators and click on the color thumbnail to give it a different color.
 
+![](../.gitbook/assets/image%20%283%29.png)
+
+Now that we have two different colored operators, lets see how we can use them in a network setup. 
+
+![](../.gitbook/assets/image%20%284%29.png)
 
 
 

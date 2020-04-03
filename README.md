@@ -6,5 +6,5 @@ We seem to feel a tickling sensation the most when tickled by someone else. The 
 
 We explore technology, not to eradicate this sensation, but to understand it better;  the human technology, and the tech in humanity. And to remedy the increasing knowledge gap between those who build machines, and those who use them. 
 
-![Untitled \(2019\) by Natasha Klimenko](.gitbook/assets/image%20%284%29.png)
+![Untitled \(2019\) by Natasha Klimenko](.gitbook/assets/image%20%286%29.png)
 
