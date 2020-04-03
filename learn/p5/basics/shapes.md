@@ -1,27 +1,23 @@
 # Shapes
 
-It is possibly to draw all kinds of  shapes, let us begin drawing a circle. The circle function takes three parameters: x, y and diameter, and should be added inside the draw function.
+Rectangles, ellipsis, lines, polygons — it is possible to draw all kinds of shapes \(even 3d\) but let us begin by drawing a circle using the `circle(x, y, diameter)`.
 
 ```javascript
-circle(200,200,300);
+circle(200, 200, 300);
 ```
 
-The first two \(200, 200\) values tell the circle how to be positioned in x and y, while the last decides the diameter. In our case, since the canvas is 400 pixels in both width and height, the circle will be placed in the middle of our canvas, since the circle point of origin is its centre.
+The first two values tell the circle where to be positioned, while the third  defines the size. With the default canvas size of 400 pixels, the circle will be placed in the middle, since the circle point of origin is its centre.
 
 ![](../../../.gitbook/assets/p5-circle.png)
 
-{% hint style="info" %}
-It is highly recommended to read up on each function using the [Processing References](https://p5js.org/reference/), as they are not all the same.
-{% endhint %}
-
-Besides circles we can also add squares. After the circle, make a new line by pressing Enter, then type…
+Besides circles we can also add a `square(x, y, size)`. After the circle, make a new line by pressing Enter, then type…
 
 ```javascript
 square(200, 200, 200);
 square(0, 0, 200);
 ```
 
-The first two values here are just like the circle, defining x and y, or, the distance from the left and top. However, squares do not have their point of origin in the centre, instead they "start" at their top left point.
+The values for the square are similar to that of the circle, however, squares have their point of origin in their top left corner, which is why they are not placed in the middle of the canvas.
 
 ![](../../../.gitbook/assets/p5-rect.png)
 
