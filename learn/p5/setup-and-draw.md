@@ -1,6 +1,6 @@
 # 2. Setup and Draw
 
-Processing has two default functions. `setup()` which happens once, in the beginning, and `draw()` which happens forever, until the sketch is stopped.  A function is a named section of a program that performs a specific task. In this sense, a function is a type of procedure or routine.
+Processing has two default functions. `setup()` which happens once, and `draw()` which happens forever, until the sketch is stopped.  A function is a named section of a program that performs a specific task. In this sense, a function is a type of procedure or routine. It's good to know that code is read by the machine from top to bottom, meaning that setup will be triggered first, and before draw.
 
 ```javascript
 function setup(){

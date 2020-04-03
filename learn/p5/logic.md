@@ -1,4 +1,4 @@
-# 7. Logic
+# 9. Logic
 
 We use logic to tell the code what to do in specific situations. For instance, if the mouse is clicked, or a number reaches a certain value. Once you code a bit you can actually start to think in these logic ways \(think of yourself becoming Vulcan, rather than a machine\)!
 

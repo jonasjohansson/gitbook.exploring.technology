@@ -1,4 +1,4 @@
-# 4 Lines and Curves
+# 6. Lines and Curves
 
 ### Line
 

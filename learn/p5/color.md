@@ -1,4 +1,4 @@
-# 2. Color
+# 4. Color
 
 Colors are most commonly represented with RGB \(Red, Green, Blue\) or HSB \(Hue, Saturation, Brightness\).
 

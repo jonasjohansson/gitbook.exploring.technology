@@ -1,4 +1,4 @@
-# 1. Shapes
+# 3. Shapes
 
 Processing gives you the option to draw all kinds of shapes, but let us begin with the basics.
 
