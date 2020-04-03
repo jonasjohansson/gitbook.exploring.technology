@@ -1,6 +1,6 @@
 # Bitsy
 
-Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitter.com/adamledoux). However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of weight.
+Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitter.com/adamledoux). However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of **weight**.
 
 ### Install
 
@@ -12,7 +12,7 @@ There are several other minimal game design tools that can be of interest, such 
 
 ### Inspiration
 
-Bitsy is nurturing creatives of all types and sizes, and spreading the joy game-driven stories. Follow [Bitsy Pieces](https://twitter.com/bitsypcs), join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), play some [Bitsy Faves](https://itch.io/c/201121/bitsy-faves) and check [games tagged Bitsy on Itch](https://itch.io/games/tag-bitsy).
+Bitsy is nurturing creatives of all types and sizes, and spreading the joy game-driven stories. Read the [Wiki](https://bitsy.fandom.com/wiki/Bitsy_Wiki), follow [Bitsy Pieces](https://twitter.com/bitsypcs), join [Bitsy Talk](https://discordapp.com/invite/9rAjhtr), play some [Bitsy Faves](https://itch.io/c/201121/bitsy-faves) and check [games tagged Bitsy on Itch](https://itch.io/games/tag-bitsy).
 
 ![Novena by Cecile Richard \(https://haraiva.itch.io/novena\)](../../.gitbook/assets/novena%20%281%29.gif)
 
