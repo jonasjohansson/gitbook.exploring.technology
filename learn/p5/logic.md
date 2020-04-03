@@ -1,4 +1,4 @@
-# Logic
+# 7. Logic
 
 We use logic to tell the code what to do in specific situations. For instance, if the mouse is clicked, or a number reaches a certain value. Once you code a bit you can actually start to think in these logic ways \(think of yourself becoming Vulcan, rather than a machine\)!
 
@@ -68,7 +68,7 @@ for (i = 0; i < 3; i++) {
 
 As long as the statement is true, whatever is inside the curly brackets will happen. It begins with defining a variable, in this case "i" with the value of 0. And then continues by saying that “as long as x is less than 3, increment i with 1. This will happen until i reaches 2, after which it will exit the for loop.
 
-![](../../../.gitbook/assets/p5-for.png)
+![](../../.gitbook/assets/p5-for.png)
 
 {% hint style="danger" %}
 Be mindful of Auto-refresh while working with loops as the sketch can get stuck in an infinite cycle, which will crash the browser or cause it to freeze.

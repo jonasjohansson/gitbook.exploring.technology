@@ -1,4 +1,4 @@
-# Color
+# 2. Color
 
 Colors are most commonly represented with RGB \(Red, Green, Blue\) or HSB \(Hue, Saturation, Brightness\).
 
@@ -12,7 +12,7 @@ The draw function does not reset itself, and remembers the values set the last t
 
 Let us make outline of the circle red by typing `stroke(255,0,0)` **before** the circle, and our squares green by typing `stroke(0,255,0)` before the squares. We can also increase the stroke thickness  using the [**strokeWeight** ](https://p5js.org/reference/#/p5/strokeWeight)function with a value in pixels.
 
-![](../../../.gitbook/assets/p5-stroke%20%281%29.png)
+![](../../.gitbook/assets/p5-stroke%20%281%29.png)
 
 {% hint style="info" %}
 To remove a stroke, type `noStroke()` before the shapes that should be without.
@@ -22,7 +22,7 @@ To remove a stroke, type `noStroke()` before the shapes that should be without.
 
 The shape background color works similarly to stroke. Let us turn our circle blue by typing `fill(0,0,255)` and the squares yellow by typing `fill(255,255,0)` 
 
-![](../../../.gitbook/assets/p5-fill.png)
+![](../../.gitbook/assets/p5-fill.png)
 
 ## Alpha
 
@@ -34,5 +34,5 @@ The alpha value by default is also a value between 0 and 255. For example at lin
 fill(255,255,0,128);
 ```
 
-![](../../../.gitbook/assets/p5-fill-alpha.png)
+![](../../.gitbook/assets/p5-fill-alpha.png)
 

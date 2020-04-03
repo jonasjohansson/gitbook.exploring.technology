@@ -1,4 +1,4 @@
-# Animation
+# 6. Animation
 
 It’s possible to use time as a variable for creating events that happen after a certain amount of time, or for animations.
 
@@ -87,7 +87,7 @@ function draw() {
 }
 ```
 
-![](../../../.gitbook/assets/p5-map%20%282%29.png)
+![](../../.gitbook/assets/p5-map%20%282%29.png)
 
 ```javascript
 function draw() {

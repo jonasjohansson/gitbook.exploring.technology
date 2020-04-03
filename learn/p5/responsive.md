@@ -1,4 +1,4 @@
-# Responsive
+# 9. Responsive
 
 When the sketch needs to work on multiple screen sizes setting a fixed canvas size is no good. There are predefined variables such as `windowWidth` and `windowHeight` that will automatically get the value of the current device.
 

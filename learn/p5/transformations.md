@@ -1,4 +1,4 @@
-# Transformations
+# 3. Transformations
 
 ## Rotation
 
@@ -17,7 +17,7 @@ function draw() {
 
 
 
-![](../../../.gitbook/assets/p5-rotate.png)
+![](../../.gitbook/assets/p5-rotate.png)
 
 The amount rotated is also _remembered_ and stacks upon itself. This is clearly seen when adding several squares and applying a rotation to each.
 
@@ -50,7 +50,7 @@ Several new things are happening here:
 Change the order of `translate` and `rotate` and see the difference!
 {% endhint %}
 
-![](../../../.gitbook/assets/p5-translate.png)
+![](../../.gitbook/assets/p5-translate.png)
 
 ## Push and Pop
 
@@ -58,5 +58,5 @@ It is possible to _negate_ the effect of a rotation or translate by using the sa
 
 Code doesn't have _layers_ like most design software, but we can simulate the effect of a layer using two functions: `push` and `pop`.  Anything that happens inside of these, will not be _seen_ by anyone else. what happens in push and pop, stays in push and pop.
 
-![](../../../.gitbook/assets/p5-pushpop%20%281%29.png)
+![](../../.gitbook/assets/p5-pushpop%20%281%29.png)
 

@@ -1,4 +1,4 @@
-# Variables
+# 5. Variables
 
 Programming uses “variables” to pass information effectively. Imagine that you want to create a circle and a rectangle. The rectangle must have its width and height be half of the circle diameter. You could “hard code” it in like this:
 
