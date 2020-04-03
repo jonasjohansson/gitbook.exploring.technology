@@ -141,4 +141,6 @@
   * [Scripting](spark/scripting.md)
   * [Upload Effect](spark/upload-effect.md)
   * [Reducing 3D files](spark/reducing-3d.md)
+* [TouchDesigner](touchdesigner/README.md)
+  * [Basics](touchdesigner/basics.md)
 
