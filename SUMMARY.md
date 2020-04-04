@@ -126,12 +126,12 @@
   * [Glitch](tips-trix/glitch.md)
   * [Documentation](tips-trix/documentation.md)
   * [MIDI & OSC](tips-trix/midi-and-osc.md)
-  * [Resources](tips-trix/resources.md)
+  * [Stream](tips-trix/stream.md)
   * [Web](tips-trix/web.md)
-  * [Streaming](tips-trix/streaming.md)
 
 ## Draft
 
+* [Resources](resources.md)
 * [Cinema](cinema.md)
 * [Electron](electron-draft.md)
 * [Pepakura](pepakura.md)
