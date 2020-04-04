@@ -128,6 +128,7 @@
   * [MIDI & OSC](tips-trix/midi-and-osc.md)
   * [Resources](tips-trix/resources.md)
   * [Web](tips-trix/web.md)
+  * [Streaming](tips-trix/streaming.md)
 
 ## Draft
 
