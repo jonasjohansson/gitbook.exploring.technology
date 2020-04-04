@@ -67,7 +67,7 @@ double getVolume(int sampleWindow) {
 {% tab title="Product" %}
 An accelerometer can measure how its rotated \(its orientation\), along three different axes. Each axis has its own pin which gives an analog signal between 0 to 5 volts. The Arduino can measure these values with its Analog In ports.
 
-![](../../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image%20%281%29.png)
 
 {% hint style="info" %}
 We have these units from Sparkfun and from Adafruit, both work the same way but look slightly different. 

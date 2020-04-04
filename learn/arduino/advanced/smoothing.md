@@ -6,7 +6,7 @@ The "input noise" can be improved by _smoothing_ the values. This means taking a
 
 For instance, if the last 4 values were 101,102,103,104 and then suddenly there's a jump and the 5th value is **110**, then the average would be **104** \(520 divided by 5\).
 
-![Blue is the raw sensor value while red is smoothed](../../../.gitbook/assets/image%20%282%29.png)
+![Blue is the raw sensor value while red is smoothed](../../../.gitbook/assets/image%20%283%29.png)
 
 To make matters simple, use a library!
 

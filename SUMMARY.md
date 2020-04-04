@@ -144,4 +144,5 @@
   * [Reducing 3D files](spark/reducing-3d.md)
 * [TouchDesigner](touchdesigner/README.md)
   * [Basics](touchdesigner/basics.md)
+  * [Exercise - Memphis Doodle](touchdesigner/exercise-memphis-doodle.md)
 
