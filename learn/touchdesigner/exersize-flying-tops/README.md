@@ -18,7 +18,7 @@ Since our visual will be driven by changing around TOP parameters only, we will 
 
 By default the Constant OP is set to 256 by 256 pixels. This is quite small, lets make it the same size as our parent Container. You can do this by going to the Common section and under Resolution, remove the first parameter and type `parent().width`, then in the next field you type `parent().height`.  Another method would be to select the dropdown of Output Resolution, and select Parent panel size.
 
-![](../../../.gitbook/assets/image%20%2821%29.png)
+![](../../../.gitbook/assets/image%20%2822%29.png)
 
 An easy way to check if it really is the right size, is by middle mouse clicking on any operator. This will give you some of its key features.
 

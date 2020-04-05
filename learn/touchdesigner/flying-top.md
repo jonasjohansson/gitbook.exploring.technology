@@ -14,13 +14,13 @@ Since our visual will be driven by changing around TOP parameters only, we will 
 
 By default the Constant OP is set to 256 by 256 pixels. This is quite small, lets make it the same size as our parent Container. You can do this by going to the Common section and under Resolution, remove the first parameter and type `parent().width`, then in the next one you type `parent().height`.  Another method would be to select the dropdown of Output Resolution, and select Parent panel size.
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 An easy way to check if it really is the right size, is by middle mouse clicking on any operator. This will give you some of its key features.
 
 Now we are ready to pick out our little object. In my case I'd like to start with a circle OP. If you look under the Circle section in the parameters, you can see there are a lot of options. You can do all sorts of things here! Lets go down to the Polygon toggle and set it to On and make sure Sides is set to three.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 {% hint style="info" %}
 Feeling adventurous? See if you can try to create a different shape here, using some of the other operators like Rectangle or a combination of OPs. You could even use a Movie File In OP to load in an image.
