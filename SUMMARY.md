@@ -123,7 +123,7 @@
 * [TouchDesigner](learn/touchdesigner/README.md)
   * [Navigating](learn/touchdesigner/navigating.md)
   * [Operators](learn/touchdesigner/operators.md)
-  * [Making a switch](learn/touchdesigner/making-a-switch.md)
+  * [Switch](learn/touchdesigner/making-a-switch.md)
   * [Button](learn/touchdesigner/button.md)
   * [Exercize - Flying TOPs](learn/touchdesigner/exersize-flying-tops/README.md)
     * [Composite](learn/touchdesigner/exersize-flying-tops/composite.md)
