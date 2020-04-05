@@ -2,7 +2,7 @@
 
 Welcome to a wishful remedy to the increasing knowledge gap between those who build machines, and those who use them. A repository of complementary learning materials for software, hardware and code, open to everyone.
 
-### Running live workshops during COVID-19
+### Streaming lectures during COVID-19
 
 In April we are streaming workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET every day \(sans weekends\). More information in our [Facebook event](https://www.facebook.com/events/524433344931172/).
 
@@ -12,7 +12,7 @@ In April we are streaming workshops on [Twitch](https://www.twitch.tv/exploringt
 
 {% page-ref page="learn/touchdesigner/" %}
 
-{% page-ref page="learn/ml/" %}
+{% page-ref page="learn/machine-learning/" %}
 
 {% page-ref page="learn/beepbox/" %}
 
