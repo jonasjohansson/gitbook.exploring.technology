@@ -1,5 +1,9 @@
 # Makey Makey
 
+{% hint style="success" %}
+Written by [Jonas Johansson](https://jonasjohansson.se/)
+{% endhint %}
+
 Makey Makey is an electronic invention tool that allows users to connect everyday objects to computer programs. Using a circuit board, alligator clips, and a USB cable, the Makey Makey uses closed loop electrical signals to send the computer either a keyboard stroke or mouse click signal. This function allows it to work with any computer program or webpage that accepts keyboard or mouse click inputs. It is designed similar to the early Nintendo controllers and comes with a D-pad \(Up, Down, Left, Right\) and two main buttons \(Space, Click\), all of which can be reprogrammed to trigger other keys.
 
 ![](https://www.lekolar.se/globalassets/inriver/resources/56659_067837.jpg)

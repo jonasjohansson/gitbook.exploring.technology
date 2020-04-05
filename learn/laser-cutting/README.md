@@ -1,5 +1,9 @@
 # Laser Cutting
 
+{% hint style="success" %}
+Written by [Duncan Gidney](https://duncangidney.com/) and [Jonas Johansson](https://jonasjohansson.se/)
+{% endhint %}
+
 Laser cutting is a great tool for rapidly transferring digital designs into real life objects. A laser cutter is a machine with a tube that concentrates light enough to be able to cut and engrave lots of different materials such as wood, paper and acrylic. Through a series of mirrors, this beam of light is directed down onto a work surface and controlled via X + Y axis stepper motors.
 
 ### Install

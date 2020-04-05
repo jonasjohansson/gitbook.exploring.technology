@@ -1,5 +1,9 @@
 # Bitsy
 
+{% hint style="success" %}
+Written by [Jonas Johansson](https://jonasjohansson.se/)
+{% endhint %}
+
 Bitsy is a small emulator for small worlds made by [Adam Le Doux](https://twitter.com/adamledoux). However, this simplicity is incredibly useful for making focused and deliberate ideas. It gives every choice a lot of **weight**.
 
 ### Install

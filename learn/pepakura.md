@@ -1,5 +1,9 @@
 # Pepakura
 
+{% hint style="success" %}
+Written by [Jonas Johansson](https://jonasjohansson.se/)
+{% endhint %}
+
 Ever heard of paper craft?  It's the art of creating one, [two](https://www.google.com/search?q=paper+craft+2d) or [three-dimensional](https://www.google.com/search?q=paper+craft+3d) objects in paper. To create custom and complex designs, Pepakura "unfolds" digital object, allowing them to be re-imagined physically. Upscale the measurements, and [use projection mapping](https://vimeo.com/328475901) for radical paper brightness!
 
 _For large projects make sure to use Foam Board \(Kapaskiva\), at either_ [_3mm_](https://www.svexo.se/kapaskiva-3mm-70x100cm-25fp) _or_ [_5mm_](https://www.svexo.se/kapaskiva-5mm-100x140cm-25fp) _\(preferred\) thickness.  Use fishing wire to cross-stitch several boards together. Cut the boards with a sharp mat cutter or X-Acto knife._

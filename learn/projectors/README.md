@@ -1,5 +1,9 @@
 # Projectors
 
+{% hint style="success" %}
+Written by [Jaime Reyes](https://www.imakethings.work/)
+{% endhint %}
+
 Projectors are an amazing piece of equipment that allows us to play with the perception of reality using light and shadows.
 
 ![Large Venue Projectors - Setup by Obscura Digital ](../../.gitbook/assets/projectorsstack.png)

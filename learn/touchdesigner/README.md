@@ -1,5 +1,9 @@
 # TouchDesigner
 
+{% hint style="success" %}
+Written by [Mickey van Olst](https://mickeyvanolst.com/)
+{% endhint %}
+
 TouchDesigner is a "node based programming environment" aka "visual coding" where you connect blocks \(known as operators\) creating interactivity and real-time visuals. Other software that applies visual coding are [Notch](https://www.notch.one/), [Houdini](https://www.sidefx.com/products/houdini/), [VVVV](https://vvvv.org/) and [Cables](https://cables.gl/) to name a few.
 
 As a chameleon within the art and technology industry, TD is often used for realtime visuals, cultural events, brands and retail experiences, interactive installations and much more. 
