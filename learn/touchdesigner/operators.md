@@ -1,8 +1,8 @@
 # Operators
 
-Operators can be seen as tiny programs that can be chained together to build all sorts of things. There are a lot of them, and they come in various types as well. Most operators work in a way that you put some type of data in the left and retrieve the manipulated data on the right.
+Operators can be seen as tiny programs that can be chained together to build all sorts of things. There are a lot of them, and they come in various types. Most operators have inputs and outputs, expecting data to arrive on the left \(input\), and then present data on the right \(output\), ready to be retrieved.
 
-To add an operator you can right click and in the menu select add operator, or to be much quicker, hit `TAB`.  This brings up the OP Create Dialog. Here you see the various types on the top, and you can hover over each OP to get a small description on the bottom. Hitting `TAB` again will take you to the overview of the next operator type.
+Press `TAB` to open the list of operators \(OP Create Dialog\), or right-click and **Add operator**. The types of operators are seen in the top, hover their label to see a description at the bottom of the window. Press `TAB` again to cycle between the different operators.
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
