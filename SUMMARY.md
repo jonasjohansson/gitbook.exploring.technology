@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Hello world](README.md)
-* [Live](live.md)
 
 ## Learn
 
@@ -121,11 +120,15 @@
     * [Projection mapping](learn/resolume/advanced/projection-mapping.md)
     * [Syphon Recorder](learn/resolume/advanced/syphon-recorder.md)
 * [TouchDesigner](learn/touchdesigner/README.md)
+  * [Navigating](learn/touchdesigner/navigating.md)
+  * [Operators](learn/touchdesigner/operators.md)
   * [Button](learn/touchdesigner/basics/README.md)
     * [Operators](learn/touchdesigner/basics/operators.md)
     * [Button](learn/touchdesigner/basics/button.md)
     * [Flying TOP](learn/touchdesigner/basics/flying-top.md)
     * [Composite](learn/touchdesigner/basics/composite.md)
+  * [Exersize - Flying TOPs](learn/touchdesigner/exersize-flying-tops.md)
+  * [Making a switch](learn/touchdesigner/making-a-switch.md)
   * [Exercise - Memphis Doodle](learn/touchdesigner/exercise-memphis-doodle.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
@@ -149,9 +152,4 @@
   * [Scripting](spark/scripting.md)
   * [Upload Effect](spark/upload-effect.md)
   * [Reducing 3D files](spark/reducing-3d.md)
-  * [Installing](spark/installing.md)
-  * [Navigating](spark/navigating.md)
-  * [Operators](spark/operators.md)
-  * [Making a switch](spark/making-a-switch.md)
-  * [Exersize - Flying TOPs](spark/exersize-flying-tops.md)
 

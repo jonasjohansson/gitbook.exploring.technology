@@ -8,13 +8,17 @@ As a chameleon within the art and technology industry, TD is often used for real
 
 ### Install
 
-Download the free non-commercial TouchDesigner \([link](https://derivative.ca/download)\) and run the installation. This is the full package, but has limited output resolution, lacks several advanced features and is not permitted for paying projects.
-
-[Create an account](https://derivative.ca/user/register) in order to get free keys for the non-commercial version. 
+Download the free non-commercial TouchDesigner \([link](https://derivative.ca/download)\) and run the installation. This is the full package, but has limited output resolution and lacks several advanced features.
 
 {% hint style="info" %}
 TouchDesigner works on Mac and Windows. Keep in mind that on Mac there are a few restrictions related to the graphics card.
 {% endhint %}
+
+### Activation
+
+[Create an account](https://derivative.ca/user/register) for free license keys. You will be asked to use the account when you open TD, after which you can use the keys. Activate one and you'll be greeted with your first project.
+
+If you want to return to the Key manager, you can find it on the top left under Dialogs &gt; Key Manager. 
 
 
 
