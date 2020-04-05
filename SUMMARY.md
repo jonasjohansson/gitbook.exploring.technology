@@ -125,7 +125,6 @@
   * [Operators](learn/touchdesigner/operators.md)
   * [Making a switch](learn/touchdesigner/making-a-switch.md)
   * [Button](learn/touchdesigner/button.md)
-  * [Flying TOP](learn/touchdesigner/flying-top.md)
   * [Exercize - Flying TOPs](learn/touchdesigner/exersize-flying-tops/README.md)
     * [Composite](learn/touchdesigner/exersize-flying-tops/composite.md)
     * [Movement with parameters](learn/touchdesigner/exersize-flying-tops/movement-with-parameters.md)
