@@ -6,6 +6,8 @@ Welcome to a wishful remedy to the increasing knowledge gap between those who bu
 
 In April we are streaming workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET every day \(sans weekends\). More information in our [Facebook event](https://www.facebook.com/events/524433344931172/).
 
+Here's a selection of topics which will be covered:
+
 {% page-ref page="learn/p5/generative-design.md" %}
 
 {% page-ref page="learn/aframe/" %}
