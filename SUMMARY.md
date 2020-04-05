@@ -120,6 +120,9 @@
     * [Timeline](learn/resolume/advanced/timeline.md)
     * [Projection mapping](learn/resolume/advanced/projection-mapping.md)
     * [Syphon Recorder](learn/resolume/advanced/syphon-recorder.md)
+* [TouchDesigner](learn/touchdesigner/README.md)
+  * [Basics](learn/touchdesigner/basics.md)
+  * [Exercise - Memphis Doodle](learn/touchdesigner/exercise-memphis-doodle.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
     * [Changelog](tips-trix/mio/changelog.md)
@@ -142,7 +145,4 @@
   * [Scripting](spark/scripting.md)
   * [Upload Effect](spark/upload-effect.md)
   * [Reducing 3D files](spark/reducing-3d.md)
-* [TouchDesigner](touchdesigner/README.md)
-  * [Basics](touchdesigner/basics.md)
-  * [Exercise - Memphis Doodle](touchdesigner/exercise-memphis-doodle.md)
 

@@ -18,11 +18,11 @@ If you want to return to the Key manager, you can find it on the top left under 
 
 Now we're ready to start exploring. One of the first things you might notice is that TouchDesigner has quite a lot happening in its interface.
 
-![First time opening TouchDesigner](../.gitbook/assets/image%20%2818%29.png)
+![First time opening TouchDesigner](../../.gitbook/assets/image%20%2818%29.png)
 
 Don't worry, we'll go through each of these, and we'll only be using some of them, so no need to memorize everything. Before going through the interface elements, lets look at basic navigation first.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 TouchDesigner works in a very similar way as the folder system on your computer. It has folders \(called OP's or operators\) and inside them you can have even more folders. The address bar on the top shows you at all times where you currently are in the path structure of your project. This path structure will become relevant as soon as we start referring to parameters or data between operators.
 
@@ -36,13 +36,13 @@ Although you often can achieve the same thing in various ways, TouchDesigner rea
 
 
 
-![Playback bar](../.gitbook/assets/image%20%287%29.png)
+![Playback bar](../../.gitbook/assets/image%20%287%29.png)
 
 TouchDesigner works with interactive environments but also allows for scripting on the timeline, similar to what you might know from Cinema4D or After Effects. What is important to know at this point is that your project can be paused using the playback buttons here. This can be toggled using the spacebar, always keep in mind to check the playback state from your project if something isn't working, it might just be that you accidentally hit pause.
 
 Another key component you see here on the far left is your framerate, indicated as FPS. This is currently set to 60, meaning TouchDesigner tries to refresh your entire system 60 times per second. If you have a lot of things happening in your project this framerate might be lower, the actual framerate you can find in the Menu bar, also indicated with FPS. The Realtime checkbox next to it lets you choose to render every frame, to allow for skipping frames, by default it is set to skip frames.
 
-![Menu bar](../.gitbook/assets/image%20%2817%29.png)
+![Menu bar](../../.gitbook/assets/image%20%2817%29.png)
 
 Lastly we have the Palette browser on the left, and the Parameter window on the right. We'll dive into the Parameter window in a moment. The Palette browser is a place where you can drag very handy pre-build TouchDesigner components into your project, for now you can close this window. To bring it back take a look at the **Dialogs** dropdown menu.
 
@@ -54,11 +54,11 @@ Operators can be seen as tiny programs that can be chained together to build all
 
 To add an operator you can right click and in the menu select add operator, or to be much quicker, hit `TAB`.  This brings up the OP Create Dialog. Here you see the various types on the top, and you can hover over each OP to get a small description on the bottom. Hitting `TAB` again will take you to the overview of the next operator type.
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 The four main ones you will likely work with are TOP's, CHOP's, SOP's and DAT's. Lets briefly go into the difference between these types.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 **TOP**
 
@@ -82,17 +82,17 @@ Lets try to make a basic network to understand how we can exchange information b
 
 You might have noticed, that each time when we select a different operator, the window on the right side of our editor changes. This is called the Parameter window, and it contains the settings of that given operator. Here we can change these settings, or create a direct link between a parameter, and a piece of data coming from somewhere else. Select one of the Constant operators and click on the color thumbnail to give it a different color.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 Now that we have two different colored operators, lets see how we can use them in a network setup. 
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 If you look closely at these operators, you can see that they have a small opening on either side. Some operators will only have one, most of them have two, it depends on its functionality. In the case of the constant and switch, they can receive a texture from another TOP and manipulate or add onto it.
 
 Hover over the output of either constant and drag with your left mouse key to the input of the switch operator. As you can see, the switch operator is able to have multiple inputs, the constant can only have one. Right clicking on a wire allows you to delete the connection. 
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 With the switch selected, you can see in the parameter window \(hit `P` to bring this up when hidden\) that it has a slider for Index and a toggle to blend between inputs.
 
@@ -106,7 +106,7 @@ Lets see how we can drive this with something interactive. Hit `TAB` and click o
 
 We'll be dealing a lot more with COMP elements in the future, but for now you can type or select Button.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 Select the button, and in the parameter window under the Button section change the button type to Momentary. Now right click on the green opening on the side, this is a shortcut to select an operator that will be instantly wired to the button's output. Type or select a null.
 
@@ -141,13 +141,13 @@ Since our visual will be driven by changing around TOP parameters only, we will 
 
 By default the Constant OP is set to 256 by 256 pixels. This is quite small, lets make it the same size as our parent Container. You can do this by going to the Common section and under Resolution, remove the first parameter and type `parent().width`, then in the next one you type `parent().height`.  Another method would be to select the dropdown of Output Resolution, and select Parent panel size.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 An easy way to check if it really is the right size, is by middle mouse clicking on any operator. This will give you some of its key features.
 
 Now we are ready to pick out our little object. In my case I'd like to start with a circle OP. If you look under the Circle section in the parameters, you can see there are a lot of options. You can do all sorts of things here! Lets go down to the Polygon toggle and set it to On and make sure Sides is set to three.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 {% hint style="info" %}
 Feeling adventurous? See if you can try to create a different shape here, using some of the other operators like Rectangle or a combination of OPs. You could even use a Movie File In OP to load in an image.
