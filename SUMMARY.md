@@ -121,7 +121,7 @@
     * [Projection mapping](learn/resolume/advanced/projection-mapping.md)
     * [Syphon Recorder](learn/resolume/advanced/syphon-recorder.md)
 * [TouchDesigner](learn/touchdesigner/README.md)
-  * [Basics](learn/touchdesigner/basics/README.md)
+  * [Button](learn/touchdesigner/basics/README.md)
     * [Operators](learn/touchdesigner/basics/operators.md)
     * [Button](learn/touchdesigner/basics/button.md)
     * [Flying TOP](learn/touchdesigner/basics/flying-top.md)
@@ -149,4 +149,9 @@
   * [Scripting](spark/scripting.md)
   * [Upload Effect](spark/upload-effect.md)
   * [Reducing 3D files](spark/reducing-3d.md)
+  * [Installing](spark/installing.md)
+  * [Navigating](spark/navigating.md)
+  * [Operators](spark/operators.md)
+  * [Making a switch](spark/making-a-switch.md)
+  * [Exersize - Flying TOPs](spark/exersize-flying-tops.md)
 
