@@ -10,21 +10,15 @@ Since our visual will be driven by changing around TOP parameters only, we will 
 
 By default the Constant OP is set to 256 by 256 pixels. This is quite small, lets make it the same size as our parent Container. You can do this by going to the Common section and under Resolution, remove the first parameter and type `parent().width`, then in the next one you type `parent().height`.  Another method would be to select the dropdown of Output Resolution, and select Parent panel size.
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../../.gitbook/assets/image%20%2821%29.png)
 
 An easy way to check if it really is the right size, is by middle mouse clicking on any operator. This will give you some of its key features.
 
 Now we are ready to pick out our little object. In my case I'd like to start with a circle OP. If you look under the Circle section in the parameters, you can see there are a lot of options. You can do all sorts of things here! Lets go down to the Polygon toggle and set it to On and make sure Sides is set to three.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 
 {% hint style="info" %}
 Feeling adventurous? See if you can try to create a different shape here, using some of the other operators like Rectangle or a combination of OPs. You could even use a Movie File In OP to load in an image.
 {% endhint %}
-
-### Composite
-
-To place our object onto the Constant operator texture. We can use a Composite OP. This is an extremely powerful operator that you'll use on a regular basis. Think of it a bit as the Layer composite options in Photoshop, but in real-time!
-
-Set the Operation to Add, and move over to the Transform section. For our triangle to show up correctly, we'll have to set the Fixed Layer to Input 1, and Pre-fit Overlay to Native Resolution. Your triangle should now show up as a small object in the middle.
 
