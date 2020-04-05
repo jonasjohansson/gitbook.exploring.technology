@@ -131,6 +131,8 @@
     * [Composite](learn/touchdesigner/exersize-flying-tops/composite.md)
     * [Movement with parameters](learn/touchdesigner/exersize-flying-tops/movement-with-parameters.md)
     * [Feedback](learn/touchdesigner/exersize-flying-tops/feedback.md)
+    * [Bonus - Advanced CHOPs](learn/touchdesigner/exersize-flying-tops/bonus-advanced-chops.md)
+    * [Conclusion](learn/touchdesigner/exersize-flying-tops/conclusion.md)
   * [Exercise - Memphis Doodle](learn/touchdesigner/exercise-memphis-doodle.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
