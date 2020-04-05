@@ -1,9 +1,5 @@
 # Flying TOP
 
-
-
-### Flying TOPs!
-
 Time to make something!
 
 We'll be creating a little object that moves along with our mouse, and we'll add some special effects on top. 
