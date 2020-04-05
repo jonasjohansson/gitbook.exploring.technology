@@ -2,6 +2,15 @@
 
 Welcome to a wishful remedy to the increasing knowledge gap between those who build machines, and those who use them. A repository of complementary learning materials for software, hardware and code, open to everyone.
 
+## Contributors
+
+* [Jonas Johansson](https://www.youtube.com/watch?v=Sh1L-8T5hu0&fbclid=IwAR1INsz9OSQxjkGANiOftHqifhtiyi2c9fbj_VqofeKj9Cg-RwqALOCxKEQ)
+* [Mickey van Olst](https://mickeyvanolst.com/)
+* [Jaime Reyes](https://www.imakethings.work/)
+* [Francesco Torelli](http://www.francescotorelli.it/)
+* [Andreas Refsgaard](https://andreasrefsgaard.dk/)
+* [Duncan Gidney](https://duncangidney.com/)
+
 ![Inside \(2017\) by Tove Kjellmark](https://lh4.googleusercontent.com/equpGdAC1AxXVRSi_BUvrOAat_fP5BOXCUASbr_4T7VkbT5acB4VtAtJjcv0AobSE8THBhHZKGlFQ9qbSITcOkp0bNOZ1vMaLX6HvpFOXXRgg1kuhEHBfzk2hOS6P28M34IkfLzI)
 
 ### Streaming lectures during COVID-19
