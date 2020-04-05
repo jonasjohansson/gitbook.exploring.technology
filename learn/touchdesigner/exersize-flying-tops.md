@@ -1,4 +1,4 @@
-# Exersize - Flying TOPs
+# Exercize - Flying TOPs
 
 Time to make something!
 
