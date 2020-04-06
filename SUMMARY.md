@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hello world](README.md)
+* [COVID-19](covid-19.md)
 
 ## Learn
 
