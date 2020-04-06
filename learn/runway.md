@@ -2,7 +2,7 @@
 
 Runway is commercial a desktop software, that makes it easy to explore advanced machine learning models and running them remotely on Runways servers.
 
-![](.gitbook/assets/runway.png) 
+![](../.gitbook/assets/screenshot-2020-04-06-at-13.49.18.png) 
 
 * **Browse**
 
@@ -20,11 +20,11 @@ Runway is commercial a desktop software, that makes it easy to explore advanced 
 
   Connect your RunwayML models to other applications.   
 
-## Setup
+## Links
 
-[Download Runway and set up an account.](https://runwayml.com/)
+[Download Runway and set up an account](https://runwayml.com/)
 
-
+[Runway github with repos for integrating with Processing, TouchDesigner, p5js, etc](https://github.com/runwayml) 
 
 
 

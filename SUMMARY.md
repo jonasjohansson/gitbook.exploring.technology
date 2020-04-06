@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Hello world](README.md)
-* [Runway](runway.md)
 
 ## Learn
 
+* [Runway](learn/runway.md)
 * [A-Frame](learn/aframe/README.md)
   * [Basics](learn/aframe/basics/README.md)
     * [Animation](learn/aframe/basics/animation.md)
