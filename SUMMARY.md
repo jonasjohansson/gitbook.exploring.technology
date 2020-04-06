@@ -5,11 +5,13 @@
 ## Learn
 
 * [A-Frame](learn/aframe/README.md)
-  * [Basics](learn/aframe/basics/README.md)
-    * [Animation](learn/aframe/basics/animation.md)
-    * [Models](learn/aframe/basics/models.md)
-    * [Media](learn/aframe/basics/media.md)
-    * [Text](learn/aframe/basics/text.md)
+  * [1. Scene](learn/aframe/scene.md)
+  * [2. Entities](learn/aframe/entities.md)
+  * [3. Environment](learn/aframe/environment.md)
+  * [4. Animation](learn/aframe/animation.md)
+  * [5. Models](learn/aframe/models.md)
+  * [6. Media](learn/aframe/media.md)
+  * [7. Text](learn/aframe/text.md)
   * [Advanced](learn/aframe/advanced/README.md)
     * [Voice recognition](learn/aframe/advanced/voice.md)
     * [Webcam texture](learn/aframe/advanced/webcam-texture.md)
