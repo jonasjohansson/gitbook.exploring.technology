@@ -5,7 +5,7 @@ Build you own using [Blender](https://www.blender.org/) and [Cinema4d](https://w
 In order to have models in your scene there are two scripts that need to be included in the end of `<a-head>`.
 
 ```markup
-<script src="//cdn.rawgit.com/donmccurdy/aframe-extras/v4.2.0/dist/aframe-extras.min.js"></script>
+<script src="https://raw.githack.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
 <script src="https://unpkg.com/three@0.95.0/examples/js/libs/inflate.min.js"></script>
 ```
 

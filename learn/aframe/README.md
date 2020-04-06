@@ -10,3 +10,7 @@ Written by [Jonas Johansson](https://jonasjohansson.se/)
 
 A-Frame runs in the browser and is included as a JavaScript library in an HTML document. Use an online editor such as [Glitch](../../tips-trix/glitch.md) \(choose New Project and Hello Webpage\) or create an index.html file locally using [Visual Studio Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/).
 
+![](https://miro.medium.com/max/2000/1*eiLk2eNwOR9PINJGtumQwg.gif)
+
+
+
