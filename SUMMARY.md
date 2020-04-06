@@ -4,7 +4,6 @@
 
 ## Learn
 
-* [Runway](learn/runway.md)
 * [A-Frame](learn/aframe/README.md)
   * [Basics](learn/aframe/basics/README.md)
     * [Animation](learn/aframe/basics/animation.md)
@@ -121,6 +120,7 @@
     * [Timeline](learn/resolume/advanced/timeline.md)
     * [Projection mapping](learn/resolume/advanced/projection-mapping.md)
     * [Syphon Recorder](learn/resolume/advanced/syphon-recorder.md)
+* [Runway](learn/runway.md)
 * [TouchDesigner](learn/touchdesigner/README.md)
   * [Navigating](learn/touchdesigner/navigating.md)
   * [Operators](learn/touchdesigner/operators.md)
