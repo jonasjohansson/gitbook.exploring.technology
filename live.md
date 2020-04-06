@@ -19,5 +19,9 @@ In April we are streaming workshops on [Twitch](https://www.twitch.tv/exploringt
 | 0416 | Painting by numbers: An intro to shaders | Christian Kokott |
 | 0417 | Projection mapping and audiovisuals in [Resolume](learn/resolume/) | Jonas Johansson |
 
+![Generative Design with Jonas Johansson](.gitbook/assets/92226066_855689188257013_2238644904383217664_o.jpg)
+
+![Introduction to TouchDesigner with Mickey van Olst](.gitbook/assets/92564229_10158476225529459_7639208482557657088_o.jpg)
+
 
 
