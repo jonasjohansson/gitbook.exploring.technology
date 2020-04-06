@@ -8,6 +8,14 @@ We'll be creating a little object that moves along with our mouse, and we'll add
 
 ![The mouse goes, wheee!](../../../.gitbook/assets/flying_tops.gif)
 
+### Example file
+
+If you prefer to follow along using a working example, please use this file.
+
+{% embed url="https://drive.google.com/file/d/1Amb2DAPgNhhP9aqLHYnm\_IlvVkDy99V9/view?usp=sharing" %}
+
+### An empty constant
+
 To start, right click on an empty spot in the editor, and select Add Operator. 
 
 Now select COMP and click on Container. As said, a container is an object we can use to add structure and hierarchy to our projects. In our case, lets rename the container to `Exercise_1_FeedbackTOP`. 
