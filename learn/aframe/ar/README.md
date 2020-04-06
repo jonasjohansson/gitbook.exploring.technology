@@ -15,7 +15,7 @@ AR in the browser has three tracking methods available: **Marker**, **Location**
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   </head>
   <body>
-    <a-scene vr-mode-ui="enabled: false;" embedded arjs>
+    <a-scene embedded arjs>
       <a-marker preset="hiro" smooth="true">
         <a-box color="red"></a-box>
       </a-marker>
@@ -74,26 +74,25 @@ It is possible to have a higher ratio than the default 0.5, but by doing so it's
 
 ## Location
 
-To use location, [get your GPS coordinates](https://jonasjohansson.glitch.me/toolkit/html/getgps.html) and make notes of the latitude and longitude values.
+To add entities relative to the world use [GPS coordinates](https://www.gps-coordinates.net/). Add the attribute **gps-entity-place** to entities and provide latitude and longitude values. Read [this guide](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564) to learn more.
 
 ```markup
 <html>
   <head>
     <script src="https://unpkg.com/aframe@latest"></script>
-    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
+    <script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
   </head>
   <body>
-    <a-scene embedded arjs="debugUIEnabled: false">
-      <a-marker type="pattern" url="YOUR_MARKER_PATH.patt">
-        <a-box color="red"></a-box>
-      </a-marker>
-      <a-entity camera></a-entity>
+    <a-scene gps-camera-debug embedded arjs>
+      <a-box
+        gps-entity-place="latitude: 59.3462392062857; longitude: 18.149601701117785"
+      ></a-box>
+      <a-camera gps-camera rotation-reader></a-camera>
     </a-scene>
   </body>
 </html>
 ```
-
-[https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564)
 
 ## Image
 
