@@ -1,4 +1,8 @@
-# Particles
+# 8. Custom Components
+
+A-Frame has a huge community developing special _components_ that can does very advanced things with minimal amounts of code. For all of these it's not only to copy and paste but you are expected to read their documentation in order to fully understand how to use it. Most of the time there's a lot of custom attributes that come along.
+
+## Particles
 
 Ever heard the concept of particles in CGI? It's an amazing thing that allows us to create the illusion of rain, snow, fire, dust and much more. In A-Frame you can easily get started by including the [A-Frame Particle System](https://www.npmjs.com/package/aframe-particle-system-component) script!
 
@@ -39,4 +43,72 @@ The particle system comes with plenty of default values but you are encouraged t
 | texture | The texture used by this emitter. | `./images/star2.png` |
 | randomise | When a particle is re-spawned, whether it's position should be re-randomised or not. Can incur a performance hit. | `false` |
 | opacity | Either a single number to describe the opacity of a particle. |  |
+
+## Voice Recognition
+
+Do you want to control your visuals through voice? That's a rhetorical question, of course you do, and with the Annyang voice recognition library it's dead simple! **Does not work on mobile!**
+
+```markup
+<script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.5.0/annyang.min.js"></script>
+<script src="https://rawgit.com/lmalave/aframe-speech-command-component/master/dist/aframe-speech-command-component.min.js"></script>
+```
+
+```markup
+<a-scene>
+  <a-box id="box" color="red" position="0 0 -1"></a-box>
+  <a-entity id="annyang" annyang-speech-recognition></a-entity>
+  <a-entity speech-command="
+    command: red;
+    type: attribute;
+    targetElement: #box;
+    attribute: color;
+    value: red"></a-entity>
+  <a-entity speech-command="
+    command: blue;
+    type: attribute;
+    targetElement: #box;
+    attribute: color;
+    value: blue"></a-entity>
+</a-scene>
+
+```
+
+## Webcam Texture
+
+```markup
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets>
+        <video id="webcam" playsinline></video>
+      </a-assets>
+
+      <a-videosphere
+        position="-1 0.5 -3"
+        rotation="0 45 0"
+        shadow
+        material="src: #webcam"
+      ></a-videosphere>
+    </a-scene>
+
+    <script>
+      // You can also set which camera to use (front/back/etc)
+      // @SEE https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia
+      navigator.mediaDevices
+        .getUserMedia({ audio: false, video: true })
+        .then(stream => {
+          let $video = document.querySelector("video");
+          $video.srcObject = stream;
+          $video.onloadedmetadata = () => {
+            $video.play();
+          };
+        });
+    </script>
+  </body>
+</html>
+```
 
