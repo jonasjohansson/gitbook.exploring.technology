@@ -21,7 +21,7 @@ Download [SuperCollider](https://supercollider.github.io/download) and drag the 
 1. Download [Sc3plugins](https://supercollider.github.io/sc3-plugins/)
 2. Go to `File > Open user support directory` \(this is a hidden place on your computer. If you ever need to get back here then, now you know how\). 
 3. Grab the folder called `sc3plugins` and drag it to the `Extensions` folder
-4. Open `superclean_startup.scd` and copy all the text
+4. Go to `downloaded-quarks` \(one step up\) and open `superclean_startup.scd` and copy its contents.
 5. Go to `File > Open startup file`, and paste here.
 6. Save the file and reboot SuperCollider.
 
