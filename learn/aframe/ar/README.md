@@ -4,10 +4,12 @@ AR in the browser is developing fast, thanks to efforts by the [AR.js](https://a
 
  The augmented reality super powers are made possible by including [AR.js](https://ar-js-org.github.io/AR.js-Docs/) in the `<head>`. There are currently three tracking methods available: **Marker**, **Location** and **Image**.
 
-{% tabs %}
-{% tab title="Marker" %}
-[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and used with the `<a-marker>` entity. Create a site using the code below \(or [visit this example in your phone](https://codepen.io/nicolocarpignoli/full/vMBgob)\) and look at the marker.
+## Marker
 
+[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and used with the `<a-marker>` entity. Create a site using the code below \(or [visit this example in your phone](https://codepen.io/nicolocarpignoli/full/vMBgob)\) and look at the marker to better understand its usage.
+
+{% tabs %}
+{% tab title="Code" %}
 ```markup
 <html>
   <head>
@@ -24,10 +26,14 @@ AR in the browser is developing fast, thanks to efforts by the [AR.js](https://a
   </body>
 </html>
 ```
+{% endtab %}
 
+{% tab title="Marker" %}
 ![](../../../.gitbook/assets/hiroqr.png)
+{% endtab %}
+{% endtabs %}
 
-In case the preset default marker is not enough it's possible to design your own! The custom design should:
+In case the preset default marker is not special enough it's possible to design your own! The custom design should:
 
 * Be square
 * JPEG
@@ -67,9 +73,9 @@ It is possible to have a higher ratio than the default 0.5, but by doing so it's
 ```markup
 <a-scene embedded arjs="patternRatio: 0.7">
 ```
-{% endtab %}
 
-{% tab title="Location" %}
+## Location
+
 To add entities relative to the world use [GPS coordinates](https://www.gps-coordinates.net/). Add the attribute **gps-entity-place** to entities and provide latitude and longitude values. Read [this guide](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564) to learn more.
 
 ```markup
@@ -89,9 +95,9 @@ To add entities relative to the world use [GPS coordinates](https://www.gps-coor
   </body>
 </html>
 ```
-{% endtab %}
 
-{% tab title="Image" %}
+## Image
+
 It is recently possible to use imagery as a marker, thanks to Natural Feature Tracking \(NFT\). For NFT to work, the system has to be trained with a surface in advance to recognise and track the surface. The training can be done using the [NFT Marker Creator](https://github.com/Carnaux/NFT-Marker-Creator) \(recommended\) or the[ online  version](https://carnaux.github.io/NFT-Marker-Creator-Web/) \(max width and height less than 1000px\). The image should also follow the [NFT Image Constraints](https://github.com/kalwalt/jsartoolkit5/blob/fixing-nft/doc/NFT_image_constraints.md) \(rectangular, JPEG\).
 
 {% hint style="danger" %}
@@ -105,8 +111,6 @@ To test whether the image is a great candidate for AR, upload it to [Vuforia's T
 ![This image has lots of unique features!](../../../.gitbook/assets/vuforia%20%283%29.jpg)
 
 For reference on ideal data, this [Augmented Reality Marker Generator](http://www.brosvision.com/ar-marker-generator/) creates images that are ideal for tracking.
-{% endtab %}
-{% endtabs %}
 
 {% hint style="info" %}
 Is your app slow? Read [10 tips to enhance your AR.js app](https://medium.com/chialab-open-source/10-tips-to-enhance-your-ar-js-app-8b44c6faffca) by for tips on performance.
