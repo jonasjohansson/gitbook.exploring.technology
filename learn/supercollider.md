@@ -8,8 +8,6 @@ Written by [Daniel M Karlsson](http://danielmkarlsson.com/)
 
 Download [SuperCollider](https://supercollider.github.io/download) and drag the extracted folder into Applications.
 
-If anything goes awry, reach out using the email found [here](https://danielmkarlsson.com/).
-
 #### Installing SuperClean
 
 1. Open SuperCollider
