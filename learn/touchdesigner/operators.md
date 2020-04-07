@@ -22,9 +22,9 @@ Data operators are **violet-red** and can be used to handle data, text and scrip
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
-![An example of typical operators of various types](../../.gitbook/assets/image%20%2814%29.png)
+![An example of typical operators of various types](../../.gitbook/assets/image%20%2816%29.png)
 
 
 

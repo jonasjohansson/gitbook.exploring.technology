@@ -32,11 +32,11 @@ The Math CHOP is something you will end up using a lot, it is incredibly handy f
 
 In our case we need to move over to the Range section on the Parameter window and set the values the same as the screenshot below.
 
-![Parameters for our tx channel inside the Math OP](../../../.gitbook/assets/image%20%2826%29.png)
+![Parameters for our tx channel inside the Math OP](../../../.gitbook/assets/image%20%2828%29.png)
 
 Now to tie it all together, lets use a Merge CHOP and connect our tx and ty channels back together.
 
-![](../../../.gitbook/assets/image%20%2819%29.png)
+![](../../../.gitbook/assets/image%20%2821%29.png)
 
 To keep things tidy, lets add a Null CHOP at the end and call it `position`.
 
