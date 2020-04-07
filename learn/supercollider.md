@@ -11,7 +11,7 @@ Download [SuperCollider](https://supercollider.github.io/download) and drag the 
 #### Installing SuperClean
 
 1. Open SuperCollider
-2. Copy `Quarks.install("https://github.com/danielmkarlsson/SuperClean.git");` and paste in Untitled.
+2. Copy `Quarks.install("https://github.com/danielmkarlsson/SuperClean.git");` and paste in the Untitled window.
 3. With the cursor on the same line press `⌘ + Enter` to install SuperClean. Upon success the Post window should say `Quark: SuperClean[]`.
 
 ![](../.gitbook/assets/supercollider-01.gif)
