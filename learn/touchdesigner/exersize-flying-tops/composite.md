@@ -2,7 +2,7 @@
 
 ### Composite
 
-![](../../../.gitbook/assets/image%20%2827%29.png)
+![](../../../.gitbook/assets/image%20%2828%29.png)
 
 To bring our two operators together we can use a Composite OP. This is an extremely powerful operator that you'll use on a regular basis. Think of it a bit as the Layer composite options in Photoshop, but in real-time!
 

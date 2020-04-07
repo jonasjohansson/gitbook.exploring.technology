@@ -130,6 +130,7 @@
     * [Bonus - Advanced CHOPs](learn/touchdesigner/exersize-flying-tops/bonus-advanced-chops.md)
     * [Conclusion](learn/touchdesigner/exersize-flying-tops/conclusion.md)
   * [Exercise - Memphis Doodle](learn/touchdesigner/exercise-memphis-doodle.md)
+  * [Point clouds](learn/touchdesigner/point-clouds.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
     * [Changelog](tips-trix/mio/changelog.md)
