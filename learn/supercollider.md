@@ -14,7 +14,7 @@ Download [SuperCollider](https://supercollider.github.io/download) and drag the 
 2. Copy `Quarks.install("https://github.com/danielmkarlsson/SuperClean.git");` and paste in the Untitled window.
 3. With the cursor on the same line press `⌘ + Enter` to install SuperClean. Upon success the Post window should say `Quark: SuperClean[]`.
 
-![](../.gitbook/assets/supercollider-01.gif)
+![](../.gitbook/assets/supercollider-01%20%282%29.gif)
 
 #### Installing Sc3plugins
 
@@ -27,7 +27,11 @@ Download [SuperCollider](https://supercollider.github.io/download) and drag the 
 
 ![](../.gitbook/assets/supercollider-02.png)
 
-Open `examples.scd` and wait for the message `SuperClean: Listening on port 57120` in the Post window. Everything should be ready for you to run the code by pressing `cmd + Enter`.
+### Play
 
+1. Open `examples.scd` and wait for the message `SuperClean: Listening on port 57120` in the Post window.
+2. Go to line 90 and press `⌘ + Enter` to listen! 
+3. Press `⌘ + .` to stop \(but why would you want to?\).
 
+![](../.gitbook/assets/supercollider-02.gif)
 
