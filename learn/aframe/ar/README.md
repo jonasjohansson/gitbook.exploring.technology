@@ -4,10 +4,6 @@ AR in the browser is developing fast, thanks to efforts by the [AR.js](https://a
 
  The augmented reality super powers are made possible by including [AR.js](https://ar-js-org.github.io/AR.js-Docs/) in the `<head>`. There are currently three tracking methods available: **Marker**, **Location** and **Image**.
 
-{% hint style="info" %}
-Is your app slow? Read [10 tips to enhance your AR.js app](https://medium.com/chialab-open-source/10-tips-to-enhance-your-ar-js-app-8b44c6faffca) by for tips on performance.
-{% endhint %}
-
 {% tabs %}
 {% tab title="Marker" %}
 [Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and used with the `<a-marker>` entity. Create a site using the code below \(or [visit this example in your phone](https://codepen.io/nicolocarpignoli/full/vMBgob)\) and look at the marker.
@@ -112,13 +108,7 @@ For reference on ideal data, this [Augmented Reality Marker Generator](http://ww
 {% endtab %}
 {% endtabs %}
 
-## 
-
-{% tabs %}
-{% tab title="Image" %}
- ideal for tracking.
-
-{% embed url="https://vimeo.com/373737450" %}
-{% endtab %}
-{% endtabs %}
+{% hint style="info" %}
+Is your app slow? Read [10 tips to enhance your AR.js app](https://medium.com/chialab-open-source/10-tips-to-enhance-your-ar-js-app-8b44c6faffca) by for tips on performance.
+{% endhint %}
 
