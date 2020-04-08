@@ -1,4 +1,4 @@
-# Processing
+# Processing \(p5\)
 
 {% hint style="success" %}
 Written by [Jonas Johansson](https://jonasjohansson.se/) and [Half Scheidl](https://hscheidl.com/)
