@@ -2,7 +2,7 @@
 
 ## Rotation
 
-Use `rotate()` to draw shapes in different angles. Keep in mind, rotation is applied to the “canvas” and not to the shapes. Think of it as if we are rotating the paper we are drawing on. By default, rotation is measured in radians, to use angles type `angleMode(DEGREES)` or use `radians()` to convert degrees into radians.
+Use `rotate()` to rotate. Keep in mind, rotation is applied to the "canvas" and not the shape, as if we are rotating the paper and not the drawing. By default, rotation is measured in radians, to use angles type `angleMode(DEGREES)` in the setup function \(or use `radians()` to convert degrees into radians\).
 
 ![](../../.gitbook/assets/p5-rotate.png)
 
@@ -10,7 +10,7 @@ The amount rotated is also _remembered_ and stacks upon itself. This is clearly 
 
 ## Translate
 
-If rotation feels complex, welcome to `translate(x,y)`. A genius function in many ways, but difficult to master; translate moves the whole canvas in **x and y**, and in conjunction with rotate can make a rectangle spin around itself:
+If rotation feels complex, welcome to `translate(x,y)`. A genius function in many ways, but difficult to master. Translate moves the canvas in **x and y**, and in conjunction with rotate, it can make a rectangle spin around itself:
 
 ```javascript
 function setup() {
