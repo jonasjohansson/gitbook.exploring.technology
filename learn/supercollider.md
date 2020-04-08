@@ -19,8 +19,8 @@ Download [SuperCollider](https://supercollider.github.io/download) and drag the 
 #### Installing Sc3plugins
 
 1. Download [Sc3plugins](https://supercollider.github.io/sc3-plugins/)
-2. Go to `File > Open user support directory` \(this is a hidden place on your computer. If you ever need to get back here then, now you know how\). 
-3. Grab the folder called `sc3plugins` and drag it to the `Extensions` folder
+2. With SuperCollider open, go to `File > Open user support directory`
+3. Grab the downloaded folder `sc3plugins` and drag it to the `Extensions` folder
 
 #### Create Startup script
 
