@@ -4,5 +4,7 @@ During this workshop we'll be exploring two ways of making a point cloud. One is
 
 ![](../../../.gitbook/assets/image%20%2835%29.png)
 
-### 
+{% embed url="https://docs.derivative.ca/Kinect" %}
+
+
 

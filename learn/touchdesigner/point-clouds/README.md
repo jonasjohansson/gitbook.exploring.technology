@@ -12,15 +12,5 @@ A common way to store point clouds for instance, is by storing them in the color
 
 
 
-### Gotchas
-
-* Resolution limit on free version
-
-
-
-### GPU  and CPU
-
-
-
 
 
