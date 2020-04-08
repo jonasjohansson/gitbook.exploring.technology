@@ -1,6 +1,6 @@
 # Runway
 
-Runway is commercial a desktop software, that makes it easy to explore advanced machine learning models and running them remotely on Runways servers.
+Runway is a commercial desktop software, that makes it easy to explore advanced machine learning models and running them remotely on Runways servers.
 
 ![](../.gitbook/assets/screenshot-2020-04-06-at-13.49.18.png) 
 
