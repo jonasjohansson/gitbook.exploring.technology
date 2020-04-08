@@ -1,4 +1,4 @@
-# Hommage
+# 🏆 Hommage
 
 Work in **teams of three** and create **individual generative artworks** inspired by an **existing artwork** or **artist technique**.
 
