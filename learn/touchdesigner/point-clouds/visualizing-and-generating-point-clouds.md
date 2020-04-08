@@ -8,7 +8,9 @@ Instancing enables most of what you see happening with crazy point cloud effects
 
 We'll be looking at getting a point cloud running in TouchDesigner, how it can be drawn, and have some fun interacting with a point cloud that's set up to be affected by fluid dynamics.
 
+Go ahead and download this example file.
 
+{% embed url="https://drive.google.com/file/d/1CVHEsy4S\_zzk1r\_nK5QQwZc9heWqj4mT/view?usp=sharing" %}
 
 ### Re-meshing
 
