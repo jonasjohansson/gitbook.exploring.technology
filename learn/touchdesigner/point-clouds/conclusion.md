@@ -1,6 +1,6 @@
 # Conclusion
 
-I hope you enjoyed getting familiar with point clouds. They're a big topic, so please see this article simply as a starting point. 
+I hope you enjoyed getting familiar with point clouds. They're a big topic, so please see this article simply as a starting point from which you can continue your exploration. To some extend you can use TOPs to play with animating their position, as well as some excellent components build in TD by the community. Once you feel ready, the biggest step will be to move forward with GLSL in order to have direct control of what is happening with your points. We're planning on including sections on these in the near future.
 
 
 
