@@ -1,7 +1,7 @@
 # SuperCollider
 
 {% hint style="success" %}
-Written by [Daniel M Karlsson](http://danielmkarlsson.com/)
+Written by [Daniel M Karlsson](http://danielmkarlsson.com/) and edited by [Jonas Johansson](https://jonasjohansson.se/)
 {% endhint %}
 
 ### Install
@@ -22,7 +22,7 @@ Download [SuperCollider](https://supercollider.github.io/download) and drag the 
 2. Go to `File > Open user support directory` \(this is a hidden place on your computer. If you ever need to get back here then, now you know how\). 
 3. Grab the folder called `sc3plugins` and drag it to the `Extensions` folder
 
-#### Create Startup
+#### Create Startup script
 
 1. Go to `downloaded-quarks` \(one step up\) and open `superclean_startup.scd` and copy its contents.
 2. Go to `File > Open startup file`, and paste here.
