@@ -136,7 +136,7 @@
     * [Demo](learn/touchdesigner/point-clouds/demo.md)
     * [Capturing our own point cloud](learn/touchdesigner/point-clouds/capturing-our-own-point-cloud.md)
     * [Prepping](learn/touchdesigner/point-clouds/prepping.md)
-    * [Online sources](learn/touchdesigner/point-clouds/online-sources.md)
+    * [Online resources](learn/touchdesigner/point-clouds/online-sources.md)
     * [Performance](learn/touchdesigner/point-clouds/performance.md)
     * [Visualizing and generating point clouds](learn/touchdesigner/point-clouds/visualizing-and-generating-point-clouds.md)
 * [Tips & Trix](tips-trix/README.md)
