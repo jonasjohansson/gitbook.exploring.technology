@@ -30,7 +30,7 @@ The Level TOP is very handy and can do a lot of the things you normally would do
 
 In the Level TOP, under the Post section, set the Opacity to 0.95.
 
-![](../../../.gitbook/assets/image%20%2838%29.png)
+![](../../../.gitbook/assets/image%20%2843%29.png)
 
 At this point your TOP network should look like this. Lets add a Null at the end and call it `final`.
 

@@ -21,19 +21,35 @@ Ok, now that you have an idea about what the computer will try to do, lets take 
 * Try to get as many angles as possible.
 * Make sure to get consistent lighting all around the object, you want to have equally bright colors from all sides.
 
-![Over 300 images of my test squirrel](../../../.gitbook/assets/image%20%2814%29.png)
+![200 images of my test trashcn](../../../.gitbook/assets/image%20%2831%29.png)
 
 After you've loaded the photos over to your computer, you can select all of them and drag them into Metashape.
 
 Once its loaded you can click on the Workflow dropdown menu, and select Align Photos. Keep the settings as they are and hit OK. After some moments you should see something like the following screenshot.
 
-![test squirrel visualized in points. The blue parts are where the software guesses the photos were taken](../../../.gitbook/assets/annotation-2020-04-07-162332.png)
+![High resolution of our mesh](../../../.gitbook/assets/image%20%285%29.png)
 
 Now, you'll see that a lot of the points we got, are from places we're not really interested in. To make sure we're not calculating all those for our high density point cloud, we can change the bounding region using the following tool. Set it to the area you are interested in. 
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../.gitbook/assets/image%20%2815%29.png)
 
 After you're happy with your bounding region we can calculate the high density version of our point cloud. Click Workflow again, and select Build Dense Cloud. If you're unsure about the strength of your computer, its best to select a lower setting here.
+
+Calculating the dense cloud can take a very long time. It really depends on your use case.
+
+Once it's done you'll see a lot more points on the screen, depending on how it went, it might look very fuzzy, filled with gaps, or way too dense in some areas.
+
+What we're going to do, is rather than directly use the point cloud from MetaShape, is converting this point cloud to a mesh, and then prepping a point cloud based on this mesh in another program.
+
+Go ahead and click Workflow and then Generate Mesh.
+
+The result will look a lot better.
+
+![](../../../.gitbook/assets/image%20%2818%29.png)
+
+Once you're happy with the mesh you see, lets go to File and hit Export Model \(OBJ\).
+
+
 
 Further resources: [https://styly.cc/tips/photogrammetry\_discont\_metashape/](https://styly.cc/tips/photogrammetry_discont_metashape/)
 

@@ -4,7 +4,7 @@ Lets see how we can drive this with something interactive. Hit `TAB` and click o
 
 We'll be dealing a lot more with COMP elements in the future, but for now you can type or select Button.
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 Select the button, and in the parameter window under the Button section change the button type to Momentary. Now right click on the green opening on the side, this is a shortcut to select an operator that will be instantly wired to the button's output. Type or select a null.
 

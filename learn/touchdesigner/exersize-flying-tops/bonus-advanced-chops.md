@@ -36,7 +36,7 @@ Create a Function CHOP and connect both Select CHOPs.
 
 Select the Function CHOP and set its Function parameter to `atan2(y, x) Arctan( Input1 / Input2 )`.
 
-![](../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2812%29.png)
 
 We're almost there, the only thing we need to do is add a rotation of 90 degrees on top of what we get from the Function CHOP.
 

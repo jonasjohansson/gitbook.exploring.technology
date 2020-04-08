@@ -2,11 +2,11 @@
 
 Now we're ready to start exploring. One of the first things you might notice is that TouchDesigner has quite a lot happening in its interface.
 
-![First time opening TouchDesigner](../../.gitbook/assets/image%20%2823%29.png)
+![First time opening TouchDesigner](../../.gitbook/assets/image%20%2827%29.png)
 
 Don't worry, we'll go through each of these, and we'll only be using some of them, so no need to memorize everything. Before going through the interface elements, lets look at basic navigation first.
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 TouchDesigner works in a very similar way as the folder system on your computer. It has folders \(called OP's or operators\) and inside them you can have even more folders. The address bar on the top shows you at all times where you currently are in the path structure of your project. This path structure will become relevant as soon as we start referring to parameters or data between operators.
 
@@ -20,13 +20,13 @@ Although you often can achieve the same thing in various ways, TouchDesigner rea
 
 
 
-![Playback bar](../../.gitbook/assets/image%20%288%29.png)
+![Playback bar](../../.gitbook/assets/image%20%2810%29.png)
 
 TouchDesigner works with interactive environments but also allows for scripting on the timeline, similar to what you might know from Cinema4D or After Effects. What is important to know at this point is that your project can be paused using the playback buttons here. This can be toggled using the spacebar, always keep in mind to check the playback state from your project if something isn't working, it might just be that you accidentally hit pause.
 
 Another key component you see here on the far left is your framerate, indicated as FPS. This is currently set to 60, meaning TouchDesigner tries to refresh your entire system 60 times per second. If you have a lot of things happening in your project this framerate might be lower, the actual framerate you can find in the Menu bar, also indicated with FPS. The Realtime checkbox next to it lets you choose to render every frame, to allow for skipping frames, by default it is set to skip frames.
 
-![Menu bar](../../.gitbook/assets/image%20%2822%29.png)
+![Menu bar](../../.gitbook/assets/image%20%2826%29.png)
 
 Lastly we have the Palette browser on the left, and the Parameter window on the right. We'll dive into the Parameter window in a moment. The Palette browser is a place where you can drag very handy pre-build TouchDesigner components into your project, for now you can close this window. To bring it back take a look at the **Dialogs** dropdown menu.
 

@@ -11,7 +11,7 @@
 
 ### Re-meshing
 
-![Dune by onformative in collaboration with Natacha Mankowski](../../../.gitbook/assets/image%20%2844%29.png)
+![Dune by onformative in collaboration with Natacha Mankowski](../../../.gitbook/assets/image%20%2850%29.png)
 
 
 

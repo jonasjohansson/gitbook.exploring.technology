@@ -10,7 +10,7 @@ After preparing the scene into a real time environment \(in their case VVVV\). T
 
 The real magic which makes a project like the one from MLF so vivid and impressive, is the way they are able to manipulate the points. By calculating simulated physics, they can add forces such as gravity and magnetism or even behavior you might know from fluids, which influences the points and makes them move and react in a way which gives them character.
 
-![Remains by Quayola](../../../.gitbook/assets/image%20%2840%29.png)
+![Remains by Quayola](../../../.gitbook/assets/image%20%2846%29.png)
 
 [https://quayola.com/work/series/remains-series.php](https://quayola.com/work/series/remains-series.php)
 

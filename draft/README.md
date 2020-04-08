@@ -6,5 +6,5 @@
 
 
 
-![Untitled \(2019\) by Natasha Klimenko](../.gitbook/assets/image%20%2811%29.png)
+![Untitled \(2019\) by Natasha Klimenko](../.gitbook/assets/image%20%2813%29.png)
 
