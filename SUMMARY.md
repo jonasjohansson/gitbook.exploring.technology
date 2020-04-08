@@ -139,6 +139,7 @@
     * [Online resources](learn/touchdesigner/point-clouds/online-sources.md)
     * [Performance](learn/touchdesigner/point-clouds/performance.md)
     * [Visualizing and generating point clouds](learn/touchdesigner/point-clouds/visualizing-and-generating-point-clouds.md)
+    * [Conclusion](learn/touchdesigner/point-clouds/conclusion.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
     * [Changelog](tips-trix/mio/changelog.md)
