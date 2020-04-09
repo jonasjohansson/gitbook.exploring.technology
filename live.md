@@ -10,7 +10,7 @@ In April we are streaming workshops on [Twitch](https://www.twitch.tv/exploringt
 | 0406 | Intro to TouchDesigner | [Mickey van Olst](https://mickeyvanolst.com/) |
 | 0407 | Browser AR using [A-Frame](learn/aframe/) and AR.js | Jonas Johansson |
 | 0408 | Algorithmic sounds with [SuperCollider](learn/supercollider.md) | [Daniel M. Karlsson](https://www.danielmkarlsson.com/) |
-| 0409 | Point clouds and photogrammetry with TouchDesigner and MetaShape | Mickey van Olst |
+| 0409 | [Point clouds and photogrammetry](learn/touchdesigner/point-clouds/) with TouchDesigner and MetaShape | Mickey van Olst |
 | 0410 | Machine Learning with [Runway](learn/runway.md) | [Andreas Refsgaard](https://andreasrefsgaard.dk/) |
 | 0411 | Live coding networked visuals with Hydra | [Annie Tådne](https://tadne.se/) |
 | 0413 | GLSL and Advanced TOP in TouchDesigner | [Anton Heestand](http://hexagons.net/) |
