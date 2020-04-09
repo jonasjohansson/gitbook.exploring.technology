@@ -16,7 +16,7 @@ Test switching between the two scenes using the hotkey. If this does not work, i
 
 ![](../.gitbook/assets/obs-studio%20%281%29.png)
 
-Before pressing Start Streaming and Start Recording, in **Settings &gt; Stream** set Service and fill out the Stream Key. If you are using Twitch, this can be found in the [Twitch user account](https://www.twitch.tv/settings/profile) under Channel and Videos.
+Before pressing Start Streaming and Start Recording, in **Settings &gt; Stream** set Service and fill out the Stream Key \(ask the admin of the Twitch channel\). If you are using Twitch, this can be found in the [Twitch user account](https://www.twitch.tv/settings/profile) under Channel and Videos.
 
 {% hint style="warning" %}
 Remember to test the stream having someone else visit and verify that sound and video behaves accordingly. It is possible to tweak video and audio output settings in OBS Studio.
