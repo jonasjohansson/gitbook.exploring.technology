@@ -1,4 +1,4 @@
-# Capturing our own point cloud
+# Capture
 
 In order to make our own point cloud, we'll need a solid object with ideally a smooth surface and not too many thin surfaces or details. This technique also works for larger things such as buildings, but to keep things simple I'm going to assume you have an object along the lines of a teakettle or a flower pot. 
 

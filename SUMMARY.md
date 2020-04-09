@@ -133,7 +133,7 @@
   * [Point Cloud](learn/touchdesigner/point-clouds/README.md)
     * [Capturing methods](learn/touchdesigner/point-clouds/capturing-methods.md)
     * [Demo](learn/touchdesigner/point-clouds/demo.md)
-    * [Capturing our own point cloud](learn/touchdesigner/point-clouds/capturing-our-own-point-cloud.md)
+    * [Capture](learn/touchdesigner/point-clouds/capturing-our-own-point-cloud.md)
     * [Prepping](learn/touchdesigner/point-clouds/prepping.md)
     * [Online resources](learn/touchdesigner/point-clouds/online-sources.md)
     * [Performance](learn/touchdesigner/point-clouds/performance.md)

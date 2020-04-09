@@ -16,3 +16,9 @@ Sketchfab can be tricky to navigate, but holds some really high quality datasets
 
 Other places that are always good to look, are universities, public archives and research facilities. Often they publish their point cloud data. You can also find a lot from space agencies, satellites and observatories.
 
+
+
+
+
+{% file src="../../../.gitbook/assets/bust-of-nefertiti-at-the-neues-museum-berlin.stl" %}
+
