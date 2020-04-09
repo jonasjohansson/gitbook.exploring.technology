@@ -2,6 +2,8 @@
 
 In April we are streaming workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET GMT+2. More information in our [Facebook event](https://www.facebook.com/events/524433344931172/).
 
+New to streaming? Check out the [stream page](tips-trix/stream.md)!
+
 ## Workshops
 
 | Date | Topic | Host |
