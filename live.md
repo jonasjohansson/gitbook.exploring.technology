@@ -19,7 +19,7 @@ New to streaming? Check out the [stream page](tips-trix/stream.md)!
 | 0414 | Enhanced radical knitting using JavaScript and the Terminal | [Alexander Wallin](https://www.alexanderwallin.com/) |
 | 0415 | Sketch and share Chiptune music with [Beepbox](learn/beepbox/) | [Francesco Torelli](http://www.francescotorelli.it/) |
 | 0416 | Painting by numbers: An intro to shaders | Christian Kokott |
-| 0417 |  |  |
+| 0417 | Interactive visuals in the browser with [Cables.gl](https://cables.gl/) | [Adam Smith](https://undev.studio/) |
 | 0418 | Projection mapping and audiovisuals in [Resolume](learn/resolume/) | Jonas Johansson |
 
 ![Generative Design with Jonas Johansson](.gitbook/assets/92226066_855689188257013_2238644904383217664_o.jpg)
