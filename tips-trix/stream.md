@@ -15,7 +15,7 @@ If your choice is any of the latter, then [OBS Studio](https://obsproject.com/) 
 Test switching between the two scenes using the hotkey. If this does not work, in **Settings &gt; Advanced**, make sure Hotkey Focus Behavior is set to "Never disable hotkeys".
 
 {% hint style="info" %}
-Pay attention to the amount if audio inputs, there should preferably be only 1.
+Pay attention to the amount if audio inputs, there should preferably be only one, otherwise a feedback loop can occur.
 {% endhint %}
 
 ![](../.gitbook/assets/obs-studio%20%281%29.png)
