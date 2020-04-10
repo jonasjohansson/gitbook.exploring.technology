@@ -4,7 +4,7 @@ Setting up a stream can be a daunting task if never done before.  Both [Zoom](ht
 
 ### OBS Studio
 
-If your choice is any of the latter, then [OBS Studio](https://obsproject.com/) \(Open Broadcaster Software\) will elevate the experience for both host and audience. For a great default setup, do the following:
+If your choice is any of the latter, then [OBS Studio](https://obsproject.com/)  will elevate the experience for both host and audience. For a great default setup, do the following:
 
 1. Select Scene under Scenes in the bottom left
 2. Add a Video Capture Device under Sources, name it Webcam
@@ -13,6 +13,10 @@ If your choice is any of the latter, then [OBS Studio](https://obsproject.com/) 
 5. In **Settings &gt; Hotkeys** find Scene and Screen and add a hotkey for the "Switch to scene" input. 
 
 Test switching between the two scenes using the hotkey. If this does not work, in **Settings &gt; Advanced**, make sure Hotkey Focus Behavior is set to "Never disable hotkeys".
+
+{% hint style="info" %}
+Pay attention to the amount if audio inputs, there should preferably be only 1.
+{% endhint %}
 
 ![](../.gitbook/assets/obs-studio%20%281%29.png)
 
