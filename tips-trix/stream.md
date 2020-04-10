@@ -1,6 +1,6 @@
 # Stream
 
-Setting up a stream can be a daunting task if never done before.  Both [Zoom](https://zoom.us/) \([pricing](https://zoom.us/pricing)\) and [Meet](https://meet.google.com/?authuser=1) \([pricing](https://gsuite.google.com/pricing.html)\) are great for conference calls and online lectures, while [Twitch](https://www.twitch.tv/), [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live), [Youtube Live](https://studio.youtube.com/) work better for streams that audience can drop in and out of.
+Setting up a stream can be a daunting task if never done before.  Both [Zoom](https://zoom.us/) \([pricing](https://zoom.us/pricing)\) and [Meet](https://meet.google.com/?authuser=1) \([pricing](https://gsuite.google.com/pricing.html)\) work well for conference calls and online lectures where video quality and frame rate is not focus, while [Twitch](https://www.twitch.tv/), [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live), [Youtube Live](https://studio.youtube.com/) work better for streams that audience can drop in and out of.
 
 ### OBS Studio
 
