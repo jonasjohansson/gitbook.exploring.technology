@@ -16,6 +16,7 @@ It is also possible to code live using [Ted Davis P5 Live](https://teddavis.org/
 
 ### References
 
+* [https://www.tetoki.eu/scanprocessor/](https://www.tetoki.eu/scanprocessor/)
 * [https://timrodenbroeker.de/courses/creative-coding-essentials/intro/](https://timrodenbroeker.de/courses/creative-coding-essentials/intro/)
 * [https://www.instagram.com/zach.lieberman/](https://www.instagram.com/zach.lieberman/)
 * [https://www.instagram.com/manoloide/?hl=en](https://www.instagram.com/manoloide/?hl=en)
