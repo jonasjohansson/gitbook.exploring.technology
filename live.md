@@ -11,10 +11,10 @@ New to streaming? Check out the [stream page](tips-trix/stream.md)!
 | 0403 | [Generative Design](learn/p5/generative-design.md) | [Jonas Johansson](https://jonasjohansson.se/) |
 | 0406 | Intro to TouchDesigner | [Mickey van Olst](https://mickeyvanolst.com/) |
 | 0407 | Browser AR using [A-Frame](learn/aframe/) and AR.js | Jonas Johansson |
-| 0408 | Algorithmic sounds with [SuperCollider](learn/supercollider.md) | [Daniel M. Karlsson](https://www.danielmkarlsson.com/) |
-| 0409 | [Point clouds and photogrammetry](learn/touchdesigner/point-clouds/) with TouchDesigner and MetaShape | Mickey van Olst |
+| 0408 | Algorithmic sounds in [SuperCollider](learn/supercollider.md) | [Daniel M. Karlsson](https://www.danielmkarlsson.com/) |
+| 0409 | [Point clouds](learn/touchdesigner/point-clouds/) in TouchDesigner and MetaShape | Mickey van Olst |
 | 0410 | Machine Learning with [Runway](learn/runway.md) | [Andreas Refsgaard](https://andreasrefsgaard.dk/) |
-| 0411 | Live coding networked visuals with Hydra | [Annie Tådne](https://tadne.se/) |
+| 0411 | Live coding networked visuals in Hydra | [Annie Tådne](https://tadne.se/) |
 | 0413 | GLSL and Advanced TOP in TouchDesigner | [Anton Heestand](http://hexagons.net/) |
 | 0414 | Enhanced radical knitting using JavaScript and the Terminal | [Alexander Wallin](https://www.alexanderwallin.com/) |
 | 0415 | Sketch and share Chiptune music with [Beepbox](learn/beepbox/) | [Francesco Torelli](http://www.francescotorelli.it/) |
