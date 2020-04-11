@@ -16,11 +16,16 @@ Create a folder for all the image frames, and drag and drop the folder.
 
 ### Workflow
 
-Go to `Workflow > Align photos…` and choose Medium accuracy to save time.
+The following steps will process the images and create a textured mesh.
 
-{% hint style="info" %}
-With 300 images \(600mb\) on a decent machine this took a ~15 minutes.
-{% endhint %}
+1. Go to `Workflow > Align Photos…` and choose Medium accuracy to save time.
+2. Once loaded, go to `Workflow > Align Photos…`and choose Medium quality.
+3. `Workflow > Build Dense Cloud…`
+4. `Workflow > Build Mesh…`
+5. `Workflow > Build Texture…`
+6. `File > Export > Export model…`
+7. Import the model in CloudCompare and `Edit > Mesh > Sample Points` to generate a point cloud from the mesh.
+8. Finally, export as PLY.
 
-Once loaded, go to `Workflow > Align photos…`and choose Medium quality.
+
 
