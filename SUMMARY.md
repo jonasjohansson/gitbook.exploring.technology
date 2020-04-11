@@ -149,7 +149,6 @@
   * [Stream](tips-trix/stream.md)
   * [Web](tips-trix/web.md)
 * [Draft](draft/README.md)
-  * [Metashape](draft/metashape.md)
   * [Spark](draft/spark/README.md)
     * [Face Mask](draft/spark/face-mask.md)
     * [Face Decoration](draft/spark/face-decoration.md)
@@ -158,4 +157,9 @@
     * [Upload Effect](draft/spark/upload-effect.md)
     * [Reducing 3D files](draft/spark/reducing-3d.md)
   * [Cinema](draft/cinema.md)
+
+## Guides
+
+* [Create Point Clouds](guides/metashape.md)
+* [Untitled](guides/untitled.md)
 
