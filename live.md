@@ -26,5 +26,5 @@ New to streaming? Check out the [stream page](tips-trix/stream.md)!
 
 ![Introduction to TouchDesigner with Mickey van Olst](.gitbook/assets/92564229_10158476225529459_7639208482557657088_o.jpg)
 
-
+![Video synthesis in Hydra with Annie T&#xE5;dne](.gitbook/assets/hydra-workshop.png)
 
