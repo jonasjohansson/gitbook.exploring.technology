@@ -149,6 +149,7 @@
   * [Stream](tips-trix/stream.md)
   * [Web](tips-trix/web.md)
 * [Draft](draft/README.md)
+  * [Metashape](draft/metashape.md)
   * [Spark](draft/spark/README.md)
     * [Face Mask](draft/spark/face-mask.md)
     * [Face Decoration](draft/spark/face-decoration.md)
