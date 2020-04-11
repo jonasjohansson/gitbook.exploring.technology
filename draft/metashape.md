@@ -22,5 +22,5 @@ Go to `Workflow > Align photos…` and choose Medium accuracy to save time.
 With 300 images \(600mb\) on a decent machine this took a ~15 minutes.
 {% endhint %}
 
-Once loaded, go to `Workflow > Align photos…`
+Once loaded, go to `Workflow > Align photos…`and choose Medium quality.
 
