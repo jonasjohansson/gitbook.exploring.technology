@@ -139,6 +139,8 @@
     * [Performance](learn/touchdesigner/point-clouds/performance.md)
     * [Visualizing and generating point clouds](learn/touchdesigner/point-clouds/visualizing-and-generating-point-clouds.md)
     * [Conclusion](learn/touchdesigner/point-clouds/conclusion.md)
+  * [GLSL](learn/touchdesigner/glsl/README.md)
+    * [Tutorial - Noise Plane](learn/touchdesigner/glsl/tutorial-noise-plane.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
     * [Changelog](tips-trix/mio/changelog.md)

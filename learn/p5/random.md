@@ -71,5 +71,5 @@ function drawWave(x, y, w, h) {
 }
 ```
 
-![](../../.gitbook/assets/noise.png)
+![](../../.gitbook/assets/noise%20%281%29.png)
 
