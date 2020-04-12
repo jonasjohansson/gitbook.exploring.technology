@@ -7,7 +7,7 @@ description: OpenGL Shading Language
 This page is about pixel shaders, also know as fragment shaders.
 
 {% hint style="success" %}
-GLSL code runs in parallell on on the **GPU**.
+GLSL code runs in parallel on on the **GPU**.
 {% endhint %}
 
 The same code get's executed on each pixel.
