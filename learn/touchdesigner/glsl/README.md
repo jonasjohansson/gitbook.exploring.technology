@@ -71,6 +71,7 @@ uniform float value;
 uniform vec2 xy;
 uniform vec3 rgb;
 uniform vec4 rgba;
+uniform int counter;
 uniform bool toggle;
 ```
 
