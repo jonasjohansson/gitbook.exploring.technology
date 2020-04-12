@@ -35,7 +35,7 @@ It's convenient to work with high bit color for two main reasons.
 
 ## The Default Shader
 
-```text
+```c
 // Example Pixel Shader
 
 // uniform float exampleUniform;
@@ -66,7 +66,7 @@ Get the first input with **texture\(sTD2DInputs\[0\], vUV.st\)**
 
 Uniforms are variables. You can pass CHOP values into a GLSL TOP by a python reference of the CHOP on the second tab called Vectors, under the first value of the first parameter "Uniform Name 0". Call it something then update the GLSL code by replacing "exampleUniform" with your variable name.
 
-```text
+```c
 uniform float value;
 uniform vec2 xy;
 uniform vec3 rgb;

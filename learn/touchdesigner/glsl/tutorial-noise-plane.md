@@ -6,13 +6,13 @@ description: GLSL Snippets Guide
 
 ![UV Map](../../../.gitbook/assets/uv.png)
 
-```text
+```c
 vec4 uv = vec4(vUV.st, 0.0, 1.0);
 ```
 
 ![Noise](../../../.gitbook/assets/noise.png)
 
-```text
+```c
 float scale = 3.0;
 float offset = 0.0;
 float n = TDPerlinNoise(vec3(vUV.st * scale, offset));
@@ -21,25 +21,25 @@ vec4 noise = vec4(0.5 + n, 0.5 + n, 0.5 + n, 1.0);
 
 ![Smooth Cone Gradient](../../../.gitbook/assets/cone_smooth.png)
 
-```text
+```c
 float cone = sqrt(pow(vUV.s - 0.5, 2) + pow(vUV.t - 0.5, 2)) * 2;
 if (cone > 1.0) { cone = 1.0; }
 vec4 gradient = vec4(cone, cone, cone, 1.0);
 ```
 
-```text
+```c
 float pi = 3.14159265359;
 vec4 smooth = cos(gradient * pi + pi) / 2 + 0.5;
 ```
 
-```text
+```c
 float gamma = 0.5;
 vec4 amp = pow(smooth, vec4(1.0 / gamma));
 ```
 
 ![Mixed UV Map](../../../.gitbook/assets/mix.png)
 
-```text
+```c
 vec4 mixed = uv + (noise - 0.5) * amp
 ```
 
