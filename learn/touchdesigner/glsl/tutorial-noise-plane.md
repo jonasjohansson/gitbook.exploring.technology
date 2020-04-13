@@ -52,7 +52,7 @@ Circle radius should be equal to one divided by Render TOPs max resolution.
 {% endhint %}
 
 {% hint style="success" %}
-Keyboard shortcut "a" then "v" in TouchDesigner toggles particle view of TOPs
+Keyboard shortcut `A + V` toggles particle view of TOPs
 {% endhint %}
 
 ![Particle Noise Plane](../../../.gitbook/assets/pixelkit--particle-noise-plane.png)
