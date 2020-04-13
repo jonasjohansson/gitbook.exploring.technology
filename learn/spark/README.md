@@ -8,7 +8,7 @@ Create Augmented Reality experiences for Instagram and Facebook.
 
 ### Install
 
-Begin by installing the Spark AR \([download](https://sparkar.facebook.com/ar-studio/)\) application. Also install Spark AR Player \([link](https://apps.apple.com/us/app/spark-ar-player/id1231451896)\) on your mobile device for testing. **In order to use Spark you also require a Facebook account.**
+Get [Spark AR](https://sparkar.facebook.com/ar-studio/) and the [Spark AR Player](https://apps.apple.com/us/app/spark-ar-player/id1231451896) on your mobile device. **In order to use Spark you also require a Facebook account.**
 
 ### **Learning**
 
