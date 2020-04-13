@@ -1,8 +1,16 @@
 # Enhanced radical knitting using JavaScript and the Terminal
 
+{% hint style="success" %}
+Written by [Alexander Wallin](https://www.alexanderwallin.com/)
+{% endhint %}
+
 Ever wondered how you can use the Terminal and JavaScript to create experimental knitting patterns, and guide us through the actual knitting?
 
 This is a beginner-to-intermediate introduction to programming and  knitting, but the idea is that you don't have to know either to get the gist. The main point is to introduce these topics and try to show ways of combining technology and craft in a way that will inspire you to experiment with whatever you enjoy creating.
+
+{% hint style="success" %}
+Visit the [repository](https://github.com/alexanderwallin/knitting) for the full project.
+{% endhint %}
 
 ## Getting started
 
@@ -13,7 +21,9 @@ If you want to follow along you need the following:
 3. [Node](https://nodejs.org/en/), a package manager for Javascript
 4. [Ports](https://www.macports.org/) or [Brew](https://brew.sh/) \(recommended\).
 5. [JP2A](https://csl.name/jp2a/), a command line image-to-ASCII converter installed via ports or brew.
-6. We'll also be using the `npm` packages `chalk`, `date-fns`, `got`, `lodash` and `nodemon`.
+6. The `npm` packages `chalk`, `date-fns`, `got`, `lodash` and `nodemon`.
+
+Check out the project repo
 
 ### Terminal
 
