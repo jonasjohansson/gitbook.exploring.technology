@@ -4,27 +4,15 @@ description: OpenGL Shading Language
 
 # GLSL
 
-This page is about pixel shaders, also know as fragment shaders.
+GLSLis a short term for the official OpenGL Shading Language. With GLSL you can code short programs, called shaders, which run parallel on the GPU. This page is about pixel shaders, also know as fragment shaders. Important to know about shaders:
 
-{% hint style="success" %}
-GLSL code runs in parallel on on the **GPU**.
-{% endhint %}
-
-The same code get's executed on each pixel.
-
-In a one megapixel image \(1000x1000\), the code runs one million times for a single frame.
-
-Now based on the pixel location, the UV coordinate, you calculate a single color of RGBA.
-
-{% hint style="info" %}
-UV coordinates are represented as floating point values between 0.0 and 1.0
-{% endhint %}
+* The same code is executed on each pixel
+* In a one megapixel image \(1000x1000\), the code runs one million times for a single frame
+* Based on the pixel location, the UV coordinate, you calculate a single color of RGBA.
+* UV coordinates are represented as floating point values between 0.0 and 1.0
+* _vec4_ is a value type with 4 floats, usually: red, green, blue and alpha.
 
 **GLSL vs GLSL Multi TOPs**: They are the same, with the difference that the latter has support for more inputs than the first.
-
-{% hint style="info" %}
-_vec4_ is a value type with 4 floats, usually: red, green, blue and alpha.
-{% endhint %}
 
 ## High Bit Color
 
