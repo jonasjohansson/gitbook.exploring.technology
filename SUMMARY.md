@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Hello world](README.md)
-* [Live](live.md)
 * [Learn](learn/README.md)
   * [A-Frame](learn/aframe/README.md)
     * [1. Scene](learn/aframe/scene.md)
