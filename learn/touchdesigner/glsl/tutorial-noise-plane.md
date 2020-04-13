@@ -1,41 +1,76 @@
----
-description: GLSL Snippets Guide
----
+# Building a GLSL Noise Plane
 
-# Tutorial - Noise Plane
+## UV
 
-![UV Map](../../../.gitbook/assets/uv.png)
-
-```c
-vec4 uv = vec4(vUV.st, 0.0, 1.0);
-```
-
-![Noise](../../../.gitbook/assets/noise.png)
+1. Create a new GLSL TOP
+2. Name it `glsl_uv` 
+3. Open the attached text block and add:
 
 ```c
-float scale = 3.0;
-float offset = 0.0;
-float n = TDPerlinNoise(vec3(vUV.st * scale, offset));
-vec4 noise = vec4(0.5 + n, 0.5 + n, 0.5 + n, 1.0);
+out vec4 fragColor;
+void main()
+{
+	vec4 color = vec4(vUV.st, 0.0, 1.0);
+	fragColor = TDOutputSwizzle(color);
+}
 ```
 
-![Smooth Cone Gradient](../../../.gitbook/assets/cone_smooth.png)
+![](../../../.gitbook/assets/uv.png)
 
+## Noise
+
+1. Create a new GLSL TOP
+2. Name it `glsl_noise` 
+3. Open the attached text block and add:
+
+```c
+out vec4 fragColor;
+void main()
+{
+	float scale = 3.0;
+	float offset = 0.0;
+	float n = TDPerlinNoise(vec3(vUV.st * scale, offset));
+	vec4 noise = vec4(0.5 + n, 0.5 + n, 0.5 + n, 1.0);
+}
+```
+
+![](../../../.gitbook/assets/noise.png)
+
+## Cone
+
+1. Create three new GLSL TOPs
+2. Name them `glsl_cone`, `glsl_smooth` and `glsl_gamma` 
+3. Open the attached text block and add:
+
+{% tabs %}
+{% tab title="glsl\_cone" %}
 ```c
 float cone = sqrt(pow(vUV.s - 0.5, 2) + pow(vUV.t - 0.5, 2)) * 2;
 if (cone > 1.0) { cone = 1.0; }
 vec4 gradient = vec4(cone, cone, cone, 1.0);
 ```
+{% endtab %}
 
+{% tab title="glsl\_smooth" %}
 ```c
 float pi = 3.14159265359;
 vec4 smooth = cos(gradient * pi + pi) / 2 + 0.5;
 ```
+{% endtab %}
 
+{% tab title="glsl\_gamma" %}
 ```c
 float gamma = 0.5;
 vec4 amp = pow(smooth, vec4(1.0 / gamma));
 ```
+{% endtab %}
+{% endtabs %}
+
+![](../../../.gitbook/assets/cone_smooth.png)
+
+
+
+## Mixed UV Map
 
 ![Mixed UV Map](../../../.gitbook/assets/mix.png)
 
