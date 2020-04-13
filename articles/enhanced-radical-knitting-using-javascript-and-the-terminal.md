@@ -12,7 +12,7 @@ In order to follow along you need the following:
 
 1. Basic programming knowledge.
 2. A text editor like [Sublime Text](https://www.sublimetext.com/) or [Visual Studio Code](https://code.visualstudio.com/).
-3. [Node](https://nodejs.org/en/), a package manager for Javascript
+3. [Node.js](https://nodejs.org/en/) and `npm`, a package manager for Javascript
 4. [Ports](https://www.macports.org/) or [Brew](https://brew.sh/) \(recommended\).
 5. [JP2A](https://csl.name/jp2a/), a command line image-to-ASCII converter installed via ports or brew.
 6. The `npm` packages `chalk`, `date-fns`, `got`, `lodash` and `nodemon`.
@@ -31,7 +31,7 @@ The terminal \([guide](https://blog.teamtreehouse.com/introduction-to-the-mac-os
 
 JavaScript \([introduction](https://javascript.info/intro)\) is a programming language that makes web pages interactive. It can also be run outside browsers, for instance in the terminal using Node.
 
-Building JavaScript programs is easier when you don't have to do everything yourself, so we'll install and use publicly available packages from the Node package manager [npm](https://www.npmjs.com/).
+Building JavaScript programs is easier when you don't have to do everything yourself, so we'll install and use publicly available packages from [npm](https://www.npmjs.com/).
 
 ### Knitting
 
