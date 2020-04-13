@@ -8,10 +8,6 @@ Ever wondered how you can use the Terminal and JavaScript to create experimental
 
 This is a beginner-to-intermediate introduction to programming and  knitting, but the idea is that you don't have to know either to get the gist. The main point is to introduce these topics and try to show ways of combining technology and craft in a way that will inspire you to experiment with whatever you enjoy creating.
 
-{% hint style="info" %}
-Visit the [repository](https://github.com/alexanderwallin/knitting) for the full project.
-{% endhint %}
-
 ## Getting started
 
 If you want to follow along you need the following:
@@ -23,7 +19,9 @@ If you want to follow along you need the following:
 5. [JP2A](https://csl.name/jp2a/), a command line image-to-ASCII converter installed via ports or brew.
 6. The `npm` packages `chalk`, `date-fns`, `got`, `lodash` and `nodemon`.
 
-Check out the project repo
+{% hint style="info" %}
+Visit the [repository](https://github.com/alexanderwallin/knitting) for the full project.
+{% endhint %}
 
 ### Terminal
 
@@ -45,6 +43,4 @@ Knitting \([introduction](https://youtu.be/p_R1UDsNOMk)\) is the ancient magic o
 2. **Generate knitting patterns using JavaScript** and define parameters to experiment with \(basic [generative design](https://en.wikipedia.org/wiki/Generative_design)\).
 3. **Use external data sources to produce designs.** We'll test things out with imagery and some nature and weather data.
 4. Finally, we **create simple interfaces that help us knit**, since knitting is complex, random and/or non-repetitive patterns is hard to do from simply looking at them.
-
-### 
 
