@@ -4,7 +4,9 @@ This article is introduction and preparation for [the live streamed workshop wit
 
 In this workshop we are going to look at ways of using the MacOS terminal environment together with JavaScript programming to create experimental knitting patterns and later make simple interfaces to guide us through the actual knitting.
 
-We'll be doing intermediate level programming and lightweight knitting, but the idea is that you don't have to know either to follow along. The main point is to introduce these topics and try to show ways of combining technology and craft in a way that will inspire you to experiment with whatever you enjoy creating.
+We'll be doing beginner-to-intermediate level programming and lightweight knitting, but the idea is that you don't have to know either to get the gist. The main point is to introduce these topics and try to show ways of combining technology and craft in a way that will inspire you to experiment with whatever you enjoy creating.
+
+If you want to follow along and understand the programming parts, you will need basic programming knowledge.
 
 ### Introductions
 
