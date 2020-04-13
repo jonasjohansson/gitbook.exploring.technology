@@ -147,6 +147,7 @@
     * [GLSL](learn/touchdesigner/glsl/README.md)
       * [Building a GLSL Noise Plane](learn/touchdesigner/glsl/tutorial-noise-plane.md)
 * [Articles](articles/README.md)
+  * [Enhanced radical knitting using JavaScript and the Terminal](articles/enhanced-radical-knitting-using-javascript-and-the-terminal.md)
   * [Point Clouds](articles/metashape.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
