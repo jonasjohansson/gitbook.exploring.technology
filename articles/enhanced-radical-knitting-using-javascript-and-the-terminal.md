@@ -29,7 +29,7 @@ Building JavaScript programs is easier when you don't have to do everything your
 
 Knitting \([introduction](https://youtu.be/p_R1UDsNOMk)\) is the ancient magic of looping strands of yarn into clothes or other things. While it can get as complex as you like, getting started and making your first scarf is fairly easy and straightforward.
 
-### What we'll be doing
+### The Workshop
 
 1. **Get familiar with the terminal** and a few ways of using it. We'll look at downloading things from the Internet, writing files, piping, run JavaScript programs and a few more bits and bobs.
 2. **Generate knitting patterns using JavaScript** and define parameters to experiment with \(basic [generative design](https://en.wikipedia.org/wiki/Generative_design)\).
