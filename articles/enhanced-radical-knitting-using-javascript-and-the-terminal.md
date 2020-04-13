@@ -4,7 +4,7 @@
 Written by [Alexander Wallin](https://www.alexanderwallin.com/)
 {% endhint %}
 
-Ever wondered how you can use the Terminal and JavaScript to create experimental knitting patterns, and guide us through the actual knitting?
+Ever wondered how you can use JavaScript and the Terminal to create experimental knitting patterns, and guide us through the actual knitting?
 
 This is a beginner-to-intermediate introduction to programming and  knitting, but the idea is that you don't have to know either to get the gist. The main point is to introduce these topics and try to show ways of combining technology and craft in a way that will inspire you to experiment with whatever you enjoy creating.
 
