@@ -8,9 +8,7 @@ Ever wondered how you can use JavaScript and the Terminal to create experimental
 
 This is a beginner-to-intermediate introduction to programming and  knitting, but the idea is that you don't have to know either to get the gist. The main point is to introduce these topics and try to show ways of combining technology and craft in a way that will inspire you to experiment with whatever you enjoy creating.
 
-## Getting started
-
-If you want to follow along you need the following:
+In order to follow along you need the following:
 
 1. Basic programming knowledge.
 2. A text editor like [Sublime Text](https://www.sublimetext.com/) or [Visual Studio Code](https://code.visualstudio.com/).
@@ -22,6 +20,8 @@ If you want to follow along you need the following:
 {% hint style="info" %}
 Visit the [repository](https://github.com/alexanderwallin/knitting) for the full project.
 {% endhint %}
+
+## Getting started
 
 ### Terminal
 
