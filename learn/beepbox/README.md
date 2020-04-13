@@ -19,7 +19,7 @@ Beepbox \([link](https://www.beepbox.co/#8n31s0k0l00e03t2mm0a7g0fj07i0r1o3210T5v
 
 ### Setup
 
-To get a better view of the interface, open **Preferences** and select **Full-Screen Layout** and **Show Piano Keys**. Change the scale to any of the "Normal" options under **Song Settings**. Scale defines the notes available, with **Normal** and easier ****making only room for "harmony safe" notes. 
+To get a better view of the interface, open **Preferences,** select **Full-Screen Layout** and **Show Piano Keys**. Change the scale to any of the "Normal" options under **Song Settings**. Scale defines the notes available, with **Normal** and easier ****making only room for "harmony safe" notes. 
 
 ![](../../.gitbook/assets/beepbox-interface.png)
 

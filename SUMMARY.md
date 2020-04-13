@@ -54,7 +54,7 @@
     * [8. Hacking](learn/bitsy/hacking.md)
     * [9. More Colors](learn/bitsy/colors.md)
     * [10. Dialog](learn/bitsy/dialog.md)
-  * [Cinema](learn/cinema.md)
+  * [Cinema \(draft\)](learn/cinema.md)
   * [Laser Cutting](learn/laser-cutting/README.md)
     * [Basics](learn/laser-cutting/getting-started.md)
     * [Advanced](learn/laser-cutting/advanced.md)
