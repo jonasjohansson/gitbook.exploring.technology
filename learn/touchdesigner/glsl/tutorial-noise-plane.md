@@ -15,6 +15,10 @@ void main()
 }
 ```
 
+{% hint style="info" %}
+Note that even tho the color is a vec4, we can pass it 3 arguments, the first is the uv coordinate, vUV.st, it's a vec2, then we set blue to zero and alpha to one.
+{% endhint %}
+
 ![](../../../.gitbook/assets/uv.png)
 
 ## Noise
@@ -33,6 +37,14 @@ void main()
 	vec4 noise = vec4(0.5 + n, 0.5 + n, 0.5 + n, 1.0);
 }
 ```
+
+{% hint style="warning" %}
+This example is gray scale. For a better final result, make two noise variables, one for red \(x\) and one for green \(y\). offset the green by 10, just to make it different from red. Then leave blue at zero.
+{% endhint %}
+
+{% hint style="success" %}
+You can also animate the offset by passing in a uniform with: `absTime.frame`
+{% endhint %}
 
 ![](../../../.gitbook/assets/noise.png)
 
