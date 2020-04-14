@@ -147,6 +147,7 @@
     * [GLSL](learn/touchdesigner/glsl/README.md)
       * [Building a GLSL Noise Plane](learn/touchdesigner/glsl/tutorial-noise-plane.md)
 * [Workshops](workshops/README.md)
+  * [DIY Pixelstick using Teensy](workshops/diy-pixelstick-using-teensy.md)
   * [Enhanced radical knitting](workshops/enhanced-radical-knitting.md)
   * [Point Clouds](workshops/metashape.md)
 * [Tips & Trix](tips-trix/README.md)
