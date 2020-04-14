@@ -1,5 +1,9 @@
 # DIY Pixelstick using Teensy
 
+Inspired by [Philippe Dubost light painting](https://www.youtube.com/watch?v=Hau4WGgDPHA), let's build our own Pixelstick using Teensy!
+
+![&quot;It&apos;s Going to Be OK&quot; by Philippe Dubost](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/91521406_10157302808901219_5205234096254484480_o.jpg?_nc_cat=102&_nc_sid=8024bb&_nc_ohc=gEOq93riJa8AX-akxcw&_nc_ht=scontent-arn2-1.xx&oh=108c18efaa81be4a4f96851be67f7009&oe=5EBAB124)
+
 ### Generate TXT from PNG
 
 Download the [Pixelstick repository](https://github.com/LucasBerbesson/pixelstick) and follow the steps to generate a text file from image. 
@@ -33,5 +37,7 @@ Create a new sketch `⌘ + N` and run the `pixelstick.ino` file from the reposit
 
 Since the Teensy provides 3.3 volts the LED strip will not manage to produce full white, but instead go into red. There are ways to avoid this such as using the [OctoWS2811](https://www.pjrc.com/teensy/td_libs_OctoWS2811.html) or simply providing power externally.
 
+### Capture the light!
 
+To see the light painting effect, either follow the TouchDesigner guide linked prior, or install a software like [Lightpaint Live](https://lightpaintlive.com/). 
 
