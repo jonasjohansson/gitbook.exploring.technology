@@ -35,5 +35,3 @@ Since the Teensy provides 3.3 volts the LED strip will not manage to produce ful
 
 
 
-
-
