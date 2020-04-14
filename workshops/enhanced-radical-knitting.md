@@ -1,4 +1,4 @@
-# Enhanced radical knitting using JavaScript and the Terminal
+# Enhanced radical knitting
 
 {% hint style="success" %}
 Written by [Alexander Wallin](https://www.alexanderwallin.com/)

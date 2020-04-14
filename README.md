@@ -20,7 +20,7 @@ New to streaming? Check out the [stream page](tips-trix/stream.md)!
 | 0410 | Machine Learning with [Runway](learn/runway.md) | [Andreas Refsgaard](https://andreasrefsgaard.dk/) |
 | 0411 | Live coding networked visuals in Hydra | [Annie Tådne](https://tadne.se/) |
 | 0413 | GLSL and Advanced TOP in TouchDesigner | [Anton Heestand](http://hexagons.net/) |
-| 0414 | [Enhanced radical knitting using JavaScript and the Terminal](workshops/enhanced-radical-knitting-using-javascript-and-the-terminal.md) | [Alexander Wallin](https://www.alexanderwallin.com/) |
+| 0414 | [Enhanced radical knitting using JavaScript and the Terminal](workshops/enhanced-radical-knitting.md) | [Alexander Wallin](https://www.alexanderwallin.com/) |
 | 0415 | Sketch and share Chiptune music with [Beepbox](learn/beepbox/) | [Francesco Torelli](http://www.francescotorelli.it/) |
 | 0416 | Painting by numbers: An intro to shaders | Christian Kokott |
 | 0417 | Interactive visuals in the browser with [Cables.gl](https://cables.gl/) | [Adam Smith](https://undev.studio/) |
