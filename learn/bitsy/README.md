@@ -28,6 +28,7 @@ Bitsy is nurturing creatives of all types and sizes, and spreading the joy game-
 
 | Title | Author |
 | :--- | :--- |
+| [Cryoloop](https://communistsister.itch.io/cryoloop) | [Freya C](https://communistsister.itch.io/) |
 | [Vertigo](https://magmasubterraneo.itch.io/vertigo) | [Magma Subterraneo](https://magmasubterraneo.itch.io/) |
 | [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) |
 | [Spoons](https://le-onionboi.itch.io/spoons) | [Onion Boi](https://le-onionboi.itch.io/) |
