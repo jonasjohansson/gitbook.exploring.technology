@@ -7,8 +7,8 @@ At some point, vanilla __Bitsy will not be enough, meaning, it's time to hack! N
 * Turn an image into a room: [https://hideous-cave-goblin.itch.io/room](https://hideous-cave-goblin.itch.io/room)
 * Generate custom fonts: [https://seansleblanc.itch.io/fontsy](https://seansleblanc.itch.io/fontsy)
 * Automagically create exits: [https://voec.github.io/witchery/](https://voec.github.io/witchery/)
-* Get all the colours: [https://janosc.itch.io/rgbitsy](https://janosc.itch.io/rgbitsy)
 * Merge game data: [https://seansleblanc.itch.io/bitsy-merge](https://seansleblanc.itch.io/bitsy-merge)
+* Create RGB rooms: [https://janosc.itch.io/rgbitsy](https://janosc.itch.io/rgbitsy)
 
 ## Add existing hacks
 
@@ -16,7 +16,7 @@ Thanks to a vibrant community there are [several hacks](https://github.com/seleb
 
 ### 1. [Borksy](https://ayolland.itch.io/borksy)
 
-Add the game data, toggle the hacks, change the variables and download the tweaked HTML. Thank you Borksy!
+Add the game data, toggle the hacks, change the variables and download the tweaked HTML!
 
 {% hint style="success" %}
 Borksy also adds useful CSS found here: [https://jonasjohansson.glitch.me/bitsy.css](https://jonasjohansson.glitch.me/bitsy.css)
