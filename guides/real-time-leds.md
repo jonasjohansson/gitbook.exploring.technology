@@ -4,7 +4,7 @@ Running LEDs on micro-controllers is made easy using the [NeoPixel](https://lear
 
 ## Getting started
 
-This guide assumes that the [Arduino IDE](https://www.arduino.cc/en/Main/Software) is installed, along with a pixels to Art-Net software such as [Resolume](https://resolume.com/) \([guide](https://learn.sparkfun.com/tutorials/using-artnet-dmx-and-the-esp32-to-drive-pixels/all)\). Use [ArtNetViewer](http://www.artnetview.com/) for debugging. You also need to have either \(or similar alternatives\) of the following:
+This guide assumes that the [Arduino IDE](https://www.arduino.cc/en/Main/Software) is installed along with [Resolume](https://resolume.com/). Use [ArtNetViewer](http://www.artnetview.com/) for debugging. You also need to have either \(or similar alternatives\) of the following:
 
 * Arduino Uno with an [Ethernet shield](https://www.adafruit.com/product/201)
 * [Teensy](https://www.pjrc.com/teensy/) using a [Wiz820io](https://www.pjrc.com/store/wiz820_sd_adaptor.html) Ethernet module
