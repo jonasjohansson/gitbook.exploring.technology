@@ -147,7 +147,7 @@
     * [GLSL](learn/touchdesigner/glsl/README.md)
       * [Building a GLSL Noise Plane](learn/touchdesigner/glsl/tutorial-noise-plane.md)
 * [Workshops](workshops/README.md)
-  * [NeoPixels over Art-Net with Arduino/Teensy and Resolume](workshops/running-neopixels-over-artnet-and-arduino-teensy.md)
+  * [Real-time LEDs over Art-Net with Arduino/Teensy and Resolume](workshops/real-time-leds.md)
   * [DIY Pixelstick using Teensy](workshops/diy-pixelstick-using-teensy.md)
   * [Enhanced radical knitting](workshops/enhanced-radical-knitting.md)
   * [Point Clouds](workshops/metashape.md)
