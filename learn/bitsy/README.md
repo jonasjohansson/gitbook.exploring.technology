@@ -28,6 +28,7 @@ Bitsy is nurturing creatives of all types and sizes, and spreading the joy game-
 
 | Title | Author |
 | :--- | :--- |
+| [Bargaining with Supreme Beings so They Don't Destroy Us All](https://ashg.itch.io/bargaining-with-supreme-beings-so-they-dont-destroy-us-all) | [Ash](https://ashg.itch.io/) |
 | [Cryoloop](https://communistsister.itch.io/cryoloop) | [Freya C](https://communistsister.itch.io/) |
 | [Vertigo](https://magmasubterraneo.itch.io/vertigo) | [Magma Subterraneo](https://magmasubterraneo.itch.io/) |
 | [Unseen Light](https://ducklingsmith.itch.io/the-unseen-light) | [David Mowatt](https://ducklingsmith.itch.io/) |
