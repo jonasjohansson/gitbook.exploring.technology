@@ -4,10 +4,10 @@
 
 1. Install a pixels to ArtNet software such as [Resolume](https://resolume.com/), [Jinx](http://www.live-leds.de/) or [Glediator](https://oneguyoneblog.com/download/glediator-v2-0-3/).
 2. Download [Artnet](https://github.com/natcl/Artnet) and [ArtnetWifi](https://github.com/rstephan/ArtnetWifi) libraries
-3. In Arduino go to Tools &gt; Manage Libraries… and install `NeoPixel` and `FastLED`
+3. In Arduino go to Tools &gt; Manage Libraries… then search for \(and install\) `NeoPixel` and `FastLED`
 4. In Arduino go to Sketch &gt; Include Library &gt; Add .ZIP Library… and select the ZIP files
 
-For both examples make sure to update `numLeds` to match the length of the LED strip, and to attach the LED strip according to the `dataPin`.
+For both the following examples make sure to update `numLeds` to match the length of the LED strip, and to attach the LED strip according to the `dataPin`.
 
 {% hint style="info" %}
 For debugging ArtNet install [ArtNetViewer](http://www.artnetview.com/).
