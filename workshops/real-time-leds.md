@@ -13,7 +13,7 @@ This guide assumes that the [Arduino IDE](https://www.arduino.cc/en/Main/Softwar
 * An [Adafruit Feather Huzzah](https://www.adafruit.com/product/2821) and [Arduino MKR1000](https://store.arduino.cc/arduino-mkr1000-wifi)
 
 {% hint style="info" %}
-All boards except the Arduino Uno must be explicitly added using the Arduino IDE Board Manager. Search and you will find.
+All boards except the Arduino Uno must be explicitly added using the Arduino IDE Board Manager. Some may also require special libraries. Search and you will find.
 {% endhint %}
 
 ### Preparations
@@ -21,8 +21,6 @@ All boards except the Arduino Uno must be explicitly added using the Arduino IDE
 1. Download the [Artnet](https://github.com/natcl/Artnet) and [ArtnetWifi](https://github.com/rstephan/ArtnetWifi) libraries.
 2. In Arduino go to Sketch &gt; Include Library &gt; Add .ZIP Library… and select the ZIP files.
 3. In Arduino go to Tools &gt; Manage Libraries… then search for \(and install\) `NeoPixel`, `FastLED` and `OctoWS2811` libraries.
-
-
 
 {% hint style="info" %}
 For the coming examples make sure to update `numLeds` to match the length of the LED strip, and to attach the LED strip according to the `dataPin`.
