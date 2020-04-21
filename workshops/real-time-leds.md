@@ -28,10 +28,14 @@ For the coming examples make sure to update `numLeds` to match the length of the
 
 ## Ethernet
 
+_For Arduino and Teensy_
+
 1. In Arduino open File &gt; Examples and select Artnet &gt; NeoPixel &gt; ArtnetNeoPixel for Arduino and OctoWS2811 &gt; Artnet for Teensy.
 2. Update `ip`, `mac` and `broadcast` \(not required for Teensy\) according to your computer \(use `ifconfig en0` in the Terminal\) and upload.
 
 ## Wifi
+
+_For Huzzah and MKR1000_
 
 1. Open File &gt; Examples &gt; ArtnetWifi &gt; ArtnetWifiNeoPixel.
 2. Update `ssid` and `password` according to your network and upload.
