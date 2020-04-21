@@ -16,12 +16,12 @@ For debugging ArtNet install [ArtNetViewer](http://www.artnetview.com/).
 ### ArtNET over Serial
 
 1. Open File &gt; Examples &gt; Artnet &gt; NeoPixel &gt; ArtnetNeoPixel.
-2. Update `ip`, `mac` and `broadcast` according to your computer \(use `ifconfig en0` in the Terminal\).
+2. Update `ip`, `mac` and `broadcast` according to your computer \(use `ifconfig en0` in the Terminal\) and upload.
 
 ### ArtNET over WIFI
 
 1. Open File &gt; Examples &gt; ArtnetWifi &gt; ArtnetWifiNeoPixel.
-2. Update `ssid` and `password` according to your network.
+2. Update `ssid` and `password` according to your network and upload.
 
 ### Related links
 
