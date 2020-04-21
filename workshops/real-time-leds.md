@@ -1,10 +1,10 @@
 # Real-time LEDs over Art-Net with Arduino/Teensy and Resolume
 
-Running LEDs on micro-controllers is made easy using the [NeoPixel](https://learn.adafruit.com/adafruit-neopixel-uberguide) or [FastLED](http://fastled.io/) library along with fixtures with WS2812B or SK6812B based LEDs. But what if you want to control the lights using realtime input from a computer? The obvious choice is to use [Art-Net](https://en.wikipedia.org/wiki/Art-Net), a protocol for sending DMX over Ethernet, with wide support across software. It even supports Wifi!
+Running LEDs on micro-controllers is made easy using the [NeoPixel](https://learn.adafruit.com/adafruit-neopixel-uberguide) or [FastLED](http://fastled.io/) library along with fixtures with WS2812B or SK6812B based LEDs. But what if you want to control the lights using realtime input from a computer? The obvious choice is to use [Art-Net](https://en.wikipedia.org/wiki/Art-Net), a protocol for sending DMX over Ethernet \(and Wifi\), with wide support across software.
 
 ### Assumptions
 
-This guide assumes the [Arduino IDE](https://www.arduino.cc/en/Main/Software) is installed, along with a pixels to Art-Net software such as [Resolume](https://resolume.com/). For debugging ArtNet install [ArtNetViewer](http://www.artnetview.com/).  It also assumes you have either of the following:
+This guide assumes that the [Arduino IDE](https://www.arduino.cc/en/Main/Software) is installed, along with a pixels to Art-Net software such as [Resolume](https://resolume.com/). Use [ArtNetViewer](http://www.artnetview.com/) for debugging. You also need to have either of the following:
 
 * Arduino Uno with an [Ethernet shield](https://www.adafruit.com/product/201)
 * [Teensy](https://www.pjrc.com/teensy/) using a [Wiz820io](https://www.pjrc.com/store/wiz820_sd_adaptor.html) Ethernet module
