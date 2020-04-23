@@ -161,3 +161,11 @@
   * [Stream](tips-trix/stream.md)
   * [Web](tips-trix/web.md)
 
+## Hyper Island <a id="hi"></a>
+
+* [Exploring Code](hi/exploring-code/README.md)
+  * [Workshops](hi/exploring-code/workshops.md)
+  * [Team](hi/exploring-code/team.md)
+  * [🥇 Generative Design](hi/exploring-code/generative-design.md)
+  * [🥇 World Building](hi/exploring-code/world-building.md)
+
