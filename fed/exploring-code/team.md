@@ -10,5 +10,5 @@ Anywhere based artist, designer and programmer transforming light + technology t
 
 ## Guest speakers
 
-### [Alexander Wallin](https://www.alexanderwallin.com/)
+TBD
 
