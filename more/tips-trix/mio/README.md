@@ -8,7 +8,7 @@ Get Mio \([Mac](https://jonasjohansson.itch.io/mio)\). Because Mio is made by an
 
 In order to function properly, Mio requires permissions. Go to System preferences &gt; Security & Privacy, unlock the page by clicking the lock and providing the password, and then under Accessibility find Mio and tick the box. **If a new version has been installed, this must be done again by toggling the checkbox!**
 
-![](../../.gitbook/assets/permissions.png)
+![](../../../.gitbook/assets/permissions.png)
 
 ### Connect
 
@@ -115,7 +115,7 @@ void mio(){
 | Button 3 \(blue wire\) | Digital 2 |
 | Button 4 \(purple wire\) | Digital 3 |
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 {% endtab %}
 
 {% tab title="P5" %}
@@ -193,5 +193,5 @@ Mio can not be connected at the same time that any other device is listening to 
 
 It is possible to speed up the communication between the serial device and computer, by bumping up the **Baudrate** from **9600** to **115200**. This must be done within the code as well as in Mio. If you are running Arduino, remember to change it also in the monitor \(in the bottom right corner\).
 
-![](../../.gitbook/assets/serial.png)
+![](../../../.gitbook/assets/serial.png)
 

@@ -10,5 +10,5 @@ For more design options you can use [https://www.qrcode-monkey.com/](https://www
 
 To include the QR code directly in a marker, use [https://jeromeetienne.github.io/AR.js/three.js/examples/arcode.html](https://jeromeetienne.github.io/AR.js/three.js/examples/arcode.html)
 
-![](../.gitbook/assets/qrcode.png)
+![](../../.gitbook/assets/qrcode.png)
 

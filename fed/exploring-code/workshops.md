@@ -26,7 +26,7 @@ Learn the ropes integrating sound and music into your projects, using pre-made c
 
 ### [A-Frame AR/VR](../../learn/aframe/)
 
-Browser based world building and mixed reality. With A-Frame and [Glitch](../../tips-trix/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using virtual and augmented reality. 
+Browser based world building and mixed reality. With A-Frame and [Glitch](../../more/tips-trix/glitch.md) participants learn the basics of web powered graphics development while hacking their environment using virtual and augmented reality. 
 
 → [Create an account on Glitch](https://start.exploring.technology/tools/glitch)
 

@@ -18,7 +18,7 @@ Test switching between the two scenes using the hotkey. If this does not work, i
 Pay attention to the amount if audio inputs, there should preferably be only one, otherwise a feedback loop can occur.
 {% endhint %}
 
-![](../.gitbook/assets/obs-studio%20%281%29.png)
+![](../../.gitbook/assets/obs-studio%20%281%29.png)
 
 Before pressing Start Streaming and Start Recording, in **Settings &gt; Stream** set Service and fill out the Stream Key. If you are using Twitch, this can be found in the [Twitch user account](https://www.twitch.tv/settings/profile) under Channel and Videos.
 

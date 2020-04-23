@@ -8,7 +8,7 @@ Ever wondered how you can use JavaScript and the Terminal to create experimental
 
 This is a beginner-to-intermediate introduction to programming and  knitting, but the idea is that you don't have to know either to get the gist. The main point is to introduce these topics and try to show ways of combining technology and craft in a way that will inspire you to experiment with whatever you enjoy creating.
 
-![](../.gitbook/assets/knitting.png)
+![](../../.gitbook/assets/knitting.png)
 
 In order to follow along you need the following:
 
