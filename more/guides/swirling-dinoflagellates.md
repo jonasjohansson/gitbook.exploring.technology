@@ -33,7 +33,7 @@ Bioluminescence is expressed when the dinos are gently agitated and physically m
 
 ### Building a Magnetic Stirrer
 
-Since you most likely want to keep maintenance to a minimum, building a water vortex with magnets is an effective way to create interaction, coupled with a sensor and a micro-controller.
+Since you most likely want to keep maintenance to a minimum, building a water vortex with magnets is an effective way to create movement.
 
 #### Materials
 
@@ -49,6 +49,10 @@ Since you most likely want to keep maintenance to a minimum, building a water vo
 3. Drop the combined magnets into a container of water, a bit larger than the space covered by the magnets on the fan.
 4. Connect the fan to the jack, and finally to the power supply.
 5. Hold the container centred over the fan, and the magnets should begin spinning, creating a vortex!
+
+{% hint style="danger" %}
+The speed of the fan at full power is too powerful for the dinoflagellates and will kill them. Make sure to reduce the power to an optimal level using a potentiometer or a micro-controller.
+{% endhint %}
 
 ### Making it interactive
 
