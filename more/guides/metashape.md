@@ -1,4 +1,4 @@
-# Point Clouds
+# Display Point Clouds in Three.js
 
 A point cloud is a collection of points in 3D space. A point can be  understood best compared to a pixel in an image, where the pixel has four channels for color RGBA and the point has three channels for position XYZ.
 

@@ -150,10 +150,11 @@
 ## More
 
 * [Guides](more/guides/README.md)
+  * [Swirling Dinoflagellates](more/guides/swirling-dinoflagellates.md)
   * [Real-time LEDs over Art-Net with Arduino/Teensy and Resolume](more/guides/real-time-leds.md)
   * [DIY Pixelstick using Teensy](more/guides/diy-pixelstick-using-teensy.md)
   * [Enhanced radical knitting](more/guides/enhanced-radical-knitting.md)
-  * [Point Clouds](more/guides/metashape.md)
+  * [Display Point Clouds in Three.js](more/guides/metashape.md)
 * [Tips & Trix](more/tips-trix/README.md)
   * [Mio](more/tips-trix/mio/README.md)
     * [Changelog](more/tips-trix/mio/changelog.md)
