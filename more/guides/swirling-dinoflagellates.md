@@ -69,3 +69,7 @@ Then, make sure to get:
 
 Follow [this guide](https://bildr.org/2011/03/high-power-control-with-arduino-and-tip120/) for hooking up the fan to the Arduino, and you should have in interactive magnetic stirrer!
 
+{% hint style="info" %}
+A great reason for using a micro-controller is the possibility to build in a timer, since the dinoflagellates need time between activation before they can express their bioluminescence.
+{% endhint %}
+
