@@ -10,6 +10,8 @@ Dinoflagellates can be cultivated and purchased from places such as [Pyrofarms](
 * [What is a dinoflagellate](https://pyrofarms.com/pages/what-is-a-dinoflagellate)
 * [Dinoflagellate FAQ](https://pyrofarms.com/pages/faq)
 
+![PyroDinos from Pyrofarms](https://cdn.shopify.com/s/files/1/0016/8961/6442/products/Bio-Orb_swirl_wave_1024x1024@2x.jpg?v=1568988404)
+
 Also visit the [dinoflagellate culturing](https://scripps.ucsd.edu/labs/mlatz/bioluminescence/dinoflagellates-and-red-tides/dinoflagellate-culturing/) page fro the SCRIPPS Institute of Oceanography and the UCSB [growing your own dinoflagellates](https://biolum.eemb.ucsb.edu/organism/dinohome.html).
 
 ## Alter Circadian Rhythm
@@ -34,6 +36,8 @@ Bioluminescence is expressed when the dinos are gently agitated and physically m
 ### Building a Magnetic Stirrer
 
 Since you most likely want to keep maintenance to a minimum, building a water vortex with magnets is an effective way to create movement.
+
+{% embed url="https://www.youtube.com/watch?v=Xqkt1-6\_B2E" %}
 
 #### Materials
 
