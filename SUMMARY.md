@@ -150,7 +150,7 @@
 ## More
 
 * [Guides](more/guides/README.md)
-  * [Swirling Dinoflagellates](more/guides/swirling-dinoflagellates.md)
+  * [Interactive Dinoflagellates](more/guides/swirling-dinoflagellates.md)
   * [Real-time LEDs over Art-Net with Arduino/Teensy and Resolume](more/guides/real-time-leds.md)
   * [DIY Pixelstick using Teensy](more/guides/diy-pixelstick-using-teensy.md)
   * [Enhanced radical knitting](more/guides/enhanced-radical-knitting.md)

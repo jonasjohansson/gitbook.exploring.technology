@@ -1,27 +1,57 @@
-# Swirling Dinoflagellates
+# Interactive Dinoflagellates
 
-Dinoflagellates single-celled protists, a diverse collection of **organisms**, part of the **plankton** community and usually considered **algae**. Dinoflagellates are capable of **photosynthesis** \(converting light energy into "fuel"\) and are thus considered plants. Some exhibit bioluminescence, a process involving a light-emitting molecule and an enzyme, generally called the luciferin \(coined by[ Raphaël Dubois](https://en.wikipedia.org/wiki/Rapha%C3%ABl_Dubois)\).
+Dinoflagellates single-celled protists, a diverse collection of **organisms**, part of the **plankton** community and usually considered **algae**. Dinoflagellates are capable of **photosynthesis** \(converting light energy into "fuel"\) and are thus considered plants. Some exhibit bioluminescence, a process involving a light-emitting molecule and an enzyme, generally called the luciferin \(coined by[ Raphaël Dubois](https://en.wikipedia.org/wiki/Rapha%C3%ABl_Dubois)\). 
 
-Dinoflagellates can be cultivated and purchased from places such as [Pyrofarms](https://pyrofarms.com/) \(US\) and [Bioglow](https://bioglow.eu/) \(Europe\).
-
-Pyrofarms provide excellent instructions and information:
+Dinoflagellates can be cultivated and purchased from places such as [Pyrofarms](https://pyrofarms.com/) \(US\) and [Bioglow](https://bioglow.eu/) \(Europe\). The former provide excellent instructions and information:
 
 * [PyroDino instructions](https://pyrofarms.com/pages/pyrodino-instructions)
 * [Bio-Orb instructions](https://pyrofarms.com/pages/bio-orb-instructions)
+* [Grow your own Dinos](https://pyrofarms.com/blogs/pyrofarms-blue-light-special/grow-your-own-dinos)
 * [What is a dinoflagellate](https://pyrofarms.com/pages/what-is-a-dinoflagellate)
 * [Dinoflagellate FAQ](https://pyrofarms.com/pages/faq)
 
 Also visit the [dinoflagellate culturing](https://scripps.ucsd.edu/labs/mlatz/bioluminescence/dinoflagellates-and-red-tides/dinoflagellate-culturing/) page fro the SCRIPPS Institute of Oceanography and the UCSB [growing your own dinoflagellates](https://biolum.eemb.ucsb.edu/organism/dinohome.html).
 
-## Altering Circadian Rhythm
+## Growing Dinos
+
+It is often said that growing dinoflagellates is a lot like taking care of a plant. However, I would disagree. Perhaps on a technical level, there are many similarities, but I find that the dinoflagellates require much more consideration.
+
+### Alter Circadian Rhythm
 
 Dinoflagellates perform photosynthesis during daytime hours and only produce the light during their dark cycle at night. Program the light timer for 12 hours of light and make sure they are in the dark during the other 12 hour cycle. It usually takes a couple of days, maybe a week, before they begin to change their cycle.
 
-### Materials
+#### Materials
 
-1. [Digital timer](https://www.kjell.com/se/produkter/el-verktyg/el-produkter/starkstrom/timers-klockstrombrytare/luxorparts-digital-timer-7-dygn-p50002)
-2. [LED light](https://www2.meethue.com/sv-se/p/hue-white-ambiance-1-pack-e27/8718699673147)
-3. [E27 power base](https://www.clasohlson.com/se/Lamph&aring;llare-med-tygkl&auml;dd-sladd-Northlight/p/36-6234)
+* 1x [Digital timer](https://www.kjell.com/se/produkter/el-verktyg/el-produkter/starkstrom/timers-klockstrombrytare/luxorparts-digital-timer-7-dygn-p50002)
+* 1x [LED lamp](https://www2.meethue.com/sv-se/p/hue-white-ambiance-1-pack-e27/8718699673147)
+* 1x [E27 power base](https://www.clasohlson.com/se/Lamph&aring;llare-med-tygkl&auml;dd-sladd-Northlight/p/36-6234)
+
+## Activate Bioluminescence
+
+Bioluminescence is expressed when the dinos are gently agitated and physically moved. This can be done in a few ways:
+
+1. Gently moving the container to create a swirling motion
+2. By creating a water vortex \([Instructable](https://www.instructables.com/id/Water-Vortex-Mini-Fountain/)\) with either a pump or [magnets](https://www.youtube.com/watch?v=PcPpBiHEcwM) \([Instructable](https://www.instructables.com/id/How-to-Make-a-Cheap-Portable-Magnetic-Stirrer/)\).
+
+### Building a Magnetic Stirrer
+
+Since you most likely want to keep maintenance to a minimum, building a water vortex with magnets is an effective way to create interaction, coupled with a sensor and a micro-controller.
+
+Follow [this guide](https://bildr.org/2011/03/high-power-control-with-arduino-and-tip120/) for hooking up the fan to the Arduino.
+
+#### Materials
+
+This assumes you have the basics in order; Some soldering equipment, an [Arduino Uno](https://www.kjell.com/se/produkter/el-verktyg/arduino/utvecklingskort/playknowlogy-uno-rev.-3-arduino-kompatibelt-utvecklingskort-p88860) and [USB-B cable](https://www.kjell.com/se/produkter/dator/kablar-adaptrar/usb/usb-kablar/usb-b-kabel-svart-18-m-p98610), a [breadboard](https://www.m.nu/breadboarding/breadboard-half-size-solderless) and some [male/male jumper wires](https://www.m.nu/breadboarding/breadboarding-premium-male-male-jumper-wires-40-x-6-150mm).
+
+Then, make sure to get:
+
+* [4x Magnets](https://www.kjell.com/se/produkter/hem-kontor-fritid/gadgets/neodymmagnet-12-mm-6-pack-p50071) \(power is determined by the body of water moved\)
+* 1x [12V fan](https://www.kjell.com/se/produkter/el-verktyg/elektronik/elektromekanik/flaktar/12-v/axialflakt-12-v-120x120x25-mm-p36204)
+* 1x [12V power supply](https://www.kjell.com/se/produkter/el-verktyg/stromforsorjning/natadaptrar/acdc-natadaptrar/fast-utspanning/switchat-nataggregat-12-v-dc-36-w-p44384)
+* 1x [TIP120 NPN Power Darlington Transistor](https://www.m.nu/ic-transistorer/tip120-npn-power-darlington-transistors-3-pack)
+* 1x [1N4001 diode](https://www.m.nu/blandat/1n4001-diode-10-pack)
+* 1x 2.2kOhm resistor
+* 1x sensor of choice, for instance a [Touch Sensor](https://www.m.nu/knappar/standalone-momentary-capacitive-touch-sensor-breakout-at42qt1010)
 
 
 
