@@ -12,11 +12,9 @@ Dinoflagellates can be cultivated and purchased from places such as [Pyrofarms](
 
 Also visit the [dinoflagellate culturing](https://scripps.ucsd.edu/labs/mlatz/bioluminescence/dinoflagellates-and-red-tides/dinoflagellate-culturing/) page fro the SCRIPPS Institute of Oceanography and the UCSB [growing your own dinoflagellates](https://biolum.eemb.ucsb.edu/organism/dinohome.html).
 
-## Growing Dinos
+## Alter Circadian Rhythm
 
 It is often said that growing dinoflagellates is a lot like taking care of a plant. However, I would disagree. Perhaps on a technical level, there are many similarities, but I find that the dinoflagellates require much more consideration.
-
-### Alter Circadian Rhythm
 
 Dinoflagellates perform photosynthesis during daytime hours and only produce the light during their dark cycle at night. Program the light timer for 12 hours of light and make sure they are in the dark during the other 12 hour cycle. It usually takes a couple of days, maybe a week, before they begin to change their cycle.
 
