@@ -6,7 +6,7 @@ description: 'Week 20-24, May 11 — June 12'
 
 > The students will get to create outside the norm and challenge the way interfaces are built. Art, music, virtual reality experiences - the possibilities are endless. Hands-on creation, testing the limits and insights of the creative process.
 
-Technology is the new religion. We build algorithms that enslave us and interfaces that offer no obstacle, no moment of learning just feeding us gratification. We don't _surf the web_ anymore, instead we scroll through services that show us other people doing things. 
+Technology is the new religion. We build algorithms that enslave us and interfaces that offer no obstacle, no moment of learning just feeding us gratification. Instead of _surfing the web_, we swipe aimlessly through services that show us other people doing things. 
 
 Success! We have made the Internet a very pleasant place to be. _Utopia_**.** But has technology brought us closer? Does an email cost less than a letter? How can "Dark Mode" be seen as innovation?
 

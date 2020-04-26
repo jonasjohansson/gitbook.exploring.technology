@@ -5,4 +5,6 @@
   * [A \(not so\) Brief History](ec/a-not-so-brief-history.md)
   * [Workshops](ec/workshops.md)
   * [Team](ec/team.md)
+  * [🥈](ec/undefined.md)
+  * [Untitled](ec/untitled.md)
 
