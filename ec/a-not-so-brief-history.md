@@ -16,15 +16,19 @@ Along with an increase in web sites followed an explosion of users, and we begin
 
 2009 [Node.js](https://nodejs.org/) made an entrance allowing JS to communicate with the operative system and connected devices. JS was now breathing the same air as Python and other programming languages. The cage was unlocked.
 
-2011 [IFTTT](https://ifttt.com/) is launched, demonstrating the huge interest in data driven experiences, and chaining tools. We automate experiences and use API's back and forth. Remember when the Twitter API was completely open? Internet became complicated again with complicated steps of verification \(some which live on today\).
+2011 [IFTTT](https://ifttt.com/) is launched, demonstrating the huge interest in data driven experiences, and chaining tools. We automate experiences and use API's back and forth. 
 
-2013 [React.js](https://reactjs.org/) and [Electron](https://www.electronjs.org/) were released, as a response to keeping web technologies relevant and more useful than ever as native applications for both mobile and desktop could be made with only one framework. A few years prior, [Three.js](https://threejs.org/) and [Processing.js](http://processingjs.org/) \(now [p5.js](https://p5js.org/)\) was already around, enabling beautiful  and interactive experiences in the browser.
+_Remember when the Twitter API was completely open? Internet became complicated again with complicated steps of verification \(some which live on today\)._
+
+2013 [React.js](https://reactjs.org/) and [Electron](https://www.electronjs.org/) were released, as a response to keeping web technologies relevant as native applications for mobile and desktop could be made with only one framework. A few years prior, [Three.js](https://threejs.org/) and [Processing.js](http://processingjs.org/) \(now [p5.js](https://p5js.org/)\) was already around, enabling beautiful  and interactive experiences in the browser.
 
 ![Screenshot from Threejs.org](../.gitbook/assets/threejs.png)
 
 As code bases grew, sanity had to be kept. We began working heavily with Git, CSS pre-compilers \([SASS](https://sass-lang.com/)\), task runners and module bundlers \(think [Webpack](https://webpack.js.org/)\). We built [CoffeeScript](https://coffeescript.org/) and later [TypeScript](https://www.typescriptlang.org/), and "vanilla JavaScript" become a search term.
 
-2014 the ESP8266 was released, a low-cost Wi-Fi microchip enabling microcontrollers to gain access to the web. Together with Bluetooth Low Energy everything became connected, and Internet of \([Enchanted](http://enchantedobjects.com/)\) Things got cheer leader level popularity. It's not difficult to imagine the rise of the voice assistant following along.
+2014 the ESP8266 was released, a low-cost Wi-Fi microchip enabling microcontrollers to gain access to the web. Together with Bluetooth Low Energy everything became connected, and "Internet of \([Enchanted](http://enchantedobjects.com/)\) Things" got cheer leader level popularity. 
+
+_It's not difficult to imagine the rise of the voice assistant following along._
 
 2015 and onward we begun working with push states and service workers, making web sites feel native \(no reload\). This is something we are still looking at today with the surge of Progressive Web Applications \(PWA\), which has led to todays interest in [SVELTE](https://svelte.dev/) and [FLUTTER](https://flutter.dev/). 
 
