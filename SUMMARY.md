@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Hello](README.md)
+* [👊🏼 Hello](README.md)
 * [📚 Learn](learn/README.md)
   * [A-Frame](learn/aframe/README.md)
     * [1. Scene](learn/aframe/scene.md)
