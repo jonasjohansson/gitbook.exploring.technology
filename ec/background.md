@@ -1,8 +1,8 @@
 # Background
 
-HTML has been around for 30 years, providing building blocks for all browser experiences. 5 years after, JavaScript and CSS came along, improving both functionality and aesthetics. Since then, this triad can be found anywhere there is a browser.
+HTML has been around for 30 years, providing building blocks for all browser experiences. 5 years after, JavaScript and CSS came along, improving functionality and aesthetics. Since then, this triad can be found anywhere there is a browser.
 
-Along with an increase in web sites followed an explosion of users, and we begin studying user interface design at an increasing scale \([Designing Web Usability](https://www.nngroup.com/books/designing-web-usability/) and [A List Apart](https://alistapart.com/)\). We began seeing responsive CSS styles, terms like [graceful degradation and progressive enhancement](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement), and swore at having to write this:
+With an increase in web sites an explosion of users followed, and we began studying user interface design at an increasing scale \([Designing Web Usability](https://www.nngroup.com/books/designing-web-usability/) and [A List Apart](https://alistapart.com/) anyone…\). We moved away from tables to stylesheets, and learnt terms like [graceful degradation and progressive enhancement](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement), while swearing at having to write this:
 
 ```markup
 <!--[if !IE]> -->
@@ -12,7 +12,7 @@ Along with an increase in web sites followed an explosion of users, and we begin
 
 2000 and onwards we put web sites aside and made **web systems** giving birth to the blog with Wordpress \(2003\) moving from personal platform to the number one CMS for everyone. _And along came e-commerce and Facebook…_
 
-2007 the smartphone arrived, and suddenly we had to consider touch and all the other inputs that a smartphone had \(sound, video, light, GPS, motion\). This made the browser **become personal**. The revolution of the smartphone made space for [JQuery](https://jquery.org/) and a hurricane of libraries assisting in building engaging interfaces \(and also killing Flash\).
+2007 the smartphone arrived, and suddenly we had to consider touch and all the other inputs that a smartphone had \(sound, video, light, GPS, motion\). This made the browser **become personal**. The revolution of the smartphone made space for [Jquery](https://jquery.org/) and a hurricane of libraries assisting in building engaging interfaces \(and also killing Flash\).
 
 2009 [Node.js](https://nodejs.org/) made an entrance allowing JS to communicate with the operative system and connected devices. JS was now breathing the same air as Python and other programming languages. The cage was unlocked.
 
