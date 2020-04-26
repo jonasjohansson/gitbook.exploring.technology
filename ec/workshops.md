@@ -14,7 +14,7 @@
 | ✨Machine Learning | TBD | Jonas |
 | ✨TBD | TBD | Jonas |
 
-### [Generative design]()
+### Generative design
 
 Through [p5.js](https://p5js.org/) participants scratch the surface of artificial intelligence as they learn about generative design, and how machines can help make art, music and experiences! 
 
@@ -24,7 +24,7 @@ Through [p5.js](https://p5js.org/) participants scratch the surface of artificia
 
 Learn the ropes integrating sound and music into your projects, using pre-made clips or the builtin WebAudio API.
 
-### [A-Frame AR/VR]()
+### A-Frame AR/VR
 
 Browser based world building and mixed reality. With A-Frame and [Glitch]() participants learn the basics of web powered graphics development while hacking their environment using virtual and augmented reality. 
 

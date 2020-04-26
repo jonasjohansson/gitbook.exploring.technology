@@ -2,9 +2,10 @@
 
 * [☀](README.md)
 * [Exploring Code](ec/README.md)
-  * [A \(not so\) Brief History](ec/a-not-so-brief-history.md)
+  * [Background](ec/background.md)
   * [Workshops](ec/workshops.md)
   * [Team](ec/team.md)
-  * [🥈](ec/undefined.md)
-  * [Untitled](ec/untitled.md)
+  * [🥉 Class Website](ec/class-website.md)
+  * [🥈 Game Challenge](ec/undefined.md)
+  * [🥇 World Building](ec/untitled.md)
 

@@ -1,4 +1,4 @@
-# A \(not so\) Brief History
+# Background
 
 HTML has been around for 30 years, providing building blocks for all browser experiences. 5 years after, JavaScript and CSS came along, improving both functionality and aesthetics. Since then, this triad can be found anywhere there is a browser.
 
@@ -10,7 +10,7 @@ Along with an increase in web sites followed an explosion of users, and we begin
 <!-- <![endif]-->
 ```
 
-1999 and onwards we put web sites aside and made **web systems** giving birth to the blog with Wordpress \(2003\) moving from personal platform to the number one CMS for everyone. _And along came e-commerce and Facebook…_
+2000 and onwards we put web sites aside and made **web systems** giving birth to the blog with Wordpress \(2003\) moving from personal platform to the number one CMS for everyone. _And along came e-commerce and Facebook…_
 
 2007 the smartphone arrived, and suddenly we had to consider touch and all the other inputs that a smartphone had \(sound, video, light, GPS, motion\). This made the browser **become personal**. The revolution of the smartphone made space for [JQuery](https://jquery.org/) and a hurricane of libraries assisting in building engaging interfaces \(and also killing Flash\).
 
