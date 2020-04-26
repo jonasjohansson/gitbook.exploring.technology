@@ -1,2 +1,2 @@
-# ✨ Tips & Trix
+# ☄ Tips & Trix
 

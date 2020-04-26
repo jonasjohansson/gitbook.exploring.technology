@@ -1,2 +1,2 @@
-# 🧭 Guides
+# ☼ Guides
 
