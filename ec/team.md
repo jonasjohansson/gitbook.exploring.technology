@@ -36,7 +36,26 @@ TBD
 
 ## Class representatives
 
-| Week | Who |
-| :--- | :--- |
-| 20-24 | [nanda.vandenhoek@hyperisland.se](mailto:nanda.vandenhoek@hyperisland.se) [nadine.ochsner@hyperisland.se](mailto:nadine.ochsner@hyperisland.se) |
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Week</th>
+      <th style="text-align:left">Who</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">20-24</td>
+      <td style="text-align:left">
+        <p><a href="mailto:david.lopez@hyperisland.se">david.lopez@hyperisland.se</a>
+        </p>
+        <p><a href="mailto:tom.backlof@hyperisland.se">tom.backlof@hyperisland.se</a>
+          <br
+          />lina.wang@hyperisland.se
+          <br />emilio.hellberg@hyperisland.se
+          <br /><a href="mailto:nazduygu_gozen@hyperisland.se">nazduygu.gozen@hyperisland.se</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>

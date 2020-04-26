@@ -26,8 +26,6 @@ As code bases grew, sanity had to be kept. We began working heavily with GIT, CS
 
 2014 the ESP8266 was released, a low-cost Wi-Fi microchip enabling microcontrollers to gain access to the web. Together with Bluetooth Low Energy everything became connected, and Internet of \([Enchanted](http://enchantedobjects.com/)\) Things got cheer leader level popularity. It's not difficult to imagine the rise of the voice assistant following along.
 
-![The Adafruit Feather Huzzah with ESP8226](https://cdn-shop.adafruit.com/970x728/2821-05.jpg)
-
 2015 and onward we being working with push states and service workers, making web sites feel native \(no reload\). This is something we are still looking at today with the surge of Progressive Web Applications \(PWA\), which has led to todays interest in [SVELTE](https://svelte.dev/) and [FLUTTER](https://flutter.dev/). 
 
 2016 [A-Frame](https://aframe.io/) was created in order to allow web developers and designers to author 3D and VR experiences with HTML. Two years later the Oculus Go is released, a VR headset that can view VR experiences in the browser.
