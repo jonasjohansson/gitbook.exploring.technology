@@ -6,7 +6,7 @@ Welcome to a wishful remedy to the increasing knowledge gap between those who bu
 
 In April we are streaming workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET GMT+2. More information in our [Facebook event](https://www.facebook.com/events/524433344931172/).
 
-New to streaming? Check out the [stream page](more/tips-trix/stream.md)!
+New to streaming? Check out the [stream page](tips-trix/stream.md)!
 
 ## Workshops
 
@@ -20,7 +20,7 @@ New to streaming? Check out the [stream page](more/tips-trix/stream.md)!
 | 0410 | Machine Learning with [Runway](learn/runway.md) | [Andreas Refsgaard](https://andreasrefsgaard.dk/) |
 | 0411 | Live coding networked visuals in Hydra | [Annie Tådne](https://tadne.se/) |
 | 0413 | GLSL and Advanced TOP in TouchDesigner | [Anton Heestand](http://hexagons.net/) |
-| 0414 | [Enhanced radical knitting using JavaScript and the Terminal](more/guides/enhanced-radical-knitting.md) | [Alexander Wallin](https://www.alexanderwallin.com/) |
+| 0414 | [Enhanced radical knitting using JavaScript and the Terminal](guides/enhanced-radical-knitting.md) | [Alexander Wallin](https://www.alexanderwallin.com/) |
 | 0415 | Sketch and share Chiptune music with [Beepbox](learn/beepbox/) | [Francesco Torelli](http://www.francescotorelli.it/) |
 | 0416 | Painting by numbers: An intro to shaders | Christian Kokott |
 | 0417 | Interactive visuals in the browser with [Cables.gl](https://cables.gl/) | [Mark Smith](https://undev.studio/) |
