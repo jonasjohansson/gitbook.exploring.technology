@@ -168,6 +168,4 @@
   * [A \(not so\) Brief History](fed/ec/a-not-so-brief-history.md)
   * [Workshops](fed/ec/workshops.md)
   * [Team](fed/ec/team.md)
-  * [🥇 Generative Design](fed/ec/generative-design.md)
-  * [🥇 World Building](fed/ec/world-building.md)
 
