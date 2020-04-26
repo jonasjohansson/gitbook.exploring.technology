@@ -165,6 +165,7 @@
 ## Frontend Developer <a id="fed"></a>
 
 * [Exploring Code](fed/ec/README.md)
+  * [A \(not so\) Brief History](fed/ec/a-not-so-brief-history.md)
   * [Workshops](fed/ec/workshops.md)
   * [Team](fed/ec/team.md)
   * [🥇 Generative Design](fed/ec/generative-design.md)
