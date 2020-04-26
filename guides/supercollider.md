@@ -1,4 +1,4 @@
-# SuperCollider
+# Running SuperClean in SuperCollider
 
 {% hint style="success" %}
 Written by [Daniel M Karlsson](http://danielmkarlsson.com/) and edited by [Jonas Johansson](https://jonasjohansson.se/)
