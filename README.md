@@ -4,9 +4,9 @@ Welcome to a wishful remedy to the increasing knowledge gap between those who bu
 
 ## Streaming workshops during COVID-19
 
-In April we are streaming workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET GMT+2. More information in our [Facebook event](https://www.facebook.com/events/524433344931172/).
+In April we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET GMT+2. More information in the [Facebook event](https://www.facebook.com/events/524433344931172/).
 
-New to streaming? Check out the [stream page](tips-trix/stream.md)!
+{% embed url="https://www.youtube.com/playlist?list=PLUDp\_pSeLkVSih5Ftqll9MTzgZ3IL5URq" %}
 
 ## Workshops
 

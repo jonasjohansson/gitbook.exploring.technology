@@ -115,6 +115,7 @@
       * [Projection mapping](learn/resolume/advanced/projection-mapping.md)
       * [Syphon Recorder](learn/resolume/advanced/syphon-recorder.md)
   * [Runway \(draft\)](learn/runway.md)
+  * [Shaders \(draft\)](learn/shaders-draft.md)
   * [Spark](learn/spark/README.md)
     * [Face Mask](learn/spark/face-mask.md)
     * [Face Decoration](learn/spark/face-decoration.md)
@@ -161,11 +162,4 @@
   * [QR Code](tips-trix/qr-code.md)
   * [Stream](tips-trix/stream.md)
   * [Web](tips-trix/web.md)
-
-## Frontend Developer <a id="fed"></a>
-
-* [Exploring Code](fed/ec/README.md)
-  * [A \(not so\) Brief History](fed/ec/a-not-so-brief-history.md)
-  * [Workshops](fed/ec/workshops.md)
-  * [Team](fed/ec/team.md)
 
