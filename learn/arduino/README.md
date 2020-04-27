@@ -1,8 +1,8 @@
-# Arduino
+---
+description: Written by Jonas Johansson and Mickey van Olst
+---
 
-{% hint style="success" %}
-Written by [Jonas Johansson](https://jonasjohansson.se/) and [Mickey van Olst](https://mickeyvanolst.com/)
-{% endhint %}
+# Arduino
 
 Arduino is a brand of open-source electronics platform, based on easy-to-use hardware and software. Arduino boards can read inputs: light on a sensor, a finger on a button, or a Twitter message, and turn it into an output: activating a motor, turning on an LED or publishing something online. You can tell your board what to do by sending a set of instructions \(the code\). 
 
