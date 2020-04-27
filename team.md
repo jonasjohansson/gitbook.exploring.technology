@@ -57,9 +57,11 @@ Host of the annual Stupid Hackathon in Stockholm and working as Creative Technic
         </p>
         <p><a href="mailto:tom.backlof@hyperisland.se">tom.backlof@hyperisland.se</a>
           <br
-          />lina.wang@hyperisland.se
-          <br />emilio.hellberg@hyperisland.se
-          <br /><a href="mailto:nazduygu_gozen@hyperisland.se">nazduygu.gozen@hyperisland.se</a>
+          /><a href="mailto:lina.wang@hyperisland.se">lina.wang@hyperisland.se</a>
+          <br
+          /><a href="mailto:emilio.hellberg@hyperisland.se">emilio.hellberg@hyperisland.se</a>
+          <br
+          /><a href="mailto:nazduygu_gozen@hyperisland.se">nazduygu.gozen@hyperisland.se</a>
         </p>
       </td>
     </tr>
