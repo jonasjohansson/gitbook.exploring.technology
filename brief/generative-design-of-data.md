@@ -4,11 +4,13 @@ description: Week 20-21
 
 # 🥈 Generative Design of Data
 
-We are bombarded with information, graphs and numbers. People are turned into statistics, and countries measure their prowess by the power of integers. **It's abstract**. Not all is obvious, nor black and white. Reality is complex.
+As we bombard each other with graphs and numbers, people slowly turn into statistics used to demonstrate a country's greatness or weakness. But reality is complex.
 
 Kaggle, the world's largest data science community urges people "[Help us better understand COVID-19](https://www.kaggle.com/covid19)" and provides a huge section of datasets. There's also the [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) along with [Open Stockholm](https://dataportalen.stockholm.se/dataportalen/). 
 
-Your challenge is to create a **generative audiovisual artwork** driven by **data** and **triggered** by an event \(could be an input from a user, or from somewhere else\). The artwork should be responsive. Discover the data that drives you, and code an experience that informs the visitor of that information, using sound and visuals.
+Your challenge is to create a **generative audiovisual artwork** driven by **data** and **triggered** by an event \(could be an input from a user, or from somewhere else\). 
+
+The artwork should be responsive. Discover the data that drives you, and code an experience that informs the visitor of that information, using sound and visuals.
 
 You will receive relevant workshops and challenges in order to hone your craft, take it in your own pace.
 
