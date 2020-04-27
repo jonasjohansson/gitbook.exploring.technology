@@ -1,12 +1,10 @@
-# 👊🏼 Hello
+# Hello
 
 Welcome to a wishful remedy to the increasing knowledge gap between those who build machines, and those who use them. A repository of complementary learning materials for software, hardware and code, open to everyone.
 
 ## Streaming workshops during COVID-19
 
-In April we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET GMT+2. More information in the [Facebook event](https://www.facebook.com/events/524433344931172/).
-
-{% embed url="https://www.youtube.com/playlist?list=PLUDp\_pSeLkVSih5Ftqll9MTzgZ3IL5URq" %}
+In April we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET GMT+2. More information in the [Facebook event](https://www.facebook.com/events/524433344931172/). All videos can be viewed the [Exploring Technology Live playlist](https://youtu.be/ZoaCwD4TLeI?list=PLUDp_pSeLkVSih5Ftqll9MTzgZ3IL5URq) on Youtube..
 
 ## Workshops
 
