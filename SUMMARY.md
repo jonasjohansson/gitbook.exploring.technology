@@ -8,7 +8,7 @@
 ## Brief
 
 * [🥉 Class Website](brief/class-website.md)
-* [🥈 Data-driven AV Interactive Design](brief/data.md)
+* [🥈 Data](brief/data.md)
 * [🥈 Game](brief/undefined.md)
 * [🥇 Portals](brief/untitled-1.md)
 

@@ -8,7 +8,7 @@ Confined in our apartment, our city, our country we are undergoing a change. And
 
 The [European Cultural Foundation](https://www.culturalfoundation.eu/) recently closed the [Culture of Solidarity open call](https://www.culturalfoundation.eu/culture-of-solidarity) which addresses this, and [Vinnova](https://www.vinnova.se/) is looking for [innovations to Mitigate the Crisis](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020), with new open calls each month. There has been two huge hack events: [Hack the Crisis](https://www.hackthecrisis.se/) and [EU vs Virus](https://euvsvirus.org/) and more are to come.
 
-Virtual and Augmented Reality have been available for quite some time now, but it's not until recently that it has reached high potential using the mobile browser. Both technologies allow us to hack our immediate environment, whether it is by transporting us to a completely new place, or by using markers to make things appear in the real world.
+Virtual and Augmented Reality have been available for quite some time now, but it's not until recently that it has reached high potential using the mobile browser \([USDZ](https://developer.apple.com/augmented-reality/quick-look/), [WebXR API](https://immersive-web.github.io/webxr/)\). Both technologies allow us to hack our immediate environment, whether it is by transporting us to a completely new place, or by using markers to make things appear in the real world.
 
 Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphones. You will have a workshop in building 3D experiences using [A-Frame](https://www.exploring.technology/learn/aframe) and [AR.js](https://www.exploring.technology/learn/aframe/ar).
 
