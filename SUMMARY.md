@@ -8,7 +8,7 @@
 ## Brief
 
 * [🥉 Class Website](brief/class-website.md)
-* [🥈 Data](brief/data.md)
+* [🥈 Generative Design](brief/data.md)
 * [🥈 Game](brief/undefined.md)
-* [🥇 Portals](brief/untitled-1.md)
+* [🥇 Portals](brief/portals.md)
 
