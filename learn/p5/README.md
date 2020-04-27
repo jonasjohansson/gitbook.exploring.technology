@@ -12,6 +12,7 @@ Processing made by Casey Reas and Ben Fry has lowered the threshold of programmi
 
 ### References
 
+* [https://sfpc.io/faq/](https://sfpc.io/faq/)
 * [https://github.com/jonobr1/two.js/](https://github.com/jonobr1/two.js/)
 * [https://www.tetoki.eu/scanprocessor/](https://www.tetoki.eu/scanprocessor/)
 * [https://timrodenbroeker.de/courses/creative-coding-essentials/intro/](https://timrodenbroeker.de/courses/creative-coding-essentials/intro/)
