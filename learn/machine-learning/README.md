@@ -1,8 +1,8 @@
-# Machine Learning \(ml5\)
+---
+description: Written by Andreas Refsgaard and Jonas Johansson
+---
 
-{% hint style="success" %}
-Written by [Andreas Refsgaard](https://andreasrefsgaard.dk/) and [Jonas Johansson](https://jonasjohansson.se/)
-{% endhint %}
+# Machine Learning \(ml5\)
 
 Artificial intelligence, a disputed term since it presents two vague and probably incorrect words in combination. A large umbrella under which machine learning breathes bits and bytes. ML5 is a framework which aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of [TensorFlow.js](https://www.tensorflow.org/js) with no other external dependencies. ****
 

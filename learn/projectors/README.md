@@ -1,8 +1,8 @@
-# Projectors
+---
+description: Written by Jaime Reyes
+---
 
-{% hint style="success" %}
-Written by [Jaime Reyes](https://www.imakethings.work/)
-{% endhint %}
+# Projectors
 
 Projectors are an amazing piece of equipment that allows us to play with the perception of reality using light and shadows.
 
