@@ -6,7 +6,9 @@ description: Week 22-23
 
 While quarantined we are undergoing change, and what will come after is uncertain. Will we be more or less open to others, will we change the way we travel and behave? What is certain, however, is that that is a new normal and there is a need of new ways of using digital technology to experience, communicate, collaborate and create.
 
-The are several initiatives addressing this already, such as the open call from [Culture of Solidarity](https://www.culturalfoundation.eu/culture-of-solidarity) and [Vinnova](https://www.vinnova.se/)'s call for [innovations to Mitigate the Crisis](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020). Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment.
+The are several initiatives addressing this already, such as the open call from [Culture of Solidarity](https://www.culturalfoundation.eu/culture-of-solidarity) and [Vinnova](https://www.vinnova.se/)'s request for [innovation](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020). 
+
+Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment.
 
 ![](https://cdn.glitch.com/9fefbf1d-1435-435b-a215-8f0dd88f40eb%2Fpattern-tree.png?v=1570454328480)
 
