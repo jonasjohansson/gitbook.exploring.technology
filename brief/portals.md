@@ -12,9 +12,19 @@ Virtual and Augmented has recently reached the mobile browser, and both allow us
 
 ![](https://cdn.glitch.com/9fefbf1d-1435-435b-a215-8f0dd88f40eb%2Fpattern-tree.png?v=1570454328480)
 
-Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphones. You will have a workshop in building 3D experiences using [A-Frame](https://www.exploring.technology/learn/aframe) and [AR.js](https://www.exploring.technology/learn/aframe/ar).
+Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphone\(s\). You will have a workshop in building 3D experiences using [A-Frame](https://www.exploring.technology/learn/aframe) and [AR.js](https://www.exploring.technology/learn/aframe/ar).
 
 Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b3d#.fcx0aw7el)
+
+## Deliverables
+
+### VR
+
+Build 1 \(or more\) interactive VR experience, either as an individual or as a team. Prototype it using sponsored headsets \([Oculus Go](https://www.oculus.com/go)\) from [Immersivt](https://www.immersivt.se/).
+
+### AR
+
+Build 1 \(or more\) interactive AR experiences, either as an individual or as a team. Design your own marker and hack your surroundings by putting it up wherever you see fit, or build a system that allows for others to create their own.
 
 ### Optional
 
@@ -23,17 +33,9 @@ Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b
 | ⏰ | Make a game with states and mechanics \(levels, score, timer etc.\) |
 | 🤼 | Make it multiplayer/user \(sockets\) |
 | 🕹️ | Add multiple types of inputs |
-|  | Use an API to drive the experience |
+| 💾 | Use an API to drive the experience |
 
-### Deliverables VR
-
-Build 1 \(or more\) interactive VR experience, either as an individual or as a team. Prototype it using sponsored headsets \([Oculus Go](https://www.oculus.com/go)\) from [Immersivt](https://www.immersivt.se/).
-
-### Deliverables AR
-
-Build 1 \(or more\) interactive AR experiences, either as an individual or as a team. Design your own marker and hack your surroundings by putting it up wherever you see fit, or build a system that allows for others to create their own.
-
-### Exhibition
+## Exhibition
 
 [GOTO10](https://www.goto10.se/) has offered to print all Markers and QR codes in large size and display in their window, and they can also be put up on the public walls at [Snösätra](https://www.visitstockholm.com/sv/se--gora/sevardheter/snosatra-graffiti-wall-of-fame/).
 

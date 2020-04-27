@@ -20,7 +20,7 @@ With an increase in web sites an explosion of users followed, and we began study
 
 ![Screenshot from Threejs.org](.gitbook/assets/threejs.png)
 
-2011 [IFTTT](https://ifttt.com/) is launched, demonstrating the huge interest in data driven experiences, and chaining tools. We automate experiences and use API's back and forth. 
+2011 [IFTTT](https://ifttt.com/) is launched, demonstrating the huge interest in data driven experiences \(the boom of scraping from a few years earlier\), and chaining tools. We automate experiences and use API's back and forth.
 
 _Remember when the Twitter API was completely open? Internet became complicated again with complicated steps of verification \(some which live on today\)._
 

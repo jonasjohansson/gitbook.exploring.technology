@@ -8,6 +8,6 @@
 ## Brief
 
 * [🥉 Class Website](brief/class-website.md)
-* [🥈 We Feel Fine](brief/data.md)
+* [🥈 Generative Design](brief/data.md)
 * [🥇 Hello New World](brief/portals.md)
 
