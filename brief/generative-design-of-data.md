@@ -10,6 +10,8 @@ Kaggle, the world's largest data science community urges people "[Help us better
 
 Your challenge is to create a **generative audiovisual artwork** driven by **data** and **triggered** by an event \(could be an input from a user, or from somewhere else\). The artwork should be responsive. Discover the data that drives you, and code an experience that informs the visitor of that information, using sound and visuals.
 
+You will receive relevant workshops and challenges in order to hone your craft, take it in your own pace.
+
 ![Always Be Iterating by Zach Lieberman](../.gitbook/assets/zach%20%281%29.jpg)
 
 ## Deliverables
