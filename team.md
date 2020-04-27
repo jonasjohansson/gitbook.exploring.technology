@@ -38,7 +38,7 @@ Artist and creative coder based in Copenhagen. Uses algorithms and machine learn
 
 ### Peder Fjällström
 
-Host of the annual Stupid Hackathon in Stockholm and working as Creative Technical Director at design agency Familjen. Co-founded and ran the digital agency Earth People up until April 2019. Also brews the tasty [Kalejdoskop Drinks](http://kalejdoskopdrinks.com/).
+Host of the annual Stupid Hackathon in Stockholm and working as Creative Technical Director at design agency Familjen. Co-founded and ran the digital agency Earth People up until April 2019.
 
 ## Class representatives
 
