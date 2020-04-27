@@ -1,8 +1,8 @@
----
-description: Written by Jonas Johansson
----
-
 # Resolume
+
+{% hint style="success" %}
+Written by [Jonas Johansson](https://jonasjohansson.se/)
+{% endhint %}
 
 Resolume is made for audiovisual performances and is served in two flavours: **Avenue** and **Arena**. Both enable you to play video and audio, and use built-in generators for text and graphics, but Arena also provides projection mapping possibilities!
 

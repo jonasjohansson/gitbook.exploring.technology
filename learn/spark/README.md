@@ -1,8 +1,8 @@
----
-description: Written by Jonas Johansson
----
-
 # Spark
+
+{% hint style="success" %}
+Written by [Jonas Johansson](https://jonasjohansson.se/)
+{% endhint %}
 
 Create Augmented Reality experiences for Instagram and Facebook. 
 

@@ -1,8 +1,8 @@
----
-description: Written by Jonas Johansson
----
-
 # Pepakura
+
+{% hint style="success" %}
+Written by [Jonas Johansson](https://jonasjohansson.se/)
+{% endhint %}
 
 Ever heard of paper craft?  It's the art of creating one, [two](https://www.google.com/search?q=paper+craft+2d) or [three-dimensional](https://www.google.com/search?q=paper+craft+3d) objects in paper. To create custom and complex designs, Pepakura "unfolds" digital object, allowing them to be re-imagined physically. Upscale the measurements, and [use projection mapping](https://vimeo.com/328475901) for radical paper brightness!
 

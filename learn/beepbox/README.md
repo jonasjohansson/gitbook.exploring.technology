@@ -1,8 +1,8 @@
----
-description: Written by Francesco Torelli
----
-
 # Beepbox
+
+{% hint style="success" %}
+Written by [Francesco Torelli](http://www.francescotorelli.it/)
+{% endhint %}
 
 Audio can be understood in many shapes, music, melody, sound effect or even complete silence. There are several great applications out there for getting started, such as [Ableton Live](http://ableton.com/) \([learning music](https://learningmusic.ableton.com/) - [learning synths](https://learningsynths.ableton.com/)\) and [Reaper](https://www.reaper.fm/). To venture into more unknown territories, have a look at [TidalCycles](https://tidalcycles.org/index.php/Welcome), where music happens through code. [Beepbox](https://www.beepbox.co/) is a "web app for sketching and sharing chiptune melodies" and a great tool for getting introduced to audio production and music fundamentals. Listen to what others have made through posts on the [Beepbox Twitter](https://twitter.com/beepboxco):
 
