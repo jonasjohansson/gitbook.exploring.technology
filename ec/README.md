@@ -10,9 +10,20 @@ But has technology brought us closer? Does an email cost less than a letter? Can
 
 During four weeks students at Hyper Island will explore code and and bridge the gap between humans and machines, using play and alternative interfaces.
 
-In order to further facilitate learning the four weeks will be used for two projects, with project having a **Conceptual** or **Technical** track.
-
-a mid delivery in the shape of a three-day sprint project will train students in the art of making choices and delivering a solid experience and presentation. All training wheels are then removed as the teams work towards the final project, an exhibition encouraging participation, imagination, activation and transformation.
-
 > The students will get to create outside the norm and challenge the way interfaces are built. Art, music, virtual reality experiences - the possibilities are endless. Hands-on creation, testing the limits and insights of the creative process. — Hyper Island
+
+### Workshops
+
+Define your teams attributes by attending the workshops you feel are relevant to you. Put all your points into an attribute and specialise, or find balance by having a generalist approach.
+
+→ [Read about the workshops!](workshops.md)
+
+### Questions
+
+In order to facilitate situations where neither Internet nor the self is able to find the way forward, there is the Slack workspace!
+
+1. Join the \# channel that fits your topic eg. \#help-p5 or \#help-a-frame
+2. State your question in 1 post, be clear with your goal and what you tried eg "I want to do X and tried Y" while including ample source code to solve the issue.
+
+The Industry Leaders will answer well written questions with equally qualitative answers.
 

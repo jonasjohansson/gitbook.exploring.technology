@@ -4,7 +4,7 @@
 
 ### [Jonas Johansson](https://jonasjohansson.se/)
 
-Anywhere based artist, designer and programmer transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader at Hyper Island since 2016.  Part of [Nordic Audiovisual Artists](https://nava.community/) and [Svartljus](https://svartljus.se/).
+Anywhere based artist, designer and programmer transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader at Hyper Island since 2016. Part of [Nordic Audiovisual Artists](https://nava.community/) and [Svartljus](https://svartljus.se/).
 
 ![](../.gitbook/assets/jonas-trim.jpg)
 
@@ -14,11 +14,11 @@ Anywhere based artist, designer and programmer transforming light + technology t
 
 The term "Creative Coding" symbolises the link between the arts and experimental software-development. In this intersection an unexplored, fascinating universe comes to life. And it is here that Tim applies his skill and shares his experience.
 
-→ Check out Tim live at the [TEDx UniPaderborn](https://www.youtube.com/watch?v=JW7oAbLVNJE)
+→ Check out Tim [live](https://www.youtube.com/watch?v=JW7oAbLVNJE)!
 
-### Mattias Petter Johansson \(FunFunFunction\)
+### Mattias Petter Johansson \(Fun Fun Function\)
 
-The host of FunFunFunction, popular show about programming, Mattias has been around and will join Exploring Code as a guest lecturer on topics that are dear to him.
+The host of Fun Fun Function, popular show about programming, Mattias has been around and will join Exploring Code as a guest lecturer on topics that are dear to him.
 
 ### [Katarina Ljungdahl](https://earthpeople.se/katarina)
 
