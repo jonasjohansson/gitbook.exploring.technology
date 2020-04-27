@@ -22,7 +22,7 @@ The host of Fun Fun Function, popular show about programming, Mattias has been a
 
 ### [Katarina Ljungdahl](https://earthpeople.se/katarina)
 
-TBD
+Been writing code since 2016 with 10 years prior experience in communication and design. Currently at [Earth People](https://earthpeople.se/) creating user experiences for clients such as Vimla, Red Bull and Klarna.
 
 ### [Owen Hindley](http://www.owenhindley.co.uk/)
 
