@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Hello New world](README.md)
-* [Background](background.md)
+* [Web Dev History](background.md)
 * [Workshops](workshops.md)
 * [Team](team.md)
 
@@ -9,6 +9,5 @@
 
 * [🥉 Class Website](brief/class-website.md)
 * [🥈 Generative Design](brief/data.md)
-* [🥈 Game](brief/undefined.md)
 * [🥇 Portals](brief/portals.md)
 
