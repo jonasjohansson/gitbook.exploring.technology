@@ -4,7 +4,7 @@ description: Week 22-23
 
 # 🥇 Portals
 
-Confined in our apartment, our city, our country we are undergoing a change. And what will come after is uncertain. What is certain, however, is that that is a new normal - not a break - and there is a need of new ways of using digital technology to experience, communicate, collaborate and create.
+While quarantined we are undergoing a change, and what will come after is uncertain. What is certain, however, is that that is a new normal and there is a need of new ways of using digital technology to experience, communicate, collaborate and create. To continue to be open-minded, open to other cultures and countries, even though our borders are closed.
 
 The [European Cultural Foundation](https://www.culturalfoundation.eu/) recently closed the [Culture of Solidarity open call](https://www.culturalfoundation.eu/culture-of-solidarity) which addresses this, and [Vinnova](https://www.vinnova.se/) is looking for [innovations to Mitigate the Crisis](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020), with new open calls each month. There has been two huge hack events: [Hack the Crisis](https://www.hackthecrisis.se/) and [EU vs Virus](https://euvsvirus.org/) and more are to come.
 
