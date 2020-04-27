@@ -22,10 +22,19 @@ Build 1 \(or more\) audiovisual data experience, either as an individual or as a
 Deadline TBD
 {% endhint %}
 
+### Optional
+
+| Challenge | Description |
+| :--- | :--- |
+| 📱 | Make it mobile first |
+| 🤼 | Make it multiplayer/user \(sockets\) |
+| 📖 | Add Machine Learning input or output |
+| 🤖 | Build your own Internet of Things input for realtime data |
+
 ## References
 
 * [The Web of Secret Stories](https://www.ted.com/talks/jonathan_harris_the_web_s_secret_stories) by [Jonathan Harris](http://number27.org/)
 * [New Insights on Poverty](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty) by Hans Rosling
 * [Artificial Machine](https://www.polygonfuture.com/akm) by [Jonathan Fletcher Moore](https://www.polygonfuture.com/)
 * Works by [Ikene Ijeoma](https://studioijeoma.com/)
-* 
+
