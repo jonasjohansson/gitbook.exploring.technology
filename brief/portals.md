@@ -2,7 +2,7 @@
 description: Week 22-23
 ---
 
-# 🥇 Portals
+# 🥇 Hello New World
 
 While quarantined we are undergoing change, and what will come after is uncertain. Will we be more or less open to others, will we change the way we travel and behave? What is certain, however, is that that is a new normal and there is a need of new ways of using digital technology to experience, communicate, collaborate and create.
 

@@ -2,7 +2,7 @@
 description: Week 20-21
 ---
 
-# 🥈 DADA Data
+# 🥈 Generative Design
 
 We are bombarded with information, graphs and numbers. People are turned into statistics, and countries measure their prowess by the power of integers. **It's abstract**. Not all is obvious, nor black and white. Reality is complex.
 
