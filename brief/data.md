@@ -10,9 +10,11 @@ Kaggle, the world's largest data science community urges people "[Help us better
 
 Your challenge is to create a **generative audiovisual artwork** driven by **data** and **triggered** by an event \(could be an input from a user, or from somewhere else\). Discover the data that drives you, and code an experience that informs the visitor of that information, using sound and visuals.
 
-### Deliverables
+## Deliverables
 
-### References
+TBD
+
+## References
 
 * [The Web of Secret Stories](https://www.ted.com/talks/jonathan_harris_the_web_s_secret_stories) by [Jonathan Harris](http://number27.org/)
 * [New Insights on Poverty](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty) by Hans Rosling

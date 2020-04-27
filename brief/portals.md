@@ -47,3 +47,7 @@ Deadline TBD
 
 ![Sn&#xF6;s&#xE4;tra Wall of Fame](../.gitbook/assets/snosatra.png)
 
+## References
+
+TBD
+
