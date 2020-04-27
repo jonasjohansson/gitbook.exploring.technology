@@ -6,7 +6,7 @@ description: Week 20-21
 
 We are bombarded with information, graphs and numbers. People are turned into statistics, and countries measure their prowess by the power of integers. **It's abstract**. Not all is obvious, nor black and white. Reality is complex.
 
-[Kaggle](https://www.kaggle.com/), the world's largest data science community urges people "[Help us better understand COVID-19](https://www.kaggle.com/covid19)" and provides a huge section of datasets. There's also the [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) along [Open Stockholm](https://dataportalen.stockholm.se/dataportalen/).
+[Kaggle](https://www.kaggle.com/), the world's largest data science community urges people "[Help us better understand COVID-19](https://www.kaggle.com/covid19)" and provides a huge section of datasets. There's also the [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) along with [Open Stockholm](https://dataportalen.stockholm.se/dataportalen/) \(and the weird [Webbkameror](http://www.webbkameror.se/)\).
 
 Data-driven Audiovisual interactive design
 

@@ -18,16 +18,12 @@ Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b
 
 ### Optional
 
-If  you want additional challenges…
-
 | Challenge | Description |
 | :--- | :--- |
-| ⏰ | Add game states and mechanics \(levels, score, timer etc.\) |
-| 🤼 | Make it multiplayer \(sockets\) |
-| 📱 | Adapt it for mobile devices |
-| 🕹️ | Add additional inputs |
-| 📱 | Use mobile device in tandem with desktop for advanced gameplay |
-|  | Use an API |
+| ⏰ | Make a game with states and mechanics \(levels, score, timer etc.\) |
+| 🤼 | Make it multiplayer/user \(sockets\) |
+| 🕹️ | Add multiple types of inputs |
+|  | Use an API to drive the experience |
 
 ### Deliverables VR
 
