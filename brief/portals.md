@@ -4,11 +4,11 @@ description: Week 22-23
 
 # 🥇 Portals
 
-While quarantined we are undergoing a change, and what will come after is uncertain. What is certain, however, is that that is a new normal and there is a need of new ways of using digital technology to experience, communicate, collaborate and create. To continue to be open-minded, open to other cultures and countries, even though our borders are closed.
+While quarantined we are undergoing change, and what will come after is uncertain. Will we be more or less open to others, will we change the way we travel and behave? What is certain, however, is that that is a new normal and there is a need of new ways of using digital technology to experience, communicate, collaborate and create.
 
-The [European Cultural Foundation](https://www.culturalfoundation.eu/) recently closed the [Culture of Solidarity open call](https://www.culturalfoundation.eu/culture-of-solidarity) which addresses this, and [Vinnova](https://www.vinnova.se/) is looking for [innovations to Mitigate the Crisis](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020), with new open calls each month. There has been two huge hack events: [Hack the Crisis](https://www.hackthecrisis.se/) and [EU vs Virus](https://euvsvirus.org/) and more are to come.
+The are several initiatives addressing this already, such as the open call from [Culture of Solidarity](https://www.culturalfoundation.eu/culture-of-solidarity) and [Vinnova](https://www.vinnova.se/)'s call for [innovations to Mitigate the Crisis](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020). Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment.
 
-Virtual and Augmented Reality have been available for quite some time now, but it's not until recently that it has reached high potential using the mobile browser \([USDZ](https://developer.apple.com/augmented-reality/quick-look/), [WebXR API](https://immersive-web.github.io/webxr/)\). Both technologies allow us to hack our immediate environment, whether it is by transporting us to a completely new place, or by using markers to make things appear in the real world.
+![](https://cdn.glitch.com/9fefbf1d-1435-435b-a215-8f0dd88f40eb%2Fpattern-tree.png?v=1570454328480)
 
 Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphones. You will have a workshop in building 3D experiences using [A-Frame](https://www.exploring.technology/learn/aframe) and [AR.js](https://www.exploring.technology/learn/aframe/ar).
 
@@ -33,7 +33,11 @@ Build 1 \(or more\) interactive VR experience, either as an individual or as a t
 
 ### Deliverables AR
 
-Build 1 \(or more\) interactive AR experiences, either as an individual or as a team. Design your own marker and hack your surroundings. [GOTO10](https://www.goto10.se/) has offered to print these in large size and display in their window, and they can also be put up on the public walls at [Snösätra Wall of Fame](https://www.visitstockholm.com/sv/se--gora/sevardheter/snosatra-graffiti-wall-of-fame/).
+Build 1 \(or more\) interactive AR experiences, either as an individual or as a team. Design your own marker and hack your surroundings by putting it up wherever you see fit, or build a system that allows for others to create their own.
+
+### Exhibition
+
+[GOTO10](https://www.goto10.se/) has offered to print all Markers and QR codes in large size and display in their window, and they can also be put up on the public walls at [Snösätra](https://www.visitstockholm.com/sv/se--gora/sevardheter/snosatra-graffiti-wall-of-fame/).
 
 {% hint style="success" %}
 Deadline TBD

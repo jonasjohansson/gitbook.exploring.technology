@@ -8,6 +8,6 @@
 ## Brief
 
 * [🥉 Class Website](brief/class-website.md)
-* [🥈 Generative Design](brief/data.md)
+* [🥈 DADA Data](brief/data.md)
 * [🥇 Portals](brief/portals.md)
 
