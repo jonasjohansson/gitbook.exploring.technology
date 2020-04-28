@@ -20,6 +20,8 @@ The term "Creative Coding" symbolises the link between the arts and experimental
 
 The host of Fun Fun Function, popular show about programming, Mattias has been around and will join Exploring Code as a guest lecturer on topics that are dear to him.
 
+→ Check out MPJ [live](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)!
+
 ### [Katarina Ljungdahl](https://earthpeople.se/katarina)
 
 Been writing code since 2016 with 10 years prior experience in communication and design. Currently at [Earth People](https://earthpeople.se/) creating user experiences for clients such as Vimla, Red Bull and Klarna.
@@ -31,10 +33,6 @@ A true jack of all trades working with software, electronics, light and sound to
 ### [Alexander Wallin](https://www.alexanderwallin.com/)
 
 TBD
-
-### [Andreas Refsgaard](https://andreasrefsgaard.dk/)
-
-Artist and creative coder based in Copenhagen. Uses algorithms and machine learning to allows people to play music using only eye movement and facial gestures, control games by making silly sounds or transform drawings of musical instruments on paper into real compositions. Copenhagen Institute of Interaction Design alumni. Contributor to [Machine Learning for Artists](https://ml4a.github.io/).
 
 ### [Peder Fjällström](https://pederfjallstrom.com/)
 
