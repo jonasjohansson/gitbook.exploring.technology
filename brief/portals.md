@@ -10,15 +10,11 @@ The are several initiatives addressing this already, such as the open call from 
 
 Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment.
 
-![](https://cdn.glitch.com/9fefbf1d-1435-435b-a215-8f0dd88f40eb%2Fpattern-tree.png?v=1570454328480)
-
-### Challenge
+## Challenge
 
 Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphone\(s\). You will have receive relevant workshops in building 3D experiences using [A-Frame](https://www.exploring.technology/learn/aframe) \(Three.js\) and [AR.js](https://www.exploring.technology/learn/aframe/ar).
 
 Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b3d#.fcx0aw7el)
-
-## Deliverables
 
 ### VR
 
@@ -37,13 +33,9 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 | 🕹️ | Add multiple types of inputs |
 | 💾 | Use an API to drive the experience |
 
-## Exhibition
+### Exhibition
 
 [GOTO10](https://www.goto10.se/) has offered to print all Markers and QR codes in large size and display in their window, and they can also be put up on the public walls at [Snösätra](https://www.visitstockholm.com/sv/se--gora/sevardheter/snosatra-graffiti-wall-of-fame/).
-
-{% hint style="success" %}
-Deadline TBD
-{% endhint %}
 
 ![GOTO10 in Hammarby Sj&#xF6;stad](https://tengbom.se/app/uploads/2019/01/iis_312-2560x1440.jpg)
 
