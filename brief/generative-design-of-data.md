@@ -51,4 +51,5 @@ How we present information matter. Your challenge is in creating a Generative **
 ### TBD
 
 * [https://tidmarsh.media.mit.edu/data/herring](https://tidmarsh.media.mit.edu/data/herring)
+* [https://github.com/Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api)
 
