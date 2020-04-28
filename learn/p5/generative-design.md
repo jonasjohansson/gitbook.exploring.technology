@@ -20,7 +20,7 @@ _There are several other artist movements to use as search terms: cubism, expres
 
 ### [Will artificial intelligence replace professional cultural creators?](https://strelkamag.com/en/article/lev-manovich-ai-aesthetics)
 
-With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And Vera Molnár \([post](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5)\), a few years layer, made her own explorations as to what generative and algorithmic art could be.
+With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And [Vera Molnár](http://www.veramolnar.com/) \([post](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5)\), a few years layer, made her own explorations as to what generative and algorithmic art could be.
 
 > Quite interesting, young man, what you say about drawing using a computer. But tell me, can you make your machine draw as I do it? Nees thinks for a moment. Then: "Oh yes, of course I can—if you tell me how you do it."
 

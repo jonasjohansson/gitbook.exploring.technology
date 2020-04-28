@@ -12,6 +12,7 @@ Processing made by Casey Reas and Ben Fry has lowered the threshold of programmi
 
 ### References
 
+* [https://timrodenbroeker.de/resources/](https://timrodenbroeker.de/resources/)
 * [https://ceciltouchon.com/typogrphic/](https://ceciltouchon.com/typogrphic/)
 * [https://sfpc.io/faq/](https://sfpc.io/faq/)
 * [https://github.com/jonobr1/two.js/](https://github.com/jonobr1/two.js/)
@@ -26,4 +27,8 @@ Processing made by Casey Reas and Ben Fry has lowered the threshold of programmi
 * [http://cmuems.com/2018/60212f/](http://cmuems.com/2018/60212f/)
 * [https://www.openprocessing.org/sketch/454648](https://www.openprocessing.org/sketch/454648)
 * [https://codepen.io/Mamboleoo/pen/QWbmPGZ](https://codepen.io/Mamboleoo/pen/QWbmPGZ)
+* [http://www.codingmath.com/](http://www.codingmath.com/)
+* [http://printingcode.runemadsen.com/](http://printingcode.runemadsen.com/)
+* [https://involvingsystems.tumblr.com/](https://involvingsystems.tumblr.com/)
+* [https://dam-gallery.de/](https://dam-gallery.de/)
 
