@@ -26,8 +26,8 @@ The following steps will process the images and create a textured mesh.
 4. `Workflow > Build Mesh…`
 5. `Workflow > Build Texture…`
 6. `File > Export > Export model…`
-7. Import the model in CloudCompare and `Edit > Mesh > Sample Points` to generate a point cloud from the mesh.
-8. Finally, export as PLY.
+7. Import the model in CloudCompare and `Edit > Mesh > Sample Points` to generate a point cloud.
+8. Select the sampled mesh and Save as PLY \(choose binary\)
 
 ### Demo
 
