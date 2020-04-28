@@ -8,7 +8,7 @@ Technology is the new religion. We willingly build algorithms that enslave us, a
 
 But has technology brought us closer? Does an email cost less than a letter? Can "Dark Mode" be seen as innovation? We can do better. **This is our environment**. And here, we are not just the inhabitants, we are also the architects, the entrepreneurs and the builders!
 
-During four weeks students at Hyper Island will explore [creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding) and and bridge the gap between the screen and the present. The project will be split into two challenges: [Generative Design of Data](brief/generative-design-of-data.md) \(week 20-21\) and [Hello New World](brief/hello-new-world.md) \(week 22-23\). 
+During four weeks students at Hyper Island will explore [creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding) and and bridge the gap between the screen and the present. The project will be split into two challenges: [Generative Design of Data](brief/generative-design-of-data.md) and [Hello New World](brief/hello-new-world.md). 
 
 Each challenge will start with a full-day workshop, and students who wishes to follow a steady learning curve can choose to work on a learning assignment for the first week, in order to get going. The challenges also come with a list of optional achievements that can be grabbed.
 
