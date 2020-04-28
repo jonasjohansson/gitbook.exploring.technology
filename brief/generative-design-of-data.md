@@ -10,6 +10,10 @@ As we bombard each other with graphs and numbers, people slowly turn into statis
 
 ## Challenge
 
+{% hint style="danger" %}
+Note to self: This will be simplified, perhaps work with terms surrounding maps, and relate to travel, information intake, filtering etc. 
+{% endhint %}
+
 How we present information matter. Your challenge is in creating a Generative ****and Interactive Audiovisual Artwork ****driven by Data:
 
 1. Decide on a dataset or API to drive your work. The data can be implemented programmatically or manually.
