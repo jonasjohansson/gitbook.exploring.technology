@@ -38,9 +38,9 @@ _It's not difficult to imagine the rise of the voice assistant following along._
 
 2018 [ML5](https://ml5js.org/) simplified the process of using machine learning, and combined with [Teachable Machine](https://teachablemachine.withgoogle.com/) creating your own datasets is a breeze.
 
-A lot more has happened of course, we use [Glitch](http://glitch.com/) for writing collaborative code, published immediately. And instead of dynamic sites we use Static Site Generators such as [11ty](https://www.11ty.dev/) and [Jekyll](https://jekyllrb.com/).
+A lot more has happened of course, we use [Visual Studio Code](https://code.visualstudio.com/) for writing offline and [Glitch](http://glitch.com/) for writing collaborative code, published immediately. And instead of dynamic sites we use Static Site Generators like [11ty](https://www.11ty.dev/) and [Jekyll](https://jekyllrb.com/). PHP still lives on with the fantastic [Kirby](https://getkirby.com/). For more current tools, check this [awesome list](https://github.com/sindresorhus/awesome) from [Sindre Sorhus](https://sindresorhus.com/) or the [Sans Francisco](https://www.sansfrancis.co/) collection of tools.
 
-_If web development once was a box of wonders, it has scaled into a universe. Just take a look at this_ [_awesome list_](https://github.com/sindresorhus/awesome) _from_ [_Sindre Sorhus_](https://sindresorhus.com/) _or_ [_Sans Francisco_](https://www.sansfrancis.co/) _collection of tools._
+_If web development once was a box of wonders, it has scaled into a universe._ 
 
 If you are getting started, it can be overwhelming. But what's great is, it's all still HTML, CSS and JavaScript. And on that front, not much has fundamentally changed. **Learn the basics.**
 
