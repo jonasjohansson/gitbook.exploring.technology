@@ -38,9 +38,9 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 * [Katarina Ljungdahl](../team.md#katarina-ljungdahl)
 * [Peder Fjällström](../team.md#peder-fjaellstroem)
 
-### References
+### Inspiration
 
-TBD
+* [Liebermann Kiepe Redderman](https://liebermannkiepereddemann.de/)
 
 ### Exhibition
 

@@ -33,7 +33,7 @@ How we present information matter. Your challenge is in creating a Generative **
 * [Mattias Petter Johansson](../team.md#mattias-petter-johansson-fun-fun-function)
 * [Tim Rodenbroeker](../team.md#tim-rodenbroeker)
 
-### References
+### Inspiration
 
 * [Patatap](https://patatap.com/) by Jono Brandel
 * [The Web of Secret Stories](https://www.ted.com/talks/jonathan_harris_the_web_s_secret_stories) by [Jonathan Harris](http://number27.org/)
