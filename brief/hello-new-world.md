@@ -42,3 +42,8 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 
 * [Liebermann Kiepe Redderman](https://liebermannkiepereddemann.de/)
 
+### TBD
+
+* [https://immersive-web.github.io/webxr-samples/immersive-ar-session.html](https://immersive-web.github.io/webxr-samples/immersive-ar-session.html)
+* [https://github.com/immersive-web/anchors/blob/master/explainer.md](https://github.com/immersive-web/anchors/blob/master/explainer.md)
+
