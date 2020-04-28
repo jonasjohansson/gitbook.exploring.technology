@@ -20,6 +20,8 @@ ML5 \([link](https://ml5js.org/)\) runs in the browser and requires no installat
 * [https://glitch.com/@mickeyvanolst/andreas-ref-workshop-on-machine-learning-at-hyper-island-19](https://glitch.com/@mickeyvanolst/andreas-ref-workshop-on-machine-learning-at-hyper-island-19)
 * [https://runwayml.com/](https://runwayml.com/)
 * [https://aiartists.org/ai-generated-art-tools](https://aiartists.org/ai-generated-art-tools)
+* [https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+* [https://hyphaebeast.club/writing/art-and-machine-learning/](https://hyphaebeast.club/writing/art-and-machine-learning/)
 
 
 
