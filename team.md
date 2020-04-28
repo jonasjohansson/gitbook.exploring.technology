@@ -1,26 +1,33 @@
-# Team
+# Talks
 
-## Industry Leader
+## Overview
 
-### [Jonas Johansson](https://jonasjohansson.se/)
+| Title | When |
+| :--- | :---: |
+| Mattias Petter Johansson | 13/5 |
+| Alexander Wallin | 18/5 |
+| Tim Rodenbroeker | 19/5 |
+| Owen Hindley | 27/5 |
+| Katarina Ljungdahl | 2/6 |
+| Peder Fjällström | 5/6 |
+
+### [Jonas Johansson](https://jonasjohansson.se/) \(Industry Leader\)
 
 Anywhere based artist, designer and programmer transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader at Hyper Island since 2016. Part of [Nordic Audiovisual Artists](https://nava.community/) and [Svartljus](https://svartljus.se/).
 
 ![](.gitbook/assets/jonas-trim.jpg)
 
-## Guest speakers
+### Mattias Petter Johansson
+
+The host of Fun Fun Function, popular show about programming, Mattias has been around and will join Exploring Code as a guest lecturer on topics that are dear to him.
+
+→ Check out MPJ [live](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)!
 
 ### [Tim Rodenbroeker](https://timrodenbroeker.de/)
 
 The term "Creative Coding" symbolises the link between the arts and experimental software-development. In this intersection an unexplored, fascinating universe comes to life. And it is here that Tim applies his skill and shares his experience.
 
 → Check out Tim [live](https://www.youtube.com/watch?v=JW7oAbLVNJE)!
-
-### Mattias Petter Johansson \(Fun Fun Function\)
-
-The host of Fun Fun Function, popular show about programming, Mattias has been around and will join Exploring Code as a guest lecturer on topics that are dear to him.
-
-→ Check out MPJ [live](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)!
 
 ### [Katarina Ljungdahl](https://earthpeople.se/katarina)
 
