@@ -6,9 +6,5 @@ We will also print all markers and designs in a physical newspaper using [Newspa
 
 ![Example of print from Newspaper Club](https://i.pinimg.com/originals/df/d8/32/dfd83248851e7d93fa2058bf80a4b8fd.jpg)
 
-
-
-![GOTO10 in Hammarby Sj&#xF6;stad](https://tengbom.se/app/uploads/2019/01/iis_312-2560x1440.jpg)
-
 ![Sn&#xF6;s&#xE4;tra Wall of Fame](.gitbook/assets/snosatra.png)
 
