@@ -2,10 +2,13 @@
 
 * [Introduction](README.md)
 * [History of Web](history-of-web.md)
-* [Workshops](workshops.md)
-* [Team](team.md)
-* [Class Website](class-website.md)
-* [Exhibition](exhibition.md)
+
+## Info
+
+* [Team](info/team.md)
+* [Workshops](info/workshops.md)
+* [Class Website](info/class-website.md)
+* [Exhibition](info/exhibition.md)
 
 ## Brief
 

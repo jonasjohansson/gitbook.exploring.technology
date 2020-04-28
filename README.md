@@ -18,13 +18,13 @@ _The work from the first challenge can be continued and developed under the umbr
 
 Workshops will follow a simple **Learn Build & Test** structure with theory and practice in rapid succession. This means that students are always expected to code during workshops, and learning assignments will be tightly connected to theory presented. _There will be bonus workshops during the project which students can join by the end of the day._
 
-→ [Read about the workshops!](workshops.md)
+→ [Read about the workshops!](info/workshops.md)
 
 ### Talks
 
 Start of your day with an interesting talk! Each week will have at least 1 speaker highlighting a topic within code and design.
 
-→ [Read about the team!](team.md)
+→ [Read about the team!](info/team.md)
 
 ### Questions
 

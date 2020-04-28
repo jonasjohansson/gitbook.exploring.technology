@@ -8,5 +8,5 @@ For Exploring Code, a small group will be responsible for building a class websi
 2. Register domain eg. fed21.dev or exploring-code.dev
 3. Setup web framework for content submission
 
-![Always Be Iterating by Zach Lieberman](.gitbook/assets/zach%20%281%29.jpg)
+![Always Be Iterating by Zach Lieberman](../.gitbook/assets/zach%20%281%29.jpg)
 
