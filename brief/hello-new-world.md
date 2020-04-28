@@ -33,7 +33,7 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 
 ### Workshops & Talks
 
-* [A-Frame XR](https://www.exploring.technology/learn/aframe)
+* [A-Frame XR](https://www.exploring.technology/learn/aframe) with[ Jonas Johansson](../info/team.md#jonas-johansson-industry-leader)
 * [Owen Hindley](../info/team.md#owen-hindley)
 * [Katarina Ljungdahl](../info/team.md#katarina-ljungdahl)
 * [Peder Fjällström](../info/team.md#peder-fjaellstroem)
