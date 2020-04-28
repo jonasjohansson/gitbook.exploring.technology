@@ -1,6 +1,4 @@
-# Exhibition
-
-
+# Exhibition \(draft\)
 
 [GOTO10](https://www.goto10.se/) has offered to help print work produced and display in their window. Prints can also be put up on the public grafitti walls at [Snösätra](https://www.visitstockholm.com/sv/se--gora/sevardheter/snosatra-graffiti-wall-of-fame/).
 
