@@ -14,7 +14,7 @@
 | ✨ Machine Learning | TBD | Jonas |
 | ✨ TBD | TBD | Jonas |
 
-### Generative design
+### Generative Design
 
 Through [p5.js](https://p5js.org/) participants scratch the surface of artificial intelligence as they learn about generative design, and how machines can help make art, music and experiences! 
 

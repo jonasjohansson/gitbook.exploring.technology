@@ -14,8 +14,6 @@ How we present information matter and your challenge is in creating a Generative
 2. Express the data through audio, visuals and interaction.
 3. Make your work public using [Github Pages](https://pages.github.com/), [Glitch](http://glitch.com/) or the [P5 editor](https://editor.p5js.org/).
 
-_An introduction to generative design and P5 will be held, but feel free to choose another library._
-
 ### Optional
 
 | Challenge | Description |
@@ -24,6 +22,14 @@ _An introduction to generative design and P5 will be held, but feel free to choo
 | 🤼 | Make it multiplayer \(sockets\) |
 | 📖 | Add Machine Learning input or output |
 | 🤖 | Build your own Internet of Things input for realtime data |
+| 💡 | Add or use a different library |
+
+### Workshops & Talks
+
+* [Generative Design](../workshops.md#generative-design)
+* [Generative Audio](../workshops.md#generative-audio)
+* [Mattias Petter Johansson](../team.md#mattias-petter-johansson-fun-fun-function)
+* [Tim Rodenbroeker](../team.md#tim-rodenbroeker)
 
 ### References
 

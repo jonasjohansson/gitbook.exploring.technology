@@ -4,11 +4,11 @@ description: 'Week 20-24, May 11 — June 12'
 
 # Introduction
 
-Technology is the new religion. We build algorithms that enslave us and interfaces that offer little resistance, and few moments of learning. Instead of _surfing the web_, we swipe aimlessly. **Success!** We have turned the Internet into [Pleasantville](https://www.youtube.com/watch?v=v9EHRObUQqY), and we are its numb inhabitants.
+Technology is the new religion. We willingly build algorithms that enslave us, and interfaces that offer little resistance. Instead of _surfing the web_, we swipe aimlessly. **Success!** We have turned the Internet into [Pleasantville](https://www.youtube.com/watch?v=v9EHRObUQqY), and we are its numb inhabitants.
 
 But has technology brought us closer? Does an email cost less than a letter? Can "Dark Mode" be seen as innovation? We can do better. **This is our environment**. And here, we are not just the inhabitants, we are also the architects, the entrepreneurs and the builders!
 
-During four weeks students at Hyper Island will explore code and and bridge the gap between humans and machines, using play and alternative interfaces.
+During four weeks students at Hyper Island will explore code and and bridge the gap between humans and machines, using play and alternative interfaces. The project will be split into two challenges: [Generative Design of Data](brief/generative-design-of-data.md) \(week 20-21\) and [Hello New World](brief/portals.md) \(week 22-23\).
 
 ### Workshops
 
