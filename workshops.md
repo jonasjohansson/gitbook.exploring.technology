@@ -4,14 +4,13 @@
 
 | Title | When |
 | :--- | :---: |
-| Generative Design Basics | 13/5 |
-| Generative Design Advanced | 14/5 |
-| Generative Audio | 19/5 |
+| Generative Design Basics | 12/5 |
+| ✨ Internet of Things | 13/5 |
+| Generative Audio | 18/5 |
+| ✨ Machine Learning | 19/5 |
 | A-Frame XR | 25/5 |
-| ✨ Electron | TBD |
-| ✨ Internet of Things | TBD |
-| ✨ Machine Learning | TBD |
-| ✨ Python | TBD |
+| ✨ Python | 27/5 |
+| ✨ Electron | 2/6 |
 
 ### Generative Design
 
