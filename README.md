@@ -24,7 +24,7 @@ Workshops will follow a simple **Learn Build & Test** structure with theory and 
 
 Start of your day with an interesting talk! Each week will have at least 1 speaker highlighting a topic within code and design.
 
-→ [Read about the team!](info/talks.md)
+→ [Read about the talks!](info/talks.md)
 
 ### Questions
 
