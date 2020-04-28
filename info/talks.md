@@ -26,7 +26,7 @@ A true jack of all trades working with software, electronics, light and sound to
 
 ### [Alexander Wallin](https://www.alexanderwallin.com/)
 
-TBD
+Developer and musician who enjoys cross-pollination of programming and other crafts, like point cloud driven music videos, music services with only unpopular music, and lately generative knitting design. Currently building tools to ease life in team sports at [Heja](https://heja.io/).
 
 ### [Peder Fjällström](https://pederfjallstrom.com/)
 
