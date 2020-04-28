@@ -7,7 +7,6 @@
 
 ## Brief
 
-* [🥉 Class Website](brief/class-website.md)
 * [🥈 Generative Design of Data](brief/generative-design-of-data.md)
 * [🥇 Hello New World](brief/hello-new-world.md)
 
