@@ -71,4 +71,7 @@ How we present information matter. Your challenge is in creating a Generative **
 * [https://earthobservatory.nasa.gov/](https://earthobservatory.nasa.gov/)
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
 * [https://creativecommons.org/share-your-work/public-domain/cc0/](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* [https://www.flickr.com/photos/library\_of\_congress/albums](https://www.flickr.com/photos/library_of_congress/albums)
+* [https://www.ted.com/talks/david\_mccandless\_the\_beauty\_of\_data\_visualization/discussion?languageest253340](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/discussion?languageest253340)
+* [https://observablehq.com/](https://observablehq.com/)
 
