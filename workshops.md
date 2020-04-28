@@ -11,6 +11,7 @@
 | A-Frame XR | 25/5 |
 | ✨ Python | 27/5 |
 | ✨ Electron | 2/6 |
+| ✨ Variable Type | TBD |
 
 ### Generative Design
 
