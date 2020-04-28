@@ -8,7 +8,7 @@ Technology is the new religion. We willingly build algorithms that enslave us, a
 
 But has technology brought us closer? Does an email cost less than a letter? Can "Dark Mode" be seen as innovation? We can do better. **This is our environment**. And here, we are not just the inhabitants, we are also the architects, the entrepreneurs and the builders!
 
-During four weeks students at Hyper Island will explore code and and bridge the gap between the screen and reality. The project will be split into two challenges: [Generative Design of Data](brief/generative-design-of-data.md) \(week 20-21\) and [Hello New World](brief/portals.md) \(week 22-23\). Students will be split into groups
+During four weeks students at Hyper Island will explore code and and bridge the gap between the screen and reality. The project will be split into two challenges: [Generative Design of Data](brief/generative-design-of-data.md) \(week 20-21\) and [Hello New World](brief/portals.md) \(week 22-23\). _The work from the first challenge can be explored further in the second._
 
 → [Read about the workshops!](workshops.md)
 

@@ -4,7 +4,7 @@
 
 | Title | When |
 | :--- | :---: |
-| Generative Design Basics | 12/5 |
+| Generative Design Basics | 13/5 |
 | Generative Design Advanced | 14/5 |
 | Generative Audio | 19/5 |
 | A-Frame VR | 25/5 |
