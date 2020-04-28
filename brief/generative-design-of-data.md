@@ -6,6 +6,8 @@ description: Week 20-21
 
 As we bombard each other with graphs and numbers, people slowly turn into statistics used to demonstrate a country's greatness or weakness. But reality is complex. Kaggle, the world's largest data science community urges people "[Help us better understand COVID-19](https://www.kaggle.com/covid19)" and provides a huge section of datasets. 
 
+![PDP1042 \(2019\) by Cecil Touchon](https://images.squarespace-cdn.com/content/v1/5121025ce4b0b5151b71b786/1587991997817-K592QZN1MTBQUR1OMV7I/ke17ZwdGBToddI8pDm48kFlmZVLI_h5iwDtzHvYVhn8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z25N5wYEm9Bnn-MuukSh7Gs-BafdBJ9OF5xSQ0E6qo_IWbtxPRH917Fz9Qv_NunPol/Screenshot+2020-04-27+at+13.52.41.jpg?format=1000w)
+
 ## Challenge
 
 How we present information matter. Your challenge is in creating a Generative ****and Interactive Audiovisual Artwork ****driven by Data:
