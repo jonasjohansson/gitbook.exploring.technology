@@ -12,7 +12,7 @@ How we present information matter. Your challenge is in creating a Generative **
 
 1. Decide on a dataset or API to drive your work. The data can be implemented programmatically or manually.
 2. Express the data through audio, visuals and interaction.
-3. Make your work public using [Github Pages](https://pages.github.com/), [Glitch](http://glitch.com/) or the [P5 editor](https://editor.p5js.org/).
+3. Make your work public using [Github Pages](https://pages.github.com/), [Glitch](http://glitch.com/) or the [P5 editor](https://editor.p5js.org/). You may also choose your own hosting solution.
 
 ### Optional
 
@@ -34,6 +34,7 @@ How we present information matter. Your challenge is in creating a Generative **
 
 ### References
 
+* [Patatap](https://patatap.com/) by Jono Brandel
 * [The Web of Secret Stories](https://www.ted.com/talks/jonathan_harris_the_web_s_secret_stories) by [Jonathan Harris](http://number27.org/)
 * [New Insights on Poverty](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty) by Hans Rosling
 * [Artificial Machine](https://www.polygonfuture.com/akm) by [Jonathan Fletcher Moore](https://www.polygonfuture.com/)
