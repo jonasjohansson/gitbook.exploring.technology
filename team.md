@@ -36,9 +36,9 @@ TBD
 
 Artist and creative coder based in Copenhagen. Uses algorithms and machine learning to allows people to play music using only eye movement and facial gestures, control games by making silly sounds or transform drawings of musical instruments on paper into real compositions. Copenhagen Institute of Interaction Design alumni. Contributor to [Machine Learning for Artists](https://ml4a.github.io/).
 
-### Peder Fjällström
+### [Peder Fjällström](https://pederfjallstrom.com/)
 
-Host of the annual Stupid Hackathon in Stockholm and working as Creative Technical Director at design agency Familjen. Co-founded and ran the digital agency Earth People up until April 2019.
+Host of the annual [Stupid Hackathon](https://www.stupidhackathon.se/) in Stockholm and working as Creative Technical Director at design agency [Familjen](https://www.familjen.se/). Co-founded and ran the digital agency Earth People up until April 2019.
 
 ## Class representatives
 
