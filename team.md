@@ -1,16 +1,5 @@
 # Team
 
-## Overview
-
-| Title | When |
-| :--- | :---: |
-| Mattias Petter Johansson | 13/5 |
-| Alexander Wallin | 18/5 |
-| Tim Rodenbroeker | 19/5 |
-| Owen Hindley | 27/5 |
-| Katarina Ljungdahl | 2/6 |
-| Peder Fjällström | 5/6 |
-
 ### [Jonas Johansson](https://jonasjohansson.se/) \(Industry Leader\)
 
 Anywhere based artist, designer and programmer transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader at Hyper Island since 2016. Part of [Nordic Audiovisual Artists](https://nava.community/) and [Svartljus](https://svartljus.se/).
