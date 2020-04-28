@@ -5,9 +5,8 @@
 
 ## Info
 
-* [Team](info/team.md)
 * [Workshops](info/workshops.md)
-* [Class Website](info/class-website.md)
+* [Talks](info/talks.md)
 * [Exhibition](info/exhibition.md)
 
 ## Brief
