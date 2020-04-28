@@ -4,7 +4,7 @@ description: Week 20-21
 
 # 🥈 Generative Design of Data
 
-As we bombard each other with graphs and numbers, people slowly turn into statistics used to demonstrate a country's greatness or weakness. But reality is complex. Kaggle, the world's largest data science community urges people "[Help us better understand COVID-19](https://www.kaggle.com/covid19)" and provides a huge section of datasets. 
+As we bombard each other with graphs and numbers, people slowly turn into statistics used to demonstrate a country's greatness or weakness. But reality is complex. Kaggle, the world's largest data science community urges people "[Help us better understand COVID-19](https://www.kaggle.com/covid19)" and provides a huge section of datasets. At the same time, institutions such as museum \(physical datasets\) are struggling to share their information with the world.
 
 ![PDP1042 \(2019\) by Cecil Touchon](https://images.squarespace-cdn.com/content/v1/5121025ce4b0b5151b71b786/1587991997817-K592QZN1MTBQUR1OMV7I/ke17ZwdGBToddI8pDm48kFlmZVLI_h5iwDtzHvYVhn8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z25N5wYEm9Bnn-MuukSh7Gs-BafdBJ9OF5xSQ0E6qo_IWbtxPRH917Fz9Qv_NunPol/Screenshot+2020-04-27+at+13.52.41.jpg?format=1000w)
 
@@ -55,4 +55,15 @@ How we present information matter. Your challenge is in creating a Generative **
 * [https://www.navair.navy.mil/foia/documents](https://www.navair.navy.mil/foia/documents)
 * [https://earthview.withgoogle.com/gulf-of-mexico-14792](https://earthview.withgoogle.com/gulf-of-mexico-14792)
 * [https://medium.com/s/story/stone-soup-anyone-7004e8aed92](https://medium.com/s/story/stone-soup-anyone-7004e8aed92)
+* [https://en.greatfire.org/](https://en.greatfire.org/)
+* [https://thecolorsofmotion.com/films](https://thecolorsofmotion.com/films)
+* [https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/](https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/)
+* [https://www.nationalgeographic.com/what-the-world-eats/](https://www.nationalgeographic.com/what-the-world-eats/)
+* [https://www1.nyc.gov/site/planning/data-maps/open-data.page](https://www1.nyc.gov/site/planning/data-maps/open-data.page)
+* [https://leafletjs.com/](https://leafletjs.com/)
+* [https://d3js.org/](https://d3js.org/)
+* [https://medium.com/nightingale/data-visualization-in-music-11fcd702c893](https://medium.com/nightingale/data-visualization-in-music-11fcd702c893)
+* [https://sfpc.io/](https://sfpc.io/)
+* [https://earthobservatory.nasa.gov/](https://earthobservatory.nasa.gov/)
+* [https://www.metmuseum.org/](https://www.metmuseum.org/)
 
