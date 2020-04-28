@@ -8,7 +8,6 @@
 | Generative Design Advanced | 14/5 |
 | Generative Audio | 19/5 |
 | A-Frame XR | 25/5 |
-| A-Frame AR | 1/6 |
 | ✨ Electron | TBD |
 | ✨ Internet of Things | TBD |
 | ✨ Machine Learning | TBD |
