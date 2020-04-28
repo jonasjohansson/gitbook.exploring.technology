@@ -4,6 +4,7 @@
 * [History of Web](history-of-web.md)
 * [Workshops](workshops.md)
 * [Team](team.md)
+* [Class Website](class-website.md)
 
 ## Brief
 
