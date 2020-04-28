@@ -1,4 +1,4 @@
-# Display Point Clouds in Three.js
+# Display Point Clouds in the Browser
 
 A point cloud is a collection of points in 3D space. A point can be  understood best compared to a pixel in an image, where the pixel has four channels for color RGBA and the point has three channels for position XYZ.
 
@@ -30,6 +30,8 @@ The following steps will process the images and create a textured mesh.
 8. Select the sampled mesh and save as PLY \(binary\)
 
 ### Demo
+
+{% file src="../.gitbook/assets/sphere.ply" caption="" %}
 
 {% tabs %}
 {% tab title="Three" %}
