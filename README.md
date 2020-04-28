@@ -20,6 +20,12 @@ Workshops will follow a simple **Learn Build & Test** structure with theory and 
 
 → [Read about the workshops!](workshops.md)
 
+### Talks
+
+Start of your day with an interesting talk! Each week will have at least 1 speaker highlighting a topic within code and design.
+
+→ [Read about the team!](team.md)
+
 ### Questions
 
 In order to facilitate situations where neither Internet nor the self is able to find the way forward, there is the Slack workspace!

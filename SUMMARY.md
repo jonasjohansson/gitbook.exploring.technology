@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [History of Web](history-of-web.md)
 * [Workshops](workshops.md)
-* [Talks](team.md)
+* [Team](team.md)
 
 ## Brief
 
