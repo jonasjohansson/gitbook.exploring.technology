@@ -12,7 +12,7 @@
 | ✨ Electron | TBD |
 | ✨ Internet of Things | TBD |
 | ✨ Machine Learning | TBD |
-| ✨ TBD | TBD |
+| ✨ Python | TBD |
 
 ### Generative Design
 
