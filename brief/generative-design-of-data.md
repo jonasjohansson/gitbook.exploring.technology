@@ -70,4 +70,5 @@ How we present information matter. Your challenge is in creating a Generative **
 * [https://sfpc.io/](https://sfpc.io/)
 * [https://earthobservatory.nasa.gov/](https://earthobservatory.nasa.gov/)
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
+* [https://creativecommons.org/share-your-work/public-domain/cc0/](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
