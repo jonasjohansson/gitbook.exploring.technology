@@ -28,8 +28,8 @@ How we present information matter. Your challenge is in creating a Generative **
 
 ### Workshops & Talks
 
-* [Generative Design](../info/workshops.md#generative-design)
-* [Generative Audio](../info/workshops.md#generative-audio)
+* [Generative Design](../info/workshops.md#generative-design) with [Jonas Johansson](../info/team.md#jonas-johansson-industry-leader)
+* [Generative Audio](../info/workshops.md#generative-audio) with [Alexander Wallin](../info/team.md#alexander-wallin)
 * [Mattias Petter Johansson](../info/team.md#mattias-petter-johansson-fun-fun-function)
 * [Tim Rodenbroeker](../info/team.md#tim-rodenbroeker)
 
