@@ -24,13 +24,15 @@ These are optional sprint workshops for those who are curious to learn special t
 
 Interact with reality by building your own data driven project, using an [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) device to a public Internet hotspot! Teams interested in using this may receive a package with all required components for a first project.
 
+![](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/500x375/f8876a31b63532bbba4e781c30024a0a/A/B/ABX00004_iso_2.jpg)
+
 ### 19/5 Machine Learning
 
 Teach a machine using [Teachable Machine](https://teachablemachine.withgoogle.com/) and integrate it using [ML5](https://ml5js.org/) and [P5](https://p5js.org/). This workshop will demonstrate how to use Audio, Video and Pose data to create web interactions!
 
 ### 27/5 Python
 
-
+TBD
 
 ### 2/6 Electron
 
