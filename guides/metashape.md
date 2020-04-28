@@ -31,6 +31,8 @@ The following steps will process the images and create a textured mesh.
 
 ### Demo
 
+{% tabs %}
+{% tab title="Three" %}
 ```markup
 <html>
   <head>
@@ -75,4 +77,24 @@ The following steps will process the images and create a textured mesh.
   </body>
 </html>
 ```
+{% endtab %}
+
+{% tab title="A-Frame" %}
+```markup
+<html>
+  <head>
+    <script src="https://unpkg.com/aframe@latest"></script>
+    <script src="https://unpkg.com/aframe-pointcloud-component/dist/aframe-pointcloud-component.min.js"></script>
+  </head>
+  <body>
+    <a-scene background="color: black">
+      <a-pointcloud src="url(YOUR_PLY)" size="0.01">
+      </a-pointcloud>
+    </a-scene>
+  </body>
+</html>
+
+```
+{% endtab %}
+{% endtabs %}
 

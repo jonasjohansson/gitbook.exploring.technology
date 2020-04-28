@@ -7,7 +7,6 @@
 | [Epson EB-U05](https://www.visunext.se/sv/epson-eb-u05.html) | WUXGA | 3400 | 5760 |
 | [Optoma EH200ST](https://www.visunext.se/sv/optoma-eh200st.html) | HD, Short-throw | 3000 | 9200 |
 | [Optoma EH416](https://www.visunext.se/sv/optoma-eh416.html) | HD | 4200 | 9900 |
-| [Optoma ML1050ST](https://www.dustin.se/product/5011068989/ml1050st-ultra-mobile) | WXGA, Short-throw | 1000 | 6200 |
 
 ## Installation  Projectors
 
