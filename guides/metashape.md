@@ -31,8 +31,6 @@ The following steps will process the images and create a textured mesh.
 
 ### Demo
 
-{% file src="../.gitbook/assets/sphere.ply" caption="" %}
-
 {% tabs %}
 {% tab title="Three" %}
 ```markup
@@ -99,4 +97,6 @@ The following steps will process the images and create a textured mesh.
 ```
 {% endtab %}
 {% endtabs %}
+
+![](../.gitbook/assets/trees.png)
 
