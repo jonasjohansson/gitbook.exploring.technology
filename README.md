@@ -8,8 +8,6 @@ Technology is the new religion. We build algorithms that enslave us and interfac
 
 But has technology brought us closer? Does an email cost less than a letter? Can "Dark Mode" be seen as innovation? We can do better. **This is our environment**. And here, we are not just the inhabitants, we are also the architects, the entrepreneurs and the builders!
 
-> The students will get to create outside the norm and challenge the way interfaces are built. Art, music, virtual reality experiences - the possibilities are endless. Hands-on creation, testing the limits and insights of the creative process. — Hyper Island
-
 During four weeks students at Hyper Island will explore code and and bridge the gap between humans and machines, using play and alternative interfaces.
 
 ### Workshops
