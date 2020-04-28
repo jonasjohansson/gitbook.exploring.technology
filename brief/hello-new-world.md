@@ -35,7 +35,12 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 
 * [A-Frame XR](https://www.exploring.technology/learn/aframe)
 * [Owen Hindley](../team.md#owen-hindley)
+* [Katarina Ljungdahl](../team.md#katarina-ljungdahl)
 * [Peder Fjällström](../team.md#peder-fjaellstroem)
+
+### References
+
+TBD
 
 ### Exhibition
 
@@ -44,8 +49,4 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 ![GOTO10 in Hammarby Sj&#xF6;stad](https://tengbom.se/app/uploads/2019/01/iis_312-2560x1440.jpg)
 
 ![Sn&#xF6;s&#xE4;tra Wall of Fame](../.gitbook/assets/snosatra.png)
-
-### References
-
-TBD
 

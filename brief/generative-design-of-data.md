@@ -29,7 +29,6 @@ How we present information matter. Your challenge is in creating a Generative **
 * [Generative Design](../workshops.md#generative-design)
 * [Generative Audio](../workshops.md#generative-audio)
 * [Mattias Petter Johansson](../team.md#mattias-petter-johansson-fun-fun-function)
-* [Katarina Ljungdahl](../team.md#katarina-ljungdahl)
 * [Tim Rodenbroeker](../team.md#tim-rodenbroeker)
 
 ### References
