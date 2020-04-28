@@ -14,6 +14,10 @@ Each challenge will start with a full-day workshop, and students who wishes to f
 
 _The work from the first challenge can be continued and developed under the umbrella of the second challenge._
 
+### Workshops
+
+Workshops will follow a simple **Learn Build & Test** structure with theory and practice in rapid succession. This means that students are always expected to code during workshops, and learning assignments will be tightly connected to theory presented.
+
 → [Read about the workshops!](workshops.md)
 
 ### Questions
