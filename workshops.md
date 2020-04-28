@@ -22,9 +22,9 @@ Through [P5](https://p5js.org/) participants scratch the surface of artificial i
 
 Learn the ropes integrating sound and music into your projects, using pre-made clips or the builtin WebAudio API.
 
-### A-Frame AR/VR
+### A-Frame XR
 
-Browser based world building and mixed reality. With A-Frame and [Glitch]() participants learn the basics of web powered graphics development while hacking their environment using virtual and augmented reality. 
+Browser based world building and mixed reality. Participants learn the basics of web powered graphics development while hacking their environment using virtual and augmented reality. 
 
 → [Create an account on Glitch](https://start.exploring.technology/tools/glitch)
 
