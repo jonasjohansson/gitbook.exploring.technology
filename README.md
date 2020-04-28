@@ -10,13 +10,13 @@ But has technology brought us closer? Does an email cost less than a letter? Can
 
 During four weeks students at Hyper Island will explore code and and bridge the gap between the screen and the present. The project will be split into two challenges: [Generative Design of Data](brief/generative-design-of-data.md) \(week 20-21\) and [Hello New World](brief/hello-new-world.md) \(week 22-23\). 
 
-Each challenge will start with a full-day workshop, and students who wishes to follow a steady learning curve can choose to work on a learning assignment for the first week, in order to get going.
+Each challenge will start with a full-day workshop, and students who wishes to follow a steady learning curve can choose to work on a learning assignment for the first week, in order to get going. The challenges also come with a list of optional achievements that can be grabbed.
 
 _The work from the first challenge can be continued and developed under the umbrella of the second challenge._
 
 ### Workshops
 
-Workshops will follow a simple **Learn Build & Test** structure with theory and practice in rapid succession. This means that students are always expected to code during workshops, and learning assignments will be tightly connected to theory presented.
+Workshops will follow a simple **Learn Build & Test** structure with theory and practice in rapid succession. This means that students are always expected to code during workshops, and learning assignments will be tightly connected to theory presented. _There will be bonus workshops during the project which students can join by the end of the day._
 
 → [Read about the workshops!](workshops.md)
 

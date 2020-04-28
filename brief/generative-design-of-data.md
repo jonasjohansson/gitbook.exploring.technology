@@ -16,7 +16,7 @@ How we present information matter. Your challenge is in creating a Generative **
 
 ### Optional
 
-| Challenge | Description |
+|  | Description |
 | :--- | :--- |
 | 📱 | Make it mobile first |
 | 🤼 | Make it multiplayer \(sockets\) |
