@@ -1,51 +1,45 @@
 # Workshops
 
-## Overview
-
-| Title | When |
-| :--- | :---: |
-| Generative Design Basics | 12/5 |
-| ✨ Internet of Things | 13/5 |
-| Generative Audio | 18/5 |
-| ✨ Machine Learning | 19/5 |
-| A-Frame XR | 25/5 |
-| ✨ Python | 27/5 |
-| ✨ Electron | 2/6 |
-| ✨ Variable Type | TBD |
-
-### Generative Design
+### 12/5 Generative Design
 
 Through [P5](https://p5js.org/) participants scratch the surface of artificial intelligence as they learn about generative design, and how machines can help make art, music and experiences! 
 
 → [Create an account on P5](https://editor.p5js.org/)
 
-### Generative Audio
+### 18/5 Generative Audio
 
 Learn the ropes integrating sound and music into your projects, using pre-made clips or the builtin WebAudio API.
 
-### A-Frame XR
+### 25/5 A-Frame XR
 
 Browser based world building and mixed reality. Participants learn the basics of web powered graphics development while hacking their environment using virtual and augmented reality. 
 
 → [Create an account on Glitch](https://start.exploring.technology/tools/glitch)
 
-## Bonus
+## Bonus ✨
 
-These are workshops that can be held if there is interest. They could also be completely different topics based on suggestions, but this is a range of web powered tools that can really open up some doors.
+These are optional sprint workshops for those who are curious to learn special topics.
 
-### ✨ Internet of Things
+### 13/5 Internet of Things
 
 Interact with reality by building your own data driven project, using an [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) device to a public Internet hotspot! Teams interested in using this may receive a package with all required components for a first project.
 
-### ✨ Machine Learning
+### 19/5 Machine Learning
 
 Teach a machine using [Teachable Machine](https://teachablemachine.withgoogle.com/) and integrate it using [ML5](https://ml5js.org/) and [P5](https://p5js.org/). This workshop will demonstrate how to use Audio, Video and Pose data to create web interactions!
 
-### ✨ Electron
+### 27/5 Python
+
+
+
+### 2/6 Electron
 
 Use Node.js and [Electron](https://www.electronjs.org/) and create multi-platform desktop apps! Check out the [list of apps](https://www.electronjs.org/apps) made in Electron \(for instance Slack\).
 
 → [Create an account on Itch](https://itch.io/)
 
-### 
+### Suggestions
+
+* Variable Type
+* WebSockets
 
