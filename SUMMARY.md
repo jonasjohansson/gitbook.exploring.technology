@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [A \(not so\) brief history](a-not-so-brief-history.md)
+* [History of Web](history-of-web.md)
 * [Workshops](workshops.md)
 * [Team](team.md)
 

@@ -1,4 +1,4 @@
-# A \(not so\) brief history
+# History of Web
 
 HTML has been around for 30 years, providing building blocks for all browser experiences. 5 years after, JavaScript and CSS came along, improving functionality and aesthetics. Since then, this triad can be found anywhere there is a browser.
 
