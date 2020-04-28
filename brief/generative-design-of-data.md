@@ -8,7 +8,7 @@ As we bombard each other with graphs and numbers, people slowly turn into statis
 
 ## Challenge
 
-How we present information matter and your challenge is in creating a Generative ****and Interactive Audiovisual Artwork ****driven by Data:
+How we present information matter. Your challenge is in creating a Generative ****and Interactive Audiovisual Artwork ****driven by Data:
 
 1. Decide on a dataset or API to drive your work. The data can be implemented programmatically or manually.
 2. Express the data through audio, visuals and interaction.

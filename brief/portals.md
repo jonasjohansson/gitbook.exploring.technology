@@ -6,13 +6,11 @@ description: Week 22-23
 
 While quarantined we are undergoing change, and what will come after is uncertain. Will we be more or less open to others, will we change the way we travel and behave? What is certain, however, is that that is a new normal and there is a need of new ways of using digital technology to experience, communicate, collaborate and create.
 
-The are several initiatives addressing this already, such as the open call from [Culture of Solidarity](https://www.culturalfoundation.eu/culture-of-solidarity) and [Vinnova](https://www.vinnova.se/)'s request for [innovation](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020). 
-
-Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment.
+The are several initiatives addressing this already, such as the open call from [Culture of Solidarity](https://www.culturalfoundation.eu/culture-of-solidarity) and [Vinnova](https://www.vinnova.se/)'s request for [innovation](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020).
 
 ## Challenge
 
-Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphone\(s\). You will have receive relevant workshops in building 3D experiences using [A-Frame](https://www.exploring.technology/learn/aframe) \(Three.js\) and [AR.js](https://www.exploring.technology/learn/aframe/ar).
+Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment. Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphone\(s\). You will have receive relevant workshops in building 3D experiences using [A-Frame](https://www.exploring.technology/learn/aframe) \(Three.js\) and [AR.js](https://www.exploring.technology/learn/aframe/ar).
 
 Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b3d#.fcx0aw7el)
 
@@ -41,7 +39,7 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 
 ![Sn&#xF6;s&#xE4;tra Wall of Fame](../.gitbook/assets/snosatra.png)
 
-## References
+### References
 
 TBD
 
