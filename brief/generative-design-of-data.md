@@ -53,4 +53,5 @@ How we present information matter. Your challenge is in creating a Generative **
 * [https://tidmarsh.media.mit.edu/data/herring](https://tidmarsh.media.mit.edu/data/herring)
 * [https://github.com/Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api)
 * [https://www.navair.navy.mil/foia/documents](https://www.navair.navy.mil/foia/documents)
+* [https://earthview.withgoogle.com/gulf-of-mexico-14792](https://earthview.withgoogle.com/gulf-of-mexico-14792)
 
