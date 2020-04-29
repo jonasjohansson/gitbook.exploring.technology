@@ -14,11 +14,19 @@ With an increase in web sites an explosion of users followed, and we began study
 
 2007 the smartphone arrived, and suddenly we had to consider touch and all the other inputs that a smartphone had \(sound, video, light, GPS, motion\). This made the browser **become personal**. The revolution of the smartphone made space for [Jquery](https://jquery.org/) and a hurricane of libraries assisting in building engaging interfaces \(and also killing Flash\).
 
+```javascript
+// cool
+$("h1").html("Hello New World!").addClass("test");
+
+// not cool
+var h1 = document.getElementsByTagName("h1")[0];
+h1.innerHTML = "Hello New World!";
+h1.className = "test";
+```
+
 2009 [Node.js](https://nodejs.org/) made an entrance allowing JS to communicate with the operative system and connected devices. JS was now breathing the same air as Python and other programming languages. The cage was unlocked.
 
 2010 [Three.js](https://threejs.org/) is released and [Processing.js](http://processingjs.org/) \(now [p5.js](https://p5js.org/)\) two years prior, enabling beautiful  and interactive experiences in the browser.
-
-![Screenshot from Threejs.org](.gitbook/assets/threejs.png)
 
 2011 [IFTTT](https://ifttt.com/) is launched, demonstrating the huge interest in data driven experiences \(the boom of scraping from a few years earlier\), and chaining tools. We automate experiences and use API's back and forth.
 
@@ -28,11 +36,23 @@ _Remember when the Twitter API was completely open? Internet became complicated 
 
 As code bases grew, sanity had to be kept. We began working heavily with Git, CSS pre-compilers \([SASS](https://sass-lang.com/)\), task runners and module bundlers \(think [Webpack](https://webpack.js.org/)\). We built [CoffeeScript](https://coffeescript.org/) and later [TypeScript](https://www.typescriptlang.org/), and "vanilla JavaScript" become a search term.
 
+```css
+/* cool */
+div {
+   span { color: red; }
+   p { color: green; }
+}
+
+/* not cool */
+div span { color: red; }
+div p { color: green; }
+```
+
 2014 the ESP8266 was released, a low-cost Wi-Fi microchip enabling microcontrollers to gain access to the web. Together with Bluetooth Low Energy everything became connected, and "Internet of \([Enchanted](http://enchantedobjects.com/)\) Things" got cheer leader level popularity. 
 
 _It's not difficult to imagine the rise of the voice assistant following along._
 
-2015 and onward we begun working with push states and service workers, making web sites feel native \(no reload\). This is something we are still looking at today with the surge of Progressive Web Applications \(PWA\), which has led to todays interest in [SVELTE](https://svelte.dev/) and [FLUTTER](https://flutter.dev/). 
+2015 and onward we begun working with push states and service workers, making web sites feel native \(no reload\). This is something we are still looking at today with the surge of Progressive Web Applications \(PWA\), which has led to todays interest in [Svelte](https://svelte.dev/) and [Flutter](https://flutter.dev/). 
 
 2016 [A-Frame](https://aframe.io/) was created in order to allow web developers and designers to author 3D and VR experiences with HTML. Two years later the Oculus Go is released, a VR headset that can view VR experiences in the browser.
 
