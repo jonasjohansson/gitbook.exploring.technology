@@ -39,7 +39,7 @@ In order to facilitate situations where neither Internet nor the self is able to
 
 The Industry Leaders will answer well written questions with equally qualitative answers.
 
-## Class representatives
+### Class representatives
 
 <table>
   <thead>
