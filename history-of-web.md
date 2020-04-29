@@ -12,7 +12,9 @@ With an increase in web sites an explosion of users followed, and we began study
 
 2000 and onwards we put web sites aside and made **web systems** giving birth to the blog with Wordpress \(2003\) moving from personal platform to the number one CMS for everyone. _And along came e-commerce and Facebook…_
 
-2007 the smartphone arrived, and suddenly we had to consider touch and all the other inputs that a smartphone had \(sound, video, light, GPS, motion\). This made the browser **become personal**. The revolution of the smartphone made space for [Jquery](https://jquery.org/) and a hurricane of libraries assisting in building engaging interfaces \(and also killing Flash\).
+2007 the smartphone arrived, and suddenly we had to consider touch and all the other inputs that a smartphone had \(sound, video, light, GPS, motion\). This made the browser **become personal** and **responsive**. 
+
+And as Flash continued its road to the cemetery, [Jquery](https://jquery.org/) and a hurricane of libraries assisting in building engaging interfaces rose to the surface, ande made JS a bit more exciting.
 
 ```javascript
 // cool
