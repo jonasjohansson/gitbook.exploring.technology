@@ -32,12 +32,17 @@ Each week there will be a moment to either have review with the Industry Leader,
 
 ### Questions
 
-In order to facilitate situations where neither Internet nor the self is able to find the way forward, there is the Slack workspace!
+In order to facilitate situations where neither Internet nor the self is able to find the way forward, use already existing communities:
+
+* StackOverflow
+* [https://discourse.processing.org/c/p5js](https://discourse.processing.org/c/p5js)
+* [https://discourse.threejs.org/](https://discourse.threejs.org/)
+* [https://aframevr.slack.com/](https://aframevr.slack.com/)
+
+ And if they can't help, use the Slack workspace!
 
 1. Join the channel that fits your topic eg. \#help-p5 or \#help-a-frame
-2. State your question in 1 post, be clear with your goal and what you tried eg "I want to do X and tried Y" while including ample source code to solve the issue.
-
-The Industry Leaders will answer well written questions with equally qualitative answers.
+2. Share a link to your question or state your question in 1 post, be clear with your goal and what you tried eg "I want to do X and tried Y" while including ample source code to solve the issue.
 
 ### Class representatives
 
