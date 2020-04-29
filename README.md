@@ -32,17 +32,16 @@ Each week there will be a moment to either have review with the Industry Leader,
 
 ### Questions
 
-In order to facilitate situations where neither Internet nor the self is able to find the way forward, use already existing communities:
+State your question in existing forums:
 
-* StackOverflow
+* [https://stackoverflow.com/](https://stackoverflow.com/)
 * [https://discourse.processing.org/c/p5js](https://discourse.processing.org/c/p5js)
 * [https://discourse.threejs.org/](https://discourse.threejs.org/)
 * [https://aframevr.slack.com/](https://aframevr.slack.com/)
 
- And if they can't help, use the Slack workspace!
+For extra attention link your question in the relevant channel.
 
-1. Join the channel that fits your topic eg. \#help-p5 or \#help-a-frame
-2. Share a link to your question or state your question in 1 post, be clear with your goal and what you tried eg "I want to do X and tried Y" while including ample source code to solve the issue.
+Questions should be considered and written in such a way that it is easy to answer without asking for further details. Always include source code, and preferably a [Fiddle](https://jsfiddle.net/) or [Glitch](http://glitch.com/) link.
 
 ### Class representatives
 
