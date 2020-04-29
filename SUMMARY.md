@@ -7,7 +7,7 @@
 
 * [Workshops](info/workshops.md)
 * [Talks](info/talks.md)
-* [Exhibition \(draft\)](info/exhibition.md)
+* [Exhibition](info/exhibition.md)
 
 ## Brief
 

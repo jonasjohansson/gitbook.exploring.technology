@@ -32,30 +32,5 @@ Developer and musician who enjoys cross-pollination of programming and other cra
 
 Host of the annual [Stupid Hackathon](https://www.stupidhackathon.se/) in Stockholm and working as Creative Technical Director at design agency [Familjen](https://www.familjen.se/). Co-founded and ran the digital agency Earth People up until April 2019.
 
-## Class representatives
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Week</th>
-      <th style="text-align:left">Who</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">20-24</td>
-      <td style="text-align:left">
-        <p><a href="mailto:david.lopez@hyperisland.se">david.lopez@hyperisland.se</a>
-        </p>
-        <p><a href="mailto:tom.backlof@hyperisland.se">tom.backlof@hyperisland.se</a>
-          <br
-          /><a href="mailto:lina.wang@hyperisland.se">lina.wang@hyperisland.se</a>
-          <br
-          /><a href="mailto:emilio.hellberg@hyperisland.se">emilio.hellberg@hyperisland.se</a>
-          <br
-          /><a href="mailto:nazduygu_gozen@hyperisland.se">nazduygu.gozen@hyperisland.se</a>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
