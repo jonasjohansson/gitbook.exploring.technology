@@ -50,10 +50,13 @@ How we present information matter. Your challenge is in creating a Generative **
 
 * [Kaggle dataset](https://www.kaggle.com/datasets)
 * [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
-* [Open Stockholm](https://dataportalen.stockholm.se/dataportalen/)
+* [Dataportalen](https://www.dataportal.se/)
 
-### TBD
+### Links
 
+* [https://www.gutenberg.org/](https://www.gutenberg.org/)
+* [https://openlibrary.org/](https://openlibrary.org/)
+* [https://archive.org/](https://archive.org/)
 * [https://tidmarsh.media.mit.edu/data/herring](https://tidmarsh.media.mit.edu/data/herring)
 * [https://github.com/Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api)
 * [https://www.navair.navy.mil/foia/documents](https://www.navair.navy.mil/foia/documents)
