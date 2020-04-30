@@ -1,6 +1,6 @@
-# Generative design
+# Generative Art
 
-Generative design is the symbiosis between machine and designer, where the output rely on an autonomous system for part or all of their production. A systematic approach to design \(and art\) that is finding its place in art history, with its closest artistic relative — modern art. 
+Generative art is the symbiosis between machine and man, where the output rely on an autonomous system for part or all of their production. A systematic approach that is finding its place in art history, with its closest artistic relative — modern art. 
 
 ![Sketchpad by Ivan Sutherland \(1963\)](https://bimaplus.org/wp-content/uploads/2018/12/ImageToNews_Sketchpad-01.png)
 
@@ -28,7 +28,7 @@ Digital artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberma
 
 _The possibilities are endless._
 
-### Generative design elsewhere
+### Generative elsewhere
 
 Other fields has fun with machines as well \(of course\). Steve Reichs [Piano Phase](https://www.youtube.com/watch?v=gobDFubBiRg) is a minimalist composition, written in 1967 for two pianos \(or piano and tape\). It is one of his first attempts at applying his "phasing" technique. Deconstructing and recomposing like this has later evolved into unique languages and cultures, such as the [algorithmic music scene](https://youtu.be/CSQ8npnlk0I), where codified music is written on the spot, creating compositions never heard before.
 
