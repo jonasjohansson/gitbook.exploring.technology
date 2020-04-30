@@ -107,80 +107,70 @@ The following steps will process the images and create a textured mesh.
     <script src="script.js"></script>
     <script>
       var scene = new THREE.Scene();
-      
-      var camera = new THREE.PerspectiveCamera(
-        45,
-        window.innerWidth / window.innerHeight,
-        1,
-        10000
-      );
+
+      var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 10000);
       camera.position.set(0, 0, 1000);
-
-      new THREE.TextureLoader().load("https://images.unsplash.com/photo-1588117472013-59bb13edafec?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80", tex => {
-        let img = tex.image;
-        var width = img.width;
-        var height = img.height;
-        var depth = 70;
-        var canvas = document.createElement("canvas");
-        canvas.width = width;
-        canvas.height = height;
-        var ctx = canvas.getContext("2d");
-        ctx.drawImage(img, 0, 0);
-        var imageData = ctx.getImageData(0, 0, width, height);
-        var data = imageData.data;
-        document.body.appendChild(canvas);
-
-        var geometry = new THREE.BufferGeometry();
-        var positions = [];
-
-        var color = new THREE.Color();
-        var colors = [];
-
-        var index = 0;
-
-        for (var y = 0; y < height; y++) {
-          for (var x = 0; x < width; x++) {
-            const r = imageData.data[index + 0] / 255;
-            const g = imageData.data[index + 1] / 255;
-            const b = imageData.data[index + 2] / 255;
-            const brightness = brightnessByColor(r, g, b);
-            var z = map(brightness, 0, 1, -depth, depth);
-            color.setRGB(r, g, b);
-            colors.push(color.r, color.g, color.b);
-            positions.push(x - height / 2, -y + width / 2, z);
-            index += 4;
-          }
-        }
-
-        geometry.setAttribute(
-          "position",
-          new THREE.Float32BufferAttribute(positions, 3)
-        );
-
-        geometry.setAttribute(
-          "color",
-          new THREE.Float32BufferAttribute(colors, 3)
-        );
-
-        geometry.computeBoundingSphere();
-
-        var material = new THREE.PointsMaterial({
-          size: 1,
-          vertexColors: true,
-          sizeAttenuation: false
-        });
-        
-        points = new THREE.Points(geometry, material);
-        scene.add(points);
-
-        animate();
-      });
 
       var renderer = new THREE.WebGLRenderer();
       renderer.setPixelRatio(window.devicePixelRatio);
       renderer.setSize(window.innerWidth, window.innerHeight);
 
       document.body.appendChild(renderer.domElement);
+
+      new THREE.TextureLoader().load(
+        'https://images.unsplash.com/photo-1588117472013-59bb13edafec?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80',
+        tex => {
+          let img = tex.image;
+          var width = img.width;
+          var height = img.height;
+          var depth = 70;
+          var canvas = document.createElement('canvas');
+          canvas.width = width;
+          canvas.height = height;
+          var ctx = canvas.getContext('2d');
+          ctx.drawImage(img, 0, 0);
+          var imageData = ctx.getImageData(0, 0, width, height);
+          var data = imageData.data;
+          document.body.appendChild(canvas);
+
+          var geometry = new THREE.BufferGeometry();
+          var positions = [];
+
+          var color = new THREE.Color();
+          var colors = [];
+
+          var index = 0;
+
+          for (var y = 0; y < height; y++) {
+            for (var x = 0; x < width; x++) {
+              const r = imageData.data[index + 0] / 255;
+              const g = imageData.data[index + 1] / 255;
+              const b = imageData.data[index + 2] / 255;
+              const brightness = brightnessByColor(r, g, b);
+              var z = map(brightness, 0, 1, -depth, depth);
+              color.setRGB(r, g, b);
+              colors.push(color.r, color.g, color.b);
+              positions.push(x - height / 2, -y + width / 2, z);
+              index += 4;
+            }
+          }
+
+          geometry.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
+          geometry.setAttribute('color', new THREE.Float32BufferAttribute(colors, 3));
+          geometry.computeBoundingSphere();
+
+          var material = new THREE.PointsMaterial({
+            size: 1,
+            vertexColors: true,
+            sizeAttenuation: false
+          });
+
+          points = new THREE.Points(geometry, material);
+          scene.add(points);
+
+          animate();
+        }
+      );
 
       function animate() {
         requestAnimationFrame(animate);
