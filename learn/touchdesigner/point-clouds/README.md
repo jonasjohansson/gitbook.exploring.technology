@@ -28,5 +28,5 @@ The real magic which makes a project like the one from MLF so vivid and impressi
 
 Point clouds don't always have to be shown in real time, or even in movement, to convey an artistic image. Quayola here takes advantage of the still-image format, by sampling an extremely high density point cloud. Which afterwards isn't shown by rendering basic points, but by placing those points into a 3D environment which renders with correct lighting and shadow. Resulting into these ghostly and beautiful images.
 
-
+[https://interactiveimmersive.io/blog/3d/3d-point-clouds-in-touchdesigner/](https://interactiveimmersive.io/blog/3d/3d-point-clouds-in-touchdesigner/)
 
