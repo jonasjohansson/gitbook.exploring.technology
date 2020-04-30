@@ -45,6 +45,7 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 ### TBD
 
 * [https://immersive-web.github.io/webxr-samples/immersive-ar-session.html](https://immersive-web.github.io/webxr-samples/immersive-ar-session.html)
+* [https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97](https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97)
 * [https://github.com/immersive-web/anchors/blob/master/explainer.md](https://github.com/immersive-web/anchors/blob/master/explainer.md)
 * [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 * [https://webglfundamentals.org/](https://webglfundamentals.org/)
