@@ -149,7 +149,7 @@
   * [Real-time LEDs over Art-Net with Arduino/Teensy and Resolume](guides/real-time-leds.md)
   * [DIY Pixelstick using Teensy](guides/diy-pixelstick-using-teensy.md)
   * [Enhanced radical knitting](guides/enhanced-radical-knitting.md)
-  * [Display Point Clouds in the Browser](guides/browser-point-clouds.md)
+  * [Browser Point Clouds](guides/browser-point-clouds.md)
 * [☀ Tips & Trix](tips-trix/README.md)
   * [Mio](tips-trix/mio/README.md)
     * [Changelog](tips-trix/mio/changelog.md)
