@@ -23,6 +23,7 @@ ML5 \([link](https://ml5js.org/)\) runs in the browser and requires no installat
 * [https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [http://www.mikkelmedm.com/](http://www.mikkelmedm.com/)
 * [https://hyphaebeast.club/writing/art-and-machine-learning/](https://hyphaebeast.club/writing/art-and-machine-learning/)
+* [https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
 
 
 
