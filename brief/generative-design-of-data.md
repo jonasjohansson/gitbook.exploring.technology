@@ -45,6 +45,7 @@ How we present information matter. Your challenge is in creating a Generative **
 * [Artificial Machine](https://www.polygonfuture.com/akm) by [Jonathan Fletcher Moore](https://www.polygonfuture.com/)
 * Works by [Ikene Ijeoma](https://studioijeoma.com/)
 * [How Many Cokes Mr. President](https://howmanycokesmrpresident.com/) by Julius Tuvenwall
+* [The Colors of Motion](https://thecolorsofmotion.com/films) by Charlie Clark
 
 ### Datasets
 
@@ -73,8 +74,7 @@ How we present information matter. Your challenge is in creating a Generative **
 * [https://sfpc.io/](https://sfpc.io/)
 * [https://earthobservatory.nasa.gov/](https://earthobservatory.nasa.gov/)
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
-* [https://creativecommons.org/share-your-work/public-domain/cc0/](https://creativecommons.org/share-your-work/public-domain/cc0/)
 * [https://www.flickr.com/photos/library\_of\_congress/albums](https://www.flickr.com/photos/library_of_congress/albums)
-* [https://www.ted.com/talks/david\_mccandless\_the\_beauty\_of\_data\_visualization/discussion?languageest253340](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/discussion?languageest253340)
+* [https://www.ted.com/talks/david\_mccandless\_the\_beauty\_of\_data\_visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
 * [https://observablehq.com/](https://observablehq.com/)
 
