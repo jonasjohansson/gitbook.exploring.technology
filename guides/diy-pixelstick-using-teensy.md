@@ -2,6 +2,15 @@
 
 Inspired by [Philippe Dubost light painting](https://www.youtube.com/watch?v=Hau4WGgDPHA), let's build our own Pixelstick using Teensy!
 
+### BOM
+
+* [https://www.xcen.se/aluprofil-uprofil-hog-alu](https://www.xcen.se/aluprofil-uprofil-hog-alu)
+* [https://www.ebay.com/itm/1-10m-LED-Aluminium-Profil-Abdeckung-Clips-Endkappen-Alu-Schiene/231960996121](https://www.ebay.com/itm/1-10m-LED-Aluminium-Profil-Abdeckung-Clips-Endkappen-Alu-Schiene/231960996121)
+* [https://www.led-tejp.se/aluprofil-uprofil-lag](https://www.led-tejp.se/aluprofil-uprofil-lag)
+* [https://www.adafruit.com/product/2437](https://www.adafruit.com/product/2437)
+* [https://www.adafruit.com/product/2434](https://www.adafruit.com/product/2434)
+* [https://www.kjell.com/se/produkter/hem-kontor-fritid/belysning/led-lister/nextec/nextec-aluminiumprofil-utanpaliggande-for-led-lister-p36321](https://www.kjell.com/se/produkter/hem-kontor-fritid/belysning/led-lister/nextec/nextec-aluminiumprofil-utanpaliggande-for-led-lister-p36321)
+
 ### Generate TXT from PNG
 
 Download the [Pixelstick repository](https://github.com/LucasBerbesson/pixelstick) and follow the steps to generate a text file from image.
