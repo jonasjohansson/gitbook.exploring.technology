@@ -1,6 +1,6 @@
 # Generative design
 
-Generative design is the symbiosis between machine and designer, where the designer is likely also the programmer of the machine. A systematic approach to design \(and art\) that is finding its place in art history, with its closest artistic relative — modern art. 
+Generative design is the symbiosis between machine and designer, where the output rely on an autonomous system for part or all of their production. A systematic approach to design \(and art\) that is finding its place in art history, with its closest artistic relative — modern art. 
 
 ![Sketchpad by Ivan Sutherland \(1963\)](https://bimaplus.org/wp-content/uploads/2018/12/ImageToNews_Sketchpad-01.png)
 
@@ -20,11 +20,13 @@ _There are several other artist movements to use as search terms: cubism, expres
 
 ### [Will artificial intelligence replace professional cultural creators?](https://strelkamag.com/en/article/lev-manovich-ai-aesthetics)
 
-With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And Vera Molnár \([post](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5)\), a few years layer, made her own explorations as to what generative and algorithmic art could be.
+With modern tools many have been tempted to further understand abstract art, by deconstructing it so much that a machine can follow its rules. Where does the human begin and machine end? In the sixties artists began experimenting, Frieder Nake \([talk](https://www.youtube.com/watch?v=x-qAPvYdXgM)\), a pioneer of computer art created machines which themselves were creators. And [Vera Molnár](http://www.veramolnar.com/) \([post](https://medium.com/@xuetingzhang313/re-code-vera-moln%C3%A1rs-interruptions-b6dc9765eae5)\), a few years later, made her own explorations as to what generative and algorithmic art could be.
 
-> Quite interesting, young man, what you say about drawing using a computer. But tell me, can you make your machine draw as I do it? Nees thinks for a moment. Then: "Oh yes, of course I can—if you tell me how you do it."
+![1024 Colours Multiple \(1988\) by Gerhard Richter](https://d2mpxrrcad19ou.cloudfront.net/item_images/828741/10148294_bukobject.jpg)
 
-Modern artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) work within the field of [Computer Graphics](https://www.e-flux.com/architecture/becoming-digital/248077/some-notes-on-making-images-with-computers/), and use the freedom that the machine provides, leveraging its power, and iterates every day, as means of artistic expression. [Jan Jarfalk](https://www.instagram.com/janjarfalk/) uses his generative code in combination with an [Axidraw](https://axidraw.com/) writing and drawing machine. For more inspiration, visit [Open Processing](https://www.openprocessing.org/). And, let's end this segment with a bang, with [Yajoi Kusama](https://www.artnews.com/wp-content/uploads/2019/01/kusama-portrait4.jpg).
+Digital artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) work within the field of [Computer Graphics](https://www.e-flux.com/architecture/becoming-digital/248077/some-notes-on-making-images-with-computers/) iterating as means of artistic expression, while [Jan Jarfalk](https://www.instagram.com/janjarfalk/) code to provide instructions for a drawing machine.
+
+_The possibilities are endless._
 
 ### Generative design elsewhere
 
