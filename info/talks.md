@@ -22,7 +22,7 @@ Been writing code since 2016 with 10 years prior experience in communication and
 
 ### [Owen Hindley](http://www.owenhindley.co.uk/)
 
-A true jack of all trades working with software, electronics, light and sound to create cutting-edge experiences, shows and games. He is a co-director of [Horizons](https://horizons-vr.com/) and [Huldufugl](http://huldufugl.is/), makers of [Kassinn](https://amaze-berlin.de/), an interactive theatre experience in VR. He is also a web developer who has worked with leading studios such as [FIELD](https://www.field.io/), [Universal Everything](https://universaleverything.com/latest) and [B-Reel](https://www.b-reel.com/).
+A creative technology generalist working with software, electronics, light and sound to create cutting-edge experiences, shows and games. He is a co-director of [Horizons](https://horizons-vr.com/) and [Huldufugl](http://huldufugl.is/), makers of [Kassinn](https://amaze-berlin.de/), an interactive theatre experience in VR, and freelance developer working with leading studios such as [FIELD](https://www.field.io/), [Universal Everything](https://universaleverything.com/latest) and [B-Reel](https://www.b-reel.com/).
 
 ### [Alexander Wallin](https://www.alexanderwallin.com/)
 
