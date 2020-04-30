@@ -21,6 +21,7 @@ ML5 \([link](https://ml5js.org/)\) runs in the browser and requires no installat
 * [https://runwayml.com/](https://runwayml.com/)
 * [https://aiartists.org/ai-generated-art-tools](https://aiartists.org/ai-generated-art-tools)
 * [https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+* [http://www.mikkelmedm.com/](http://www.mikkelmedm.com/)
 * [https://hyphaebeast.club/writing/art-and-machine-learning/](https://hyphaebeast.club/writing/art-and-machine-learning/)
 
 
