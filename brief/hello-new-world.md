@@ -22,6 +22,8 @@ Build 1 \(or more\) interactive VR experience, either as an individual or as a t
 
 Build 1 \(or more\) interactive AR experience, either as an individual or as a team. Design your own marker and hack your surroundings by putting it up wherever you see fit, or build a system that allows for others to create their own.
 
+**Markers and QR code designs must be shared latest Monday 1st of June to be included in print.**
+
 ### Optional
 
 | Challenge | Description |
