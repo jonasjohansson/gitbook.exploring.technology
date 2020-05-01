@@ -33,6 +33,8 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 | 🕹️ | Add multiple types of inputs |
 | 💾 | Use an API to drive the experience |
 
+## Links
+
 ### Workshops & Talks
 
 * [A-Frame XR](https://www.exploring.technology/learn/aframe) with[ Jonas Johansson](../info/talks.md#jonas-johansson-industry-leader)
@@ -44,7 +46,7 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 
 * [Liebermann Kiepe Redderman](https://liebermannkiepereddemann.de/)
 
-### TBD
+### Other
 
 * [https://immersive-web.github.io/webxr-samples/immersive-ar-session.html](https://immersive-web.github.io/webxr-samples/immersive-ar-session.html)
 * [https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97](https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97)

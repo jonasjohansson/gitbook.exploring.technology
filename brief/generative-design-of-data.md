@@ -30,6 +30,8 @@ How we present information matter. Your challenge is in creating a Generative **
 | 🤖 | Build your own Internet of Things input for realtime data |
 | 💡 | Add or use a different library |
 
+## Links
+
 ### Workshops & Talks
 
 * [Generative Design](../info/workshops.md#generative-design) with [Jonas Johansson](../info/talks.md#jonas-johansson-industry-leader)
@@ -54,7 +56,7 @@ How we present information matter. Your challenge is in creating a Generative **
 * [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Dataportalen](https://www.dataportal.se/)
 
-### Links
+### Other
 
 * [https://www.gutenberg.org/](https://www.gutenberg.org/)
 * [https://openlibrary.org/](https://openlibrary.org/)
