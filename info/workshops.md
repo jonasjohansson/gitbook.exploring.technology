@@ -36,7 +36,7 @@ TBD
 
 ### 2/6 Electron
 
-Use Node.js and [Electron](https://www.electronjs.org/) and create multi-platform desktop apps! Check out the [list of apps](https://www.electronjs.org/apps) made in Electron \(for instance Slack\).
+Learn how to build desktop apps using Use Node.js and [Electron](https://www.electronjs.org/)! Check out the [list of apps](https://www.electronjs.org/apps) made in Electron \(for instance Slack\).
 
 → [Create an account on Itch](https://itch.io/)
 
