@@ -42,12 +42,6 @@ In case the preset default marker is not special enough it's possible to design 
 * Have at least 10% distance to the edges
 * Not be mirrored ie. no identical sides
 
-You can also add a QR code so that it's not only a marker but it's also a link to the site. Generate a QR code that points to your website using [QR Code Generator](https://www.the-qrcode-generator.com/) or [QR Code Monkey](https://www.qrcode-monkey.com/).
-
-1. Choose URL and add your website address
-2. Choose Save and select SVG or PNG
-3. Use the file in your image!
-
 Once the image is made:
 
 1. Visit the [Marker Generator](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)

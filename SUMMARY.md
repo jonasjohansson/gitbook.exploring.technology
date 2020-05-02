@@ -152,11 +152,7 @@
   * [Enhanced radical knitting](guides/enhanced-radical-knitting.md)
   * [Browser Point Clouds](guides/browser-point-clouds.md)
   * [Desktop apps with Electron](guides/desktop-apps-with-electron.md)
-* [☀ Tips & Trix](tips-trix/README.md)
-  * [Documentation](tips-trix/documentation.md)
-  * [QR Code](tips-trix/qr-code.md)
-  * [Stream](tips-trix/stream.md)
-  * [Web](tips-trix/web.md)
+* [☀ Tips & Trix](tips-trix.md)
 
 ## Apps
 
