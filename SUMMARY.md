@@ -54,6 +54,7 @@
     * [8. Hacking](learn/bitsy/hacking.md)
     * [9. More Colors](learn/bitsy/colors.md)
     * [10. Dialog](learn/bitsy/dialog.md)
+  * [Glitch](learn/glitch.md)
   * [Laser Cutting](learn/laser-cutting/README.md)
     * [Basics](learn/laser-cutting/getting-started.md)
     * [Advanced](learn/laser-cutting/advanced.md)
@@ -150,13 +151,15 @@
   * [DIY Pixelstick using Teensy](guides/diy-pixelstick-using-teensy.md)
   * [Enhanced radical knitting](guides/enhanced-radical-knitting.md)
   * [Browser Point Clouds](guides/browser-point-clouds.md)
+  * [Desktop apps with Electron](guides/desktop-apps-with-electron.md)
 * [☀ Tips & Trix](tips-trix/README.md)
-  * [Mio](tips-trix/mio/README.md)
-    * [Changelog](tips-trix/mio/changelog.md)
-  * [Glitch](tips-trix/glitch.md)
   * [Documentation](tips-trix/documentation.md)
-  * [MIDI & OSC](tips-trix/midi-and-osc.md)
   * [QR Code](tips-trix/qr-code.md)
   * [Stream](tips-trix/stream.md)
   * [Web](tips-trix/web.md)
+
+## Apps
+
+* [Mio](apps/mio/README.md)
+  * [Changelog](apps/mio/changelog.md)
 
