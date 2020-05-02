@@ -1,4 +1,4 @@
-# ☀ Tips & Trix
+# Tips & Trix
 
 ## Stream
 

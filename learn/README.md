@@ -1,2 +1,2 @@
-# ☀ Learn
+# Learn
 

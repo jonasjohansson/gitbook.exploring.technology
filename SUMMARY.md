@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Hello](README.md)
-* [☀ Learn](learn/README.md)
+* [Learn](learn/README.md)
   * [A-Frame](learn/aframe/README.md)
     * [1. Scene](learn/aframe/scene.md)
     * [2. Entities](learn/aframe/entities.md)
@@ -144,7 +144,7 @@
       * [Conclusion](learn/touchdesigner/point-clouds/conclusion.md)
     * [GLSL](learn/touchdesigner/glsl/README.md)
       * [Building a GLSL Noise Plane](learn/touchdesigner/glsl/tutorial-noise-plane.md)
-* [☀ Guides](guides/README.md)
+* [Guides](guides/README.md)
   * [Running SuperClean in SuperCollider](guides/supercollider.md)
   * [Interactive Dinoflagellates](guides/swirling-dinoflagellates.md)
   * [Real-time LEDs over Art-Net with Arduino/Teensy and Resolume](guides/real-time-leds.md)
@@ -152,7 +152,7 @@
   * [Enhanced radical knitting](guides/enhanced-radical-knitting.md)
   * [Browser Point Clouds](guides/browser-point-clouds.md)
   * [Desktop apps with Electron](guides/desktop-apps-with-electron.md)
-* [☀ Tips & Trix](tips-trix.md)
+* [Tips & Trix](tips-trix.md)
 
 ## Apps
 
