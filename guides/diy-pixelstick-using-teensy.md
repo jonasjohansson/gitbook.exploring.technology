@@ -17,7 +17,7 @@ Inspired by [Philippe Dubost light painting](https://www.youtube.com/watch?v=Hau
 
 ### Generate TXT from PNG
 
-Download the [Pixelstick repository](https://github.com/LucasBerbesson/pixelstick) and follow the steps to generate a text file from image. Make sure the image is **RGB** with a **black** \(\#000000\) background and **white** \(\#FFFFFF\) text. Try to avoid varied levels of opacity. 
+Download the [Pixelstick repository](https://github.com/LucasBerbesson/pixelstick) and follow the steps to generate a text file from image. Make sure the image is **RGB** with a **black** \(\#000000\) background and **white** \(\#FFFFFF\) text. Try to avoid varied levels of opacity. Save the file as PNG.
 
 Use simple colors such as red, green and blue as these colors will use less power than white.
 
