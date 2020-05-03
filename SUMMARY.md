@@ -73,7 +73,7 @@
     * [Input](learn/makey-makey/input.md)
     * [Output](learn/makey-makey/output.md)
   * [Pepakura](learn/pepakura.md)
-  * [Processing \(p5\)](learn/p5/README.md)
+  * [Processing](learn/p5/README.md)
     * [Generative Art](learn/p5/generative-art.md)
     * [1. Editor](learn/p5/basics.md)
     * [2. Setup and Draw](learn/p5/setup-and-draw.md)

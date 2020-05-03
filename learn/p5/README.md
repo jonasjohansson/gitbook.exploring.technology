@@ -2,7 +2,7 @@
 description: Written by Jonas Johansson and Half Scheidl
 ---
 
-# Processing \(p5\)
+# Processing
 
 Processing made by Casey Reas and Ben Fry has lowered the threshold of programming, and with [The Nature of Code](http://natureofcode.com/), [Generative Gestaltung](http://www.generative-gestaltung.de/2/) and Daniel Shiffman's [The Coding Train](https://www.youtube.com/user/shiffman/videos), getting started couldn't be easier! 
 

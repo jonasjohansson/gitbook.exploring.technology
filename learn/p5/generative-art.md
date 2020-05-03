@@ -24,7 +24,7 @@ With modern tools many have been tempted to further understand abstract art, by 
 
 ![1024 Colours Multiple \(1988\) by Gerhard Richter](https://d2mpxrrcad19ou.cloudfront.net/item_images/828741/10148294_bukobject.jpg)
 
-Digital artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) work within the field of [Computer Graphics](https://www.e-flux.com/architecture/becoming-digital/248077/some-notes-on-making-images-with-computers/) iterating as means of artistic expression, while [Jan Jarfalk](https://www.instagram.com/janjarfalk/) code to provide instructions for a drawing machine.
+Digital artists such as [Zach Lieberman](https://www.instagram.com/zach.lieberman/) and [Saskia Freeke](https://www.instagram.com/sasj_nl/) work within the field of [Computer Graphics](https://www.e-flux.com/architecture/becoming-digital/248077/some-notes-on-making-images-with-computers/) iterating as means of artistic expression, while [Jan Jarfalk](https://www.instagram.com/janjarfalk/) code to provide instructions for a drawing machine \(clearly inspired by [Manfred Mohr](http://www.emohr.com/)\).
 
 _The possibilities are endless._
 
