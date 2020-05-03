@@ -49,6 +49,8 @@ Questions should be considered and written in such a way that it is easy to answ
 
 ### Class representatives
 
+Besides being the unsung heroes, the representatives assist in the structure and facilitation of the project.
+
 <table>
   <thead>
     <tr>
