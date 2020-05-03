@@ -47,6 +47,8 @@ For extra attention link your question in the relevant channel.
 
 Questions should be considered and written in such a way that it is easy to answer without asking for further details. Always include source code \(use the snippet function\), and preferably an **editable** [Fiddle](https://jsfiddle.net/) or [Glitch](http://glitch.com/) link.
 
+Take your time and watch [Let's talk about your creative IQ](https://www.youtube.com/watch?v=GdsAcNKD9i0&list=PLfJZEI22FEjSXWzbxRfaueY71jiPuFH4V&index=96) with Teo Härén.
+
 ### Class representatives
 
 Besides being the unsung heroes, the representatives assist in the structure and facilitation of the project.
