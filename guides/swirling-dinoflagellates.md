@@ -1,3 +1,7 @@
+---
+description: Written by Jonas Johansson
+---
+
 # Interactive Dinoflagellates
 
 Dinoflagellates single-celled protists, a diverse collection of **organisms**, part of the **plankton** community and usually considered **algae**. Dinoflagellates are capable of **photosynthesis** \(converting light energy into "fuel"\) and are thus considered plants. Some exhibit bioluminescence, a process involving a light-emitting molecule and an enzyme, generally called the luciferin \(coined by[ Raphaël Dubois](https://en.wikipedia.org/wiki/Rapha%C3%ABl_Dubois)\). 

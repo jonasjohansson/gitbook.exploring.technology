@@ -1,5 +1,5 @@
 ---
-description: By Jonas Johansson and Victoria Albrecht
+description: Written by Jonas Johansson and Victoria Albrecht
 ---
 
 # DIY Pixelstick using Teensy

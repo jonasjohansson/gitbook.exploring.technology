@@ -8,7 +8,7 @@ description: Written by Jonas Johansson
 
 ### Install
 
-A-Frame runs in the browser and is included as a JavaScript library in an HTML document. Use an online editor such as [Glitch](../glitch.md) \(choose New Project and Hello Webpage\) or create an index.html file locally using [Visual Studio Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/).
+A-Frame runs in the browser and is included as a JavaScript library in an HTML document. Use an online editor such as [Glitch](../../apps/glitch.md) \(choose New Project and Hello Webpage\) or create an index.html file locally using [Visual Studio Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/).
 
 Visit [Campfire VR](https://curious-electric.com/w/experiments/aframe/campfirevr/) \([article](https://medium.com/@dirkk/campfire-vr-fa654d15e92a)\) for an example of what can be made.
 

@@ -1,8 +1,8 @@
-# Enhanced radical knitting
+---
+description: Written by Alexander Wallin
+---
 
-{% hint style="success" %}
-Written by [Alexander Wallin](https://www.alexanderwallin.com/)
-{% endhint %}
+# Enhanced radical knitting
 
 Ever wondered how you can use JavaScript and the Terminal to create experimental knitting patterns, and guide us through the actual knitting?
 

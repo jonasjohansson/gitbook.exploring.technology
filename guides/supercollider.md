@@ -1,8 +1,8 @@
-# Running SuperClean in SuperCollider
+---
+description: Written by Daniel M Karlsson and edited by Jonas Johansson
+---
 
-{% hint style="success" %}
-Written by [Daniel M Karlsson](http://danielmkarlsson.com/) and edited by [Jonas Johansson](https://jonasjohansson.se/)
-{% endhint %}
+# Running SuperClean in SuperCollider
 
 ### Install
 
