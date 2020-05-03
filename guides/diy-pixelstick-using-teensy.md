@@ -1,3 +1,7 @@
+---
+description: By Jonas Johansson and Victoria Albrecht
+---
+
 # DIY Pixelstick using Teensy
 
 Inspired by [Philippe Dubost light painting](https://www.youtube.com/watch?v=Hau4WGgDPHA), let's build our own Pixelstick using Teensy!
@@ -13,11 +17,9 @@ Inspired by [Philippe Dubost light painting](https://www.youtube.com/watch?v=Hau
 
 ### Generate TXT from PNG
 
-Download the [Pixelstick repository](https://github.com/LucasBerbesson/pixelstick) and follow the steps to generate a text file from image.
+Download the [Pixelstick repository](https://github.com/LucasBerbesson/pixelstick) and follow the steps to generate a text file from image. Make sure the image is **RGB** with a **black** \(\#000000\) background and **white** \(\#FFFFFF\) text. Try to avoid varied levels of opacity. 
 
-{% hint style="info" %}
-Avoid white when testing as it will draw much more power, use simple red, green and blue instead.
-{% endhint %}
+Use simple colors such as red, green and blue as these colors will use less power than white.
 
 To install the Python Image Library do the following in the Terminal \(only do line 1-2 if Pip is not installed\):
 
