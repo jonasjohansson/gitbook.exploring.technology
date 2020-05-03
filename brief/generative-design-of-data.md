@@ -46,6 +46,7 @@ How we present information matter. Your challenge is in creating a Generative **
 ### Inspiration
 
 * [Patatap](https://patatap.com/) by Jono Brandel
+* [Dollar Street](https://www.gapminder.org/dollar-street/matrix) by [Gapminder](https://www.gapminder.org/) \([talk](https://youtu.be/u4L130DkdOw)\)
 * [The Web of Secret Stories](https://www.ted.com/talks/jonathan_harris_the_web_s_secret_stories) by [Jonathan Harris](http://number27.org/)
 * [New Insights on Poverty](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty) by Hans Rosling
 * [Artificial Machine](https://www.polygonfuture.com/akm) by [Jonathan Fletcher Moore](https://www.polygonfuture.com/)
