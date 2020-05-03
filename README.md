@@ -26,13 +26,17 @@ Start of your day with an interesting talk! Each week will have at least 1 speak
 
 → [Read about the talks!](info/talks.md)
 
+### Code Review
+
+Need help with your code? Unsure if your approach is "the right way"? There will be slots every week where we have a shared video call and try to sorten things out. We take questions in the order of people arriving.
+
 ### Creative Review & Presentation
 
 Each week there will be a moment to either have review with the Industry Leader, a moment to check on progress and evaluate next steps, or a presentation with the class, sharing the work done so far.
 
 ### Questions
 
-State your question in existing forums:
+Missed the code review? State your question in existing forums:
 
 * [https://stackoverflow.com/](https://stackoverflow.com/)
 * [https://discourse.processing.org/c/p5js](https://discourse.processing.org/c/p5js)
@@ -41,7 +45,7 @@ State your question in existing forums:
 
 For extra attention link your question in the relevant channel.
 
-Questions should be considered and written in such a way that it is easy to answer without asking for further details. Always include source code, and preferably a [Fiddle](https://jsfiddle.net/) or [Glitch](http://glitch.com/) link.
+Questions should be considered and written in such a way that it is easy to answer without asking for further details. Always include source code \(use the snippet function\), and preferably an **editable** [Fiddle](https://jsfiddle.net/) or [Glitch](http://glitch.com/) link.
 
 ### Class representatives
 
