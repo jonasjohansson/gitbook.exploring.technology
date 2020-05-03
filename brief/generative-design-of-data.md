@@ -81,4 +81,5 @@ How we present information matter. Your challenge is in creating a Generative **
 * [https://www.ted.com/talks/david\_mccandless\_the\_beauty\_of\_data\_visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
 * [https://observablehq.com/](https://observablehq.com/)
 * [https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg](https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg)
+* [https://www.metmuseum.org/art/collection](https://www.metmuseum.org/art/collection)
 
