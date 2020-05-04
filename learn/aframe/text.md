@@ -1,6 +1,10 @@
 # 7. Text
 
-Rendering text in 3D is not trivial, bu the `<a-text>` component does make things breezy!
+{% hint style="info" %}
+Use the [A-Frame Troika Text](https://github.com/lojjic/aframe-troika-text) component for a more effective process.
+{% endhint %}
+
+Rendering text in 3D is not trivial, but the `<a-text>` component does make things breezy!
 
 ```markup
 <a-text value="AaBb"
@@ -20,7 +24,7 @@ By adding the above in your `<a-scene>` you will see a text block which can be u
 
 ### Background
 
-In situations where you require a background color to make the text legible, add a `plane` or `box` geometry with a coloured material. To have the geometry automatically scale with the text, set the geometry component’s `width` and `height` properties to `auto`.
+In situations where you require a background color to make the text legible, add a `plane` or `box` geometry with a coloured material. To have the geometry automatically scale with the text, set the geometry component’s `width` and `height` properties to`auto`.
 
 ```markup
 <a-text value="And as he was falling down the cliff he thought 'Finally, something is happening to me!'"
