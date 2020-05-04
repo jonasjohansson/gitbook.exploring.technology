@@ -12,6 +12,10 @@ During four weeks, students at Hyper Island will explore [creative coding](https
 
 Each assignment begin with a full-day workshop. Students looking for a steady pace \(normal difficulty\) may request additional attention, while others can choose their own setting, this is where the list of optional achievements come in place.
 
+{% hint style="warning" %}
+This project follows the [p5.js code of conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)!
+{% endhint %}
+
 _The work from the first challenge can be continued and developed under the umbrella of the second challenge._
 
 ### Workshops
