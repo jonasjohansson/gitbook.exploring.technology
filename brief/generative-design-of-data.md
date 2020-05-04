@@ -5,14 +5,12 @@ description: Week 20-21
 # 🥈 Generative Design of Data
 
 {% hint style="danger" %}
-Note to self: This will be simplified, perhaps work with terms surrounding maps, and relate to travel, information intake, filtering etc. 
+TBD
 {% endhint %}
 
-Data is powerful. On one hand it appears as graphs and numbers, turning people into statistics, and on the other it appears as detailed maps that help us understand our environment.
+Data is powerful. On one hand it appears as graphs and numbers, turning people into statistics, and on the other as detailed maps that help us understand our environment, how to get from A to B.
 
 Kaggle, the world's largest data science community, urges people to [Help us better understand COVID-19](https://www.kaggle.com/covid19) and offer their massive datasets. At the same time, museums \(physical datasets\) are struggling to share their information with the world.
-
-Hans Rosling, who turned data science from boring to interesting
 
 ![PDP1042 \(2019\) by Cecil Touchon](https://images.squarespace-cdn.com/content/v1/5121025ce4b0b5151b71b786/1587991997817-K592QZN1MTBQUR1OMV7I/ke17ZwdGBToddI8pDm48kFlmZVLI_h5iwDtzHvYVhn8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z25N5wYEm9Bnn-MuukSh7Gs-BafdBJ9OF5xSQ0E6qo_IWbtxPRH917Fz9Qv_NunPol/Screenshot+2020-04-27+at+13.52.41.jpg?format=1000w)
 
