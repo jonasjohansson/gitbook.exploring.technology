@@ -8,7 +8,7 @@ A point cloud is a collection of points in 3D space. A point can be understood b
 
 ### Install
 
-Download [Metashape](https://www.agisoft.com/) and [CloudCompare](https://cloudcompare.org/).
+Download [Metashape](https://www.agisoft.com/) and [CloudCompare](https://cloudcompare.org/). Alternatively use [Display Land](https://apps.apple.com/us/app/display-land-3d-model-scanner/id1436223202).
 
 ### Import
 
