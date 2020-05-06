@@ -40,7 +40,6 @@ How we present information matter. Your challenge is in creating a Generative **
 
 * [Generative Design](../info/workshops.md#generative-design) with [Jonas Johansson](../info/talks.md#jonas-johansson-industry-leader)
 * [Generative Audio](../info/workshops.md#generative-audio) with [Alexander Wallin](../info/talks.md#alexander-wallin)
-* [Mattias Petter Johansson](../info/talks.md#mattias-petter-johansson-fun-fun-function)
 * [Tim Rodenbroeker](../info/talks.md#tim-rodenbroeker)
 
 ### Inspiration
