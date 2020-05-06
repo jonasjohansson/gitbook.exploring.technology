@@ -8,15 +8,17 @@ description: Week 20-21
 TBD
 {% endhint %}
 
-Data is powerful. On one hand it appears as graphs and numbers, turning people into statistics, and on the other as detailed maps that help us understand our environment, how to get from A to B.
+Data is powerful, a true double-edged sword that can be used for both good and bad. Never before has the interest in numbers and statistics been so high, and rightfully so. During uncertain times we lean against facts, and use them to incentivise life-changing decisions and justify our actions. 
 
-Kaggle, the world's largest data science community, urges people to [Help us better understand COVID-19](https://www.kaggle.com/covid19) and offer their massive datasets. At the same time, museums \(physical datasets\) are struggling to share their information with the world.
+But we only look at data in a very narrow way, often without creativity and perspective, while that is probably what we need to be doing right now.
+
+Kaggle, the world's largest data science community, urges people to [Help us better understand COVID-19](https://www.kaggle.com/covid19) and offer their massive datasets as service. And the world is filled with interesting data, waiting to be used in creative ways.
 
 ![PDP1042 \(2019\) by Cecil Touchon](https://images.squarespace-cdn.com/content/v1/5121025ce4b0b5151b71b786/1587991997817-K592QZN1MTBQUR1OMV7I/ke17ZwdGBToddI8pDm48kFlmZVLI_h5iwDtzHvYVhn8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z25N5wYEm9Bnn-MuukSh7Gs-BafdBJ9OF5xSQ0E6qo_IWbtxPRH917Fz9Qv_NunPol/Screenshot+2020-04-27+at+13.52.41.jpg?format=1000w)
 
 ## Challenge
 
-How we present information matter. Your challenge is in creating a Generative ****and Interactive Audiovisual Artwork ****driven by Data:
+How we present information matter. Your challenge is in creating a Generative ****and Interactive Audiovisual Design ****driven by Data:
 
 1. Decide on a dataset or API to drive your work. The data can be implemented programmatically or manually.
 2. Express the data through audio, visuals and interaction.
