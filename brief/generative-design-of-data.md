@@ -62,7 +62,10 @@ How we present information matter. Your challenge is in creating a Generative **
 
 ### Other
 
+Here's a list of API's, articles and tools that can be of use.
+
 * [https://www.gutenberg.org/](https://www.gutenberg.org/)
+* [https://aqicn.org/api/](https://aqicn.org/api/)
 * [https://openlibrary.org/](https://openlibrary.org/)
 * [https://archive.org/](https://archive.org/)
 * [https://tidmarsh.media.mit.edu/data/herring](https://tidmarsh.media.mit.edu/data/herring)
