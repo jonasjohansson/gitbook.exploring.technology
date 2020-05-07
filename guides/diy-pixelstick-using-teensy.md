@@ -56,3 +56,8 @@ To see the light painting effect, either follow the TouchDesigner guide linked p
 
 If the lights shine too bright it is possible to set the total brightness of the strip by adding `strip.setBrightness(50);` in `setup` where 50 can be a value between 0-255.
 
+## Links
+
+* [https://learn.adafruit.com/hallowing-light-paintstick](https://learn.adafruit.com/hallowing-light-paintstick)
+* [https://www.instagram.com/p/B\_0liw-HoG6/?igshid=mwfzldxi13et](https://www.instagram.com/p/B_0liw-HoG6/?igshid=mwfzldxi13et)
+
