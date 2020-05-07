@@ -4,10 +4,6 @@ description: Week 20-21
 
 # 🥈 Generative Design of Data
 
-{% hint style="danger" %}
-TBD
-{% endhint %}
-
 Data is powerful, a true double-edged sword that can be used for both good and bad. Never before has the interest in numbers and statistics been so high, and rightfully so. During uncertain times we lean against facts, and use them to incentivise life-changing decisions and justify our actions. 
 
 But we only look at data in a very narrow way, often without creativity and perspective, while that is probably what we need to be doing right now.
@@ -89,5 +85,6 @@ Here's a list of API's, articles and tools that can be of use.
 * [https://www.ted.com/talks/david\_mccandless\_the\_beauty\_of\_data\_visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
 * [https://observablehq.com/](https://observablehq.com/)
 * [https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg](https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg)
+* [https://www.youtube.com/watch?v=a3w8I8boc\_I](https://www.youtube.com/watch?v=a3w8I8boc_I)
 * [https://www.metmuseum.org/art/collection](https://www.metmuseum.org/art/collection)
 
