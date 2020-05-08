@@ -34,6 +34,8 @@ Teach a machine using [Teachable Machine](https://teachablemachine.withgoogle.co
 
 TBD
 
+_With Eskil Fogelström_
+
 ### Electron
 
 Learn how to your web development knowledge to build desktop apps using Use Node.js and [Electron](https://www.electronjs.org/)! Check out the [list of apps](https://www.electronjs.org/apps) made in Electron \(for instance Slack\).
