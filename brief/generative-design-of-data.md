@@ -6,7 +6,7 @@ description: Week 20-21
 
 Data is powerful, a true double-edged sword that can be used for both good and bad. Never before has the interest in numbers and statistics been so high, and rightfully so. During uncertain times we lean against facts, and use them to incentivise life-changing decisions and justify our actions. 
 
-But we only look at data in a very narrow way, often without creativity and perspective, while that is probably what we need to be doing right now.
+But we only look at data in a very narrow way, often without imagination and perspective, while that is probably what we need to be doing right now.
 
 Kaggle, the world's largest data science community, urges people to [Help us better understand COVID-19](https://www.kaggle.com/covid19) and offer their massive datasets as service. And the world is filled with interesting data, waiting to be used in creative ways.
 
