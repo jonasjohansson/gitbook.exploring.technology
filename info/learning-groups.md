@@ -1,4 +1,4 @@
-# Learning groups
+# Learning Groups
 
 TBA
 
