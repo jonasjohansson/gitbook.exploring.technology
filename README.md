@@ -8,13 +8,15 @@ Technology is the new religion and we are its followers. We willingly build algo
 
 But has technology brought us closer or further apart? Does an email cost the environment less than a letter? Can "Dark Mode" be seen as innovation? Let's do better. **This is our environment**. We are not just the inhabitants, we are also the architects, the entrepreneurs and the builders!
 
-During four weeks, students at Hyper Island will explore [creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding) and bridge the gap between screen and present. The project will be split into two separate two-week assignments: [Generative Design of Data](brief/generative-design-of-data.md) and [Hello New World](brief/hello-new-world.md). Assignments are done individually, but within [Learning Groups](info/learning-groups.md) where it is possible to team up \(but not mandatory\).
+During four weeks, students at Hyper Island will explore [creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding) and bridge the gap between screen and present. The project will be split into two separate two-week assignments: [Generative Design of Data](brief/generative-design-of-data.md) and [Hello New World](brief/hello-new-world.md). Assignments are done individually, but within Learning Groups where it is possible to team up \(but not mandatory\).
 
 {% hint style="warning" %}
 This project follows the [p5.js code of conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)!
 {% endhint %}
 
 _The work from the first challenge can be continued and developed under the umbrella of the second challenge._
+
+## Schedule
 
 ### Workshops
 
@@ -32,12 +34,6 @@ Start of your day with an interesting talk! Each week will have at least 1 speak
 
 Need help with your code? Unsure if your approach is "the right way"? There will be slots every week where we have a shared video call and try to sorten things out. We take questions in the order of people arriving.
 
-### Creative Review & Presentation
-
-Each week there will be a moment to either have review with the Industry Leader, a moment to check on progress and evaluate next steps, or a presentation with the class, sharing the work done so far.
-
-### Questions
-
 Missed the code review? State your question in existing forums:
 
 * [https://stackoverflow.com/](https://stackoverflow.com/)
@@ -50,6 +46,14 @@ For extra attention link your question in the relevant channel.
 Questions should be considered and written in such a way that it is easy to answer without asking for further details. Always include source code \(use the snippet function\), and preferably an **editable** [Fiddle](https://jsfiddle.net/) or [Glitch](http://glitch.com/) link.
 
 Take your time and watch [Let's talk about your creative IQ](https://www.youtube.com/watch?v=GdsAcNKD9i0&list=PLfJZEI22FEjSXWzbxRfaueY71jiPuFH4V&index=96) with Teo Härén.
+
+### Creative Review & Presentation
+
+Each week there will be a moment to either have review with the Industry Leader, a moment to check on progress and evaluate next steps, or a presentation with the class, sharing the work done so far.
+
+### Learning groups
+
+Will be announced as the project start. Please team up in pairs and fill out the [Remote Work Canvas](https://docs.google.com/presentation/d/1h6NfQ07xdu9tq-129YNphhQGCKz371HJTLb4vWCcifY/edit#slide=id.g816f5ffe36_1_213).
 
 ### Class representatives
 
