@@ -10,7 +10,7 @@ The are several initiatives addressing this already, such as the open call from 
 
 ## Challenge
 
-Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment. Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphone\(s\). 
+Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment. Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphone\(s\).  Find your area of interest and have someone/something specific in mind.
 
 Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b3d#.fcx0aw7el)
 
@@ -45,6 +45,7 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 ### Inspiration
 
 * [Liebermann Kiepe Redderman](https://liebermannkiepereddemann.de/)
+* [The VICE guide to 2030](http://2030.vice.com/)
 
 ### Other
 
