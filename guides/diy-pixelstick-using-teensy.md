@@ -18,6 +18,8 @@ Inspired by [Philippe Dubost light painting](https://www.youtube.com/watch?v=Hau
 | 1 | [2-Axis Joystick](https://www.adafruit.com/product/444) \(or 2 [buttons](https://www.adafruit.com/product/1119)\) |
 | 1 | [Anker PowerCore](https://www.anker.com/products/variant/powercore-20100/A1271012) \(dual 2.4A battery\) |
 
+If using a Teensy consider adding an [OctoWS2811 Adaptor](https://www.pjrc.com/store/octo28_adaptor.html).
+
 ### Generate TXT from PNG
 
 Download the [Pixelstick repository](https://github.com/LucasBerbesson/pixelstick) and follow the steps to generate a text file from image. Make sure the image is **RGB** with a **black** \(\#000000\) background and **white** \(\#FFFFFF\) text. Try to avoid varied levels of opacity.
