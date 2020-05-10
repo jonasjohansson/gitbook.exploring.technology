@@ -44,13 +44,14 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 
 ### Inspiration
 
-* [Liebermann Kiepe Redderman](https://liebermannkiepereddemann.de/)
 * [The VICE guide to 2030](http://2030.vice.com/)
 * [SideQuest VR](https://sidequestvr.com/webvr)
+* [Ontologies of the Virtual](https://www.e-flux.com/architecture/are-friends-electric/289162/ontologies-of-the-virtual/)
 
 ### Other
 
 * [https://immersive-web.github.io/webxr-samples/immersive-ar-session.html](https://immersive-web.github.io/webxr-samples/immersive-ar-session.html)
+* [https://liebermannkiepereddemann.de/](https://liebermannkiepereddemann.de/)
 * [https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97](https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97)
 * [https://github.com/immersive-web/anchors/blob/master/explainer.md](https://github.com/immersive-web/anchors/blob/master/explainer.md)
 * [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
