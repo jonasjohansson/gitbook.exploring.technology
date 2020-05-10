@@ -46,6 +46,7 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 
 * [Liebermann Kiepe Redderman](https://liebermannkiepereddemann.de/)
 * [The VICE guide to 2030](http://2030.vice.com/)
+* [SideQuest VR](https://sidequestvr.com/webvr)
 
 ### Other
 
@@ -54,4 +55,6 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 * [https://github.com/immersive-web/anchors/blob/master/explainer.md](https://github.com/immersive-web/anchors/blob/master/explainer.md)
 * [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 * [https://webglfundamentals.org/](https://webglfundamentals.org/)
+* [https://chickenwaffle.com/](https://chickenwaffle.com/)
+* [https://supermedium.com/](https://supermedium.com/)
 
