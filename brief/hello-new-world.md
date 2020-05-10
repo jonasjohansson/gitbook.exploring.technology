@@ -46,7 +46,7 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 
 * [The VICE guide to 2030](http://2030.vice.com/)
 * [SideQuest VR](https://sidequestvr.com/webvr)
-* [Ontologies of the Virtual](https://www.e-flux.com/architecture/are-friends-electric/289162/ontologies-of-the-virtual/)
+* [Ontologies of the Virtual](https://www.e-flux.com/architecture/are-friends-electric/289162/ontologies-of-the-virtual/) \("Art is always an augmented reality, drawing on it while also pushing it in some other unforeseen direction"\)
 
 ### Other
 
