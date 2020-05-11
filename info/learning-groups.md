@@ -1,7 +1,5 @@
 # Learning Groups
 
-Will be announced as the project start. Consider filling out the [Remote Work Canvas](https://docs.google.com/presentation/d/1h6NfQ07xdu9tq-129YNphhQGCKz371HJTLb4vWCcifY/edit#slide=id.g816f5ffe36_1_213).
-
 <table>
   <thead>
     <tr>
@@ -93,7 +91,9 @@ Will be announced as the project start. Consider filling out the [Remote Work Ca
       </td>
     </tr>
   </tbody>
-</table>Things to ask yourselves as you get going:
+</table>Consider filling out the [Remote Work Canvas](https://docs.google.com/presentation/d/1h6NfQ07xdu9tq-129YNphhQGCKz371HJTLb4vWCcifY/edit#slide=id.g816f5ffe36_1_213).
+
+Things to ask yourselves as you get going:
 
 * How do I feel about this Module? 
 * What would I like to learn/get out from it? 
