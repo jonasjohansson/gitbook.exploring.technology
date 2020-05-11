@@ -6,13 +6,15 @@ description: 'Week 20-24, May 11 — June 12'
 
 Technology is the new religion and we are its followers. We willingly build algorithms that conform, and design interfaces that offer little resistance. Instead of _surfing the web_, we swipe aimlessly. **Success!** We have turned the Internet into [Pleasantville](https://www.youtube.com/watch?v=v9EHRObUQqY), and we are its numb inhabitants, slaves to the screen.
 
-But has technology brought us closer or further apart? Does an email cost the environment less than a letter? Can "Dark Mode" be seen as innovation? Let's do better. **This is our environment**. We are not just the inhabitants, we are also the architects, the entrepreneurs and the builders!
+But has technology brought us closer or further apart? Does an email cost the environment less than a letter? Can "Dark Mode" be seen as innovation? Let's do better. **This is our environment**. We are not just the inhabitants, we are also the architects, the creatives, the entrepreneurs and the builders!
 
-During four weeks, students at Hyper Island will explore [creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding) and bridge the gap between screen and present. The project will be split into two separate two-week assignments: [Generative Design of Data](brief/generative-design-of-data.md) and [Hello New World](brief/hello-new-world.md). Assignments are done individually, but within Learning Groups where it is possible to team up \(but not mandatory\).
+During four weeks, students at Hyper Island will explore [creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding) and bridge the gap between screen and present. The project will be split into two separate two-week assignments: [Generative Design of Data](brief/generative-design-of-data.md) and [Hello New World](brief/hello-new-world.md). Assignments are done individually, but within [Learning Groups](./#learning-groups) where it is possible to team up \(but not mandatory\).
 
 {% hint style="warning" %}
 This project follows the [p5.js code of conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)!
 {% endhint %}
+
+The 
 
 _The work from the first challenge can be continued and developed under the umbrella of the second challenge._
 
@@ -20,7 +22,9 @@ _The work from the first challenge can be continued and developed under the umbr
 
 ### Workshops
 
-Workshops will follow a simple **Learn Build & Test** structure with theory and practice in rapid succession. This means that students are always expected to code during workshops, and learning assignments will be tightly connected to theory presented. _There will be bonus workshops during the project which students can join by the end of the day._
+Workshops will follow a simple **Learn → Build → Test** structure with theory and practice in rapid succession. This means that students are expected to code during workshops, and learning assignments will be closely connected to the theory. 
+
+There will be bonus workshops during the project which students can join by the end of the day.
 
 → [Read about the workshops!](info/workshops.md)
 
@@ -32,7 +36,9 @@ Start of your day with an interesting talk! Each week will have at least 1 speak
 
 ### Code Review
 
-Need help with your code? Unsure if your approach is "the right way"? There will be slots every week where we have a shared video call and try to sorten things out. We take questions in the order of people arriving.
+_The coding ambulance 🚑has arrived!_
+
+Need help with your code? Unsure if your approach is "the right way"? There will be slots every week where we have a shared video call and try to sort things out. We take questions in the order of people arriving.
 
 Missed the code review? State your question in existing forums:
 
