@@ -24,7 +24,7 @@ I like solving problems. I love riddles. I like movies that offer suspense and t
 
 I also believe in community and teams, but at the same time, I am a very much a lone ranger, a soloist. I like other peoples company, but I prefer to be by myself. Now, I know that it's not always the most beneficial to my mental state, and it's definitely not always accelerating my learning, but at the same time, it allows me the time I need to move consciously through life.
 
-This project is designed for you, and I will be here as rock-solid support whenever needed. I am extremely present when I teach, and due to the circumstances, I will try to be so even more - even though remotely. 
+This project is designed for you, and I will be here as rock-solid support whenever needed. I am extremely present when I teach, and due to the circumstances, I will try to be so even more - even though remotely. I will do my best to share information and record sessions, so that you may also digest the information in your own space and time.
 
-In this project I expect that you will communicate your needs, give this your best, and you can expect that I will do the same.
+Finally, communicate your needs, give this your best, and expect that I will do the same.
 
