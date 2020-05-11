@@ -144,6 +144,7 @@
     * [GLSL](learn/touchdesigner/glsl/README.md)
       * [Building a GLSL Noise Plane](learn/touchdesigner/glsl/tutorial-noise-plane.md)
 * [Guides](guides/README.md)
+  * [Streaming during Quarantine](guides/streaming-during-quarantine.md)
   * [Running SuperClean in SuperCollider](guides/supercollider.md)
   * [Interactive Dinoflagellates](guides/swirling-dinoflagellates.md)
   * [Real-time LEDs over Art-Net with Arduino/Teensy and Resolume](guides/real-time-leds.md)

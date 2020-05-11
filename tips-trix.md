@@ -2,7 +2,40 @@
 
 ## Stream
 
-Setting up a stream can be a daunting task if never done before.  Both [Zoom](https://zoom.us/) \([pricing](https://zoom.us/pricing)\) and [Meet](https://meet.google.com/?authuser=1) \([pricing](https://gsuite.google.com/pricing.html)\) work well for conference calls and online lectures where video quality and frame rate is not focus, while [Twitch](https://www.twitch.tv/), [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live), [Youtube Live](https://studio.youtube.com/) work better for streams that audience can drop in and out of.
+Setting up a stream can be a daunting task if never done before, both on the software and hardware side. Let's look at the services available, and some hardware and software!
+
+### Services
+
+| Name | Video conference | Live stream |
+| :--- | :--- | :--- |
+| [Zoom](https://zoom.us/) \([pricing](https://zoom.us/pricing)\) | Yes | No |
+| [Meet](https://meet.google.com/?authuser=1) \([pricing](https://gsuite.google.com/pricing.html)\) | Yes | No |
+| [Jitsi](https://jitsi.org/) | Yes | No |
+| [Twitch](https://www.twitch.tv/) | No | Yes |
+| Instagram Live | No  | Yes |
+| [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) | No | Yes |
+| [Youtube Live](https://studio.youtube.com/) | No | Yes |
+
+Zoom/Meet/Jitsi work well for conference calls and online lectures where video quality and frame rate is not focus, while the rest are better for streams where audience can drop in and out of. Zoom can absolutely be used for live streams \(read [21 things we learned from hosting our first online party](https://tedcooke.blog/2020/04/13/21-things-we-learned-from-hosting-our-first-online-party/)\) but it it is obvious that it is made for co-creation rather than a traditional stream of content.
+
+### Hardware
+
+It is worth investing in an external camera as it allows you to move freely, for instance for showing a detail
+
+| Name | Category |
+| :--- | :--- |
+| [Blue Yeti-X](https://www.bluedesigns.com/products/yeti-x) | Microphone |
+| [Razer Seiren X](https://www.razer.com/gaming-audio/razer-seiren-x) | Microphone |
+| [Rode NT-USB](http://rode.com/microphones/nt-usb) | Microphone |
+| [Rode NT-USB Mini](http://rode.com/microphones/nt-usb_mini) | Microphone |
+| [Logitech C920](https://www.logitech.com/en-us/product/hd-pro-webcam-c920?crid=34) | Webcam |
+| [Logitech C930E](https://www.logitech.com/en-us/product/c930e-webcam) | Webcam |
+| [Logitech StreamCam](https://www.logitech.com/en-us/product/streamcam) | Webcam |
+| [Razer Kiyo](https://www.razer.com/gaming-broadcaster/razer-kiyo) | Webcam + light |
+| [Elgato HD60 S](https://www.elgato.com/en/gaming/game-capture-hd60-s) | Capture card |
+| [Elgato Key Light](https://www.elgato.com/en/gaming/key-light) | Lighting |
+| [Philips Hue Go](https://www2.meethue.com/sv-se/p/hue-white-och-color-ambiance-go-barbar-lampa-%28senaste-modell%29/7602031P7) | Lighting |
+| [Philips Hue Color Ambiance](https://www2.meethue.com/sv-se/p/hue-white-och-color-ambiance-2-pack-e27/8718699673284) | Lighting |
 
 ### OBS Studio
 
