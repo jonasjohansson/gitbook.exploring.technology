@@ -14,8 +14,6 @@ During four weeks, students at Hyper Island will explore [creative coding](https
 This project follows the [p5.js code of conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)!
 {% endhint %}
 
-The 
-
 _The work from the first challenge can be continued and developed under the umbrella of the second challenge._
 
 ## Schedule
@@ -95,4 +93,11 @@ Besides being the unsung heroes, the representatives assist in the structure and
       </td>
     </tr>
   </tbody>
-</table>
+</table>## On a personal note…
+
+I truly believe code can bring huge positive impact to ourselves, to our communities, to the world. At the same time, I simply enjoy the "act of coding" no matter what it is. I like solving problems. I love riddles. I like movies that offer suspense and twists.
+
+I also believe in community and teams, but at the same time, I am a very much a lone ranger, a soloist. I like other peoples company, but I prefer to be by myself. Now, I know that it's not always the most beneficial to my mental state, and it's definitely not always accelerating my learning, but it's also part of who I am.
+
+This project is designed for you, and I will be here as rock-solid support whenever needed. I am extremely present when I teach, and due to the circumstances, I will try to be so even more - even though remotely. I expect that you will communicate your needs, give this your best, and you can expect that I will do the same.
+
