@@ -2,11 +2,17 @@
 
 Workshops follow a simple **Learn → Build → Test** structure with theory and practice in rapid succession. This means that students are expected to code during workshops, and learning assignments will be closely connected to the theory. 
 
-### Generative Design
+### [Generative Design](https://www.exploring.technology/learn/p5)
 
 Through [P5](https://p5js.org/) participants scratch the surface of artificial intelligence as they learn about generative design, and how machines can help make art, music and experiences! 
 
 → [Create an account on P5](https://editor.p5js.org/)
+
+1. Introduction
+2. Step 1-5 + Exercise \(short\)
+3. Step 6-9 + Exercise \(long\)
+4. Step 10-14
+5. Q&A
 
 ### Generative Audio
 
