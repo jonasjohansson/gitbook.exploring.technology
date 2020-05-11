@@ -4,9 +4,9 @@ description: Week 20-21
 
 # 🥈 Generative Design of Data
 
-Data is powerful, a true double-edged sword that can be used for both good and bad. Never before has the interest in numbers and statistics been so high, and rightfully so. During uncertain times we lean against facts, and use them to incentivise life-changing decisions and justify our actions. 
+Data is a double-edged sword that can be used for both good and bad. Never before has the interest in numbers and statistics been so high, and rightfully so. During uncertain times we lean against facts, and use them to incentivise life-changing decisions and justify our actions. 
 
-But we only look at data in a very narrow way, often without imagination and perspective, while that is probably what we need to be doing right now.
+But we only look at data in a very narrow way, often without imagination and perspective, while that is probably what we need to be doing right now. Not everything can be quantified and compared, life is not that simple \(consider the issue of self-driving cars when they have to make decisions on who to save in a foreseeable car accident\).
 
 Kaggle, the world's largest data science community, urges people to [Help us better understand COVID-19](https://www.kaggle.com/covid19) and offer their massive datasets as service. And the world is filled with interesting data, waiting to be used in creative ways.
 
@@ -17,7 +17,7 @@ Kaggle, the world's largest data science community, urges people to [Help us bet
 How we present information matter. Your challenge is in creating a Generative ****and Interactive Audiovisual Design ****driven by Data:
 
 1. Decide on a dataset or API to drive your work. The data can be implemented programmatically or manually.
-2. Express the data through audio, visuals and interaction.
+2. Express the data through audio, visuals and interaction. You decide the emphasis.
 3. Make your work public using [Github Pages](https://pages.github.com/), [Glitch](http://glitch.com/) or the [P5 editor](https://editor.p5js.org/). You may also choose your own hosting solution.
 
 ### Optional
@@ -28,7 +28,7 @@ How we present information matter. Your challenge is in creating a Generative **
 | 🤼 | Make it multiplayer \(sockets\) |
 | 📖 | Add Machine Learning input or output |
 | 🤖 | Build your own Internet of Things input for realtime data |
-| 💡 | Add or use a different library |
+| 💡 | Add or use a different library than P5 |
 
 ## Links
 
