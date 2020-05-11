@@ -14,11 +14,15 @@ Kaggle, the world's largest data science community, urges people to [Help us bet
 
 ## Challenge
 
-How we present information matter. Your challenge is in creating a Generative ****and Interactive Audiovisual Design ****driven by Data:
+How we present information matter. Your challenge is creating a Generative ****and Interactive Audiovisual Design ****driven by Data:
 
 1. Decide on a dataset or API to drive your work. The data can be implemented programmatically or manually.
 2. Express the data through audio, visuals and interaction. You decide the emphasis.
 3. Make your work public using [Github Pages](https://pages.github.com/), [Glitch](http://glitch.com/) or the [P5 editor](https://editor.p5js.org/). You may also choose your own hosting solution.
+
+{% hint style="danger" %}
+It can not be a recording, and it should be easily accessible in the browser.
+{% endhint %}
 
 ### Optional
 
