@@ -34,7 +34,7 @@ Teach a machine using [Teachable Machine](https://teachablemachine.withgoogle.co
 
 ### Python
 
-TBD
+Build your own API using Python while learning the basics of this wonderful language!
 
 _With Eskil Fogelström_
 
