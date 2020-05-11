@@ -69,6 +69,8 @@ Here's a list of API's, articles and tools that can be of use.
 * [https://aqicn.org/api/](https://aqicn.org/api/)
 * [https://openlibrary.org/](https://openlibrary.org/)
 * [https://archive.org/](https://archive.org/)
+* [https://publicdomainreview.org/](https://publicdomainreview.org/)
+* [https://open-foundry.com/](https://open-foundry.com/)
 * [https://tidmarsh.media.mit.edu/data/herring](https://tidmarsh.media.mit.edu/data/herring)
 * [https://github.com/Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api)
 * [https://www.navair.navy.mil/foia/documents](https://www.navair.navy.mil/foia/documents)
