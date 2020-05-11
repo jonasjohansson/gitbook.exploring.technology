@@ -1,5 +1,7 @@
 # Workshops
 
+Workshops follow a simple **Learn → Build → Test** structure with theory and practice in rapid succession. This means that students are expected to code during workshops, and learning assignments will be closely connected to the theory. 
+
 ### Generative Design
 
 Through [P5](https://p5js.org/) participants scratch the surface of artificial intelligence as they learn about generative design, and how machines can help make art, music and experiences! 

@@ -1,5 +1,7 @@
 # Talks
 
+Start of your day with an interesting talk! Each week will have at least 1 speaker highlighting a topic within code and design.
+
 ### [Jonas Johansson](https://jonasjohansson.se/) \(Industry Leader\)
 
 Anywhere based artist, designer and programmer transforming light + technology through → play, biology and \(un\)human intervention. Hyper alumni and Industry Leader at Hyper Island since 2016. Part of [Nordic Audiovisual Artists](https://nava.community/) and [Svartljus](https://svartljus.se/).

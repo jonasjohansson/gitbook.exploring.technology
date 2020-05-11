@@ -5,10 +5,11 @@
 
 ## Info
 
-* [Learning Groups](info/learning-groups.md)
 * [Workshops](info/workshops.md)
 * [Talks](info/talks.md)
+* [Review](info/review.md)
 * [Exhibition](info/exhibition.md)
+* [Learning Groups](info/learning-groups.md)
 
 ## Brief
 

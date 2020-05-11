@@ -13,3 +13,32 @@ Things to ask yourselves as you get going:
 * Talk about practicalities: How/when will you connect? \(checkins-outs, etc\) 
 * Have a Learning Group Leader? \(if so, what do you need from that role?\)
 
+### Class representatives
+
+Besides being the unsung heroes, the representatives assist in the structure and facilitation of the project.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Week</th>
+      <th style="text-align:left">Who</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">20-24</td>
+      <td style="text-align:left">
+        <p><a href="mailto:david.lopez@hyperisland.se">david.lopez@hyperisland.se</a>
+        </p>
+        <p><a href="mailto:tom.backlof@hyperisland.se">tom.backlof@hyperisland.se</a>
+          <br
+          /><a href="mailto:lina.wang@hyperisland.se">lina.wang@hyperisland.se</a>
+          <br
+          /><a href="mailto:emilio.hellberg@hyperisland.se">emilio.hellberg@hyperisland.se</a>
+          <br
+          /><a href="mailto:nazduygu_gozen@hyperisland.se">nazduygu.gozen@hyperisland.se</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
