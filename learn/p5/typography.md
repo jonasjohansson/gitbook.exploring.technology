@@ -1,4 +1,8 @@
-# 🏆 Typography
+# 🏆 Type
 
-Draw a letter in a specific word using multiple shapes, add animation and randomness to make each version feel unique!
+Code your own letter from any of the ones available in EXPLORING TECHNOLOGY using **previous steps** in combination with **lines and curves**, **animation** and **randomness**.
+
+![Kinetic Typography by Tim Rodenbroeker](https://timrodenbroeker.de/wp-content/uploads/2019/04/export.gif)
+
+
 
