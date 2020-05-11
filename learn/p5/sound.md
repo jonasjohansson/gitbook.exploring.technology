@@ -4,10 +4,6 @@ Audio in the browser is very powerful and a blast to include in visual projects,
 
 {% embed url="https://vimeo.com/68161863" %}
 
-
-
-{% embed url="https://vimeo.com/95057507" %}
-
 If development is done **outside** of the p5 editor, then include this script…
 
 ```markup
