@@ -8,15 +8,15 @@ Setting up a stream can be a daunting task if never done before, both on the sof
 
 | Name | Video conference | Live stream |
 | :--- | :--- | :--- |
-| [Zoom](https://zoom.us/) \([pricing](https://zoom.us/pricing)\) | Yes | No |
-| [Meet](https://meet.google.com/?authuser=1) \([pricing](https://gsuite.google.com/pricing.html)\) | Yes | No |
+| [Zoom](https://zoom.us/) | Yes | No |
+| [Meet](https://meet.google.com/?authuser=1) | Yes | No |
 | [Jitsi](https://jitsi.org/) | Yes | No |
 | [Twitch](https://www.twitch.tv/) | No | Yes |
 | Instagram Live | No  | Yes |
 | [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) | No | Yes |
 | [Youtube Live](https://studio.youtube.com/) | No | Yes |
 
-Zoom/Meet/Jitsi work well for conference calls and online lectures where video quality and frame rate is not focus, while the rest are better for streams where audience can drop in and out of. Zoom can absolutely be used for live streams \(read [21 things we learned from hosting our first online party](https://tedcooke.blog/2020/04/13/21-things-we-learned-from-hosting-our-first-online-party/)\) but it it is obvious that it is made for co-creation rather than a traditional stream of content.
+Zoom, Meet & Jitsi work well for conference calls and online lectures where video quality and frame rate is not focus, while the rest are better for streams where audience can drop in and out of. Zoom can absolutely be used for live streams \(read [21 things we learned from hosting our first online party](https://tedcooke.blog/2020/04/13/21-things-we-learned-from-hosting-our-first-online-party/)\) but it it is obvious that it is made for co-creation rather than a traditional stream of content.
 
 ### Hardware
 
