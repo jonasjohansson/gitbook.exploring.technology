@@ -24,7 +24,7 @@ Will be announced as the project start. Consider filling out the [Remote Work Ca
       <td style="text-align:left">2</td>
       <td style="text-align:left">
         <p>Jekatierina (Katja) Sakowicz</p>
-        <p>Sigge Labor</p>
+        <p>Victoria Tholerus</p>
         <p>Hei&#xF0;r&#xFA;n Eva (Eva) &#xDE;&#xF3;risd&#xF3;ttir</p>
         <p>Bob Rowsse Walakira</p>
       </td>
@@ -87,7 +87,7 @@ Will be announced as the project start. Consider filling out the [Remote Work Ca
       <td style="text-align:left">9</td>
       <td style="text-align:left">
         <p>Peter Hochman</p>
-        <p>Victoria Tholerus</p>
+        <p>Sigge Labor</p>
         <p>Emilio Hellberg</p>
         <p>Antonio (Toni) Pennyman</p>
       </td>
