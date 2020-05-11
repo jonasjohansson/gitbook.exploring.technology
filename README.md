@@ -4,6 +4,8 @@ description: 'Week 20-24, May 11 — June 12'
 
 # Introduction
 
+_The students will get to create outside the norm and challenge the way interfaces are built. Art, music, virtual reality experiences - the possibilities are endless. Hands-on creation, testing the limits and insights of the creative process._
+
 Technology is the new religion and we are its followers. We willingly build algorithms that conform, and design interfaces that offer little resistance. Instead of _surfing the web_, we swipe aimlessly. **Success!** We have turned the Internet into [Pleasantville](https://www.youtube.com/watch?v=v9EHRObUQqY), and we are its numb inhabitants, slaves to the screen.
 
 But has technology brought us closer or further apart? Does an email cost the environment less than a letter? Can "Dark Mode" be seen as innovation? Let's do better. **This is our environment**. We are not just the inhabitants, we are also the architects, the creatives, the entrepreneurs and the builders!
