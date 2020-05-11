@@ -10,11 +10,13 @@ We will also print all markers and designs in a physical newspaper using [Newspa
 
 ## Process
 
-Back in the day, the Digital Media \(before they became creative\) students would, prior to their internship, launch their class into the world with a website. It was a way to stand united and to be collectively more interesting than the individual, while relieving some of the pressure of the portfolio.  
+Back in the day, the Digital Media students would, prior to their internship, launch their class into the world with a website. It was a way to stand united and to be collectively more interesting than the individual, while relieving some of the pressure of the portfolio.  
 
-During Exploring Code we will do something similar with a process site where all works will be displayed. This site will be the go to space for all external communication, and live on long after the module is finished.
+We will do something similar with a process site where all works will be displayed. This site will be the go to space for all external communication, and live on long after the module is finished.
 
 → [https://exploring-code.glitch.me/](https://exploring-code.glitch.me/) \([join](https://glitch.com/edit/#!/join/eab1b439-11ad-45cf-a2b6-d41b4de419ee)\)
+
+We will also be doing a takeover on the [Hyper Island Instagram](https://www.instagram.com/hyperisland/)!
 
 ![Always Be Iterating by Zach Lieberman](../.gitbook/assets/zach%20%281%29.jpg)
 
