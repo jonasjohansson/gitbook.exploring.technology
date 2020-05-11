@@ -12,6 +12,8 @@ Through [P5](https://p5js.org/) participants scratch the surface of artificial i
 
 Learn the ropes integrating sound and music into your projects, using pre-made clips or the builtin WebAudio API.
 
+With [Alexander Wallin](talks.md#alexander-wallin).
+
 ### A-Frame XR
 
 Browser based world building and mixed reality. Participants learn the basics of web powered graphics development while hacking their environment using virtual and augmented reality. 
@@ -34,9 +36,9 @@ Teach a machine using [Teachable Machine](https://teachablemachine.withgoogle.co
 
 ### Python
 
-Build your own API using Python while learning the basics of this wonderful language!
+Get an introduction to the wonderful language of Python while building a simple API. 
 
-_With Eskil Fogelström_
+With [Eskil Fogelström](talks.md#eskil-fogelstroem).
 
 ### Electron
 

@@ -28,5 +28,7 @@ Developer and musician who enjoys cross-pollination of programming and other cra
 
 Host of the annual [Stupid Hackathon](https://www.stupidhackathon.se/) in Stockholm and working as Creative Technical Director at design agency [Familjen](https://www.familjen.se/). Co-founded and ran the digital agency Earth People up until April 2019.
 
+### Eskil Fogelström
 
+Fullstack developer since 2014. Tinkerer with technology and design, mostly focusing on Javascript and Python. Now working as an Engineering Manager at Epidemic Sound helping with soundtracking the world.
 
