@@ -2,8 +2,8 @@
 
 There are several [events](https://p5js.org/reference/#group-Events) that can be "listened" too; button is pressed, mouse is clicked, mobile device is shaken. Some of the events even act as a variable!
 
-{% tabs %}
-{% tab title="Mouse" %}
+## Mouse
+
 ```javascript
 function setup() {
   createCanvas(640, 480);
@@ -21,131 +21,35 @@ function draw() {
   ellipse(mouseX, mouseY, 80, 80);
 };
 ```
-{% endtab %}
 
-{% tab title="Keyboard" %}
+## Keyboard
+
 ```javascript
-/* Keycodes: BACKSPACE, DELETE, ENTER, RETURN, TAB, ESCAPE, SHIFT, CONTROL, OPTION, ALT, UP_ARROW, DOWN_ARROW, LEFT_ARROW, RIGHT_ARROW */
-
-let r = 0;
-let g = 0;
-let b = 0;
-
 function setup(){
   createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
-  background(r,g,b);
-  
   if (keyIsDown(UP_ARROW)) {
-    r = 255;
-    g = 255;
-    b = 0;
+    background(255,0,0);
   } else if (keyIsDown(DOWN_ARROW)) {
-    r = 0;
-    g = 255;
-    b = 255;
+    background(0,255,0);
   }
 }
 
 function keyPressed() {
   if (keyCode === LEFT_ARROW) {
-    r = 255;
-    g = 255;
-    b = 255;
+    background(0,0,255);
   } else if (keyCode === RIGHT_ARROW) {
-    r = 0;
-    g = 0;
-    b = 0;
-  }
-}
-
-function keyTyped() {
-  if (key === 'r') {
-    r = 255;
-    g = 0;
-    b = 0;
-  } else if (key === 'g') {
-    r = 0;
-    g = 255;
-    b = 0;
-  } else if (key === 'b') {
-    r = 0;
-    g = 0;
-    b = 255;
-  }
-  // uncomment to prevent any default behavior
-  // return false;
-}
-```
-{% endtab %}
-
-{% tab title="Motion" %}
-Due to security restrictions users must give explicit access to motion data. This is normally done by providing a button which upon being clicked prompts the user to for permission.
-
-```javascript
-function setup() {
-  createCanvas(windowWidth, windowHeight);
-  permission();
-}
-
-function draw() {
-
-  // convert rotation to color
-  r = map(rotationX, -90, 90, 0, 255);
-  g = map(rotationY, -90, 90, 0, 255);
-  b = map(rotationZ, -90, 90, 0, 255);
-
-  // convert rotation to position on screen
-  posX = constrain(map(rotationY, -90, 90, 0, width), 0, width);
-  posY = constrain(map(rotationX, -90, 90, 0, height), 0, height);
-
-  if (mouseIsPressed) {
-    fill(r, g, b);
-  } else {
-    fill(255);
-  }
-
-  // count number of individual touch points
-  switch (touches.length) {
-    case 0:
-    case 1:
-      ellipse(posX, posY, 100, 100);
-      break;
-    case 2:
-      square(posX - 50, posY - 50, 100);
-      break;
-  }
-}
-
-function touchMoved() {
-  return false;
-}
-
-function permission() {
-  button = createButton("start");
-  button.style("position", "absolute");
-  button.style("z-index", "9999");
-  button.position(windowWidth / 2, windowHeight / 2);
-  button.mousePressed(permission);
-  if (
-    typeof DeviceMotionEvent !== "undefined" &&
-    typeof DeviceMotionEvent.requestPermission === "function"
-  ) {
-    DeviceMotionEvent.requestPermission()
-      .then(response => {
-        if (response == "granted") {
-          button.remove();
-        }
-      })
-      .catch(console.error);
+    background(255,0,255);
   }
 }
 ```
-{% endtab %}
 
-{% tab title="Sound" %}
+## Sound
+
+
+
 ```javascript
 let mic, fft;
 
@@ -171,9 +75,11 @@ function draw() {
   endShape();
 }
 ```
-{% endtab %}
 
-{% tab title="Speech" %}
+## Speech
+
+For this to work, include [https://raw.githack.com/IDMNYU/p5.js-speech/master/lib/p5.speech.js](https://raw.githack.com/IDMNYU/p5.js-speech/master/lib/p5.speech.js).
+
 ```javascript
 // https://idmnyu.github.io/p5.js-speech/
 // https://github.com/libyal/libfwnt/wiki/Language-Code-identifiers
@@ -190,8 +96,6 @@ function setup() {
   myVoice.setLang("en-UK");
   myVoice.speak("Name a color");
 }
-
-function draw() {}
 
 function parseResult() {
   if (myRec.resultValue === true) {
@@ -211,12 +115,10 @@ function parseResult() {
   }
 }
 ```
-{% endtab %}
 
-{% tab title="API" %}
+## API
+
 API stands for Application Programming Interface and it is used all the time. An API is a software intermediary that allows two applications to talk to each other. In other words, an API is the messenger that delivers your request to the provider that you're requesting it from and then delivers the response back to you.
-
-There are plenty of [Public API's](https://github.com/public-apis/public-apis) out there, some require creating an account and receiving a unique "key", while others are free to use as-is. In the example below, data is fetched and stored in a variable, ready to be used.
 
 ```javascript
 var weather;
@@ -234,6 +136,6 @@ function draw() {
   text(weather.main.temp, 10, 30);
 }
 ```
-{% endtab %}
-{% endtabs %}
+
+
 
