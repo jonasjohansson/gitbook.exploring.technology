@@ -87,4 +87,5 @@ Here's a list of API's, articles and tools that can be of use.
 * [https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg](https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg)
 * [https://www.youtube.com/watch?v=a3w8I8boc\_I](https://www.youtube.com/watch?v=a3w8I8boc_I)
 * [https://www.metmuseum.org/art/collection](https://www.metmuseum.org/art/collection)
+* [https://github.com/toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding)
 
