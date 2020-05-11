@@ -58,4 +58,6 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 * [https://webglfundamentals.org/](https://webglfundamentals.org/)
 * [https://chickenwaffle.com/](https://chickenwaffle.com/)
 * [https://supermedium.com/](https://supermedium.com/)
+* [https://jeeliz.com/blog/augmented-reality/](https://jeeliz.com/blog/augmented-reality/)
+* [https://sketchar.tech/](https://sketchar.tech/)
 
