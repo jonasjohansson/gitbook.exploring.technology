@@ -21,7 +21,7 @@ How we present information matter. Your challenge is creating a Generative ****a
 3. Make your work public using [Github Pages](https://pages.github.com/), [Glitch](http://glitch.com/) or the [P5 editor](https://editor.p5js.org/). You may also choose your own hosting solution.
 
 {% hint style="danger" %}
-It can not be a recording, and it should be easily accessible in the browser.
+It can not be a recording, and it should be accessible in the browser.
 {% endhint %}
 
 ### Optional
