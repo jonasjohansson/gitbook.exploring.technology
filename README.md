@@ -36,22 +36,28 @@ Start of your day with an interesting talk! Each week will have at least 1 speak
 
 ### Code Review
 
-_The coding ambulance 🚑has arrived!_
+Debugging is difficult, and sometimes it's hard to even understand what to look for. Tempting as it may be, it is wise to practice 🐛 elimination while also becoming more **self-reliant**. Here's the order I suggest you follow when challenged:
 
-Need help with your code? Unsure if your approach is "the right way"? There will be slots every week where we have a shared video call and try to sort things out. We take questions in the order of people arriving.
+1. Ask yourself
+2. Ask yourself again \(and really think about it\)
+3. Ask a friend directly
+4. Ask in Slack
+5. Ask the Internet
+6. Join code review and ask Jonas
 
-Missed the code review? State your question in existing forums:
+"But I want to get the answer now!"
 
-* [https://stackoverflow.com/](https://stackoverflow.com/)
-* [https://discourse.processing.org/c/p5js](https://discourse.processing.org/c/p5js)
-* [https://discourse.threejs.org/](https://discourse.threejs.org/)
-* [https://aframevr.slack.com/](https://aframevr.slack.com/)
+You'd be surprised how fast people at [Stack Overflow](https://stackoverflow.com/) responds \(sometimes minutes\), and you should be able to park a problem for a while and not let it stop your progress. **Get some fresh air!**
 
-For extra attention link your question in the relevant channel.
+There are also other reasons for asking publicly:
 
-Questions should be considered and written in such a way that it is easy to answer without asking for further details. Always include source code \(use the snippet function\), and preferably an **editable** [Fiddle](https://jsfiddle.net/) or [Glitch](http://glitch.com/) link.
+1. Those with similar problems may get help from the comments.
+2. You may get a wide range of answers that solve problems further down the line.
+3. You improve your ability to analyse a problem and write a concise question.
 
-Take your time and watch [Let's talk about your creative IQ](https://www.youtube.com/watch?v=GdsAcNKD9i0&list=PLfJZEI22FEjSXWzbxRfaueY71jiPuFH4V&index=96) with Teo Härén.
+With that said, there will be Code Review each week where we try to find solutions together, without any pressure. Just join in and we take it as it comes.
+
+Also, take your time and watch [Let's talk about your creative IQ](https://www.youtube.com/watch?v=GdsAcNKD9i0&list=PLfJZEI22FEjSXWzbxRfaueY71jiPuFH4V&index=96) with Teo Härén. It's a small reminder on how our brain tends to look for the easy way out.
 
 ### Creative Review & Presentation
 
