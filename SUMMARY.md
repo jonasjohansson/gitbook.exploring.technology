@@ -5,6 +5,7 @@
 
 ## Info
 
+* [Learning Groups](info/learning-groups.md)
 * [Workshops](info/workshops.md)
 * [Talks](info/talks.md)
 * [Exhibition](info/exhibition.md)
