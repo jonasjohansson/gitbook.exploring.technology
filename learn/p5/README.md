@@ -13,6 +13,7 @@ Processing made by Casey Reas and Ben Fry has lowered the threshold of programmi
 ### References
 
 * [https://timrodenbroeker.de/resources/](https://timrodenbroeker.de/resources/)
+* [https://timrodenbroeker.de/an-aerial-perspective-on-generative-design/](https://timrodenbroeker.de/an-aerial-perspective-on-generative-design/)
 * [https://www.openprocessing.org/](https://www.openprocessing.org/)
 * [https://ceciltouchon.com/typogrphic/](https://ceciltouchon.com/typogrphic/)
 * [https://sfpc.io/faq/](https://sfpc.io/faq/)
