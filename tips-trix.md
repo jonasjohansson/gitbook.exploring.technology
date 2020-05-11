@@ -35,6 +35,8 @@ Zoom/Meet/Jitsi work well for conference calls and online lectures where video q
 | [Philips Hue Go](https://www2.meethue.com/sv-se/p/hue-white-och-color-ambiance-go-barbar-lampa-%28senaste-modell%29/7602031P7) | Lighting |
 | [Philips Hue Color Ambiance](https://www2.meethue.com/sv-se/p/hue-white-och-color-ambiance-2-pack-e27/8718699673284) | Lighting |
 
+The capture card is used for when connecting external video sources \(eg. a DSLR camera\) to the computer.
+
 ### Software
 
 For when you want to have full control of the stream input and output, use [OBS Studio](https://obsproject.com/), as it will elevate the experience for both host and audience. For a great default setup, do the following:
