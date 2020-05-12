@@ -84,7 +84,7 @@
     * [7. Variables](learn/p5/variables.md)
     * [8. Animation](learn/p5/animation.md)
     * [9. Randomness](learn/p5/random.md)
-    * [🏆 Type](learn/p5/typography.md)
+    * [🏆 Kinetic Type](learn/p5/typography.md)
     * [10. Conditional Statements](learn/p5/logic.md)
     * [11. Loops](learn/p5/11.-loops.md)
     * [12. Interaction](learn/p5/interaction.md)
