@@ -1,4 +1,4 @@
-# 🏆 Kinetic Type
+# 🏆 Type
 
 Code your own letter from any of the ones available in "EXPLORING CODE" using **previous steps** in combination with **lines and curves**, **animation** and **randomness**.
 
