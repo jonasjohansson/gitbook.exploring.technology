@@ -1,4 +1,4 @@
-# 10. Conditional Statements
+# 11. Conditional Statements
 
 You may have heard of [**If This Then That**](https://ifttt.com/), a tool that combines services using conditional statements eg. if a song is liked on Spotify, send an email. 
 
