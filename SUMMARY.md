@@ -151,7 +151,8 @@
   * [DIY Pixelstick using Teensy](guides/diy-pixelstick-using-teensy.md)
   * [Enhanced radical knitting](guides/enhanced-radical-knitting.md)
   * [Browser Point Clouds](guides/browser-point-clouds.md)
-* [Tips & Trix](tips-trix.md)
+* [Tips & Trix](tips-trix/README.md)
+  * [Streaming](tips-trix/streaming.md)
 
 ## Apps
 
