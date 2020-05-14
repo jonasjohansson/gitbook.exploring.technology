@@ -10,7 +10,7 @@ In April we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechno
 
 | Date | Topic | Host |
 | :--- | :--- | :--- |
-| 0403 | [Generative Design](learn/p5/generative-art.md) | [Jonas Johansson](https://jonasjohansson.se/) |
+| 0403 | [Generative Design](learn/p5/generative-design.md) | [Jonas Johansson](https://jonasjohansson.se/) |
 | 0406 | Intro to TouchDesigner | [Mickey van Olst](https://mickeyvanolst.com/) |
 | 0407 | Browser AR using [A-Frame](learn/aframe/) and AR.js | Jonas Johansson |
 | 0408 | Algorithmic sounds in [SuperCollider](guides/supercollider.md) | [Daniel M. Karlsson](https://www.danielmkarlsson.com/) |

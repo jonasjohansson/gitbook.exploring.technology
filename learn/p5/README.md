@@ -32,6 +32,7 @@ Processing made by Casey Reas and Ben Fry has lowered the threshold of programmi
 * [https://codepen.io/Mamboleoo/pen/QWbmPGZ](https://codepen.io/Mamboleoo/pen/QWbmPGZ)
 * [http://www.codingmath.com/](http://www.codingmath.com/)
 * [http://printingcode.runemadsen.com/](http://printingcode.runemadsen.com/)
+* [https://github.com/stevebattle/stevebattle.github.io/tree/master/digital-harmony](https://github.com/stevebattle/stevebattle.github.io/tree/master/digital-harmony)
 * [https://involvingsystems.tumblr.com/](https://involvingsystems.tumblr.com/)
 * [https://dam-gallery.de/](https://dam-gallery.de/)
 * [https://www.edenspiekermann.com/insights/generative-design-q-and-a-with-creative-algorithm-developer-patrik-huebner/](https://www.edenspiekermann.com/insights/generative-design-q-and-a-with-creative-algorithm-developer-patrik-huebner/)
