@@ -27,5 +27,9 @@ Also, take your time and watch [Let's talk about your creative IQ](https://www.y
 
 ## Creative Review & Presentation
 
-Each week there will be a moment to either have review with the Industry Leader, a moment to check on progress and evaluate next steps, or a presentation with the class, sharing the work done so far.
+Each week there will be a moment to either have review with the Industry Leader, or a presentation with the class, sharing the work done so far.
+
+What is a review? We look at your concept and progress so far, without judgment, with the only purpose to assist you in moving forward. We are trying to solve hurdles creatively, and reviewing your ideas looking at potential.
+
+To book a creative review, [visit the Calendly](https://calendly.com/jonas-johansson/creative-review?month=2020-05&date=2020-05-15) page.
 

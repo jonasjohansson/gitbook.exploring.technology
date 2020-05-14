@@ -60,4 +60,6 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 * [https://supermedium.com/](https://supermedium.com/)
 * [https://jeeliz.com/blog/augmented-reality/](https://jeeliz.com/blog/augmented-reality/)
 * [https://sketchar.tech/](https://sketchar.tech/)
+* [https://www.youtube.com/watch?v=zZpowQlrNt8](https://www.youtube.com/watch?v=zZpowQlrNt8)
+* [https://realestatequarantour.com/](https://realestatequarantour.com/)
 
