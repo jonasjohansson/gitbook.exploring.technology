@@ -48,8 +48,6 @@ function keyPressed() {
 
 ## Sound
 
-
-
 ```javascript
 let mic, fft;
 
@@ -136,6 +134,4 @@ function draw() {
   text(weather.main.temp, 10, 30);
 }
 ```
-
-
 
