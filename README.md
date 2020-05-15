@@ -2,6 +2,10 @@
 
 Welcome to a wishful remedy to the increasing knowledge gap between those who build machines, and those who use them. A repository of complementary learning materials for software, hardware and code, open to everyone.
 
+![Sister Corita Kent + John Cage](https://cdn.shopify.com/s/files/1/0726/8563/products/10_rules.jpg?v=1475698660)
+
+
+
 ## Streaming workshops during COVID-19
 
 In April we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET GMT+2. More information in the [Facebook event](https://www.facebook.com/events/524433344931172/). All videos can be viewed the [Exploring Technology Live playlist](https://youtu.be/ZoaCwD4TLeI?list=PLUDp_pSeLkVSih5Ftqll9MTzgZ3IL5URq) on Youtube..
