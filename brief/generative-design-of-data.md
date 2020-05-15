@@ -60,6 +60,7 @@ It can not be a recording, and it should be accessible in the browser ie. runnin
 * [Kaggle dataset](https://www.kaggle.com/datasets)
 * [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Dataportalen](https://www.dataportal.se/)
+* [Public APIs](https://github.com/public-apis/public-apis)
 
 ### Other
 
