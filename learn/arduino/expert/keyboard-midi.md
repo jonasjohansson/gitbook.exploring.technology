@@ -1,6 +1,6 @@
 # Keyboard
 
-The Arduino Uno is not recognised as a HID \(keyboard, mouse\) which disables the functionality of being able to trigger keyboard presses or mouse movements. To use the Arduino Uno as a keyboard there are two options; running [Mio](../../../apps/mio/), a custom software listening to the serial communication, and flashing the controller with keyboard enabled firmware.
+The Arduino Uno is not recognised as a HID \(keyboard, mouse\) which disables the functionality of being able to trigger keyboard presses or mouse movements. To use the Arduino Uno as a keyboard there are two options; running [Mio](../../../guides/mio/), a custom software listening to the serial communication, and flashing the controller with keyboard enabled firmware.
 
 An alternative to the Arduino Uno is the [Arduino Leonardo](https://www.arduino.cc/en/Main/Arduino_BoardLeonardo) and [Makey Makey](../../makey-makey/), which works natively as a keyboard and mouse.
 

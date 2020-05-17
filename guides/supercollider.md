@@ -2,7 +2,7 @@
 description: Written by Daniel M Karlsson and edited by Jonas Johansson
 ---
 
-# Running SuperClean in SuperCollider
+# SuperCollider
 
 ### Install
 

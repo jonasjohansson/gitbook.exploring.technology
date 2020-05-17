@@ -2,7 +2,7 @@
 description: Written by Jonas Johansson
 ---
 
-# Real-time LEDs over Art-Net with Arduino/Teensy and Resolume
+# Real-time LED's
 
 Running LEDs on micro-controllers is made easy using the [NeoPixel](https://learn.adafruit.com/adafruit-neopixel-uberguide) or [FastLED](http://fastled.io/) library along with fixtures with WS2812B or SK6812B based LEDs. But what if you want to control the lights using realtime input from a computer? The obvious choice is to use [Art-Net](https://en.wikipedia.org/wiki/Art-Net), a protocol for sending DMX over Ethernet \(and Wifi\), with wide support across software.
 
