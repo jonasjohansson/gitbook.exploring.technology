@@ -14,7 +14,7 @@ Back in the day, the Digital Media students would, prior to their internship, la
 
 We will do something similar with a process site where all works will be displayed. This site will be the go to space for all external communication, and live on long after the module is finished.
 
-→ [https://exploring-code.glitch.me/](https://exploring-code.glitch.me/) \([join](https://glitch.com/edit/#!/join/eab1b439-11ad-45cf-a2b6-d41b4de419ee)\)
+→ [https://github.com/jonasjohansson/hyperisland.dev](https://github.com/jonasjohansson/hyperisland.dev)
 
 We will also be doing a takeover on the [Hyper Island Instagram](https://www.instagram.com/hyperisland/)!
 
