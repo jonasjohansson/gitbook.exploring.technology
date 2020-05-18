@@ -24,3 +24,7 @@ To cover all grounds you can specify multiple sources:
 
 Whilst `<audio>` is easy to deal with and will many times do the job for you, it can be easier and more flexible to do things directly in JavaScript.
 
+### Related links
+
+* [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+

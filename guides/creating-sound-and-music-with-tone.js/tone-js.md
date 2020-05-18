@@ -22,11 +22,11 @@ function setup() {
 }
 ```
 
-[`Tone.Master`](https://tonejs.github.io/docs/13.8.25/Master) is responsible for routing audio to the main output \(likely your computer speakers or headphones\). Anything that should be audible must connect to it.
+`Tone.Master` is responsible for routing audio to the main output \(likely your computer speakers or headphones\). Anything that should be audible must connect to it.
 
 ### Generating a tone
 
-With the seat belt on we can create our first oscillator using [`Tone.Oscillator`](https://tonejs.github.io/docs/13.8.25/Oscillator). An oscillator generates a sound wave at a certain frequency. It's what makes up most synthezisers!
+With the seat belt on we can create our first oscillator using `Tone.Oscillator`. An oscillator generates a sound wave at a certain frequency. It's what makes up most synthezisers!
 
 ```javascript
 function setup() {
