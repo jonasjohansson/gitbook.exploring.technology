@@ -32,7 +32,23 @@ The first version of HTML5 and its `<audio>` tag is released.
 
 The [Audio Worklet](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) feature makes it possible to process audio completely separate from other JavaScript stuff, making it more performant.
 
+## Examples and inspiration
+
+\*\*\*\*[**Turn of the Screw**](https://www.operanorth.co.uk/turn-of-the-screw-immersive-trailer) – An interactive 3D journey with music and voices positioned in 3D space. See [this example sketch](https://editor.p5js.org/alexanderwallin/sketches/51DW0GhaP) on how to set up spatialized audio.
+
+\*\*\*\*[**Best Year in Music**](https://pudding.cool/projects/music-history/) – A Journey through every Billboard top 5 hit to find music’s greatest era.
+
+[**Web Audio Weekly**](https://www.webaudioweekly.com/) – A newsletter that contains everything from audio-heavy campaign pages, to recreated synthesizers, to low-level web audio programming..
+
 ## Sound Inventory
 
 Looking for sounds to use? Use [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Sound) \(requires some digging\) or [Alexander Wallins repository](https://www.alexanderwallin.com/audio/inventory.json) \(try the [Pad](https://www.alexanderwallin.com/audio/pad-6.ogg), [Percussion](https://www.alexanderwallin.com/audio/percussion-guiro_long.ogg) or [Synth](https://www.alexanderwallin.com/audio/synth-moog_bass.ogg) for instance\).
+
+## Contact
+
+Please get in touch with me if you have any questions, thoughts or ideas!
+
+[https://www.alexanderwallin.com/](https://www.alexanderwallin.com/)  
+office@alexanderwallin.com  
+
 
