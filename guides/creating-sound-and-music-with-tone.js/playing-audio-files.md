@@ -1,4 +1,4 @@
-# Playing Audio Files
+# 4. Playing Audio Files
 
 We have taken a first look at generating \(or synthesizing\) sound, and now it's time to master audio file playback. Use `Tone.Player` to load a sound.
 

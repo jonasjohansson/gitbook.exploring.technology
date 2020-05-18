@@ -51,3 +51,8 @@ Press the stop button in the p5 editor to make it stop. We will add better contr
 
 Now that we're generating sound, let's build the Theremin - the world's first synthesizer!
 
+### Related links
+
+* [Tone.Master](https://tonejs.github.io/docs/13.8.25/Master)
+* [Tone.Oscillator](https://tonejs.github.io/docs/13.8.25/Gain)
+

@@ -160,7 +160,7 @@
     * [2. Tone.js](guides/creating-sound-and-music-with-tone.js/tone-js.md)
     * [3. Theremin](guides/creating-sound-and-music-with-tone.js/theremin.md)
     * [🕹 Tonal Theremin](guides/creating-sound-and-music-with-tone.js/tonal-thermin.md)
-    * [Playing Audio Files](guides/creating-sound-and-music-with-tone.js/playing-audio-files.md)
+    * [4. Playing Audio Files](guides/creating-sound-and-music-with-tone.js/playing-audio-files.md)
     * [6. Effects ✨](guides/creating-sound-and-music-with-tone.js/6.-effects.md)
     * [🕹 Task: Control effects using the mouse](guides/creating-sound-and-music-with-tone.js/task-control-effects-using-the-mouse.md)
     * [7. Creating a sampler](guides/creating-sound-and-music-with-tone.js/7.-creating-a-sampler.md)

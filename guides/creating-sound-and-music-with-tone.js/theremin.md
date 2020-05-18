@@ -8,7 +8,7 @@ Beautiful! [This one](https://www.youtube.com/watch?v=pSzTPGlNa5U) isn't that ba
 
 ### Creating a volume control
 
-We already have our oscillator going. The oscillator has a built-in frequency control, so our right arm is already set to go. What we need now is the volume control using [`Tone.Gain`](https://tonejs.github.io/docs/13.8.25/Gain)
+We already have our oscillator going. The oscillator has a built-in frequency control, so our right arm is already set to go. What we need now is the volume control using `Tone.Gain`
 
 ```javascript
 const volume = new Tone.Gain({ gain: 0.2 })
@@ -124,4 +124,8 @@ function mouseMoved() {
 ```
 
 Now give it a go, and remember to play from your heart.
+
+### Related links
+
+* [Tone.Gain](https://tonejs.github.io/docs/13.8.25/Gain)
 
