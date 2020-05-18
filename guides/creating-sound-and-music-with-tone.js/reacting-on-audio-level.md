@@ -1,4 +1,4 @@
-# 8. Reacting on audio level
+# 7. Reacting on audio level
 
 One effective way of making visuals connect to audio is to make them react on the audio level. Calibrated well it can make the visual part of an installation feel alive.
 
