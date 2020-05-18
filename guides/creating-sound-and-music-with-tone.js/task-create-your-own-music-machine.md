@@ -10,6 +10,8 @@ The task is to play one or more sounds in an interactive way and make some kind 
 * Check out the [Tone.js examples page](https://tonejs.github.io/examples/)
 * If you get bored or stuck, and a ton of effects!
 
+Add your project [here](https://docs.google.com/spreadsheets/d/15LsCGQoDvBsUhtxh4AEtFfmS4uuM_7NA1wlCTeSKvJk/edit?usp=sharing).
+
 ### **Bonus**
 
 Create a synth using any of the library's built-in synthesizers and map keys on your keyboard to play notes, like a piano. A can be C3, S can be D3 and so forth.
