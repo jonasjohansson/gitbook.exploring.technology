@@ -8,19 +8,13 @@ Through [P5](https://p5js.org/) participants scratch the surface of artificial i
 
 → [Create an account on P5](https://editor.p5js.org/)
 
-1. Introduction
-2. Step 1-5 + Exercise \(short\)
-3. Step 6-9 + Exercise \(long\)
-4. Step 10-14
-5. Q&A
+### [Generative Audio](https://www.exploring.technology/guides/creating-sound-and-music-with-tone.js)
 
-### Generative Audio
-
-Learn the ropes integrating sound and music into your projects, using pre-made clips or the builtin WebAudio API.
+Learn the ropes integrating sound and music into your projects with [Tone.js](https://tonejs.github.io/).
 
 With [Alexander Wallin](talks.md#alexander-wallin).
 
-### A-Frame XR
+### [A-Frame XR](https://www.exploring.technology/learn/aframe)
 
 Browser based world building and mixed reality. Participants learn the basics of web powered graphics development while hacking their environment using virtual and augmented reality. 
 
