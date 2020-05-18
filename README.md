@@ -16,7 +16,7 @@ In April we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechno
 | :--- | :--- | :--- |
 | 0403 | [Generative Design](learn/p5/generative-design.md) | [Jonas Johansson](https://jonasjohansson.se/) |
 | 0406 | Intro to TouchDesigner | [Mickey van Olst](https://mickeyvanolst.com/) |
-| 0407 | Browser AR using [A-Frame](learn/aframe/) and AR.js | Jonas Johansson |
+| 0407 | Browser AR using [A-Frame](learn/mixed-reality/) and AR.js | Jonas Johansson |
 | 0408 | Algorithmic sounds in [SuperCollider](guides/supercollider.md) | [Daniel M. Karlsson](https://www.danielmkarlsson.com/) |
 | 0409 | [Point clouds](learn/touchdesigner/point-clouds/) in TouchDesigner and MetaShape | Mickey van Olst |
 | 0410 | Machine Learning with [Runway]() | [Andreas Refsgaard](https://andreasrefsgaard.dk/) |
