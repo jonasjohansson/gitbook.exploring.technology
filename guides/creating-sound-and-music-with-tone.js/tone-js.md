@@ -2,7 +2,7 @@
 
 We're now going to leave HTML5-land and do things directly in JavaScript. The tool of our choice in this tutorial is [Tone.js](https://tonejs.github.io), a great and vast library for creating sounds and music. Under the hood it uses the Web Audio API, which is the standard API for working with audio in the browser.
 
-To access Tone, include the library with a `<script>` tag. 
+To access Tone, include the library with a `<script>` tag. If you are using the P5 editor, open up the sidebar and edit the `index.html` file.
 
 ```markup
 <script src="https://unpkg.com/tone@13.8.25/build/Tone.js"></script>
@@ -37,11 +37,7 @@ function setup() {
 }
 ```
 
-Even though the oscillator is running, we won't be hearing anything. This is because we need to connect it to `Tone.Master`!
-
-```javascript
-osc.connect(Tone.Master)
-```
+Even though the oscillator is running, we won't be hearing anything. This is because we need to connect it to `Tone.Master` by adding `osc.connect(Tone.Master)`.
 
 Et voilà! You should now hear a tone at 440 Hz \(an A to be precise\). Quite dull and annoying.
 

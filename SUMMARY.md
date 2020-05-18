@@ -166,7 +166,7 @@
     * [6. Creating a sampler](guides/creating-sound-and-music-with-tone.js/7.-creating-a-sampler.md)
     * [7. Reacting on audio level](guides/creating-sound-and-music-with-tone.js/reacting-on-audio-level.md)
     * [8. Visualizing interaction](guides/creating-sound-and-music-with-tone.js/visualizing-interaction.md)
-    * [🕹 Task: Create your own music machine](guides/creating-sound-and-music-with-tone.js/task-create-your-own-music-machine.md)
+    * [🕹 DIY Music Machine](guides/creating-sound-and-music-with-tone.js/task-create-your-own-music-machine.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Streaming](tips-trix/streaming.md)
 
