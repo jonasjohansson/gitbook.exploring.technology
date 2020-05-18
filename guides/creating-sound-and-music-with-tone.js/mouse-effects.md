@@ -1,4 +1,4 @@
-# 🕹 Task: Control effects using the mouse
+# 🕹 Mouse Effects
 
 Make the effects change when you move the mouse. Use the mouse's position to set parameter values on one or more of the effects. Explore different effects and see what makes you tick. Experiment!
 

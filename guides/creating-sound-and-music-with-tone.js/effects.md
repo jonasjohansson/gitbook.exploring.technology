@@ -1,4 +1,4 @@
-# 6. Effects ✨
+# 5. Effects ✨
 
 Effects are to music what sauce is to food; you can do without it, bad damn does it hot things up.
 
