@@ -4,7 +4,7 @@ Make the effects change when you move the mouse. Use the mouse's position to set
 
 Add your project [here](https://docs.google.com/spreadsheets/d/15LsCGQoDvBsUhtxh4AEtFfmS4uuM_7NA1wlCTeSKvJk/edit?usp=sharing).
 
-{% hint style="info" %}
-Bonus task: Create two separate effect chains and move between them in a way of your liking.
-{% endhint %}
+### Bonus
+
+Create two separate effect chains and move between them in a way of your liking!
 

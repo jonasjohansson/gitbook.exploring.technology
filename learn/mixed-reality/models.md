@@ -1,6 +1,6 @@
 # 5. Models
 
-Build you own using [Blender](https://www.blender.org/) and [Cinema4d](https://www.maxon.net/en-us/products/cinema-4d/overview/), or download models from [Thingiverse](http://thingiverse.com/), [Sketchfab](https://sketchfab.com/search?features=downloadable+animated&q=low+poly&sort_by=-pertinence&type=models) and [Poly](https://poly.google.com/) \(built with [Blocks](https://arvr.google.com/blocks/)\). [Mixamo](https://www.mixamo.com/) \(requires an Adobe account\) offers both skins and animations! When downloaded, verify that the model looks OK by uploading it to [Creators 3d Online Viewer](https://www.creators3d.com/online-viewer).
+Build you own model using [Blender](https://www.blender.org/) or [Cinema4d](https://www.maxon.net/en-us/products/cinema-4d/overview/). Download from [Thingiverse](http://thingiverse.com/), [Sketchfab](https://sketchfab.com/search?features=downloadable+animated&q=low+poly&sort_by=-pertinence&type=models) and [Poly](https://poly.google.com/) \(built with [Blocks](https://arvr.google.com/blocks/)\). [Mixamo](https://www.mixamo.com/) \(requires an Adobe account\) offers both skins and animations! When downloaded, verify that the model looks OK by uploading it to [Creators 3d Online Viewer](https://www.creators3d.com/online-viewer).
 
 In order to have models in your scene there are two scripts that need to be included in the end of `<a-head>`.
 
