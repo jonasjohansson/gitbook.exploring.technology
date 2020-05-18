@@ -114,6 +114,32 @@ function parseResult() {
 }
 ```
 
+## Motion
+
+Due to security restrictions users must give explicit access to motion data. This is normally done by providing a button which upon being clicked prompts the user to for permission.
+
+```javascript
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+}
+
+function draw() {
+
+  let r = map(rotationX, -90, 90, 0, 255);
+  let g = map(rotationY, -90, 90, 0, 255);
+  let b = map(rotationZ, -90, 90, 0, 255);
+
+  background(r, g, b);
+  
+  textSize(100)
+  text(touches.length, 10, 100); // number of touches detected
+}
+
+document.body.onclick = function() {
+  DeviceMotionEvent.requestPermission();
+};
+```
+
 ## API
 
 API stands for Application Programming Interface and it is used all the time. An API is a software intermediary that allows two applications to talk to each other. In other words, an API is the messenger that delivers your request to the provider that you're requesting it from and then delivers the response back to you.
