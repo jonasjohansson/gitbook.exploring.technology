@@ -6,11 +6,7 @@ description: Written by Alexander Wallin
 
 Create, combine and control sounds in the browser using [Tone.js](https://tonejs.github.io/), sprinkle  keyboard and mouse interaction, and bring it together with some tasty [P5](../../learn/p5/) visuals!
 
-While [Web Audio API fundamentals](https://developer.mozilla.org/en/docs/Web/API/Web_Audio_API) is mentioned, the main focus is to get going and playing! As other official APIs, it is quite verbose and can be awkward in the beginning. Hopefully, once you've played with Tone it will be easier to grasp the Web Audio API if you want to dive deeper.
-
-{% hint style="info" %}
-Looking for sounds? Use the [Wikimedia Commons Sound](https://commons.wikimedia.org/wiki/Category:Sound) database or [Alexander Wallins sound repository](https://www.alexanderwallin.com/audio/inventory.json).
-{% endhint %}
+While [Web Audio API fundamentals](https://developer.mozilla.org/en/docs/Web/API/Web_Audio_API) is mentioned, the main focus is to get going and playing! As other official APIs, it is quite verbose, but hopefully, once you've played with Tone it will be easier to grasp the Web Audio API.
 
 ## History of Web Audio
 
@@ -35,4 +31,8 @@ The first version of HTML5 and its `<audio>` tag is released.
 #### 2017
 
 The [Audio Worklet](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) feature makes it possible to process audio completely separate from other JavaScript stuff, making it more performant.
+
+## Sound Inventory
+
+Looking for sounds to use? Use [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Sound) \(requires some digging\) or [Alexander Wallins repository](https://www.alexanderwallin.com/audio/inventory.json) \(try the [Pad](https://www.alexanderwallin.com/audio/pad-6.ogg), [Percussion](https://www.alexanderwallin.com/audio/percussion-guiro_long.ogg) or [Synth](https://www.alexanderwallin.com/audio/synth-moog_bass.ogg) for instance\).
 
