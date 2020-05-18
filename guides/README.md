@@ -1,4 +1,4 @@
-# Guides \(1-page\)
+# Guides
 
 ## Getting Super Powers
 
