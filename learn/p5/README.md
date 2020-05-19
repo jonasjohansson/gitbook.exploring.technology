@@ -39,7 +39,7 @@ Processing made by Casey Reas and Ben Fry has lowered the threshold of programmi
 * [https://twitter.com/search?q=%23%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DProcessing](https://twitter.com/search?q=%23%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8DProcessing)
 * [https://twitter.com/nagayama/](https://twitter.com/nagayama/)
 * [https://twitter.com/akane45\_gun](https://twitter.com/akane45_gun)
-* * [https://naotohieda.com/blog/processing-community-hangout-japan-1-en/](https://naotohieda.com/blog/processing-community-hangout-japan-1-en/)
+* [https://naotohieda.com/blog/processing-community-hangout-japan-1-en/](https://naotohieda.com/blog/processing-community-hangout-japan-1-en/)
 * [https://twitter.com/jhorikawa\_err](https://twitter.com/jhorikawa_err)
 * [https://twitter.com/wks\_jp](https://twitter.com/wks_jp)
 * [https://twitter.com/okazz\_](https://twitter.com/okazz_)
