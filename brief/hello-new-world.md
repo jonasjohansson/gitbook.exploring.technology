@@ -57,6 +57,7 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 * [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 * [https://webglfundamentals.org/](https://webglfundamentals.org/)
 * [https://chickenwaffle.com/](https://chickenwaffle.com/)
+* [https://www.youtube.com/watch?v=2NMO6uBAW18&fbclid=IwAR0T\_GRuxwP5bmeeWAklJNuWtTiKVTKDDPOk-s1OsOjkSl\_ZersBh24zu7I](https://www.youtube.com/watch?v=2NMO6uBAW18&fbclid=IwAR0T_GRuxwP5bmeeWAklJNuWtTiKVTKDDPOk-s1OsOjkSl_ZersBh24zu7I)
 * [https://supermedium.com/](https://supermedium.com/)
 * [https://jeeliz.com/blog/augmented-reality/](https://jeeliz.com/blog/augmented-reality/)
 * [https://sketchar.tech/](https://sketchar.tech/)
