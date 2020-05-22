@@ -73,4 +73,5 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 * [https://hubs.mozilla.com/](https://hubs.mozilla.com/)
 * [https://www.vrham.de/](https://www.vrham.de/)
 * [https://www.kaleidoscope.fund/](https://www.kaleidoscope.fund/)
+* [https://vrfilmreview.ru/vr-film-festivals-2020-e809a6a3d633](https://vrfilmreview.ru/vr-film-festivals-2020-e809a6a3d633)
 
