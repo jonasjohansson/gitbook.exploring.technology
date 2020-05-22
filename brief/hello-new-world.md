@@ -69,4 +69,6 @@ Build 1 \(or more\) interactive AR experience, either as an individual or as a t
 * [https://www.media.mit.edu/projects/doppelmarsh-cross-reality-environmental-sensor-data-browser/overview/](https://www.media.mit.edu/projects/doppelmarsh-cross-reality-environmental-sensor-data-browser/overview/)
 * [https://www.instagram.com/nerifuture/](https://www.instagram.com/nerifuture/)
 * [https://www.dezeen.com/2020/05/14/olafur-eliasson-augmented-reality-wunderkammer/](https://www.dezeen.com/2020/05/14/olafur-eliasson-augmented-reality-wunderkammer/)
+* [https://vrchat.com/](https://vrchat.com/)
+* [https://hubs.mozilla.com/](https://hubs.mozilla.com/)
 
