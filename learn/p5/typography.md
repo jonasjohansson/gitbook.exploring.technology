@@ -8,6 +8,8 @@ Add your contribution [here](https://docs.google.com/spreadsheets/d/15LsCGQoDvBs
 
 ![Geometric Shapes / 200517 by Saskia Freeke](../../.gitbook/assets/eyp-5nowoamyrwa.png)
 
+{% embed url="http://blog.presentandcorrect.com/31352-2" %}
+
 
 
 
