@@ -64,3 +64,11 @@ Before pressing Start Streaming and Start Recording, in **Settings &gt; Stream**
 Remember to test the stream having someone else visit and verify that sound and video behaves accordingly. It is possible to tweak video and audio output settings in OBS Studio.
 {% endhint %}
 
+### Experimental
+
+| Name |
+| :--- |
+| [VR Chat](https://vrchat.com/) |
+| [Mozilla Hubs](https://hubs.mozilla.com/) |
+| [The Online Town](https://theonline.town/) |
+
