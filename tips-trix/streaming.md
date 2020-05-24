@@ -33,6 +33,7 @@ If you need to stream content that is NSFW or may contain licensed materials, ch
 | [Logitech StreamCam](https://www.logitech.com/en-us/product/streamcam) | Webcam |
 | [Razer Kiyo](https://www.razer.com/gaming-broadcaster/razer-kiyo) | Webcam + light |
 | [Elgato HD60 S](https://www.elgato.com/en/gaming/game-capture-hd60-s) | Capture card |
+| [Elgato Cam Link 4K](https://www.elgato.com/en/gaming/cam-link-4k) | Capture card \(webcam\) |
 | [Elgato Key Light](https://www.elgato.com/en/gaming/key-light) | Lighting |
 | [Philips Hue Go](https://www2.meethue.com/sv-se/p/hue-white-och-color-ambiance-go-barbar-lampa-%28senaste-modell%29/7602031P7) | Lighting |
 | [Philips Hue Color Ambiance](https://www2.meethue.com/sv-se/p/hue-white-och-color-ambiance-2-pack-e27/8718699673284) | Lighting |
