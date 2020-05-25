@@ -1,12 +1,12 @@
 # 🥈 Type
 
-Create a letter \(choose from EXPLORING CODE\) using **previous steps** in combination with **lines and curves**, **animation** and **randomness**.
+Code your own letter from any of the ones available in "EXPLORING CODE" using **previous steps** in combination with **lines and curves**, **animation** and **randomness**.
 
 Your canvas should be **square** and your letter **centred**.
 
-![Geometric Shapes / 200517 by Saskia Freeke](../../.gitbook/assets/eyp-5nowoamyrwa.png)
+Add your contribution [here](https://docs.google.com/spreadsheets/d/15LsCGQoDvBsUhtxh4AEtFfmS4uuM_7NA1wlCTeSKvJk/edit?usp=sharing).
 
-{% embed url="http://blog.presentandcorrect.com/31352-2" %}
+![Geometric Shapes / 200517 by Saskia Freeke](../../.gitbook/assets/eyp-5nowoamyrwa.png)
 
 
 
