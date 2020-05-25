@@ -18,11 +18,11 @@ Build you own model using or download from an online repository. Then use the [O
 | [Poly](https://poly.google.com/) | Objects |
 | [Mixamo](https://www.mixamo.com/) | Characters & Animation |
 
-### Formats
-
-{% hint style="info" %}
+{% hint style="warning" %}
 If you are using Blender, export as GLTF!
 {% endhint %}
+
+### Formats
 
 {% tabs %}
 {% tab title="OBJ" %}
