@@ -10,7 +10,7 @@
     * [4. Animation](learn/mixed-reality/animation.md)
     * [5. Models](learn/mixed-reality/models.md)
     * [6. Sound and Video](learn/mixed-reality/sound-video.md)
-    * [🏆 Hommage](learn/mixed-reality/vr-world-building.md)
+    * [🥈 3D Hommage](learn/mixed-reality/vr-world-building.md)
     * [7. Text](learn/mixed-reality/text.md)
     * [8. Custom Components](learn/mixed-reality/advanced.md)
     * [Augmented Reality](learn/mixed-reality/ar/README.md)
