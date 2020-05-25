@@ -27,9 +27,6 @@ Do you want to control your visuals through voice? That's a rhetorical question,
 ```markup
 <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.5.0/annyang.min.js"></script>
 <script src="https://rawgit.com/lmalave/aframe-speech-command-component/master/dist/aframe-speech-command-component.min.js"></script>
-```
-
-```markup
 <a-scene>
   <a-box id="box" color="red" position="0 0 -1"></a-box>
   <a-entity id="annyang" annyang-speech-recognition></a-entity>
