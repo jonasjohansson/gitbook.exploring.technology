@@ -1,13 +1,24 @@
 # 5. Models
 
-Build you own model using [Blender](https://www.blender.org/) or [Cinema4d](https://www.maxon.net/en-us/products/cinema-4d/overview/). Download from [Thingiverse](http://thingiverse.com/), [Sketchfab](https://sketchfab.com/search?features=downloadable+animated&q=low+poly&sort_by=-pertinence&type=models) and [Poly](https://poly.google.com/) \(built with [Blocks](https://arvr.google.com/blocks/)\). [Mixamo](https://www.mixamo.com/) \(requires an Adobe account\) offers both skins and animations! When downloaded, verify that the model looks OK by uploading it to [Creators 3d Online Viewer](https://www.creators3d.com/online-viewer).
-
 In order to have models in your scene there are two scripts that need to be included in `<head>`.
 
 ```markup
 <script src="https://raw.githack.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
 <script src="https://unpkg.com/three@latest/examples/js/libs/inflate.min.js"></script>
 ```
+
+Build you own model using or download from an online repository. Then use the [Online Viewer](https://www.creators3d.com/online-viewer) to verify the file works \(drag and drop\).
+
+| Services | Type |
+| :--- | :--- |
+| [Blender](https://www.blender.org/) | Production |
+| [Cinema4d](https://www.maxon.net/en-us/products/cinema-4d/overview/) | Production |
+| [Thingiverse](https://www.thingiverse.com/) | Objects |
+| [Sketchfab](https://sketchfab.com/search?features=downloadable+animated&q=low+poly&sort_by=-pertinence&type=models) | Objects |
+| [Poly](https://poly.google.com/) | Objects |
+| [Mixamo](https://www.mixamo.com/) | Characters & Animation |
+
+### Formats
 
 {% tabs %}
 {% tab title="OBJ" %}
