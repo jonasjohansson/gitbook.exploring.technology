@@ -10,19 +10,19 @@ The are several initiatives addressing this already, such as the open call from 
 
 ## Challenge
 
-Virtual and Augmented has recently reached the mobile browser, and both allow us to re-imagine our immediate environment. Your challenge is to build a VR or AR "portal" that spark curiosity, creativity and interaction, using smartphone\(s\).  Find your area of interest and have someone/something specific in mind.
+Virtual and Augmented Reality has recently reached the mobile browser, and both allow us to re-imagine our immediate environment. Your challenge is to build a VR or AR experience that spark curiosity, creativity and interaction.  Find your area of interest and have someone/something specific in mind.
 
 Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b3d#.fcx0aw7el)
 
 ### VR
 
-Build 1 \(or more\) interactive VR experience, either as an individual or as a team. Prototype it using sponsored headsets \([Oculus Go](https://www.oculus.com/go)\) from [Immersivt](https://www.immersivt.se/).
+Build 1 interactive VR experience, either as an individual or as a team. Prototype it using sponsored headsets \([Oculus Go](https://www.oculus.com/go)\) from [Immersivt](https://www.immersivt.se/).
 
 ### AR
 
-Build 1 \(or more\) interactive AR experience, either as an individual or as a team. Design your own marker and hack your surroundings by putting it up wherever you see fit, or build a system that allows for others to create their own.
+Build 1 interactive AR experience, either as an individual or as a team. Design your own marker and hack your surroundings by putting it up wherever you see fit, or build a system that allows for others to create their own.
 
-**Markers and QR code designs must be shared latest Monday 1st of June to be included in print.**
+**Markers and QR code designs must be shared latest Tuesday 2nd of June to be included in print.**
 
 ### Optional
 
