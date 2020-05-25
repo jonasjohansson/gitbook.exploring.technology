@@ -17,7 +17,7 @@ To tile our texture, we can use the `repeat` attribute. `repeat` takes two numbe
 We can add a background with `<a-sky>` that surrounds the scene, and provide a color or set a texture.
 
 ```markup
-<a-sky color="#CCC"></a-sky>
+<a-sky color="pink"></a-sky>
 ```
 
 360 panoramic images can be found at [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page):
@@ -31,7 +31,7 @@ We can add a background with `<a-sky>` that surrounds the scene, and provide a c
 
 ### Ground
 
-To add a ground, we can use `<a-plane>`. By default, planes are oriented parallel to the XY axis. To make it parallel to the ground, we need to orient it along the XZ axis. We can do so by rotating the plane negative 90° on the X-axis. 
+To ground, we can use `<a-plane>`. By default, planes are oriented parallel to the XY axis. To make it parallel to the ground, we need to orient it along the XZ axis. We can do so by rotating the plane negative 90° on the X-axis. 
 
 ```markup
 <a-plane rotation="-90 0 0" color="gray" width="30" height="30" ></a-plane>

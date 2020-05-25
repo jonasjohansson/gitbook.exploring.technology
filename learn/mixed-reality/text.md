@@ -1,10 +1,10 @@
 # 7. Text
 
 {% hint style="info" %}
-Use the [A-Frame Troika Text](https://github.com/lojjic/aframe-troika-text) component for a more effective process.
+Use the [A-Frame Troika Text](https://github.com/lojjic/aframe-troika-text) for a more effective process.
 {% endhint %}
 
-Rendering text in 3D is not trivial, but the `<a-text>` component does make things breezy!
+Rendering text in 3D is not trivial, but the `<a-text>` component make things breezy.
 
 ```markup
 <a-text value="AaBb"
@@ -38,8 +38,6 @@ In situations where you require a background color to make the text legible, add
 
 ### Changing font
 
-![](../../.gitbook/assets/download.jpeg)
-
 Here's where it gets a bit tricky as you can't include non-standard fonts like you would with stylesheets. [A-Frame provides alternatives](https://aframe.io/docs/0.9.0/components/text.html#stock-fonts) but if you want to use your own, here's what you do.
 
 1. Find a font that you like, for example [Underdog](https://fonts.google.com/?category=Display&selection.family=Underdog).
@@ -53,8 +51,8 @@ As you unarchive the font you will see it is now split into a JSON and a PNG fil
 
 ```markup
 <a-text value="CcDd"
-        font="Underdog-Regular-msdf.json"
-        font-image="https://cdn.glitch.com/c9111e7d-1d31-41a0-8e15-78b57caa9816%2FUnderdog-msdf.png?v=1570442732551"
+        font="YOUR_JSON"
+        font-image="YOUR_PNG"
         color="orange"
         align="center"
         negate="false">
@@ -63,7 +61,7 @@ As you unarchive the font you will see it is now split into a JSON and a PNG fil
 
 ### Text geometry
 
-You may have noticed that the previous example appears flat and lacks 3d geometry. Luckily, the [A-Frame Text Geometry Component](https://www.npmjs.com/package/aframe-text-geometry-component) can remedy this situation along with the [Facetype font converter](http://gero3.github.io/facetype.js/) \(follow the same steps as above but using this site instead\). 
+You may have noticed that the previous example lack 3d geometry. Luckily, the [A-Frame Text Geometry Component](https://www.npmjs.com/package/aframe-text-geometry-component) can remedy this situation along with the [Facetype font converter](http://gero3.github.io/facetype.js/) \(follow the same steps as above but using this site instead\). 
 
 ```markup
 <script src="https://unpkg.com/aframe-text-geometry-component@^0.5.0/dist/aframe-text-geometry-component.min.js"></script> 
@@ -73,7 +71,7 @@ Create an entity using the new component and reference the new JSON type file, n
 
 ```markup
 <a-entity
-    text-geometry="value: EeFf; font: Underdog-Regular-msdf.json;"
+    text-geometry="value: EeFf; font: YOUR_JSON;"
     material="color: orange">
 </a-entity>
 ```
