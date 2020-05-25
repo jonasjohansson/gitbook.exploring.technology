@@ -6,10 +6,8 @@ In order to have models in your scene there are two scripts that need to be incl
 
 ```markup
 <script src="https://raw.githack.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
-<script src="https://unpkg.com/three@0.95.0/examples/js/libs/inflate.min.js"></script>
+<script src="https://unpkg.com/three@latest/examples/js/libs/inflate.min.js"></script>
 ```
-
-## Formats
 
 ### OBJ
 
