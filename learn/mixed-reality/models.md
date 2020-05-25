@@ -20,6 +20,10 @@ Build you own model using or download from an online repository. Then use the [O
 
 ### Formats
 
+{% hint style="info" %}
+If you are using Blender, export as GLTF!
+{% endhint %}
+
 {% tabs %}
 {% tab title="OBJ" %}
 This file is commonly used and straightforward. Check out the [a-obj-model documentation](https://github.com/aframevr/aframe/blob/master/docs/components/obj-model.md) for more information! 
