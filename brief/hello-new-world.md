@@ -10,13 +10,13 @@ The are several initiatives addressing the need for better communication and col
 
 ## Challenge
 
-Virtual and Augmented Reality has recently reached the mobile browser, and both allow us to re-imagine our immediate environment. Your challenge is to build a VR or AR experience that spark curiosity, creativity and interaction.  Find your area of interest and have someone/something specific in mind.
+Virtual and Augmented Reality has reached the mobile browser, and both allow us to re-imagine our immediate environment. Your challenge is to build a VR or AR experience that spark curiosity, creativity and interaction.  Find your area of interest and have someone/something specific in mind.
 
 Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b3d#.fcx0aw7el)
 
 ### VR
 
-Build 1 interactive VR experience, either as an individual or as a team. Prototype it using sponsored headsets \([Oculus Go](https://www.oculus.com/go)\) from [Immersivt](https://www.immersivt.se/).
+Build 1 interactive VR experience, either as an individual or as a team.
 
 ### AR
 
