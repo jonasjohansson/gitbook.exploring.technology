@@ -6,8 +6,10 @@ In order to have models in your scene there are two scripts that need to be incl
 
 ```markup
 <script src="https://raw.githack.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
-<script src="https://unpkg.com/three@latest/examples/js/libs/inflate.min.js"></script>
+<script src="https://unpkg.com/three@0.95.0/examples/js/libs/inflate.min.js"></script>
 ```
+
+## Formats
 
 ### OBJ
 
@@ -40,13 +42,18 @@ It is possible to export complete scenes and use them in A-Frame, however, all o
 
 ### GLTF
 
-Short for GL Transmission Format, GLTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\).
+Short for GL Transmission Format, glTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\).
 
 ```markup
 <a-gltf-model src="https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb">
 ```
 
-#### GLTF to GLB
+* [https://developers.facebook.com/docs/sharing/3d-posts/glb-tutorials](https://developers.facebook.com/docs/sharing/3d-posts/glb-tutorials)
+* [https://blackthread.io/gltf-converter/](https://blackthread.io/gltf-converter/)
+* [https://labs.maxon.net/?p=3360](https://labs.maxon.net/?p=3360)
+* [https://github.com/facebookincubator/FBX2glTF](https://github.com/facebookincubator/FBX2glTF)
 
-Sometimes GLTF comes with a BIN file and a folder of textures. Use this [GLTF to GLB Packer](https://glb-packer.glitch.me/) \([alternative](https://products.aspose.app/3d/conversion/gltf-to-glb)\) to bundle them all into one file, and then reference this instead.
+{% hint style="info" %}
+Cinema4d has a plugin enabling glTF export: [https://labs.maxon.net/?p=3360](https://labs.maxon.net/?p=3360)
+{% endhint %}
 
