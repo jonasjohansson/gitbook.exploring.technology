@@ -104,7 +104,7 @@ Things to ask yourselves as you get going:
 * Talk about practicalities: How/when will you connect? \(checkins-outs, etc\) 
 * Have a Learning Group Leader? \(if so, what do you need from that role?\)
 
-Consider filling out the [Remote Work Canvas](https://docs.google.com/presentation/d/1h6NfQ07xdu9tq-129YNphhQGCKz371HJTLb4vWCcifY/edit#slide=id.g816f5ffe36_1_213).
+Consider filling out the [Remote Work Canvas](https://docs.google.com/presentation/d/1h6NfQ07xdu9tq-129YNphhQGCKz371HJTLb4vWCcifY/edit#slide=id.g816f5ffe36_1_213) and read [The Five Levels of Remote Work](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c).
 
 ### Class representatives
 
