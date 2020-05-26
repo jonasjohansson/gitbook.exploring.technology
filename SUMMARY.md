@@ -58,7 +58,7 @@
     * [13. Interaction](learn/p5/interaction.md)
     * [14. Audio](learn/p5/sound.md)
     * [🥇 Hommage](learn/p5/hommage.md)
-    * [👣 Next steps](learn/p5/next-steps.md)
+    * [🔗 Links](learn/p5/links.md)
   * [Laser Cutting](learn/laser-cutting/README.md)
     * [Basics](learn/laser-cutting/getting-started.md)
     * [Advanced](learn/laser-cutting/advanced.md)
