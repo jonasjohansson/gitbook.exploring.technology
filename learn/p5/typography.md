@@ -1,4 +1,4 @@
-# 🥈 Type
+# 🌼 Type
 
 Create a letter \(choose from EXPLORING CODE\) using **previous steps** in combination with **lines and curves**, **animation** and **randomness**.
 
