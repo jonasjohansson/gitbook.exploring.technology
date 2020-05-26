@@ -174,6 +174,7 @@
     * [8. Visualizing interaction](guides/creating-sound-and-music-with-tone.js/visualizing-interaction.md)
     * [🕹 DIY Music Machine](guides/creating-sound-and-music-with-tone.js/task-create-your-own-music-machine.md)
 * [Tips & Trix](tips-trix/README.md)
-  * [Streaming](tips-trix/streaming.md)
+  * [Streaming](tips-trix/streaming/README.md)
+    * [Zoom](tips-trix/streaming/zoom.md)
 * [Links](links.md)
 

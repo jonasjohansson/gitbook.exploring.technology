@@ -2,7 +2,7 @@
 
 Setting up a stream can be a daunting task if never done before, both on the software and hardware side. Let's look at the services available, and some hardware and software!
 
-### Services
+## Services
 
 | Name | Video conference | Live stream |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ Zoom, Meet & Jitsi work well for conference calls and online lectures where vide
 If you need to stream content that is NSFW or may contain licensed materials, check out [Dlive](https://dlive.tv/).
 {% endhint %}
 
-### Hardware
+## Hardware
 
 | Name | Category |
 | :--- | :--- |
@@ -40,7 +40,7 @@ If you need to stream content that is NSFW or may contain licensed materials, ch
 
 The capture card is used for when connecting external video sources \(eg. a DSLR camera\) to the computer.
 
-### Software
+## Software
 
 For when you want to have full control of the stream input and output, use [OBS Studio](https://obsproject.com/), as it will elevate the experience for both host and audience. For a great default setup, do the following:
 
@@ -56,7 +56,7 @@ Test switching between the two scenes using the hotkey. If this does not work, i
 Pay attention to the amount if audio inputs, there should preferably be only one, otherwise a feedback loop can occur.
 {% endhint %}
 
-![](../.gitbook/assets/obs-studio%20%281%29.png)
+![](../../.gitbook/assets/obs-studio%20%281%29.png)
 
 Before pressing Start Streaming and Start Recording, in **Settings &gt; Stream** set Service and fill out the Stream Key. If you are using Twitch, this can be found in the [Twitch user account](https://www.twitch.tv/settings/profile) under Channel and Videos.
 
@@ -64,7 +64,7 @@ Before pressing Start Streaming and Start Recording, in **Settings &gt; Stream**
 Remember to test the stream having someone else visit and verify that sound and video behaves accordingly. It is possible to tweak video and audio output settings in OBS Studio.
 {% endhint %}
 
-### Experimental
+## Experimental
 
 | Name |
 | :--- |
