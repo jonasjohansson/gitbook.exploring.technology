@@ -96,7 +96,7 @@
         * [Magic door](learn/mixed-reality/ar/examples/magic-door.md)
         * [Ash Tree](learn/mixed-reality/ar/examples/ash-tree.md)
     * [Model Viewer](learn/mixed-reality/model-viewer.md)
-    * [👣 Next steps](learn/mixed-reality/next-steps.md)
+    * [🔗 Links](learn/mixed-reality/links.md)
   * [Projectors](learn/projectors/README.md)
     * [Technology](learn/projectors/technology.md)
     * [Techniques](learn/projectors/techniques.md)
