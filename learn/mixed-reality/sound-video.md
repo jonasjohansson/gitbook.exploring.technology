@@ -1,4 +1,4 @@
-# 6. Sound and Video
+# 7. Sound and Video
 
 Attaching external media can have a great impact, especially when using audio. To avoid having the media play when loaded \(which is often the case with large media files\) use the built-in asset manager It will create a [loading screen](https://github.com/aframevr/aframe/blob/master/docs/components/loading-screen.md) that comes with some default styling which can be changed.
 
