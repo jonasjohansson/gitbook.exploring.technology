@@ -52,6 +52,7 @@ Build 1 interactive AR experience, either as an individual or as a team. Design 
 
 * [https://immersive-web.github.io/webxr-samples/immersive-ar-session.html](https://immersive-web.github.io/webxr-samples/immersive-ar-session.html)
 * [https://liebermannkiepereddemann.de/](https://liebermannkiepereddemann.de/)
+* [https://janemcgonigal.com/learn-me/](https://janemcgonigal.com/learn-me/)[https://www.ted.com/talks/jane\_mcgonigal\_gaming\_can\_make\_a\_better\_world?language=en](https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en)
 * [https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97](https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97)
 * [https://github.com/immersive-web/anchors/blob/master/explainer.md](https://github.com/immersive-web/anchors/blob/master/explainer.md)
 * [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)

@@ -91,7 +91,9 @@
       </td>
     </tr>
   </tbody>
-</table>### Point of Departure
+</table>
+
+### Point of Departure
 
 Things to ask yourselves as you get going:
 
@@ -135,3 +137,4 @@ Besides being the unsung heroes, the representatives assist in the structure and
     </tr>
   </tbody>
 </table>
+
