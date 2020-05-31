@@ -2,7 +2,7 @@
 
 ### Get a book
 
-* [Nature of Code](https://www.amazon.com/gp/product/0985930802/)
+* [Nature of Code](https://www.amazon.com/gp/product/0985930802/) \([Kadenze](https://www.kadenze.com/partners/processing-foundation)\)
 * [Generative Gestaltung](https://www.amazon.com/gp/product/1616897589/)
 * [Getting started with p5](http://shop.oreilly.com/product/0636920032076.do)
 * [Form + Code reading list](http://formandcode.com/bibliography)
@@ -62,6 +62,11 @@
 * [https://dam-gallery.de/](https://dam-gallery.de/)
 * [http://audiograph.xyz/](http://audiograph.xyz/)
 * [https://sfpc.io/faq/](https://sfpc.io/faq/)
+
+### Random
+
+* [https://www.youtube.com/watch?v=LaarVR1AOvs](https://www.youtube.com/watch?v=LaarVR1AOvs)
+* [https://artnowcoding.com/](https://artnowcoding.com/)
 
 
 
