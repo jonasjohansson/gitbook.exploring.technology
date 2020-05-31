@@ -20,6 +20,10 @@ Browser based world building and mixed reality. Participants learn the basics of
 
 → [Create an account on Glitch](https://start.exploring.technology/tools/glitch)
 
+### [Bitsy Game Development](https://www.exploring.technology/learn/bitsy)
+
+Build your own interactive narratives using Bitsy, the small emulator for small worlds! It's all HTML and can be hacked with some very fun Javascript-snippets.
+
 ## Bonus ✨
 
 These are optional sprint workshops for those who are curious to learn special topics.
