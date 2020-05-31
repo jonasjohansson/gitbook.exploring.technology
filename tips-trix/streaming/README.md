@@ -9,6 +9,7 @@ Setting up a stream can be a daunting task if never done before, both on the sof
 | [Zoom](https://zoom.us/) | Yes | No |
 | [Meet](https://meet.google.com/?authuser=1) | Yes | No |
 | [Jitsi](https://jitsi.org/) | Yes | No |
+| [Whereby](http://whereby.com/) | Yes | No |
 | [Twitch](https://www.twitch.tv/) | No | Yes |
 | Instagram Live | No  | Yes |
 | [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) | No | Yes |
