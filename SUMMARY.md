@@ -66,6 +66,7 @@
     * [Machines](learn/laser-cutting/machines.md)
     * [Materials](learn/laser-cutting/materials.md)
     * [🏆 Challenges](learn/laser-cutting/puzzle-challenge.md)
+  * [Lighting](learn/lighting.md)
   * [Machine Learning \(ml5\)](learn/machine-learning/README.md)
     * [Teachable Machine](learn/machine-learning/teachable-machine/README.md)
       * [Image Classification](learn/machine-learning/teachable-machine/video-classification.md)
@@ -119,7 +120,7 @@
       * [Timeline](learn/resolume/advanced/timeline.md)
       * [Projection mapping](learn/resolume/advanced/projection-mapping.md)
       * [Syphon Recorder](learn/resolume/advanced/syphon-recorder.md)
-  * [Spark](learn/spark/README.md)
+  * [Spark AR](learn/spark/README.md)
     * [Face Mask](learn/spark/face-mask.md)
     * [Face Decoration](learn/spark/face-decoration.md)
     * [Tracking](learn/spark/target-tracker.md)
@@ -176,5 +177,4 @@
 * [Tips & Trix](tips-trix/README.md)
   * [Streaming](tips-trix/streaming/README.md)
     * [Zoom](tips-trix/streaming/zoom.md)
-* [Links](links.md)
 

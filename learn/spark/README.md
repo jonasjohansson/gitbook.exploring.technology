@@ -2,7 +2,7 @@
 description: Written by Jonas Johansson
 ---
 
-# Spark
+# Spark AR
 
 Create Augmented Reality experiences for Instagram and Facebook. 
 
