@@ -48,8 +48,3 @@ Learn how to your web development knowledge to build desktop apps using Use Node
 
 → [Create an account on Itch](https://itch.io/)
 
-### Suggestions
-
-* Variable Type
-* WebSockets
-
