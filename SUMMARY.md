@@ -154,6 +154,7 @@
   * [Glitch](guides/glitch.md)
   * [Mio](guides/mio/README.md)
     * [Changelog](guides/mio/changelog.md)
+  * [TouchOSC](guides/touchosc.md)
   * [Pepakura](guides/pepakura.md)
   * [Mozilla Hubs](guides/mozilla-hubs.md)
   * [SuperCollider](guides/supercollider.md)
