@@ -67,10 +67,11 @@ Remember to test the stream having someone else visit and verify that sound and 
 
 ## Experimental
 
-| Name |
-| :--- |
-| [VR Chat](https://vrchat.com/) |
-| [Mozilla Hubs](https://hubs.mozilla.com/) |
-| [The Online Town](https://theonline.town/) |
-| [Topia](https://immersiverse.hellotopia.io/) |
+| Name | Type |
+| :--- | :--- |
+| [VR Chat](https://vrchat.com/) | 3D Audio/Video |
+| [Mozilla Hubs](https://hubs.mozilla.com/) | 3D Audio/Video |
+| [The Online Town](https://theonline.town/) | 2D Audio/Video |
+| [Topia](https://immersiverse.hellotopia.io/) | 2D Audio/Video |
+| [High Fidelity](https://www.highfidelity.com/) | 3D Audio |
 
