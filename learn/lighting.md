@@ -6,5 +6,7 @@
 
 {% embed url="https://www.goalzero.com/shop/last-chance-gear/goal-zero-yeti-400-portable-power-station/" %}
 
+{% embed url="https://www.pixelcontroller.com/store/index.php" %}
+
 
 
