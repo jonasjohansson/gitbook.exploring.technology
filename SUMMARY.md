@@ -163,6 +163,7 @@
   * [DIY Pixelstick](guides/diy-pixelstick.md)
   * [Enhanced radical knitting](guides/enhanced-radical-knitting.md)
   * [Browser Point Clouds](guides/browser-point-clouds.md)
+  * [Record Audio](guides/record-audio.md)
   * [Creating sound and music with Tone.js](guides/creating-sound-and-music-with-tone.js/README.md)
     * [1. The Audio Tag](guides/creating-sound-and-music-with-tone.js/the-audio-tag.md)
     * [2. Tone.js](guides/creating-sound-and-music-with-tone.js/tone-js.md)
