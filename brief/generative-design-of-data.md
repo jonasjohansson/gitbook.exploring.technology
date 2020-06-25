@@ -38,9 +38,9 @@ It can not be a recording, and it should be accessible in the browser ie. runnin
 
 ### Workshops & Talks
 
-* [Generative Design](../info/workshops.md#generative-design) with [Jonas Johansson](../info/talks.md#jonas-johansson-industry-leader)
-* [Generative Audio](../info/workshops.md#generative-audio) with [Alexander Wallin](../info/talks.md#alexander-wallin)
-* [Tim Rodenbroeker](../info/talks.md#tim-rodenbroeker)
+* [Generative Design](../info/workshops.md#generative-design) with [Jonas Johansson](../info/team.md#jonas-johansson-industry-leader)
+* [Generative Audio](../info/workshops.md#generative-audio) with [Alexander Wallin](../info/team.md#alexander-wallin)
+* [Tim Rodenbroeker](../info/team.md#tim-rodenbroeker)
 
 ### Inspiration
 
