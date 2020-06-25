@@ -1,5 +1,5 @@
 ---
-description: 'Week 20-24, May 11 — June 12'
+description: 'Week 48-51, Nov 23 — Dec 18'
 ---
 
 # Introduction
