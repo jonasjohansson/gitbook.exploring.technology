@@ -1,0 +1,79 @@
+---
+description: Week 22-23
+---
+
+# 🥇 Hello New World
+
+Quarantined we are undergoing change, and what will come after is uncertain. Will we be more or less open-minded, will we change the way we travel and behave? What is certain is that we are adapting to a new normal and there is a need for innovative ideas for all parts of society.
+
+The are several initiatives addressing the need for better communication and collaboration such as the open call from [Culture of Solidarity](https://www.culturalfoundation.eu/culture-of-solidarity) and [Vinnova](https://www.vinnova.se/)'s request for [innovation](https://www.vinnova.se/e/innovationer-i-krisens-spar/2020).
+
+## Challenge
+
+Virtual and Augmented Reality has reached the mobile browser, and both allow us to re-imagine our immediate environment. Your challenge is to build a VR or AR experience that spark curiosity, creativity and interaction.  Find your area of interest and have someone/something specific in mind.
+
+Remember, [don't think big!](https://blog.prototypr.io/dont-think-big-5ca8e7dd8b3d#.fcx0aw7el)
+
+### VR
+
+Build 1 interactive VR experience, either as an individual or as a team.
+
+### AR
+
+Build 1 interactive AR experience, either as an individual or as a team. Design your own marker and hack your surroundings by putting it up wherever you see fit, or build a system that allows for others to create their own.
+
+**Markers and QR code designs must be shared latest Tuesday 2nd of June to be included in print.**
+
+### Optional
+
+| Challenge | Description |
+| :--- | :--- |
+| ⏰ | Make a game with states and mechanics \(levels, score, timer etc.\) |
+| 🤼 | Make it multiplayer/user \(sockets\) |
+| 🕹️ | Add multiple types of inputs |
+| 💾 | Use an API to drive the experience |
+
+## Links
+
+### Workshops & Talks
+
+* [A-Frame XR](https://www.exploring.technology/learn/aframe) with[ Jonas Johansson](../info/talks.md#jonas-johansson-industry-leader)
+* [Owen Hindley](../info/talks.md#owen-hindley)
+* [Katarina Ljungdahl](../info/talks.md#katarina-ljungdahl)
+* [Peder Fjällström](../info/talks.md#peder-fjaellstroem)
+
+### Inspiration
+
+* [The VICE guide to 2030](http://2030.vice.com/)
+* [SideQuest VR](https://sidequestvr.com/webvr)
+* [Ontologies of the Virtual](https://www.e-flux.com/architecture/are-friends-electric/289162/ontologies-of-the-virtual/) \("Art is always an augmented reality, drawing on it while also pushing it in some other unforeseen direction"\)
+
+### Other
+
+* [https://immersive-web.github.io/webxr-samples/immersive-ar-session.html](https://immersive-web.github.io/webxr-samples/immersive-ar-session.html)
+* [https://liebermannkiepereddemann.de/](https://liebermannkiepereddemann.de/)
+* [https://janemcgonigal.com/learn-me/](https://janemcgonigal.com/learn-me/)[https://www.ted.com/talks/jane\_mcgonigal\_gaming\_can\_make\_a\_better\_world?language=en](https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en)
+* [https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97](https://medium.com/@imseansullivan/creating-a-vr-audio-visual-experience-on-the-web-with-a-frame-and-tone-js-3800ed305a97)
+* [https://github.com/immersive-web/anchors/blob/master/explainer.md](https://github.com/immersive-web/anchors/blob/master/explainer.md)
+* [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
+* [https://webglfundamentals.org/](https://webglfundamentals.org/)
+* [https://chickenwaffle.com/](https://chickenwaffle.com/)
+* [https://www.youtube.com/watch?v=2NMO6uBAW18&fbclid=IwAR0T\_GRuxwP5bmeeWAklJNuWtTiKVTKDDPOk-s1OsOjkSl\_ZersBh24zu7I](https://www.youtube.com/watch?v=2NMO6uBAW18&fbclid=IwAR0T_GRuxwP5bmeeWAklJNuWtTiKVTKDDPOk-s1OsOjkSl_ZersBh24zu7I)
+* [https://supermedium.com/](https://supermedium.com/)
+* [https://jeeliz.com/blog/augmented-reality/](https://jeeliz.com/blog/augmented-reality/)
+* [https://sketchar.tech/](https://sketchar.tech/)
+* [https://www.youtube.com/watch?v=zZpowQlrNt8](https://www.youtube.com/watch?v=zZpowQlrNt8)
+* [https://realestatequarantour.com/](https://realestatequarantour.com/)
+* [https://www.youtube.com/watch?v=R2Tx0ZUw8DA](https://www.youtube.com/watch?v=R2Tx0ZUw8DA)
+* [https://www.operan.se/media/video/vr-inspelning-av-half-life-pa-operan/](https://www.operan.se/media/video/vr-inspelning-av-half-life-pa-operan/)
+* [https://www.media.mit.edu/projects/tidmarsh-living-observatory-portal/overview/](https://www.media.mit.edu/projects/tidmarsh-living-observatory-portal/overview/)
+* [https://www.media.mit.edu/projects/doppelmarsh-cross-reality-environmental-sensor-data-browser/overview/](https://www.media.mit.edu/projects/doppelmarsh-cross-reality-environmental-sensor-data-browser/overview/)
+* [https://www.instagram.com/nerifuture/](https://www.instagram.com/nerifuture/)
+* [https://www.dezeen.com/2020/05/14/olafur-eliasson-augmented-reality-wunderkammer/](https://www.dezeen.com/2020/05/14/olafur-eliasson-augmented-reality-wunderkammer/)
+* [https://vrchat.com/](https://vrchat.com/)
+* [https://hubs.mozilla.com/](https://hubs.mozilla.com/)
+* [https://www.vrham.de/](https://www.vrham.de/)
+* [https://www.kaleidoscope.fund/](https://www.kaleidoscope.fund/)
+* [https://vrfilmreview.ru/vr-film-festivals-2020-e809a6a3d633](https://vrfilmreview.ru/vr-film-festivals-2020-e809a6a3d633)
+* [https://futureofstorytelling.org/video/alex-mcdowell-world-building](https://futureofstorytelling.org/video/alex-mcdowell-world-building)
+

@@ -1,33 +1,32 @@
-# 👋 Hello
+---
+description: 'Week 20-24, May 11 — June 12'
+---
 
-Welcome to a wishful remedy to the increasing knowledge gap between those who build machines, and those who use them. A repository of complementary learning materials for software, hardware and code, open to everyone.
+# Introduction
 
-## Streaming workshops during COVID-19
+_The students will get to create outside the norm and challenge the way interfaces are built. Art, music, virtual reality experiences - the possibilities are endless. Hands-on creation, testing the limits and insights of the creative process._
 
-In April we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from Friday April 3 to Friday April 17 at mid-day CET GMT+2. More information in the [Facebook event](https://www.facebook.com/events/524433344931172/).
+Technology is the new religion and we are its followers. We willingly build algorithms that conform, and design interfaces that offer little resistance. Instead of _surfing the web_, we swipe aimlessly. **Success!** We have turned the Internet into [Pleasantville](https://www.youtube.com/watch?v=v9EHRObUQqY), and we are its numb inhabitants, slaves to the screen.
 
-{% embed url="https://www.youtube.com/playlist?list=PLUDp\_pSeLkVSih5Ftqll9MTzgZ3IL5URq" %}
+But has technology brought us closer or further apart? Does an email cost the environment less than a letter? Can "Dark Mode" be seen as innovation? Let's do better. **This is our environment**. We are not just the inhabitants, we are also the architects, the creatives, the entrepreneurs and the builders!
 
-## Workshops
+During four weeks, students at Hyper Island will explore [creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding) and bridge the gap between screen and present. The project will be split into two separate two-week assignments: [Generative Design of Data](brief/generative-design-of-data.md) and [Hello New World](brief/hello-new-world.md). Assignments are done individually, but within [Learning Groups](info/learning-groups.md) where it is possible to team up \(but not mandatory\).
 
-| Date | Topic | Host |
-| :--- | :--- | :--- |
-| 0403 | [Generative Design](learn/p5/generative-design.md) | [Jonas Johansson](https://jonasjohansson.se/) |
-| 0406 | Intro to TouchDesigner | [Mickey van Olst](https://mickeyvanolst.com/) |
-| 0407 | Browser AR using [A-Frame](learn/aframe/) and AR.js | Jonas Johansson |
-| 0408 | Algorithmic sounds in [SuperCollider](learn/supercollider.md) | [Daniel M. Karlsson](https://www.danielmkarlsson.com/) |
-| 0409 | [Point clouds](learn/touchdesigner/point-clouds/) in TouchDesigner and MetaShape | Mickey van Olst |
-| 0410 | Machine Learning with [Runway](learn/runway.md) | [Andreas Refsgaard](https://andreasrefsgaard.dk/) |
-| 0411 | Live coding networked visuals in Hydra | [Annie Tådne](https://tadne.se/) |
-| 0413 | GLSL and Advanced TOP in TouchDesigner | [Anton Heestand](http://hexagons.net/) |
-| 0414 | [Enhanced radical knitting using JavaScript and the Terminal](guides/enhanced-radical-knitting.md) | [Alexander Wallin](https://www.alexanderwallin.com/) |
-| 0415 | Sketch and share Chiptune music with [Beepbox](learn/beepbox/) | [Francesco Torelli](http://www.francescotorelli.it/) |
-| 0416 | Painting by numbers: An intro to shaders | Christian Kokott |
-| 0417 | Interactive visuals in the browser with [Cables.gl](https://cables.gl/) | [Mark Smith](https://undev.studio/) |
+{% hint style="warning" %}
+This project follows the [P5 code of conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)!
+{% endhint %}
 
-![Generative Design with Jonas Johansson](.gitbook/assets/92226066_855689188257013_2238644904383217664_o.jpg)
+_The work from the first challenge can be continued and developed under the umbrella of the second challenge._
 
-![Introduction to TouchDesigner with Mickey van Olst](.gitbook/assets/92564229_10158476225529459_7639208482557657088_o.jpg)
+## On a personal note…
 
-![Video synthesis in Hydra with Annie T&#xE5;dne](.gitbook/assets/hydra-workshop.png)
+I truly believe code can bring huge positive impact to ourselves, to our communities, to the world. At the same time, I simply enjoy the "act of coding", and spend plenty of time working on things that only matter to me. 
+
+I like solving problems. I love riddles. I like movies that offer suspense and twists.
+
+I also believe in community and teams, but at the same time, I am a very much a lone ranger, a soloist. I like other peoples company, but I prefer to be by myself. Now, I know that it's not always the most beneficial to my mental state, and it's definitely not always accelerating my learning, but at the same time, it allows me the time I need to move consciously through life.
+
+This project is designed for you, and I will be here as rock-solid support whenever needed. I am extremely present when I teach, and due to the circumstances, I will try to be so even more - even though remotely. I will do my best to share information and record sessions, so that you may also digest the information in your own space and time.
+
+Finally, communicate your needs, give this your best, and expect that I will do the same.
 
