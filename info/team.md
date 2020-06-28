@@ -28,6 +28,10 @@ Explorer of alternative worlds, wether that is within the confines of augmented 
 
 Artist and creative coder based in Copenhagen. Uses algorithms and machine learning to allows people to play music using only eye movement and facial gestures, control games by making silly sounds or transform drawings of musical instruments on paper into real compositions. Copenhagen Institute of Interaction Design alumni. Contributor to [Machine Learning for Artists](https://ml4a.github.io/).
 
+### [Half Scheidl](https://hscheidl.com/)
+
+Digital artist who combines code and technology to create illustrations, animations and interactive installations. Grew up in Brazil, lived in Finland for 8 years and a Swede since 2017. He is the organiser of the Creative Coding Stockholm Meetup group and a big fan of Processing.
+
 ### [Linnéa Östedt Harrison](https://www.linkedin.com/in/linnea-harrison-4323552b/)
 
 Linnea began playing games during the ’90s, and through a passion for creating experiences, she discovered that she also had a passion for making games. After shipping games in the Call of Duty, Battlefield, Star Wars and Mirror’s Edge franchises, Linnea now works as Creative Director at the VR studio Neat Corporation.
