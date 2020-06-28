@@ -43,6 +43,7 @@ Bitsy is nurturing creatives of all types and sizes, and spreading the joy game-
 | [Silence would be better](https://cephalopodunk.itch.io/silence-would-be-better) | [Cephalopodunk](https://cephalopodunk.itch.io/) |
 | [tsfetsciyrithsamwys](https://cephalopodunk.itch.io/tsfetsciyrithsamwys) | [Cephalopodunk](https://cephalopodunk.itch.io/) |
 | [I Wonder](https://seansleblanc.itch.io/i-wonder) | [Sean Leblanc](https://seansleblanc.itch.io/) |
+| [Hopefully Good Reads](https://seansleblanc.itch.io/hopefully-good-reads) | [Sean Leblanc](https://seansleblanc.itch.io/) |
 | [Third Crypt](https://jctwood.itch.io/thirdcrypt) | [Jctwood](https://jctwood.itch.io/) |
 | [Penroses](https://rarelikeaunicorn.itch.io/penroses) | [Rare like a unicorn](https://rarelikeaunicorn.itch.io/) |
 | [No Destination](https://candle.itch.io/no-destination) | [Marc Wonnacott](https://candle.itch.io/) |
