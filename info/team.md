@@ -14,15 +14,11 @@ Berlin-based artist, designer and programmer.  Dabbles in between kinetic art in
 
 ![](../.gitbook/assets/mickey-trim.jpg)
 
-## Lecturers \(TBD\)
+## Lecturers
 
 ### [Maria Euler Kling](http://mariaeuler.com/)
 
 An artists researcher living and loving the interdisciplinary. Alumni of the Royal College of Art in London with a Master in [Information Experience Design](https://www.rca.ac.uk/schools/school-of-communication/ied/), who also studied Physics and Fine Art. Builds tangible, transformative and joyful experiences based on complex scientific concepts, ideas and experiments from electromagnetic sculptures to virtual galleries of quantum teleported art pieces. Searching and finding meaningful experiences and inspiration in science fiction, games and in collaborations with researchers of various disciplines.
-
-### [Gunnlaugur Egilsson](https://www.instagram.com/gunnlaugr/)
-
-Explorer of alternative worlds, wether that is within the confines of augmented or virtual reality, digital design, escape games, devised theatre or choreography. Retired ballet & modern dancer born in Iceland that left the theatre scene for the digital one. Freelance front-end developer and digital designer and a Hyper alumni currently studying Virtual Reality development. Been playing roleplaying games since 1987 and computer games since Sinclair spectrum.
 
 ### [Andreas Refsgaard](https://andreasrefsgaard.dk/)
 
@@ -32,15 +28,13 @@ Artist and creative coder based in Copenhagen. Uses algorithms and machine learn
 
 Digital artist who combines code and technology to create illustrations, animations and interactive installations. Grew up in Brazil, lived in Finland for 8 years and a Swede since 2017. He is the organiser of the Creative Coding Stockholm Meetup group and a big fan of Processing.
 
-### [Linnéa Östedt Harrison](https://www.linkedin.com/in/linnea-harrison-4323552b/)
-
-Linnea began playing games during the ’90s, and through a passion for creating experiences, she discovered that she also had a passion for making games. After shipping games in the Call of Duty, Battlefield, Star Wars and Mirror’s Edge franchises, Linnea now works as Creative Director at the VR studio Neat Corporation.
-
 ## Assistant lecturers
 
 ### [Ana Shcherbakova](https://linkedin.com/in/ana-shcherbakova)
 
 An elfish \(kinda\) human being. Ana has come a long way from linguistics to web development. With several spoken languages in her mind, she turned to programming to continue her training, and is now trying to use her passion for design and code to become the best designer & developer possible!
+
+### Katarina Ljungdahl
 
 ## Collaborators
 

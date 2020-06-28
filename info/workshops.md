@@ -11,9 +11,9 @@ Workshops follow a simple **Learn → Build → Test** structure with theory and
 | Title | When | Participants | Hosted by |
 | :--- | :---: | :---: | :--- |
 | Generative Design | ? | ? | Mickey & Half |
-| Mixed Reality | ? | ? | Jonas |
+| Mixed Reality | ? | ? | Jonas & Kat |
 | Makey Makey | ? | ? | Mickey & Maria |
-| Machine Learning | ? | ? | Jonas |
+| Machine Learning | ? | ? | Jonas & Kat |
 | Laser Cutting | ? | ? | Duncan / Olle |
 
 ### \*\*\*\*[Generative Design](https://www.exploring.technology/learn/p5)
