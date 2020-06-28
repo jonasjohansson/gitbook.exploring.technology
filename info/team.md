@@ -32,6 +32,12 @@ Artist and creative coder based in Copenhagen. Uses algorithms and machine learn
 
 Linnea began playing games during the ’90s, and through a passion for creating experiences, she discovered that she also had a passion for making games. After shipping games in the Call of Duty, Battlefield, Star Wars and Mirror’s Edge franchises, Linnea now works as Creative Director at the VR studio Neat Corporation.
 
+## Assistant lecturers
+
+### [Ana Shcherbakova](https://linkedin.com/in/ana-shcherbakova)
+
+An elfish \(kinda\) human being. Ana has come a long way from linguistics to web development. With several spoken languages in her mind, she turned to programming to continue her training, and is now trying to use her passion for design and code to become the best designer & developer possible!
+
 ## Collaborators
 
 ### [Folk Lab](https://www.folklab.nu/)
