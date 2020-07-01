@@ -12,7 +12,7 @@ Inspired by [Philippe Dubost light painting](https://www.youtube.com/watch?v=Hau
 
 | Qty | Item |
 | :--- | :--- |
-| 1 | [Aluminum U Profile](https://www.xcen.se/aluprofil-uprofil-hog-alu) \([alt1](https://www.kjell.com/se/produkter/hem-kontor-fritid/belysning/led-lister/nextec/nextec-aluminiumprofil-utanpaliggande-for-led-lister-p36321), [alt2,](https://www.ebay.com/itm/1-10m-LED-Aluminium-Profil-Abdeckung-Clips-Endkappen-Alu-Schiene/231960996121) [alt3](https://www.led-tejp.se/aluprofil-uprofil-lag)\) |
+| 1 | [Aluminium U Profile](https://www.xcen.se/aluprofil-uprofil-hog-alu) \([alt1](https://www.kjell.com/se/produkter/hem-kontor-fritid/belysning/led-lister/nextec/nextec-aluminiumprofil-utanpaliggande-for-led-lister-p36321), [alt2,](https://www.ebay.com/itm/1-10m-LED-Aluminium-Profil-Abdeckung-Clips-Endkappen-Alu-Schiene/231960996121) [alt3](https://www.led-tejp.se/aluprofil-uprofil-lag)\) |
 | 1 | [NeoPixel 144 LED/m](https://www.adafruit.com/product/1506) |
 | 1 | [Teensy 3.6](https://www.pjrc.com/store/teensy36.html) \(or add [SD reader](https://www.adafruit.com/product/254) to an Arduino\) |
 | 1 | [2-Axis Joystick](https://www.adafruit.com/product/444) \(or 2 [buttons](https://www.adafruit.com/product/1119)\) |
@@ -65,7 +65,7 @@ For this project a custom version of the [pixelstick.ino](https://github.com/jon
 
 ### Capture the light!
 
-To see the light painting effect, either follow the TouchDesigner guide linked prior, or install a software like [Lightpaint Live](https://lightpaintlive.com/).
+To see the light painting effect, either follow the TouchDesigner guide linked prior, or install software like [Lightpaint Live](https://lightpaintlive.com/).
 
 If the lights shine too bright it is possible to set the total brightness of the strip by adding `strip.setBrightness(50);` in `setup` where 50 can be a value between 0-255.
 
