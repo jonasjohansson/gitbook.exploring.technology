@@ -2,7 +2,7 @@
 
 ### Study Online
 
-* [Learn A-Frame](https://www.codecademy.com/learn/learn-a-frame)
+* [Learn A-Frame](https://www.codecademy.com/learn/learn-a-frame) \(Code Academy\)
 
 ### References
 

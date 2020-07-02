@@ -16,5 +16,3 @@ Visit [Campfire VR](https://curious-electric.com/w/experiments/aframe/campfirevr
 
 ![Campfire VR by Markus Neuy and Dirk Krause](../../.gitbook/assets/campfirevr.gif)
 
-
-
