@@ -9,6 +9,6 @@
 
 ## Brief
 
-* [🥈 Short Project](brief/generative-design-of-data.md)
-* [🥇 Long Project](brief/hello-new-world.md)
+* [🥈 Game Companion](brief/generative-design-of-data.md)
+* [🥇 Stockholm: The Game](brief/hello-new-world.md)
 
