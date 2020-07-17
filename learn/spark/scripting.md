@@ -97,3 +97,28 @@ const P = require("Patches");var trackerFound = P.getBooleanValue("trackerFound"
 * ​[https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/scenemodule.targettracker/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/scenemodule.targettracker/)​
 * ​[https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/Rmodule.boolsignal/](https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/Rmodule.boolsignal/)​
 
+## [Camera](https://www.facebook.com/groups/289750598103656?view=permalink&id=826827894395921&comment_id=934684263610283&notif_t=group_comment&notif_id=1594802062459654&ref=m_notif)
+
+```javascript
+const CameraInfo = require('CameraInfo');
+const D = require('Diagnostics');
+CameraInfo.captureDevicePosition.monitor().subscribe( function(e) {
+D.log(e.newValue);
+//Your IF statement can go here.
+//if(e.newValue == "BACK") ... etc
+});
+
+//The real trick with reactive is to setup a monitor subscription, which will send a signal anytime that value changes - which means you can put code inside that monitor and fire it anytime the value changes (or if the value is something specific, like BACK)
+//Diagnostic logging is pretty key to scripting in Spark. If you log the camera module itself, it will explain how to use it:
+const CameraInfo = require('CameraInfo');
+const D = require('Diagnostics');
+D.log(CameraInfo);
+//Take those options, throw a monitor on them, run the code you need!
+```
+
+![](../../.gitbook/assets/86259579_10218641943433545_5484812162004156416_n.jpg)
+
+
+
+
+
