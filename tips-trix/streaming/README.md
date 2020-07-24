@@ -31,6 +31,7 @@ If you need to stream content that is NSFW or may contain licensed materials, ch
 | [Rode NT-USB](http://rode.com/microphones/nt-usb) | Microphone |
 | [Rode NT-USB Mini](http://rode.com/microphones/nt-usb_mini) | Microphone |
 | [Elgato Wave 3](https://www.elgato.com/en/wave-3) | Microphone |
+| [Audio Technica AT2020](https://www.audio-technica.com/cms/wired_mics/a0933a662b5ed0e2/index.html) | Microphone |
 | [Logitech C920](https://www.logitech.com/en-us/product/hd-pro-webcam-c920?crid=34) | Webcam |
 | [Logitech C930E](https://www.logitech.com/en-us/product/c930e-webcam) | Webcam |
 | [Logitech StreamCam](https://www.logitech.com/en-us/product/streamcam) | Webcam |
