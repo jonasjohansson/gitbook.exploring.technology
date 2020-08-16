@@ -2,6 +2,8 @@
 
 Welcome to a wishful remedy to the increasing knowledge gap between those who build machines, and those who use them. A repository of complementary learning materials for software, hardware and code, open to everyone.
 
+![Image from Onix Design](.gitbook/assets/et.jpg)
+
 ## Streaming workshops during COVID-19
 
 In 2020 we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechnology) from April 3-17. More information in the [Facebook event](https://www.facebook.com/events/524433344931172/). All videos can be viewed in the [Exploring Technology Live playlist](https://youtu.be/ZoaCwD4TLeI?list=PLUDp_pSeLkVSih5Ftqll9MTzgZ3IL5URq).
