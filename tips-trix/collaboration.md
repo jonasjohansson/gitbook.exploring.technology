@@ -1,6 +1,6 @@
 # Collaboration
 
-Working in teams remote is a fun and exciting challenge. There are several tools available.
+Working in teams remote is a fun and exciting challenge. There are several tools available, and it is encouraged to think of digital tools as something that changes. The sooner this fact is accepted, the easier it will be to think freely and make the right choice for the moment.
 
 ## Workspace
 
