@@ -2,7 +2,7 @@
 
 Working in teams remote is a fun and exciting challenge. There are several tools available.
 
-## Communication
+## Workspace
 
 <table>
   <thead>
@@ -21,13 +21,6 @@ Working in teams remote is a fun and exciting challenge. There are several tools
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="https://www.hylo.com/">Hylo</a>
-      </td>
-      <td style="text-align:left">No</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left"><a href="https://slack.com/">Slack</a> (<a href="https://slack.com/intl/en-se/pricing">pricing</a>)</td>
       <td
       style="text-align:left">Yes</td>
@@ -39,12 +32,22 @@ Working in teams remote is a fun and exciting challenge. There are several tools
       <td
       style="text-align:left">Yes</td>
         <td style="text-align:left">50</td>
-        <td style="text-align:left">50</td>
+        <td style="text-align:left">50o</td>
     </tr>
   </tbody>
 </table>
 
-## Workspace
+Both Slack and Discord are well worth checking out. Slack is the standard communication tool for several studios already, while Discord has a large following amongst gamers and younger audiences. However, both tools have got closer to each other. [Read this article on Discord vs Slack](https://www.chanty.com/blog/discord-vs-slack/) to learn about their similarities and differences.
+
+## Team
+
+| Name |
+| :--- |
+| [Hylo](https://www.hylo.com/) |
+| [Basecamp](https://basecamp.com/) |
+| [Monday](https://monday.com/) |
+
+## Creative
 
 | Name | Main feature |
 | :--- | :--- |
@@ -53,4 +56,8 @@ Working in teams remote is a fun and exciting challenge. There are several tools
 | [G Suite](https://gsuite.google.com/) | Collaborative office suite |
 | [Whimsical](https://whimsical.com/) | Visual interaction design |
 | [Miro](https://miro.com/) | Collaborative online whiteboard |
+
+## Creative
+
+
 
