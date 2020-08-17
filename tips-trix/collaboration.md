@@ -1,6 +1,6 @@
 # Collaboration
 
-Working in teams rem
+Working in teams remote is a fun and exciting challenge. There are several tools available.
 
 ## Workspace
 
