@@ -174,7 +174,6 @@
   * [DIY Pixelstick](guides/diy-pixelstick.md)
   * [Enhanced radical knitting](guides/enhanced-radical-knitting.md)
   * [Browser Point Clouds](guides/browser-point-clouds.md)
-* [Articles](articles.md)
 * [Tips & Trix](tips-trix/README.md)
   * [Collaboration](tips-trix/collaboration.md)
   * [Streaming](tips-trix/streaming/README.md)
