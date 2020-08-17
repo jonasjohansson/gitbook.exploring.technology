@@ -41,7 +41,7 @@ Both Slack and Discord are well worth checking out. Slack is the standard  tool 
 
 However, both tools have got closer to each other. [Read this article on Discord vs Slack](https://www.chanty.com/blog/discord-vs-slack/) to learn about their similarities and differences.
 
-## Team
+## Project Management
 
 | Name |
 | :--- |
@@ -53,13 +53,10 @@ However, both tools have got closer to each other. [Read this article on Discord
 
 | Name | Main feature |
 | :--- | :--- |
-| [Hylo](https://www.hylo.com/) | Social network |
 | [Notion](https://www.notion.so/) | All-in-one workspace |
 | [G Suite](https://gsuite.google.com/) | Collaborative office suite |
 | [Whimsical](https://whimsical.com/) | Visual interaction design |
 | [Miro](https://miro.com/) | Collaborative online whiteboard |
-
-## Creative
 
 
 
