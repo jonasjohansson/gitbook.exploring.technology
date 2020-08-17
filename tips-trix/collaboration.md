@@ -32,7 +32,7 @@ Working in teams remote is a fun and exciting challenge. There are several tools
       <td
       style="text-align:left">Yes</td>
         <td style="text-align:left">50</td>
-        <td style="text-align:left">50o</td>
+        <td style="text-align:left">50</td>
     </tr>
   </tbody>
 </table>
