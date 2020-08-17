@@ -18,6 +18,8 @@ Setting up a stream can be a daunting task if never done before, both on the sof
 
 Zoom, Meet & Jitsi work well for conference calls and online lectures where video quality and frame rate is not the focus, while the rest are better for streams where the audience can drop in and out of. Zoom can absolutely be used for live streams \(read [21 things we learned from hosting our first online party](https://tedcooke.blog/2020/04/13/21-things-we-learned-from-hosting-our-first-online-party/)\) but it it is obvious that it is made for co-creation rather than a traditional stream of content.
 
+In doubt, choose Zoom which has support for **private messaging**, **background extraction**, **breakout rooms** and **advanced sound control**.
+
 {% hint style="info" %}
 If you need to stream content that is NSFW or may contain licensed materials, check out [Dlive](https://dlive.tv/).
 {% endhint %}
