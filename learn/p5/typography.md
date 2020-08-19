@@ -1,6 +1,6 @@
 # 🌼 Type
 
-Create a letter \(choose from EXPLORING CODE\) using **previous steps** in combination with **lines and curves**, **animation** and **randomness**.
+Create a letter using **previous steps** in combination with **lines and curves**, **animation** and **randomness**.
 
 Your canvas should be **square** and your letter **centred**.
 
