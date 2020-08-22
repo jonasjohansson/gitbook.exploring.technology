@@ -37,20 +37,20 @@ Both Slack and Discord \([comparison](https://www.chanty.com/blog/discord-vs-sla
 
 ## Project & Team Management
 
-| Name |
-| :--- |
-| [Hylo](https://www.hylo.com/) |
-| [Basecamp](https://basecamp.com/) |
-| [Monday](https://monday.com/) |
-| [Trello](http://trello.com/) |
-| [Airtable](https://airtable.com/) |
+| Name | Comment |
+| :--- | :--- |
+| [Hylo](https://www.hylo.com/) | Hot new thing! |
+| [Basecamp](https://basecamp.com/) | Been around forever |
+| [Monday](https://monday.com/) | Better Basecamp |
+| [Trello](http://trello.com/) | Kanban minimalism |
+| [Airtable](https://airtable.com/) | Spreadsheets on crack |
 
 ## Meeting Planners
 
-| Name |
-| :--- |
-| [Doodle](https://doodle.com/) |
-| [When 2 Meet](https://www.when2meet.com/) |
+| Name | Comment |
+| :--- | :--- |
+| [Doodle](https://doodle.com/) | Slick \(sometimes too slick\) |
+| [When 2 Meet](https://www.when2meet.com/) | Basic as f\*\*k |
 
 ## Creative
 
