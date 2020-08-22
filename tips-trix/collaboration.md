@@ -49,6 +49,13 @@ Both Slack and Discord are well worth checking out. Slack is the standard  tool 
 | [Basecamp](https://basecamp.com/) |
 | [Monday](https://monday.com/) |
 
+## Meeting Planners
+
+| Name |
+| :--- |
+| [Doodle](https://doodle.com/) |
+| [When 2 Meet](https://www.when2meet.com/) |
+
 ## Creative
 
 | Name | Main feature |
