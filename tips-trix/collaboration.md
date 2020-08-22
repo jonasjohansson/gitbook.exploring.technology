@@ -19,7 +19,7 @@ Working in teams remote is a fun and exciting challenge. There are several tools
     <tr>
       <td style="text-align:left"><a href="https://slack.com/">Slack</a> (<a href="https://slack.com/intl/en-se/pricing">pricing</a>)</td>
       <td
-      style="text-align:left">2/15</td>
+      style="text-align:left">1/15</td>
         <td style="text-align:left"></td>
     </tr>
     <tr>
