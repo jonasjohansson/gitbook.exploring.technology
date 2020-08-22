@@ -57,6 +57,7 @@ Both Slack and Discord \([comparison](https://www.chanty.com/blog/discord-vs-sla
 | Name | Main feature |
 | :--- | :--- |
 | [Notion](https://www.notion.so/) | All-in-one workspace |
+| [Coda](https://coda.io/) | Flexible app-like workspaces |
 | [G Suite](https://gsuite.google.com/) | Collaborative office suite |
 | [Whimsical](https://whimsical.com/) | Visual interaction design |
 | [Miro](https://miro.com/) | Collaborative online whiteboard |
