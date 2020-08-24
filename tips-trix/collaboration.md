@@ -42,8 +42,10 @@ Both Slack and Discord \([comparison](https://www.chanty.com/blog/discord-vs-sla
 | [Hylo](https://www.hylo.com/) | Hot new thing! |
 | [Basecamp](https://basecamp.com/) | Been around forever |
 | [Monday](https://monday.com/) | Better Basecamp |
+| [Asana](https://asana.com/) |  |
 | [Trello](http://trello.com/) | Kanban minimalism |
 | [Airtable](https://airtable.com/) | Spreadsheets on crack |
+| [Clickup](https://clickup.com/) |  |
 
 ## Meeting Planners
 
