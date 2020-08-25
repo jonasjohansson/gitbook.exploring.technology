@@ -51,8 +51,9 @@ Both Slack and Discord \([comparison](https://www.chanty.com/blog/discord-vs-sla
 
 | Name | Comment |
 | :--- | :--- |
-| [Doodle](https://doodle.com/) | Slick \(sometimes too slick\) |
+| [Doodle](https://doodle.com/) | Great for finding common time slots |
 | [When 2 Meet](https://www.when2meet.com/) | Basic as f\*\*k |
+| [Calendly](https://calendly.com/) | Perfect for booking appointments |
 
 ## Creative
 
