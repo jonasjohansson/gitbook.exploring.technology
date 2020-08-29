@@ -164,6 +164,7 @@
     * [8. Visualizing interaction](learn/web-audio/visualizing-interaction.md)
     * [🕹 DIY Music Machine](learn/web-audio/task-create-your-own-music-machine.md)
 * [Guides](guides/README.md)
+  * [Setting up a Local development environment with SSL](guides/setting-up-a-local-development-environment-with-ssl.md)
   * [Glitch](guides/glitch.md)
   * [Mio](guides/mio/README.md)
     * [Changelog](guides/mio/changelog.md)
