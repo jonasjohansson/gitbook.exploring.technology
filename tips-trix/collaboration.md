@@ -39,20 +39,21 @@ Both Slack and Discord \([comparison](https://www.chanty.com/blog/discord-vs-sla
 
 | Name | Comment |
 | :--- | :--- |
-| [Hylo](https://www.hylo.com/) | Hot new thing! |
+| [Hylo](https://www.hylo.com/) | ⭐ Hot new thing! |
+| [Trello](http://trello.com/) | ⭐ Kanban minimalism |
 | [Basecamp](https://basecamp.com/) | Been around forever |
 | [Monday](https://monday.com/) | Better Basecamp |
-| [Asana](https://asana.com/) |  |
-| [Trello](http://trello.com/) | Kanban minimalism |
+| [Asana](https://asana.com/) | Better Basecamp |
 | [Airtable](https://airtable.com/) | Spreadsheets on crack |
-| [Clickup](https://clickup.com/) |  |
+| [Clickup](https://clickup.com/) | Trello on crack |
 
 ## Meeting Planners
 
 | Name | Comment |
 | :--- | :--- |
-| [Doodle](https://doodle.com/) | Slick \(sometimes too slick\) |
+| [Doodle](https://doodle.com/) | Great for finding common time slots |
 | [When 2 Meet](https://www.when2meet.com/) | Basic as f\*\*k |
+| [Calendly](https://calendly.com/) | Perfect for booking appointments |
 
 ## Creative
 
@@ -64,5 +65,12 @@ Both Slack and Discord \([comparison](https://www.chanty.com/blog/discord-vs-sla
 | [Whimsical](https://whimsical.com/) | Visual interaction design |
 | [Miro](https://miro.com/) | Collaborative online whiteboard |
 
+## Design
 
+| Name |  |
+| :--- | :--- |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | Great for prototyping digital interactions |
+| [Adobe Illustrator](https://www.adobe.com/se/products/illustrator.html) | Y'all know it |
+| [Sketch](https://www.sketch.com/) | Better Illustrator \(for digital\) |
+| [Figma](https://www.figma.com/) | Better Sketch |
 
