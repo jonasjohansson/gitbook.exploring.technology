@@ -18,6 +18,8 @@ A simple search will show thousands of creative usages of laser cutting, since p
 
 ![](https://userscontent2.emaze.com/images/d64e16a8-5f38-48bc-b282-819a2c9aed84/ba8e569d329941eeecf8e36afd7b6c7b.jpg)
 
+![Burnable Man: https://github.com/nmittow/burnableman](../../.gitbook/assets/burnableman.jpg)
+
 When looking for more, read some articles from others as well, this one with [tips and tricks for engraving and cutting](https://www.instructables.com/id/10-Tips-and-Tricks-for-Laser-Engraving-and-Cutting/) is great, as well as this [school assignment](https://medium.com/@yyyyyyyuan/assignment-1-the-laser-cutter-wip-dc643d9be63a).
 
 {% hint style="danger" %}
