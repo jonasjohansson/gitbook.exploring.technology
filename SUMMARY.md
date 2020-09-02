@@ -100,6 +100,7 @@
     * [🔗 Links](learn/mixed-reality/links.md)
   * [Pepakura](learn/pepakura.md)
   * [Projectors](learn/projectors/README.md)
+    * [Laser](learn/projectors/laser.md)
     * [Technology](learn/projectors/technology.md)
     * [Techniques](learn/projectors/techniques.md)
     * [Specifications](learn/projectors/specifications.md)
