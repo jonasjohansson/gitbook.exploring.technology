@@ -165,6 +165,7 @@
     * [8. Visualizing interaction](learn/web-audio/visualizing-interaction.md)
     * [🕹 DIY Music Machine](learn/web-audio/task-create-your-own-music-machine.md)
 * [Guides](guides/README.md)
+  * [Editing Black Magic Raw on Premiere](guides/editing-black-magic-raw-on-premiere.md)
   * [Setting up a Local development environment with SSL](guides/setting-up-a-local-development-environment-with-ssl.md)
   * [Glitch](guides/glitch.md)
   * [Mio](guides/mio/README.md)
