@@ -1,6 +1,8 @@
 # Augmented Reality
 
-AR in the browser is developing fast, thanks to efforts by the [AR.js](https://ar-js-org.github.io/AR.js-Docs/) team led by [Nicolò Carpignioli](https://twitter.com/nicolocarp). The augmented reality super powers are made possible by including [AR.js](https://ar-js-org.github.io/AR.js-Docs/) in the `<head>`. There are currently three tracking methods available:
+Computer vision algorithms is what drives AR, and as cameras and the computing power of mobile devices, so does also the portable AR capabilities.
+
+AR in the browser is developing fast, thanks to efforts by the [AR.js](https://ar-js-org.github.io/AR.js-Docs/) team led by [Nicolò Carpignioli](https://twitter.com/nicolocarp). There are currently three tracking methods available:
 
 {% page-ref page="marker.md" %}
 
@@ -8,5 +10,13 @@ AR in the browser is developing fast, thanks to efforts by the [AR.js](https://a
 
 {% page-ref page="image.md" %}
 
+{% hint style="warning" %}
+The benefit of using \(open-source\) WebAR is iteration speed and accessibility, while the downside is \(sadly\) quality. It's not as robust or smooth as it's native counterparts. There are however paid options such as [8th Wall](https://www.8thwall.com/) that provide solid experiences.
+{% endhint %}
 
+{% hint style="info" %}
+
+
+AR can be deployed in several ways, most often through software \(such as Unity\) that in some way use ARKit or ARCore, two technologies available on Apple and Android devices.
+{% endhint %}
 
