@@ -21,7 +21,7 @@
 
 ### Custom marker
 
-In case the preset is not special enough, it's possible to design your own. There's a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski](https://github.com/stemkoski) basic markers \(grab both the [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and the [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\) or the [Aruco generator](https://chev.me/arucogen/).
+In case the preset is not special enough, it's possible to design your own. There's a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski's](https://github.com/stemkoski) basic markers \(grab both [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\), the [Aruco generator](https://chev.me/arucogen/) and the [barcode generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator).
 
 Whichever you choose, make sure the image has the following qualities:
 
