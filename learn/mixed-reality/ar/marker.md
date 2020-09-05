@@ -52,6 +52,8 @@ Once the image is made:
 </html>
 ```
 
+The great and kind [Stemkoski](https://github.com/stemkoski) has already create some basic markers that are great for prototyping. Grab both the [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and the [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)!
+
 ### Changing the Pattern Ratio
 
 It is possible to have a higher ratio than the default 0.5, but by doing so it's also imperative to include this information. By adding the **patternRatio** to the **arjs** attribute of `<a-scene>` this can be accomplished.
