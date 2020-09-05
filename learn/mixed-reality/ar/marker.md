@@ -1,6 +1,8 @@
 # Marker
 
-[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity. Adapt the code below, visit the site on your mobile device and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png). You should see a red box.
+[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity. Adapt the code below, visit the site on your mobile device and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png). 
+
+You should see a red box. Reload if it doesn't work the first time.
 
 ```markup
 <html>
@@ -27,9 +29,9 @@
 
 In case the preset is not special enough, it's possible to design your own. For great detection the marker should:
 
-* Be rotationally asymmetrical \(be different from all perspectives\)
+* Be rotationally asymmetrical \(be different from all rotations\)
 * Include no transparency \(export as JPEG\)
-* Preferably be black and white \(look for contrast\)
+* Preferably use only black and white \(look for contrast\)
 * Have at least 10% distance to the edges
 
 Once the image is made:
@@ -58,9 +60,9 @@ Once the image is made:
 
 ### Changing the Pattern Ratio
 
-It is possible to have a higher ratio than the default 0.5, but by doing so it's also imperative to tell A-Frame that the new marker has changed. By adding the **patternRatio** to the **arjs** attribute of `<a-scene>` this can be accomplished!
+It is possible to have a higher ratio than the default 0.5, but by doing so it's also imperative to include this information. By adding the **patternRatio** to the **arjs** attribute of `<a-scene>` this can be accomplished.
 
 ```markup
-<a-scene embedded arjs="patternRatio: 0.7">
+<a-scene embedded arjs="patternRatio: 0.7;">
 ```
 
