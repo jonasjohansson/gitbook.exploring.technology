@@ -88,6 +88,7 @@
     * [6. Materials](learn/mixed-reality/materials.md)
     * [7. Sound and Video](learn/mixed-reality/sound-video.md)
     * [🌺 3D World](learn/mixed-reality/3d-world.md)
+    * [🌺 Coding Still Life](learn/mixed-reality/coding-still-life.md)
     * [8. Text](learn/mixed-reality/text.md)
     * [9. Custom Components](learn/mixed-reality/advanced.md)
     * [Augmented Reality](learn/mixed-reality/ar/README.md)
