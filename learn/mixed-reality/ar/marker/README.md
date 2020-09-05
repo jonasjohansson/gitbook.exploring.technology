@@ -21,12 +21,14 @@
 
 ### Custom marker
 
-In case the preset is not special enough, it's possible to design your own. For great detection the marker should:
+In case the preset is not special enough, it's possible to design your own. There's a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski](https://github.com/stemkoski) basic markers \(grab both the [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and the [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\) or the [Aruco generator](https://chev.me/arucogen/).
 
-* Be rotationally asymmetrical \(be different from all rotations\)
-* Include no transparency \(export as JPEG\)
-* Preferably use only black and white \(look for contrast\)
-* Have at least 10% distance to the edges
+Whichever you choose, make sure the image has the following qualities:
+
+* Rotationally asymmetrical \(be different from all rotations\)
+* No transparency \(export as JPEG\)
+* Uses only black and white, or color with great contrast
+* Has at least 10% distance to the edges
 
 Once the image is made:
 
@@ -52,7 +54,7 @@ Once the image is made:
 </html>
 ```
 
-The great and kind [Stemkoski](https://github.com/stemkoski) has already create some basic markers that are great for prototyping. Grab both the [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and the [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)!
+The great and kind 
 
 ### Changing the Pattern Ratio
 
