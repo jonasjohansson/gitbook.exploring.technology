@@ -4,20 +4,20 @@ To add entities relative to the world use [GPS coordinates](https://www.gps-coor
 
 ```markup
 <html>
-  <head>
-    <script src="https://unpkg.com/aframe@latest"></script>
-     <script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
-     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
-  </head>
-  <body>
-    <a-scene embedded arjs>
-      <a-box
-        look-at="[gps-camera]"
-        gps-entity-place="latitude: 59.3462392062857; longitude: 18.149601701117785"
-      ></a-box>
-      <a-camera gps-camera rotation-reader></a-camera>
-    </a-scene>
-  </body>
+	<head>
+		<script src="https://unpkg.com/aframe@latest"></script>
+		<script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
+		<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
+	</head>
+	<body>
+		<a-scene embedded arjs>
+			<a-box
+				look-at="[gps-camera]"
+				gps-entity-place="latitude: 59.3462392062857; longitude: 18.149601701117785"
+			></a-box>
+			<a-camera gps-camera rotation-reader></a-camera>
+		</a-scene>
+	</body>
 </html>
 ```
 

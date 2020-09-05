@@ -4,18 +4,18 @@
 
 ```markup
 <html>
-  <head>
-    <script src="https://unpkg.com/aframe@latest"></script>
-    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-  </head>
-  <body style="margin: 0; overflow: hidden;">
-    <a-scene embedded arjs>
-      <a-marker preset="hiro" smooth="true">
-        <a-box color="red"></a-box>
-      </a-marker>
-      <a-entity camera></a-entity>
-    </a-scene>
-  </body>
+	<head>
+		<script src="https://unpkg.com/aframe@latest"></script>
+		<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	</head>
+	<body style="margin: 0; overflow: hidden">
+		<a-scene embedded arjs>
+			<a-marker preset="hiro" smooth="true">
+				<a-box color="red"></a-box>
+			</a-marker>
+			<a-entity camera></a-entity>
+		</a-scene>
+	</body>
 </html>
 ```
 
