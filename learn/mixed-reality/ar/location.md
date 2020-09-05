@@ -1,6 +1,6 @@
 # Location
 
-To add entities relative to the world use [GPS coordinates](https://www.gps-coordinates.net/) and the **gps-entity-place** attribute.Read [this guide](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564) to learn more, and [check out the official documentation](https://ar-js-org.github.io/AR.js-Docs/).
+To add entities relative to the world use [GPS coordinates](https://www.gps-coordinates.net/) and the **gps-entity-place** attribute .Read [this guide](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564) and[ the official documentation](https://ar-js-org.github.io/AR.js-Docs/) to learn more.
 
 ```markup
 <html>

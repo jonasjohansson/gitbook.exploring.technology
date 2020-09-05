@@ -1,8 +1,6 @@
 # Marker
 
-[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity. Adapt the code below, visit the site on your mobile device and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png). 
-
-You should see a red box. Reload if it doesn't work the first time.
+[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity. Adapt the code below, visit the site on your mobile device and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png).  You should see a red box. Reload if it doesn't work the first time.
 
 ```markup
 <html>
@@ -11,11 +9,7 @@ You should see a red box. Reload if it doesn't work the first time.
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   </head>
   <body style="margin: 0; overflow: hidden;">
-    <a-scene
-      vr-mode-ui="enabled: false;"
-      loading-screen="enabled: false;"
-      arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;"
-      embedded>
+    <a-scene embedded arjs>
       <a-marker preset="hiro" smooth="true">
         <a-box color="red"></a-box>
       </a-marker>
@@ -65,4 +59,8 @@ It is possible to have a higher ratio than the default 0.5, but by doing so it's
 ```markup
 <a-scene embedded arjs="patternRatio: 0.7;">
 ```
+
+### Improving performance
+
+While not heavily tested, it might be possible to gain an increase in performance by adding `renderer="logarithmicDepthBuffer: true;"` to  `<a-scene>`.
 
