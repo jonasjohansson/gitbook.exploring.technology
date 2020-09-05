@@ -1,7 +1,5 @@
 # Ash Tree
 
-
-
 {% tabs %}
 {% tab title="Code" %}
 ```markup
