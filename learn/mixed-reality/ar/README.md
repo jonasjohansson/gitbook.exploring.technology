@@ -1,8 +1,6 @@
 # Augmented Reality
 
-Computer vision algorithms is what drives AR, and as cameras and the computing power of mobile devices, so does also the portable AR capabilities.
-
-AR in the browser is developing fast, thanks to efforts by the [AR.js](https://ar-js-org.github.io/AR.js-Docs/) team led by [Nicolò Carpignioli](https://twitter.com/nicolocarp). There are currently three tracking methods available:
+Computer vision algorithms is what drives AR, and as cameras and the computing power of mobile devices, so does also the portable AR capabilities. It's a [fascinating subject](https://www.sciencedirect.com/topics/computer-science/augmented-reality) that will continue to become  dominant in our everyday life, probably sooner than we think. AR in the browser is developing fast, thanks to efforts by the [AR.js](https://ar-js-org.github.io/AR.js-Docs/) team led by [Nicolò Carpignioli](https://twitter.com/nicolocarp). There are currently three tracking methods available:
 
 {% page-ref page="marker.md" %}
 
