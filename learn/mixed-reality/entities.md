@@ -30,6 +30,6 @@ Besides `<a-box>` there's several other entities available, [visit the A-Frame d
 ```
 
 {% hint style="info" %}
-Notice the `shadow` attribute which will ensure that the entities cast a shadow!
+Notice the `shadow` attribute which will ensure that the entities cast a shadow! Set the type of shadow by using `shadow="type: pcfsoft"` on `<a-scene>` and the options **basic**, **pcf** and **pcsoft**.
 {% endhint %}
 

@@ -1,17 +1,19 @@
 # Marker
 
-[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and used with the `<a-marker>` entity. Create a site using the code below \(or [visit this example in your phone](https://codepen.io/nicolocarpignoli/full/vMBgob)\) and look at the marker to better understand its usage.
+[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity. Adapt the code below, visit the site on your mobile device and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png). You should see a red box.
 
-{% tabs %}
-{% tab title="Code" %}
 ```markup
 <html>
   <head>
     <script src="https://unpkg.com/aframe@latest"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   </head>
-  <body>
-    <a-scene embedded arjs>
+  <body style="margin: 0; overflow: hidden;">
+    <a-scene
+      vr-mode-ui="enabled: false;"
+      loading-screen="enabled: false;"
+      arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;"
+      embedded>
       <a-marker preset="hiro" smooth="true">
         <a-box color="red"></a-box>
       </a-marker>
@@ -20,28 +22,22 @@
   </body>
 </html>
 ```
-{% endtab %}
 
-{% tab title="Marker" %}
-![](../../../.gitbook/assets/hiroqr.png)
-{% endtab %}
-{% endtabs %}
+### Custom marker
 
-In case the preset default marker is not special enough it's possible to design your own! The custom design should:
+In case the preset is not special enough, it's possible to design your own. For great detection the marker should:
 
-* Be square
-* JPEG
-* Include no transparency
-* Preferably be black and white \(strive for contrast\)
+* Be rotationally asymmetrical \(be different from all perspectives\)
+* Include no transparency \(export as JPEG\)
+* Preferably be black and white \(look for contrast\)
 * Have at least 10% distance to the edges
-* Not be mirrored ie. no identical sides
 
 Once the image is made:
 
 1. Visit the [Marker Generator](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 2. Upload the image
-3. Download the Marker pattern file and the Marker image
-4. Upload the pattern file and reference it in the code.
+3. Download the **Marker pattern** and the **Marker image**
+4. Upload and reference the pattern file
 
 ```markup
 <html>
