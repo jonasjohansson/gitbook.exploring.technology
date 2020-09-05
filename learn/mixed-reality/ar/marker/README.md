@@ -30,7 +30,7 @@ Whichever you choose, make sure the image has the following qualities:
 * Uses only black and white, or color with great contrast
 * Has at least 10% distance to the edges
 
-Once the image is made:
+Once you have your image:
 
 1. Visit the [Marker Generator](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 2. Upload the image
