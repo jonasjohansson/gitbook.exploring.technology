@@ -67,10 +67,19 @@ Both Slack and Discord \([comparison](https://www.chanty.com/blog/discord-vs-sla
 
 ## Design
 
-| Name |  |
+| Name | Comment |
 | :--- | :--- |
 | [Adobe XD](https://www.adobe.com/products/xd.html) | Great for prototyping digital interactions |
 | [Adobe Illustrator](https://www.adobe.com/se/products/illustrator.html) | Y'all know it |
 | [Sketch](https://www.sketch.com/) | Better Illustrator \(for digital\) |
 | [Figma](https://www.figma.com/) | Better Sketch |
+
+## Audience participation
+
+| Name | Comment |
+| :--- | :--- |
+| [Mentimeter](https://www.mentimeter.com/) |  |
+| [Forms](http://forms.google.com/) |  |
+
+
 
