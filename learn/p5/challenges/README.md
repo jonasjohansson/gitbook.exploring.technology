@@ -1,2 +1,2 @@
-# 🏆 Challenges
+# 🌹 Challenges
 

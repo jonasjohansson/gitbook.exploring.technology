@@ -29,6 +29,10 @@
 * [Building a Minecraft demo with A-Frame](https://github.com/aframevr/aframe/blob/master/docs/guides/building-a-minecraft-demo.md)
   * An example of how to implement a VR Minecraft demo using A-Frame. This step by step guide will help you better understand how to build a robust VR app with A-Frame.
 
+### THREE
+
+* [https://threejsfundamentals.org/threejs/lessons/threejs-materials.html](https://threejsfundamentals.org/threejs/lessons/threejs-materials.html)
+
 ### AR
 
 * [https://github.com/stemkoski/AR-Examples](https://github.com/stemkoski/AR-Examples)
