@@ -1,6 +1,6 @@
 # 5. Models
 
-In order to have models in your scene there are two scripts that need to be included in `<head>`.
+
 
 ```markup
 <script src="https://unpkg.com/aframe-extras@6.1.0/dist/aframe-extras.loaders.min.js"></script>
@@ -18,10 +18,6 @@ Build you own model using or download from an online repository. Then use the [O
 | [Poly](https://poly.google.com/) | Objects |
 | [Mixamo](https://www.mixamo.com/) | Characters & Animation |
 
-{% hint style="warning" %}
-If you are using Blender, export as GLTF!
-{% endhint %}
-
 ### Formats
 
 {% tabs %}
@@ -38,18 +34,18 @@ Be aware that the MTL file will often point to a texture which is local. Make su
 {% endtab %}
 
 {% tab title="FBX" %}
-The filmbox is a proprietary format created by Autodesk for 3d file transfers. The files are generally large but work well. 
+Filmbox is a proprietary format created by Autodesk for 3d file transfers. In order to use these files two scripts need to be included in `<head>`.
 
 ```markup
-<a-entity animation-mixer="clip: *;" 
-    scale="0.005 0.005 0.005"
-    position="0 0 -2"
-    fbx-model="src: url(https://cdn.glitch.com/c9111e7d-1d31-41a0-8e15-78b57caa9816%2FSilly%20Dancing.fbx?v=1574367405594);"></a-entity>    
+<script src="https://unpkg.com/aframe-extras@6.1.0/dist/aframe-extras.loaders.min.js"></script>
+<script src="https://unpkg.com/three@latest/examples/js/libs/inflate.min.js"></script>
 ```
 
-{% hint style="danger" %}
-Sometimes they come with textures _baked_ and work directly, but not always. If the FBX file does not show textures, then if possible ignore it and try another one.
-{% endhint %}
+Then add the &lt;a-entity&gt; below, referencing your FBX file.
+
+```markup
+<a-entity fbx-model="src: url(LINK_TO_FBX);" animation-mixer="clip: *;"></a-entity>    
+```
 
 It is possible to export complete scenes and use them in A-Frame, however, all objects must be reduced to pure geometry with standard materials applied \(Octane materials will not work\).
 {% endtab %}
@@ -64,6 +60,14 @@ Short for GL Transmission Format, GLTF is a file format for 3D scenes and models
 Sometimes GLTF comes with a BIN file and a folder of textures. Use this [GLTF to GLB Packer](https://glb-packer.glitch.me/) \([alternative](https://products.aspose.app/3d/conversion/gltf-to-glb)\) to bundle them all into one file, and then reference this instead.
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Read the [Troubleshooting page](https://aframe.io/docs/1.0.0/introduction/models.html#troubleshooting) from A-Frame which covers several of the most common pitfalls.
+{% endhint %}
+
+{% hint style="danger" %}
+Sometimes models come with textures _baked_ and work directly, but not always. If the file does not show textures, then if possible ignore it and try another one.
+{% endhint %}
 
 
 

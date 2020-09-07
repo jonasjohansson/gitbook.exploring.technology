@@ -2,19 +2,19 @@
 
 ### Texture
 
-We can apply a texture to our entities with an **image** or **video** using the `src` attribute, just like we would with a normal `<img>` element.
+We can apply a texture to our entities with an **image** or **video** using the `src` attribute.
 
 ```markup
-<a-box src="https://i.imgur.com/mYmmbrp.jpg" position="0 3 -3" rotation="0 45 45"></a-box>
+<a-box src="https://i.imgur.com/kDlmwJR.png" position="0 3 -3" rotation="0 45 45"></a-box>
 ```
 
 {% hint style="info" %}
-To tile our texture, we can use the `repeat` attribute. `repeat` takes two numbers, how many times to repeat in the X direction and how many times to repeat in the Y direction \(commonly referred to as U and V for textures\).
+To tile the texture, use the `repeat` attribute. `repeat` takes two numbers, how many times to repeat in the X direction and how many times to repeat in the Y direction \(commonly referred to as U and V for textures\).
 {% endhint %}
 
 ### Sky
 
-We can add a background with `<a-sky>` that surrounds the scene, and provide a color or set a texture.
+We can add a background with `<a-sky>` that surrounds the scene, and provide a color, or set a texture.
 
 ```markup
 <a-sky color="pink"></a-sky>
@@ -54,7 +54,7 @@ We can change how the scene is lit by using `<a-light>`. By default if we don’
 <a-light type="point" intensity="2" position="0 0 -2"></a-light>
 ```
 
-### Assets
+### Preloading assets
 
 Instead of adding the textures above directly as sources we can use A-Frame's builtin asset system. This keeps the code clean and also tells the system to wait with showing all the assets until they have all loaded.
 
