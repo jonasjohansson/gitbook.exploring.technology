@@ -88,7 +88,7 @@
     * [4. Animation](learn/mixed-reality/animation.md)
     * [5. Models](learn/mixed-reality/models.md)
     * [6. Materials \(TBD\)](learn/mixed-reality/materials.md)
-    * [7. Audio and Video](learn/mixed-reality/audio-video.md)
+    * [7. Sound and Video](learn/mixed-reality/sound-video.md)
     * [8. Text](learn/mixed-reality/text.md)
     * [9. Custom Components](learn/mixed-reality/advanced.md)
     * [10. Scripting \(TBD\)](learn/mixed-reality/scripting.md)
