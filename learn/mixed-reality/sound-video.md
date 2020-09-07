@@ -1,27 +1,25 @@
 # 7. Sound and Video
 
-Attaching external media can have a great impact, especially when using audio. To avoid having the media play when loaded \(which is often the case with large media files\) use the built-in asset manager It will create a [loading screen](https://github.com/aframevr/aframe/blob/master/docs/components/loading-screen.md) that comes with some default styling which can be changed.
+Adding media can have a great impact, especially when using audio. To avoid having the media play only when loaded use the built-in asset manager. It will create a [loading screen](https://github.com/aframevr/aframe/blob/master/docs/components/loading-screen.md) that comes with some default styling which can be changed.
 
 ```markup
 <a-scene loading-screen="dotsColor: red; backgroundColor: black;"></a-scene>
 ```
 
-To add assets add either an `<audio>` or `<video>` element in `<a-assets>` and then reference the element in the scene, with `<a-sound>` for audio and `<a-video>` for video. To ignore the asset manager, simply add the sound link directly to the `src` attribute.
+To add assets add an `<audio>` or `<video>` element in `<a-assets>` and then reference the element in the scene, with `<a-entity sound="">` for audio and `<a-video>` for video. To ignore the asset manager, simply add the sound link directly to the `src` attribute.
 
 {% tabs %}
 {% tab title="Audio" %}
 ```markup
 <a-assets>
   <audio
-    id="noise"
-    src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav"
-    autoplay
-    loop
-    preload
+    id="guitar"
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Little_guitar_%28Antti_Luode%29.mp3"
+    preload="auto"
     crossorigin="anonymous"
   ></audio>
 </a-assets>
-<a-sound src="#noise"></a-sound>
+<a-entity sound="src: #guitar;" geometry="primitive: plane" material="color: blue"></a-entity>
 ```
 {% endtab %}
 
@@ -43,8 +41,8 @@ To add assets add either an `<audio>` or `<video>` element in `<a-assets>` and t
 {% endtab %}
 {% endtabs %}
 
-{% hint style="danger" %}
-Remove the **autoplay** and **muted** for the video to not be muted or play automatically from the start.
+{% hint style="info" %}
+Pay attention to the attributes **autoplay**, **loop** and **muted** and remove then if necessary.
 {% endhint %}
 
 For 360 video, use `<a-videosphere>` which will wrap a video around a sphere, perfect for 360 content.
@@ -55,39 +53,22 @@ For 360 video, use `<a-videosphere>` which will wrap a video around a sphere, pe
 
 It's possible to upload assets and reference them, and to get started even faster, visit [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) where there is a large database of open media!
 
-### Media does not play on mobile
+### Media does not play
 
-Due to privacy settings audio or video does not autoplay on mobile devices, instead they must be triggered by a user action.  However, it is possible to circumvent this by adding a custom script in `<head>`.
+Due to privacy settings audio or video with audio does not autoplay and must be triggered by a user action.  However, it is possible to circumvent this by adding a custom script in `<head>`.
 
-{% tabs %}
-{% tab title="Version 1" %}
 ```markup
 <script>
-  window.addEventListener("click", function() {
-    for (el of document.querySelectorAll("audio,video")) {
-      el.play();
-    }
-  });
+  const play = () => {
+    window.removeEventListener("click", play);
+    document.querySelectorAll("video").forEach(el => el.play());
+    document
+      .querySelectorAll("[sound],a-sound")
+      .forEach(el => el.components.sound.playSound());
+  };
+  window.addEventListener("click", play);
 </script>
 ```
-{% endtab %}
-
-{% tab title="Version 2" %}
-```markup
-<script>
-  document.body.addEventListener(
-    "touchstart",
-    function() {
-      for (el of document.querySelectorAll("audio,video")) {
-        el.play();
-      }
-    },
-    false
-  );
-</script>
-```
-{% endtab %}
-{% endtabs %}
 
 If using AR it is possible to use a marker being found as a trigger.
 
