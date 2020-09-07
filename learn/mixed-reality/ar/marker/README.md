@@ -1,6 +1,6 @@
 # Marker
 
-[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) can be of three types: **Hiro**, **Barcode** and **Pattern**. To try it out, add the code below, and visit the URL on your phone ****\(remember to use https\). Accept camera permissions and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png). If successful you should see a red box appear where the marker is. Besides swift testing, the Hiro marker is not very useful.
+[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) can be of three types: **Hiro**, **Barcode** and **Pattern**. To try it out, add the code below, and visit the URL on your phone ****\(remember to use https\). Accept camera permissions and look at marker below. If successful you should see a red box appear where the marker is. Besides quick testing, the Hiro marker is not very useful.
 
 {% tabs %}
 {% tab title="Code" %}
