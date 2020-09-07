@@ -1,6 +1,6 @@
 # 2. Entities
 
-Within `<a-scene>` entities can be added. There are several types of entities, most with logical names, such as `<a-box>` which unsurprisingly creates a box.
+Within the `<a-scene>` entities \(think of them as objects\) can be added. There are several types of entities, most with logical names, such as `<a-box>` which unsurprisingly creates a box.
 
 ```markup
 <a-box color="red" position="0 0 -4"></a-box>
@@ -16,23 +16,9 @@ It's simple to add more boxes, just make sure to have them in different position
 <a-box color="blue" position="1 0 -4"></a-box>
 ```
 
-### Parenting & Null object
-
-Notice how the box has a start `<a-box>` and end `</a-box>` tag which implies there can be content inside \(turning the box into a parent, and whatever is inside to its children\). Just like how the boxes are inside `<a-scene>` other entities can be placed in the boxes.  For instance, it could be smart to create an "empty" `<a-entity>` that just sets the position in the z-axis. This way it would be possible to control all the boxes position by changing one parameter. An empty entity can also be understood as a Null object \(famous in 3d software\).
-
-```markup
-<a-entity position="0 0 -4">
-    <a-box color="red" position="-1 0 0"></a-box>
-    <a-box color="green" position="0 0 0"></a-box>
-    <a-box color="blue" position="1 0 0"></a-box>
-</a-entity>
-```
-
 {% hint style="info" %}
 Apart from `color` and `position` there's also `rotation`, `depth`, `width`, `height` and `scale`.
 {% endhint %}
-
-### Other entities
 
 Besides `<a-box>` there's several other entities available, [visit the A-Frame documentation](https://aframe.io/docs/0.9.0/introduction/) and scroll down the menu on the left to see a list of primitives. Here's a few more:
 
@@ -46,6 +32,4 @@ Besides `<a-box>` there's several other entities available, [visit the A-Frame d
 {% hint style="info" %}
 Notice the `shadow` attribute which will ensure that the entities cast a shadow! Set the type of shadow by using `shadow="type: pcfsoft"` on `<a-scene>` and the options **basic**, **pcf** and **pcsoft**.
 {% endhint %}
-
-While not mandatory, it is important to know that `<a-box>` is a simplified version of writing `<a-entity geometry="primitive: box">` and that en
 

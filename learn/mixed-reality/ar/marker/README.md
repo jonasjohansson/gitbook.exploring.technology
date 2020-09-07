@@ -8,7 +8,7 @@
 		<script src="https://unpkg.com/aframe@latest"></script>
 		<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
 	</head>
-	<body style="margin: 0; overflow: hidden">
+	<body>
 		<a-scene embedded arjs>
 			<a-marker preset="hiro" smooth="true">
 				<a-box color="red"></a-box>
@@ -46,7 +46,7 @@ Once you have your image:
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   </head>
   <body>
-    <a-scene embedded arjs="debugUIEnabled: false">
+    <a-scene embedded arjs>
       <a-marker type="pattern" url="YOUR_MARKER_PATH.patt">
         <a-box color="red"></a-box>
       </a-marker>
