@@ -1,13 +1,6 @@
 # 5. Models
 
-
-
-```markup
-<script src="https://unpkg.com/aframe-extras@6.1.0/dist/aframe-extras.loaders.min.js"></script>
-<script src="https://unpkg.com/three@latest/examples/js/libs/inflate.min.js"></script>
-```
-
-Build you own model using or download from an online repository. Then use the [Online Viewer](https://www.creators3d.com/online-viewer) to verify the file works \(drag and drop\).
+Build you own model using or download from an online repository.  Use the [Online Viewer](https://www.creators3d.com/online-viewer) to verify the file works \(drag and drop\).
 
 | Services | Type |
 | :--- | :--- |
