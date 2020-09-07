@@ -17,13 +17,13 @@ There are [several formats](https://www.marxentlabs.com/3d-file-formats/) availa
 
 {% tabs %}
 {% tab title="OBJ" %}
-This file is commonly used and straightforward. Check out the [a-obj-model documentation](https://github.com/aframevr/aframe/blob/master/docs/components/obj-model.md) for more information! 
+This file is commonly used and straightforward. Check out the [a-obj-model documentation](https://github.com/aframevr/aframe/blob/master/docs/components/obj-model.md) for more information!
+
+* [Skyscraper.obj](https://people.sc.fsu.edu/~jburkardt/data/obj/skyscraper.obj)
 
 ```markup
 <a-obj-model src="LINK_TO_OBJ" mtl="LINK_TO_MTL"></a-obj-model>
 ```
-
-* [Skyscraper.obj](https://people.sc.fsu.edu/~jburkardt/data/obj/skyscraper.obj)
 
 {% hint style="danger" %}
 Be aware that the MTL file will often point to a local texture. Make sure to upload the texture separately, copy the link and then open the MTL file in a text editor and change the local reference to the uploaded link.
@@ -50,11 +50,11 @@ It is possible to export complete scenes and use them in A-Frame, however, all o
 {% tab title="GLTF/GLB" %}
 Short for GL Transmission Format, GLTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\).
 
+* [CesiumMan.glb](https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb)
+
 ```markup
 <a-gltf-model src="LINK_TO_GLTF/GLB"></a-gltf-model>
 ```
-
-* [CesiumMan.glb](https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb)
 
 {% hint style="success" %}
 Sometimes GLTF comes with a BIN file and a folder of textures. Use this [GLTF to GLB Packer](https://glb-packer.glitch.me/) \([alternative](https://products.aspose.app/3d/conversion/gltf-to-glb)\) to bundle them all into a new file.
