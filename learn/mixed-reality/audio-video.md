@@ -13,7 +13,7 @@ To add assets add an `<audio>` or `<video>` element in `<a-assets>` and then ref
 ```markup
 <a-assets>
   <audio
-    id="noise"
+    id="guitar"
     src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Little_guitar_%28Antti_Luode%29.mp3"
     autoplay
     loop
@@ -21,7 +21,7 @@ To add assets add an `<audio>` or `<video>` element in `<a-assets>` and then ref
     crossorigin="anonymous"
   ></audio>
 </a-assets>
-<a-sound src="#noise"></a-sound>
+<a-entity sound="src: #guitar;"></a-entity>
 ```
 {% endtab %}
 
@@ -43,8 +43,8 @@ To add assets add an `<audio>` or `<video>` element in `<a-assets>` and then ref
 {% endtab %}
 {% endtabs %}
 
-{% hint style="danger" %}
-Remove the **autoplay** and **muted** for the video to not be muted or play automatically from the start.
+{% hint style="info" %}
+Pay attention to the attributes **autoplay**, **loop** and **muted** and remove then if necessary.
 {% endhint %}
 
 For 360 video, use `<a-videosphere>` which will wrap a video around a sphere, perfect for 360 content.
@@ -59,35 +59,16 @@ It's possible to upload assets and reference them, and to get started even faste
 
 Due to privacy settings audio or video with audio does not autoplay and must be triggered by a user action.  However, it is possible to circumvent this by adding a custom script in `<head>`.
 
-{% tabs %}
-{% tab title="Version 1" %}
 ```markup
 <script>
-  window.addEventListener("click", function() {
-    for (el of document.querySelectorAll("audio,video")) {
-      el.play();
-    }
-  });
+const play = () => {
+	window.removeEventListener('click', play)
+	document.querySelectorAll('audio,video').forEach(el => el.play())
+	document.querySelectorAll('[sound],a-sound').forEach(el => el.components.sound.playSound())
+}
+window.addEventListener('click', play)
 </script>
 ```
-{% endtab %}
-
-{% tab title="Version 2" %}
-```markup
-<script>
-  document.body.addEventListener(
-    "touchstart",
-    function() {
-      for (el of document.querySelectorAll("audio,video")) {
-        el.play();
-      }
-    },
-    false
-  );
-</script>
-```
-{% endtab %}
-{% endtabs %}
 
 If using AR it is possible to use a marker being found as a trigger.
 
