@@ -41,7 +41,7 @@ Made up of very simple patterns, barcodes come in many configurations and are ea
 	</head>
 	<body>
 		<a-scene embedded arjs="detectionMode: mono_and_matrix; matrixCodeType: 4x4_BCH_13_5_5;">
-			<a-marker type="barcode" value="0">
+			<a-marker type="barcode" smooth="true" value="0">
     		<a-box color="red"></a-box>
 			</a-marker>
 			<a-entity camera></a-entity>
@@ -58,7 +58,7 @@ Made up of very simple patterns, barcodes come in many configurations and are ea
 
 ## Pattern
 
-In case the previous types is not custom enough, it's possible to design your own. There's a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski's](https://github.com/stemkoski) basic markers \(grab both [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\), the [Aruco generator](https://chev.me/arucogen/) and the [barcode generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator).
+In case the previous types is not custom enough, it's possible to design your own. There's a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski's](https://github.com/stemkoski) basic markers \(grab both [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\), the [Aruco Generator](https://chev.me/arucogen/) and the [Barcode Generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator).
 
 Whichever you choose, make sure the image has the following qualities:
 
