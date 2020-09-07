@@ -29,7 +29,7 @@
 
 ## Barcode
 
-Made up of very simple patterns, barcodes come in many configurations and are easy to use. Run the [Barcode generator](https://au.gmented.com/app/marker/marker.php) to see what they look like!
+Made up of very simple patterns, barcodes come in many configurations and are easy to use. Run the [generator](https://au.gmented.com/app/marker/marker.php) to see what they look like!
 
 {% tabs %}
 {% tab title="Code" %}
@@ -58,7 +58,7 @@ Made up of very simple patterns, barcodes come in many configurations and are ea
 
 ## Pattern
 
-In case the previous types is not custom enough, it's possible to design your own. There's a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski's](https://github.com/stemkoski) basic markers \(grab both [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\), the [Aruco Generator](https://chev.me/arucogen/) and the [Barcode Generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator).
+In case the previous types aren't custom enough, it's possible to design your own. There's a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski's](https://github.com/stemkoski) basic markers \(grab both [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\), the [Aruco Generator](https://chev.me/arucogen/) and the [QR Generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator) \(also known as barcode…\).
 
 Whichever you choose, make sure the image has the following qualities:
 
