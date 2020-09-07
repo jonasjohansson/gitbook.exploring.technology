@@ -16,7 +16,9 @@ It's simple to add more boxes, just make sure to have them in different position
 <a-box color="blue" position="1 0 -4"></a-box>
 ```
 
-Notice how the box has a start `<a-box>` and end `</a-box>` tag which implies there can be content inside. Just like how the boxes are inside `<a-scene>` other entities can be placed in the boxes.  For instance, it could be smart to create an "empty" `<a-entity>` that just sets the position in the z-axis. This way it would be possible to control all the boxes position by changing one parameter. An empty entity can also be understood as a Null object \(famous in 3d software\).
+### Parenting & Null object
+
+Notice how the box has a start `<a-box>` and end `</a-box>` tag which implies there can be content inside \(turning the box into a parent, and whatever is inside to its children\). Just like how the boxes are inside `<a-scene>` other entities can be placed in the boxes.  For instance, it could be smart to create an "empty" `<a-entity>` that just sets the position in the z-axis. This way it would be possible to control all the boxes position by changing one parameter. An empty entity can also be understood as a Null object \(famous in 3d software\).
 
 ```markup
 <a-entity position="0 0 -4">
@@ -29,6 +31,8 @@ Notice how the box has a start `<a-box>` and end `</a-box>` tag which implies th
 {% hint style="info" %}
 Apart from `color` and `position` there's also `rotation`, `depth`, `width`, `height` and `scale`.
 {% endhint %}
+
+### Other entities
 
 Besides `<a-box>` there's several other entities available, [visit the A-Frame documentation](https://aframe.io/docs/0.9.0/introduction/) and scroll down the menu on the left to see a list of primitives. Here's a few more:
 
