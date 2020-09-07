@@ -1,9 +1,5 @@
 # 8. Text
 
-{% hint style="info" %}
-Use the [A-Frame Troika Text](https://github.com/lojjic/aframe-troika-text) for a more effective process.
-{% endhint %}
-
 Rendering text in 3D is not trivial, but the `<a-text>` component make things breezy.
 
 ```markup
@@ -37,6 +33,10 @@ In situations where you require a background color to make the text legible, add
 ```
 
 ### Changing font
+
+{% hint style="success" %}
+Use the [A-Frame Troika Text](https://github.com/lojjic/aframe-troika-text) for a more effective process.
+{% endhint %}
 
 Here's where it gets a bit tricky as you can't include non-standard fonts like you would with stylesheets. [A-Frame provides alternatives](https://aframe.io/docs/0.9.0/components/text.html#stock-fonts) but if you want to use your own, here's what you do.
 
