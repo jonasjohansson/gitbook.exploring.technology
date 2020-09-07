@@ -14,7 +14,7 @@ To add assets add an `<audio>` or `<video>` element in `<a-assets>` and then ref
 <a-assets>
   <audio
     id="noise"
-    src="https://cdn.aframe.io/basic-guide/audio/backgroundnoise.wav"
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Little_guitar_%28Antti_Luode%29.mp3"
     autoplay
     loop
     preload
