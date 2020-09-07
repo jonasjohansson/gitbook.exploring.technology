@@ -11,7 +11,7 @@ Build you own model using or download from an online repository.  Use the [Onlin
 | [Poly](https://poly.google.com/) | Objects |
 | [Mixamo](https://www.mixamo.com/) | Characters & Animation |
 
-## Formats
+### Formats
 
 There are [several formats](https://www.marxentlabs.com/3d-file-formats/) available with [OBJ](https://www.marxentlabs.com/obj-files/), [FBX](https://www.marxentlabs.com/fbx-files/) and [GLTF](https://www.marxentlabs.com/gltf-files/)/[GLB](https://www.marxentlabs.com/glb-files/) being the most popular. To learn about them in detail, and others, [read these articles](https://www.marxentlabs.com/defy-reality-the-3d-commerce-blog/).
 
