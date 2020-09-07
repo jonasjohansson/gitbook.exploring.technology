@@ -1,8 +1,6 @@
 # Marker
 
-[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity. Adapt the code below, visit the site on your mobile device and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png). Alternatively, [visit this site](https://codepen.io/nicolocarpignoli/full/vMBgob).
-
-You should see a red box. Reload if it doesn't work the first time.
+[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity.  To try it out, add the code below in your site, and visit the URL on your phone ****\(remember to use https\). Accept camera permissions and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png).
 
 ```markup
 <html>
@@ -20,6 +18,8 @@ You should see a red box. Reload if it doesn't work the first time.
 	</body>
 </html>
 ```
+
+You should see a red box. Reload if it doesn't work the first time. If the site doesn't work, try [this pre-made example](https://et-marker.glitch.me/) with the same code.
 
 ### Custom marker
 
