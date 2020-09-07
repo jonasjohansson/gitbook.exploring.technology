@@ -1,6 +1,8 @@
 # Marker
 
-[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity. Adapt the code below, visit the site on your mobile device and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png).  You should see a red box. Reload if it doesn't work the first time.
+[Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) are black and white and use the `<a-marker>` entity. Adapt the code below, visit the site on your mobile device and look at [this Hiro marker](https://raw.githubusercontent.com/stemkoski/VR-AR-class-examples/master/markers/hiro.png). Alternatively, [visit this site](https://codepen.io/nicolocarpignoli/full/vMBgob).
+
+You should see a red box. Reload if it doesn't work the first time.
 
 ```markup
 <html>
