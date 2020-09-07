@@ -24,7 +24,7 @@ This file is commonly used and straightforward. Check out the [a-obj-model docum
 ```
 
 {% hint style="danger" %}
-Be aware that the MTL file will often point to a texture which is local. Make sure to upload the texture separately, copy the link and then open the MTL file in a text editor and change the local reference to the uploaded link.
+Be aware that the MTL file will often point to a local texture. Make sure to upload the texture separately, copy the link and then open the MTL file in a text editor and change the local reference to the uploaded link.
 {% endhint %}
 {% endtab %}
 
