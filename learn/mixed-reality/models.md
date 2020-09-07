@@ -11,7 +11,7 @@ Build you own model using or download from an online repository.  Use the [Onlin
 | [Poly](https://poly.google.com/) | Objects |
 | [Mixamo](https://www.mixamo.com/) | Characters & Animation |
 
-### Formats
+## Formats
 
 There are [several formats](https://www.marxentlabs.com/3d-file-formats/) available with [OBJ](https://www.marxentlabs.com/obj-files/), [FBX](https://www.marxentlabs.com/fbx-files/) and [GLTF](https://www.marxentlabs.com/gltf-files/)/[GLB](https://www.marxentlabs.com/glb-files/) being the most popular. To learn about them in detail, and others, [read these articles](https://www.marxentlabs.com/defy-reality-the-3d-commerce-blog/).
 
@@ -22,6 +22,8 @@ This file is commonly used and straightforward. Check out the [a-obj-model docum
 ```markup
 <a-obj-model src="LINK_TO_OBJ" mtl="LINK_TO_MTL"></a-obj-model>
 ```
+
+* [Skyscraper.obj](https://people.sc.fsu.edu/~jburkardt/data/obj/skyscraper.obj)
 
 {% hint style="danger" %}
 Be aware that the MTL file will often point to a local texture. Make sure to upload the texture separately, copy the link and then open the MTL file in a text editor and change the local reference to the uploaded link.
@@ -52,20 +54,15 @@ Short for GL Transmission Format, GLTF is a file format for 3D scenes and models
 <a-gltf-model src="LINK_TO_GLTF/GLB"></a-gltf-model>
 ```
 
+* [CesiumMan.glb](https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb)
+
 {% hint style="success" %}
 Sometimes GLTF comes with a BIN file and a folder of textures. Use this [GLTF to GLB Packer](https://glb-packer.glitch.me/) \([alternative](https://products.aspose.app/3d/conversion/gltf-to-glb)\) to bundle them all into a new file.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-Free 3D files for testing:
-
-* [Skyscraper.obj](https://people.sc.fsu.edu/~jburkardt/data/obj/skyscraper.obj)
-* [CesiumMan.glb](https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb)
-
 {% hint style="info" %}
 Read the [Troubleshooting page](https://aframe.io/docs/1.0.0/introduction/models.html#troubleshooting) from A-Frame which covers several of the most common pitfalls.
 {% endhint %}
-
-
 
