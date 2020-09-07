@@ -1,6 +1,6 @@
 # 8. Text
 
-{% hint style="info" %}
+{% hint style="success" %}
 Use the [A-Frame Troika Text](https://github.com/lojjic/aframe-troika-text) for a more effective process.
 {% endhint %}
 
