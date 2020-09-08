@@ -1,4 +1,4 @@
-# 10. Scripting \(TBD\)
+# 11. Scripting \(TBD\)
 
 ### Register Component
 

@@ -1,4 +1,4 @@
-# 8. Text
+# 9. Text
 
 Rendering text in 3D is not trivial, but the `<a-text>` component make things breezy.
 
