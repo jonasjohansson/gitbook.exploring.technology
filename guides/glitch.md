@@ -44,6 +44,7 @@ When using special features such as camera, GPS and the device API you will need
       window.location.href.substring(window.location.protocol.length);
   }
 </script>
+<!-- <script src="https://gist.githubusercontent.com/jonasjohansson/1e580e1635c02683a980ee48a2b43169/raw/52c555c6b559888dd31d630d7f181118b39055ac/glitch-https.js"></script> -->
 ```
 
 ### Upload folders
