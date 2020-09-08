@@ -94,7 +94,7 @@
         * [Transparent Video](learn/mixed-reality/video/video/transparent-video.md)
       * [Sound](learn/mixed-reality/video/sound.md)
     * [9. Text](learn/mixed-reality/text.md)
-    * [10. Custom Components](learn/mixed-reality/advanced.md)
+    * [10. Custom Components \(TBD\)](learn/mixed-reality/advanced.md)
     * [11. Scripting \(TBD\)](learn/mixed-reality/scripting.md)
     * [Augmented Reality](learn/mixed-reality/ar/README.md)
       * [Marker](learn/mixed-reality/ar/marker/README.md)
