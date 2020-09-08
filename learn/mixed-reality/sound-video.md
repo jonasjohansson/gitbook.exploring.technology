@@ -60,12 +60,14 @@ Due to privacy settings audio or video with audio does not autoplay and must be 
 ```markup
 <script>
   const play = () => {
+    window.removeEventListener("touchstart", play);
     window.removeEventListener("click", play);
     document.querySelectorAll("video").forEach(el => el.play());
     document
       .querySelectorAll("[sound],a-sound")
       .forEach(el => el.components.sound.playSound());
   };
+  window.addEventListener("touchstart", play);
   window.addEventListener("click", play);
 </script>
 ```
