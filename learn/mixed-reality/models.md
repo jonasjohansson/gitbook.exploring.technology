@@ -13,7 +13,7 @@ Build you own model using or download from an online repository.  Use the [Onlin
 
 ### Formats
 
-There are [several formats](https://www.marxentlabs.com/3d-file-formats/) available with [OBJ](https://www.marxentlabs.com/obj-files/), [FBX](https://www.marxentlabs.com/fbx-files/) and [GLTF](https://www.marxentlabs.com/gltf-files/)/[GLB](https://www.marxentlabs.com/glb-files/) being the most popular. To learn about them in detail, and others, [read these articles](https://www.marxentlabs.com/defy-reality-the-3d-commerce-blog/).
+There are several[ formats](https://www.marxentlabs.com/3d-file-formats/) available with [OBJ](https://www.marxentlabs.com/obj-files/), [FBX](https://www.marxentlabs.com/fbx-files/) and [GLTF](https://www.marxentlabs.com/gltf-files/)/[GLB](https://www.marxentlabs.com/glb-files/) being the most popular. To learn about them in detail, and others, read [these articles](https://www.marxentlabs.com/defy-reality-the-3d-commerce-blog/).
 
 {% tabs %}
 {% tab title="OBJ" %}
@@ -50,7 +50,7 @@ It is possible to export complete scenes and use them in A-Frame, however, all o
 Short for GL Transmission Format, GLTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\).
 
 ```markup
-<a-gltf-model src="LINK_TO_GLTF/GLB"></a-gltf-model>
+<a-gltf-model src="LINK_TO_GLTF/GLB" animation-mixer="clip: *;"></a-gltf-model>
 <!-- 
 https://github.com/CesiumGS/cesium/tree/master/Apps/SampleData/models
 https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb -->
@@ -61,6 +61,10 @@ Sometimes GLTF comes with a BIN file and a folder of textures. Use this [GLTF to
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+### Animation
+
+Both FBX and GLTF/GLB contain animations which can be triggered by adding `animation-mixer="clip: *;"` and will in turn play **all** the clips available. _The asterisk \* can be replaced with the name of the specific animation._
 
 {% hint style="info" %}
 Read the [Troubleshooting page](https://aframe.io/docs/1.0.0/introduction/models.html#troubleshooting) from A-Frame which covers several of the most common pitfalls.
