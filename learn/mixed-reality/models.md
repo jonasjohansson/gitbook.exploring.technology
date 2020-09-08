@@ -51,7 +51,9 @@ Short for GL Transmission Format, GLTF is a file format for 3D scenes and models
 
 ```markup
 <a-gltf-model src="LINK_TO_GLTF/GLB"></a-gltf-model>
-<!-- https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb -->
+<!-- 
+https://github.com/CesiumGS/cesium/tree/master/Apps/SampleData/models
+https://cdn.rawgit.com/KhronosGroup/glTF-Sample-Models/29355d23/2.0/CesiumMan/glTF-Binary/CesiumMan.glb -->
 ```
 
 {% hint style="success" %}
