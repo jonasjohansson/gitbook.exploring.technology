@@ -2,61 +2,11 @@
 
 [Markers](https://ar-js-org.github.io/AR.js-Docs/marker-based/) can be of three types: **Hiro**, **Barcode** and **Pattern**. 
 
-## Hiro
-
-The most basic test pattern. To try it, add the code below, and visit the URL on your phone ****\([remember to type "https://" before the URL](../../../guides/glitch.md#force-https)\). Accept camera permissions and look at the marker. If successful you should see a red box appear where the marker is.
+## 
 
 {% tabs %}
-{% tab title="Code" %}
-```markup
-<html>
-	<head>
-		<script src="https://unpkg.com/aframe@latest"></script>
-		<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-	</head>
-	<body>
-		<a-scene embedded arjs>
-			<a-marker preset="hiro" smooth="true">
-				<a-box color="red"></a-box>
-			</a-marker>
-			<a-entity camera></a-entity>
-		</a-scene>
-	</body>
-</html>
-```
-{% endtab %}
-
 {% tab title="Marker" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LFNtKzfzIWfc8anmKip%2F-MGTzViYNlUj-js9IS_4%2F-MGUZXkpAF6U_q1mp3KD%2Fhiro.jpg?alt=media&token=5f5a7d2c-8d96-46f2-b8a3-4a839e0fb8d4)
-{% endtab %}
-{% endtabs %}
-
-## Barcode
-
-Made up of very simple patterns, barcodes come in many configurations and are easy to use. Run the [generator](https://au.gmented.com/app/marker/marker.php) to see what they look like!
-
-{% tabs %}
-{% tab title="Code" %}
-```markup
-<html>
-	<head>
-		<script src="https://unpkg.com/aframe@latest"></script>
-		<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-	</head>
-	<body>
-		<a-scene embedded arjs="detectionMode: mono_and_matrix; matrixCodeType: 4x4_BCH_13_5_5;">
-			<a-marker type="barcode" smooth="true" value="0">
-    		<a-box color="red"></a-box>
-			</a-marker>
-			<a-entity camera></a-entity>
-		</a-scene>
-	</body>
-</html>
-```
-{% endtab %}
-
-{% tab title="Marker" %}
-![](../../../.gitbook/assets/00.png)
+![](../../../../.gitbook/assets/00.png)
 {% endtab %}
 {% endtabs %}
 
@@ -93,7 +43,7 @@ Once you have your image:
 </html>
 ```
 
-#### Generators
+### Generators
 
 There's also a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski's](https://github.com/stemkoski) basic markers \(grab both [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\), the [Aruco Generator](https://chev.me/arucogen/) and the [QR Generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator).
 
