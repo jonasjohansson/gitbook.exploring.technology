@@ -16,3 +16,7 @@ The benefit of using \(open-source\) WebAR is iteration speed and accessibility,
 AR can be deployed in several ways, most often through software \(such as Unity\) that in some way use ARKit or ARCore, two technologies available on Apple and Android devices.
 {% endhint %}
 
+## Improving performance
+
+While not heavily tested, it might be possible to gain an increase in performance by adding `renderer="logarithmicDepthBuffer: true;"` to  `<a-scene>`.
+
