@@ -22,3 +22,11 @@ The script below will register a component which when used will play all video a
 </script>
 ```
 
+And then you can add a special entity to the `<a-marker>`.
+
+```markup
+<a-marker marker-toggle>
+  <a-video src="#video"></a-video>
+</a-marker>
+```
+
