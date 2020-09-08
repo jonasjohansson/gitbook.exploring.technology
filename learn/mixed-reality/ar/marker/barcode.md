@@ -1,6 +1,8 @@
 # Barcode
 
-Made up of simple patterns, barcodes come in several configurations and are easy to use. Run the [generator](https://au.gmented.com/app/marker/marker.php) to see what they look like. Read about the quality of the [different markers](https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection). To use it in code, make sure you have set the same `matrixCodeType` as used in the generators. The once available are:
+Made up of simple patterns, barcodes come in several configurations and are easy to use. Run the [barcode generator](https://au.gmented.com/app/marker/marker.php) to see what they look like, and read about the quality of the [different markers](https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection). 
+
+To use it in code, update the marker `value` number and set the same `matrixCodeType` as used in the generators. The once available are:
 
 * AR\_MATRIX\_CODE\_3x3
 * AR\_MATRIX\_CODE\_3x3\_HAMMING63
@@ -8,8 +10,6 @@ Made up of simple patterns, barcodes come in several configurations and are easy
 * AR\_MATRIX\_CODE\_4x4
 * AR\_MATRIX\_CODE\_4x4\_BCH\_13\_9\_3
 * AR\_MATRIX\_CODE\_4x4\_BCH\_13\_5\_5
-
-Also update the marker value number.
 
 ```markup
 <html>
