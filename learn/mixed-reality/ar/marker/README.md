@@ -58,9 +58,7 @@ Made up of very simple patterns, barcodes come in many configurations and are ea
 
 ## Pattern
 
-In case the previous types aren't custom enough, it's possible to design your own. There's a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski's](https://github.com/stemkoski) basic markers \(grab both [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\), the [Aruco Generator](https://chev.me/arucogen/) and the [QR Generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator) \(also known as barcode…\).
-
-Whichever you choose, make sure the image has the following qualities:
+It's easy to design your own, as long as you follow some simple rules:
 
 * Rotationally asymmetrical \(be different from all rotations\)
 * No transparency \(export as JPEG\)
@@ -90,6 +88,10 @@ Once you have your image:
   </body>
 </html>
 ```
+
+#### Generators
+
+There's also a few resources to get started like this [Figma template](https://www.figma.com/file/uZVaf3zJOGiZOpAIsOA3pT/WebAR-Pattern-Creator), [Stemkoski's](https://github.com/stemkoski) basic markers \(grab both [pattern](https://github.com/stemkoski/AR.js-examples/tree/master/data) and [image](https://github.com/stemkoski/AR.js-examples/tree/master/markers)\), the [Aruco Generator](https://chev.me/arucogen/) and the [QR Generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator).
 
 ### Changing the Pattern Ratio
 
