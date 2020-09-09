@@ -37,9 +37,7 @@ Due to privacy settings media with sound does not autoplay and must be triggered
 </script>
 ```
 
-This script will automatically play all media files as soon as the window is clicked or touched. It's a good place to start.
-
-If using AR it is possible to use a marker being found as a trigger.
+This script will automatically play all media files as soon as the window is clicked or touched. It's a good place to start. If using AR it is possible to use a marker being found as a trigger.
 
 {% tabs %}
 {% tab title="Audio" %}
