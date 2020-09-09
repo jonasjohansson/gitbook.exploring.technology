@@ -106,7 +106,6 @@
       * [Image](learn/mixed-reality/ar/image.md)
       * [Examples](learn/mixed-reality/ar/examples/README.md)
         * [Ash Tree](learn/mixed-reality/ar/examples/ash-tree.md)
-        * [AR Video](learn/mixed-reality/ar/examples/ar-video.md)
         * [Virtual Dancer](learn/mixed-reality/ar/examples/virtual-dancer.md)
         * [Magic door](learn/mixed-reality/ar/examples/magic-door.md)
     * [Model Viewer](learn/mixed-reality/model-viewer.md)
