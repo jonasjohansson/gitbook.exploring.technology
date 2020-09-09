@@ -14,7 +14,7 @@ To accomplish this we have to add a custom component which, when applied, will o
     <script src="https://unpkg.com/aframe@latest"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
     <script src="https://raw.githack.com/jonasjohansson/aframe/master/aframe-marker-video-toggle.js"></script>
-    <script src="https://raw.githack.com/jonasjohansson/aframe/master/aframe-occludejs"></script>
+    <script src="https://raw.githack.com/jonasjohansson/aframe/master/aframe-occlude.js"></script>
     <script src="https://raw.githack.com/jonasjohansson/aframe/master/aframe-frame.js"></script>
   </head>
   <body>
