@@ -29,6 +29,7 @@
     * [Compositional elements](learn/beepbox/compositional-elements.md)
     * [🌻 Challenges](learn/beepbox/challenges.md)
   * [Blender \(TBD\)](learn/blender-tbd.md)
+  * [Cables](learn/cables.md)
   * [Bitsy](learn/bitsy/README.md)
     * [1. Editor](learn/bitsy/basics.md)
     * [2. Paint & Colors](learn/bitsy/paint-and-colors.md)
