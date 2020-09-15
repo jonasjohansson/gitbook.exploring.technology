@@ -1,6 +1,6 @@
 # Hiro
 
-The most basic test pattern. To try it, add the code below, and visit the URL on your phone ****\([remember to type "https://" before the URL](../../../../guides/glitch.md#force-https)\). Accept camera permissions and look at the marker. If successful you should see a red box appear where the marker is.
+The most basic test pattern. To try it, add the code below, and visit the URL on your phone ****\([remember to type "https://" before the URL](../../../../tools/glitch.md#force-https)\). Accept camera permissions and look at the marker. If successful you should see a red box appear where the marker is.
 
 ```markup
 <html>
