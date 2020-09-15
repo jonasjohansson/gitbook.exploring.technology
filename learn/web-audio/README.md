@@ -2,7 +2,7 @@
 description: Written by Alexander Wallin
 ---
 
-# Web Audio \(tone\)
+# Web Audio
 
 Create, combine and control sounds in the browser using [Tone.js](https://tonejs.github.io/), sprinkle  keyboard and mouse interaction, and bring it together with some tasty [P5](../p5/) visuals!
 
