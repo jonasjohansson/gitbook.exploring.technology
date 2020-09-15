@@ -1,2 +1,2 @@
-# Cables
+# Generative Design \(cables\)
 
