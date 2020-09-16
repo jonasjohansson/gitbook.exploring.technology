@@ -16,7 +16,7 @@ In 2020 we streamed workshops on [Twitch](https://www.twitch.tv/exploringtechnol
 | 0406 | Intro to TouchDesigner | [Mickey van Olst](https://mickeyvanolst.com/) |
 | 0407 | Browser AR using [A-Frame](learn/mixed-reality-1/aframe/) and AR.js | Jonas Johansson |
 | 0408 | Algorithmic sounds in [SuperCollider](learn/sound-production/supercollider.md) | [Daniel M. Karlsson](https://www.danielmkarlsson.com/) |
-| 0409 | [Point clouds](learn/live-visuals/touchdesigner/point-clouds/) in TouchDesigner and MetaShape | Mickey van Olst |
+| 0409 | [Point clouds](learn/generative-design/touchdesigner/point-clouds/) in TouchDesigner and MetaShape | Mickey van Olst |
 | 0410 | Machine Learning with [Runway]() | [Andreas Refsgaard](https://andreasrefsgaard.dk/) |
 | 0411 | Live coding networked visuals in Hydra | [Annie Tådne](https://tadne.se/) |
 | 0413 | GLSL and Advanced TOP in TouchDesigner | [Anton Heestand](http://hexagons.net/) |
