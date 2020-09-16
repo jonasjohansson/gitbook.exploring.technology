@@ -1,2 +1,2 @@
-# Image Compose
+# 8. Image Compose
 

@@ -1,4 +1,4 @@
-# Color
+# 4. Materials
 
 ## Beginner 3: Color
 
