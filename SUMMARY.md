@@ -44,6 +44,8 @@
     * [1. Editor](learn/cables/editor.md)
     * [2. MainLoop](learn/cables/2.-mainloop.md)
     * [3. Shapes](learn/cables/3.-shapes.md)
+    * [4. Export](learn/cables/4.-export.md)
+    * [5. Sliders / GUI](learn/cables/5.-sliders-gui.md)
   * [Generative Design \(p5\)](learn/p5/README.md)
     * [Background](learn/p5/background.md)
     * [1. Editor](learn/p5/basics.md)
