@@ -30,7 +30,7 @@ The lower right has a section on the left which will show the properties of any 
 * **Keyframes** Cables also gives access to a timeline, allowing you to change values in a similar way like After Effects. Don't worry about this for now.
 * **Variables** Variables are values that you can store and use in multiple places. This is also possible by patching \(the process of connecting OP's\) but without needing lines connected to it, this can be handy in some situations.
 * **Patch connection** A feature to stream your output to another browser window
-* **History** Shows your recent actions, you can always undo and redo using `CMD`+`Z` and `CMD`+`SHIFT`+`Z`
+* **History** Shows your recent actions, you can always undo and redo using `CTRL`+`Z` and `CTRL`+`SHIFT`+`Z`
 
 ![Filemanager](../../../../.gitbook/assets/image%20%2854%29.png)
 
