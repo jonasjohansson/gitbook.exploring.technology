@@ -12,3 +12,9 @@ Make sure you use a mouse instead of a trackpad!
 
 ![](../../../.gitbook/assets/giphy.webp)
 
+
+
+{% embed url="https://www.youtube.com/watch?v=EPFNHYah9F4&list=PLYimpE2xWgBveaPOiV\_2\_42kZEl\_1ExB0&index=1" %}
+
+
+
