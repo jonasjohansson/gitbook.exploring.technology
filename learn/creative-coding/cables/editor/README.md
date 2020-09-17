@@ -12,7 +12,7 @@ Our friends at Cables have done an excellent job at introducing the Cables inter
 
 ### The Interface explained
 
-![An empty project \(also known as a patch\)](../../../../.gitbook/assets/image%20%2857%29.png)
+![An empty project \(also known as a patch\)](../../../../.gitbook/assets/image%20%2858%29.png)
 
 The cables UI consists of three large panes, the light grey section on the left, is where you will create and connect little blocks called OP's \(short for operators\).
 
@@ -32,7 +32,7 @@ The lower right has a section on the left which will show the properties of any 
 * **Patch connection** A feature to stream your output to another browser window
 * **History** Shows your recent actions, you can always undo and redo using `CTRL`+`Z` and `CTRL`+`SHIFT`+`Z`
 
-![Filemanager](../../../../.gitbook/assets/image%20%2856%29.png)
+![Filemanager](../../../../.gitbook/assets/image%20%2857%29.png)
 
 Under Tools, you can find a filemanager, this enables you to upload assets to use in your patch.
 

@@ -18,15 +18,15 @@ Now you still see one circle, but the `num`-parameter of `Repeat`-op has a value
 
 It should now look like this:
 
-![](../../../.gitbook/assets/image%20%2859%29.png)
+![](../../../.gitbook/assets/image%20%2860%29.png)
 
 You can add another `Repeat`-op to make a 2D array of circles like this:
 
-![](../../../.gitbook/assets/image%20%2863%29.png)
+![](../../../.gitbook/assets/image%20%2864%29.png)
 
 With some more practice and adjustments it is possible to create a 3D cube of cubes. This example uses only two new ops: `matCapMaterial` and `cube`:
 
-![](../../../.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/image%20%2859%29.png)
 
 That’s it. You have finished the beginner tutorial series. Now you should have a look at the existing [examples](https://cables.gl/examples) and [public projects](https://cables.gl/projects) to learn more…
 
