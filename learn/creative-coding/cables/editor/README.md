@@ -12,7 +12,7 @@ Our friends at Cables have done an excellent job at introducing the Cables inter
 
 ### The Interface explained
 
-![An empty project \(also known as a patch\)](../../../../.gitbook/assets/image%20%2856%29.png)
+![An empty project \(also known as a patch\)](../../../../.gitbook/assets/image%20%2857%29.png)
 
 The cables UI consists of three large panes, the light grey section on the left, is where you will create and connect little blocks called OP's \(short for operators\).
 
@@ -20,7 +20,7 @@ On the top right is the preview window, this will show the visual output of your
 
 
 
-![](../../../../.gitbook/assets/image%20%2852%29.png)
+![](../../../../.gitbook/assets/image%20%2853%29.png)
 
 The lower right has a section on the left which will show the properties of any OP you select, and on the right you can choose what to show. The options are visible when you over over each of the icons:
 
@@ -32,7 +32,7 @@ The lower right has a section on the left which will show the properties of any 
 * **Patch connection** A feature to stream your output to another browser window
 * **History** Shows your recent actions, you can always undo and redo using `CTRL`+`Z` and `CTRL`+`SHIFT`+`Z`
 
-![Filemanager](../../../../.gitbook/assets/image%20%2855%29.png)
+![Filemanager](../../../../.gitbook/assets/image%20%2856%29.png)
 
 Under Tools, you can find a filemanager, this enables you to upload assets to use in your patch.
 
@@ -40,7 +40,7 @@ Under Tools, you can find a filemanager, this enables you to upload assets to us
 
 Since cables is working inside the browser, you actually have access to all the tools that Chrome and other browsers offer to help you develop things. A very important one is the console. This is a place where you can output text and information that helps you to figure out what is going on. Cables has an OP called [ConsoleLog ](https://cables.gl/op/Ops.Debug.ConsoleLog)which you can use to output numbers and text to the console. Bring up the developer tools using `CTRL`+ `SHIFT`+ `I` .
 
-![](../../../../.gitbook/assets/image%20%2854%29.png)
+![](../../../../.gitbook/assets/image%20%2855%29.png)
 
 {% embed url="https://cables.gl/p/5f6358201f7ca3143b0167c8?s=U0rqYQK2HR7Ijona" %}
 

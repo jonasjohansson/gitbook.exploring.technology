@@ -8,18 +8,18 @@ To transform an object in 3D space we need the **transform** operator. To insert
 
 When you click the circle the `Select Op`-dialog shows up. Now type `transform` and select `Ops.Gl.Matrix.Transform` and press enter. The new op should appear between the two existing ops: 
 
-![](../../../.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/image%20%2861%29.png)
 
   
  Play around with the parameters of the transform op. You can now change the position, scaling and rotation of the circle:   
  ![](img/beginner2_transformations_circle_transform.gif)
 
-![](../../../.gitbook/assets/image%20%2853%29.png)
+![](../../../.gitbook/assets/image%20%2854%29.png)
 
 Multiple transform ops can be used to create a parent / child transform system. Attach another transform and circle op and play around with the transform ops to see how they affect each other  
 
 
-![](../../../.gitbook/assets/image%20%2861%29.png)
+![](../../../.gitbook/assets/image%20%2865%29.png)
 
 ### Part 3
 

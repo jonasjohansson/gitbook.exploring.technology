@@ -8,7 +8,7 @@ To reuse the circle and draw multiple instances of them you can use the [Ops.Tri
 
 Add it like this:
 
-![](img/beginner_repeat1.png)
+![](../../../.gitbook/assets/image%20%2852%29.png)
 
 Now you still see one circle, but the `num`-parameter of `Repeat`-op has a value `5`. The 5 circles are currently drawn at the exact same position. To change this, we need to use the `Transform`-op again:
 
@@ -18,15 +18,15 @@ Now you still see one circle, but the `num`-parameter of `Repeat`-op has a value
 
 It should now look like this:
 
-![](img/beginner_repeat2.png)
+![](../../../.gitbook/assets/image%20%2859%29.png)
 
 You can add another `Repeat`-op to make a 2D array of circles like this:
 
-![](img/beginner_repeat3.png)
+![](../../../.gitbook/assets/image%20%2863%29.png)
 
 With some more practice and adjustments it is possible to create a 3D cube of cubes. This example uses only two new ops: `matCapMaterial` and `cube`:
 
-![](img/beginner_repeat4.png)
+![](../../../.gitbook/assets/image%20%2858%29.png)
 
 That’s it. You have finished the beginner tutorial series. Now you should have a look at the existing [examples](https://cables.gl/examples) and [public projects](https://cables.gl/projects) to learn more…
 
