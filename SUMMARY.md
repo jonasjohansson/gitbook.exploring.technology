@@ -37,7 +37,7 @@
     * [Cables](learn/creative-coding/cables/README.md)
       * [1. Editor](learn/creative-coding/cables/editor/README.md)
         * [Shortcuts](learn/creative-coding/cables/editor/shortcuts.md)
-      * [2. MainLoop](learn/creative-coding/cables/2.-mainloop.md)
+      * [2. Operators](learn/creative-coding/cables/2.-mainloop.md)
       * [3. Shapes](learn/creative-coding/cables/3.-shapes.md)
       * [Kazemir Challenge](learn/creative-coding/cables/kazemir-challenge.md)
       * [4. Materials](learn/creative-coding/cables/color.md)
