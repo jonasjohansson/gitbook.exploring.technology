@@ -8,7 +8,9 @@ A point cloud is a collection of points in 3D space. A point can be understood b
 
 ### Install
 
-Download [Metashape](https://www.agisoft.com/) and [CloudCompare](https://cloudcompare.org/). Alternatively use [Display Land](https://apps.apple.com/us/app/display-land-3d-model-scanner/id1436223202).
+Download [Metashape](https://www.agisoft.com/) and [CloudCompare](https://cloudcompare.org/). Alternatively use [Display Land](https://apps.apple.com/us/app/display-land-3d-model-scanner/id1436223202) \(discontinued\).
+
+Also interesting software is [Alicevision Meshroom](https://alicevision.org/) and [RealityCapture](https://www.capturingreality.com/).
 
 ### Import
 
@@ -40,3 +42,6 @@ The following steps will process the images and create a textured mesh.
 * [https://browser-point-clouds.glitch.me/three-img-ply.html](https://browser-point-clouds.glitch.me/three-img-ply.html)
 * [https://browser-point-clouds.glitch.me/three-img-ply-interactive.html](https://browser-point-clouds.glitch.me/three-img-ply-interactive.html)
 
+## Links
+
+* 
