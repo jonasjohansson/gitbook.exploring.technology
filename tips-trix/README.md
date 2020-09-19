@@ -56,4 +56,14 @@ Trying to fetch a remote file but getting an error message? This API enables cro
 
 1. Make a back up of the config file "httpd.conf"`sudo cp /etc/apache2/httpd.conf /etc/apache2/httpd.conf.bak`
 2. [https://medium.com/@firstsquares/macos-catalina-set-up-localhost-e4a0b5d5be33](https://medium.com/@firstsquares/macos-catalina-set-up-localhost-e4a0b5d5be33)
-3. 
+
+## Terminal
+
+#### Transfer Local to Remote
+
+`scp -r user1@www.server2.com:/var/www/ /var/www/dir`
+
+#### Move Folder
+
+`mv sourceFolder destinationFolder`
+
