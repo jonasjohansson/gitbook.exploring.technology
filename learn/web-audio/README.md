@@ -4,7 +4,7 @@ description: Written by Alexander Wallin
 
 # Web Audio
 
-Create, combine and control sounds in the browser using [Tone.js](https://tonejs.github.io/), sprinkle  keyboard and mouse interaction, and bring it together with some tasty [P5](../creative-coding/p5/) visuals!
+Create, combine and control sounds in the browser using [Tone.js](https://tonejs.github.io/), sprinkle  keyboard and mouse interaction, and bring it together with some tasty [P5](../p5/) visuals!
 
 While Web Audio API is mentioned, the main focus is to get going and playing! As other official APIs, it is quite verbose, but hopefully, once you've played with Tone it will be easier to grasp the Web Audio API.
 
