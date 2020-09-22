@@ -18,5 +18,3 @@ Include the A-Frame library as a `<script>` in  `<head>` and add the `<a-scene>`
 To remove the VR icon in the bottom right we tell `<a-scene>` to hide it using `vr-mode-ui` attribute.
 {% endhint %}
 
-
-
