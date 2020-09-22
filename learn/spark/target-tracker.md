@@ -1,4 +1,4 @@
-# Tracking
+# Target Tracking
 
 Perhaps the most interesting feature is to use image trackers and surfaces such as planes and walls.
 

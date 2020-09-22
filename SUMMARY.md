@@ -156,7 +156,7 @@
   * [Spark](learn/spark/README.md)
     * [Face Mask](learn/spark/face-mask.md)
     * [Face Decoration](learn/spark/face-decoration.md)
-    * [Tracking](learn/spark/target-tracker.md)
+    * [Target Tracking](learn/spark/target-tracker.md)
     * [Scripting](learn/spark/scripting.md)
     * [Upload Effect](learn/spark/upload-effect.md)
     * [Reducing 3D files](learn/spark/reducing-3d.md)
