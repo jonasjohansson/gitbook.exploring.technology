@@ -6,6 +6,10 @@ description: Written by Jonas Johansson
 
 Glitch is a creative and expressive platform that everyone can use to create the web. In short it's a full web development package that allows for writing cool code, collaboration, easy sharing \(everything is live\), HTTPS and custom domain names.
 
+{% hint style="success" %}
+An alternative to Glitch is [Repl.it](https://repl.it/) which offer a similar type of environment but with some key differences: uploaded files are relative to root and retain its filename, project domains exist under user account so conflicts are avoided and the console log is visible from the get go.
+{% endhint %}
+
 ## Getting started
 
 Visit [Glitch](https://glitch.com/) and create a new account or login through [Github](https://github.com). Choose **New Project** and _hello-webpage_.
