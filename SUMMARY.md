@@ -197,6 +197,7 @@
     * [🕹 DIY Music Machine](learn/web-audio/task-create-your-own-music-machine.md)
 * [Tools](tools/README.md)
   * [Glitch](tools/glitch.md)
+  * [Repl.it](tools/repl.it.md)
   * [TouchOSC](tools/touchosc.md)
   * [Mio](tools/mio/README.md)
     * [Changelog](tools/mio/changelog.md)
