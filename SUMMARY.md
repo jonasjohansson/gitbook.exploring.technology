@@ -212,7 +212,9 @@
   * [Enhanced radical knitting](guides/enhanced-radical-knitting.md)
   * [Browser Point Clouds](guides/browser-point-clouds.md)
 * [Tips & Trix](tips-trix/README.md)
+  * [Recording](tips-trix/recording.md)
   * [Collaboration](tips-trix/collaboration.md)
   * [Streaming](tips-trix/streaming/README.md)
     * [Zoom](tips-trix/streaming/zoom.md)
+  * [Various](tips-trix/various.md)
 
