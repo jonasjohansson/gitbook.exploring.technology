@@ -14,7 +14,11 @@ Transfer the video to your phone \(Airdrop\) and upload using the Instagram app.
 
 Having a QR code can greatly enhance the user experience as it simplifies the process of getting a digital device to find its new home, here's how to make one:
 
-1. Visit the [QR Code Generator](https://www.the-qrcode-generator.com/) or [QR Code Monkey](https://www.qrcode-monkey.com/)
+1. Visit one of the following:
+   1. [QR Code Generator](https://www.the-qrcode-generator.com/)
+   2. [QR Code Monkey](https://www.qrcode-monkey.com/)
+   3. [Free Barcode Generator](https://www.cognex.com/resources/interactive-tools/free-barcode-generator)
+   4. [Online Barcode Generator](https://barcode.tec-it.com/)
 2. Choose URL and add your website address
 3. Choose Save and SVG or PNG
 4. Use the QR code in your design!
