@@ -10,7 +10,7 @@ A point cloud is a collection of points in 3D space. A point can be understood b
 
 Download [Metashape](https://www.agisoft.com/) and [CloudCompare](https://cloudcompare.org/). Alternatively use [Display Land](https://apps.apple.com/us/app/display-land-3d-model-scanner/id1436223202) \(discontinued\).
 
-Also interesting softwares are [Alicevision Meshroom](https://alicevision.org/) and [RealityCapture](https://www.capturingreality.com/). Check out [Photogrammetry on Reddit](https://www.reddit.com/r/photogrammetry/) for more.
+Other interesting softwares are [Alicevision Meshroom](https://alicevision.org/) and [RealityCapture](https://www.capturingreality.com/). Check out [Photogrammetry on Reddit](https://www.reddit.com/r/photogrammetry/) for more, check out this [Guide to 3D Scanning](https://www.vertexlibrary.com/guide-to-3d-scanning-outdoor-photogrammetry-tips). If your scan geometry is a bit off, you can wrap it around an existing model using [R3DS](https://www.russian3dscanner.com/).
 
 ### Import
 
