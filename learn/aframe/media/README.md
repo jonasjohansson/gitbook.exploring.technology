@@ -8,7 +8,7 @@ Entities can use videos as sources, the same way as images. Use the built-in ass
 <a-assets>
   <video
     id="sample"
-    src="https://cdn.aframe.io/360-video-boilerplate/video/city.mp4"
+    src="http://techslides.com/demos/samples/sample.mp4"
     autoplay
     loop
     muted
@@ -22,12 +22,16 @@ Entities can use videos as sources, the same way as images. Use the built-in ass
 Pay attention to the attributes **autoplay**, **loop** and **muted** and remove then if necessary.
 {% endhint %}
 
+{% hint style="danger" %}
+There's a bug adding videos through the asset manager when using AR. Remove the `<a-assets>` and keep the `<video>`. 
+{% endhint %}
+
 ## Videosphere
 
 For 360 video, use `<a-videosphere>` which will wrap a video around a sphere, perfect for 360 content.
 
 ```markup
-<a-videosphere src="https://cdn.aframe.io/360-video-boilerplate/video/city.mp4"></a-videosphere>
+<a-videosphere src="http://techslides.com/demos/samples/sample.mp4"></a-videosphere>
 ```
 
 ## Audio
