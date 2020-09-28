@@ -11,6 +11,6 @@ Entities can have sounds attached, creating positional audio objects as well as 
     crossorigin="anonymous"
   ></audio>
 </a-assets>
-<a-entity sound="src: #guitar;" geometry="primitive: plane" material="color: blue">
+<a-entity sound="src: #guitar;" geometry="primitive: plane" material="color: blue"></a-entity>
 ```
 
