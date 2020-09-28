@@ -1,6 +1,6 @@
 # Video
 
-Entities can use videos as sources, the same way as images. Use the built-in asset manager to ensure all media has been loaded before the site is visible.
+Entities can use videos as sources, the same way as images. Use the built-in asset manager to ensure all media has been loaded before the site is visible. 
 
 To add assets add a `<video>` element in `<a-assets>` and then reference the element in the scene using `<a-video>`. To ignore the asset manager, simply add the video directly to the `src` attribute.
 
