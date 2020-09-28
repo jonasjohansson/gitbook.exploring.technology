@@ -30,6 +30,10 @@ To upload, click **assets** and add the file\(s\). When finished, click the asse
 
 ![](../.gitbook/assets/glitch-upload.png)
 
+### Share to Edit
+
+![](../.gitbook/assets/glitch-share-edit.gif)
+
 ### Help tidy code
 
 ~~When coding it's easy to make things messy. Use the~~ [~~Prettier Glitch Bookmarklet~~](https://prettier-new.glitch.me/) ~~to help maintain sanity!~~
