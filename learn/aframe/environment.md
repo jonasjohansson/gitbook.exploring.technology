@@ -70,3 +70,9 @@ Instead of adding the textures above directly as sources we can use A-Frame's bu
 Add `shader="standard"` to `a-sky` in order to have it react to the lighting in the scene.
 {% endhint %}
 
+The manager will present a [loading screen](https://github.com/aframevr/aframe/blob/master/docs/components/loading-screen.md) that comes with some editable styling.
+
+```markup
+<a-scene loading-screen="dotsColor: red; backgroundColor: black;"></a-scene>
+```
+

@@ -14,6 +14,7 @@
   * A series of posts written by Rachel Smith, teaching Three.js basics with a lot of code examples.
 * [Three.js 101: Hello World!](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1)
   * An introduction to Three.js.
+* [Materials](https://threejsfundamentals.org/threejs/lessons/threejs-materials.html)
 
 ### A-Frame
 
@@ -28,6 +29,7 @@
 * [https://et-examples.glitch.me/](https://et-examples.glitch.me/aframear.html)
 * [Building a Minecraft demo with A-Frame](https://github.com/aframevr/aframe/blob/master/docs/guides/building-a-minecraft-demo.md)
   * An example of how to implement a VR Minecraft demo using A-Frame. This step by step guide will help you better understand how to build a robust VR app with A-Frame.
+* [https://github.com/n5ro/aframe-extras/blob/99535cd878eb36cb25cdcda4a32a40eb248c990a/src/misc/cube-env-map.js](https://github.com/n5ro/aframe-extras/blob/99535cd878eb36cb25cdcda4a32a40eb248c990a/src/misc/cube-env-map.js)
 
 ### THREE
 

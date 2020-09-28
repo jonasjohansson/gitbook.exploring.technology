@@ -8,6 +8,10 @@ Create, combine and control sounds in the browser using [Tone.js](https://tonejs
 
 While Web Audio API is mentioned, the main focus is to get going and playing! As other official APIs, it is quite verbose, but hopefully, once you've played with Tone it will be easier to grasp the Web Audio API.
 
+![](https://pbs.twimg.com/media/EGrUsnQWkAEhOic?format=jpg&name=900x900)
+
+
+
 ## History of Web Audio
 
 To understand where we are, let's briefly look in the rear-view mirror to where we've been. For a more thorough history lesson, [read this introduction](https://webaudioapi.com/book/Web_Audio_API_Boris_Smus_html/ch01.html) web audio, it's background and development.

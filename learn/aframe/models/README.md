@@ -21,7 +21,6 @@ This file is commonly used and straightforward. Check out the [a-obj-model docum
 
 ```markup
 <a-obj-model src="LINK_TO_OBJ" mtl="LINK_TO_MTL"></a-obj-model>
-<!-- https://people.sc.fsu.edu/~jburkardt/data/obj/skyscraper.obj -->
 ```
 
 {% hint style="danger" %}
@@ -37,17 +36,19 @@ Filmbox is a proprietary format created by Autodesk for 3d file transfers with s
 <script src="https://unpkg.com/three@latest/examples/js/libs/inflate.min.js"></script>
 ```
 
-Then add the &lt;a-entity&gt; below, referencing your FBX file.
+Then add the `<a-entity>` below, referencing your FBX file.
 
 ```markup
 <a-entity fbx-model="src: url(LINK_TO_FBX);" animation-mixer="clip: *;"></a-entity>    
 ```
 
+{% hint style="success" %}
 It is possible to export complete scenes and use them in A-Frame, however, all objects must be reduced to pure geometry with standard materials applied \(Octane materials will not work\).
+{% endhint %}
 {% endtab %}
 
 {% tab title="GLTF/GLB" %}
-Short for GL Transmission Format, GLTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive \(there are [loaders for other formats](https://aframe.io/docs/0.8.0/introduction/models.html) as well\).
+Short for GL Transmission Format, GLTF is a file format for 3D scenes and models using the JSON standard. It’s very easy to add models to an A-Frame scene, by using the `a-gltf-model` primitive.
 
 ```markup
 <a-gltf-model src="LINK_TO_GLTF/GLB" animation-mixer="clip: *;"></a-gltf-model>
