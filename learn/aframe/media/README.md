@@ -6,14 +6,14 @@ Entities can use videos as sources, the same way as images. Use the built-in ass
 
 ```markup
 <a-assets>
-  <a-asset-item
+  <video
     id="sample"
-    src="https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4"
+    src="https://cdn.aframe.io/360-video-boilerplate/video/city.mp4"
     autoplay
     loop
     muted
     preload
-  ></a-asset-item>
+  ></video>
 </a-assets>
 <a-video src="#sample" position="0 0 -4"></a-video>
 ```
@@ -27,7 +27,7 @@ Pay attention to the attributes **autoplay**, **loop** and **muted** and remove 
 For 360 video, use `<a-videosphere>` which will wrap a video around a sphere, perfect for 360 content.
 
 ```markup
-<a-videosphere src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"></a-videosphere>
+<a-videosphere src="https://cdn.aframe.io/360-video-boilerplate/video/city.mp4"></a-videosphere>
 ```
 
 ## Audio
