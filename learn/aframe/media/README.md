@@ -26,7 +26,7 @@ Pay attention to the attributes **autoplay**, **loop** and **muted** and remove 
 There's a bug adding videos through the asset manager when using AR. Remove the `<a-assets>` and keep the `<video>`. 
 {% endhint %}
 
-## Videosphere
+### Videosphere
 
 For 360 video, use `<a-videosphere>` which will wrap a video around a sphere, perfect for 360 content.
 
