@@ -9,7 +9,7 @@ Computer vision algorithms is what drives AR, and as cameras and the computing p
 {% page-ref page="image.md" %}
 
 {% hint style="danger" %}
-Because AR attaches the world to a marker `<a-sky>` won't work.
+Because AR attaches the world to a marker `<a-sky>` won't work!
 {% endhint %}
 
 {% hint style="warning" %}
