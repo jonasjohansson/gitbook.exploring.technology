@@ -1,6 +1,8 @@
 # 7. Audio & Video
 
-Media such as audio and video can be added directly to entities, turning them into live screens or speakers. And by using the Asset Manager, these files can be preloaded so everything is ready when intended. Add `<a-assets>` immediately after the `<a-scene>` and start adding your files using the `<a-asset-item>` entity.
+Media such as audio and video can be added directly to entities, turning them into screens or speakers. And by using the Asset Manager, the files can be preloaded so everything is ready when intended. 
+
+Add `<a-assets>` immediately after the `<a-scene>` and start adding your files using the `<a-asset-item>` entity.
 
 ```markup
 <a-assets>
