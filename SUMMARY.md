@@ -9,7 +9,7 @@
     * [4. Animation](learn/aframe/animation.md)
     * [5. Models](learn/aframe/models/README.md)
       * [Model Viewer](learn/aframe/models/model-viewer.md)
-    * [6. Media](learn/aframe/media/README.md)
+    * [6. Media \(video and audio\)](learn/aframe/media/README.md)
       * [Webcam Texture](learn/aframe/media/webcam-texture.md)
     * [7. Text](learn/aframe/text/README.md)
       * [Custom Font](learn/aframe/text/custom-font.md)

@@ -1,4 +1,4 @@
-# 6. Media
+# 6. Media \(video and audio\)
 
 ## Video
 
