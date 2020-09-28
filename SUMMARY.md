@@ -15,7 +15,7 @@
       * [Custom Font](learn/aframe/text/custom-font.md)
     * [8. Extra](learn/aframe/extra/README.md)
       * [Custom Components](learn/aframe/extra/custom-components.md)
-    * [Augmented Reality](learn/aframe/ar/README.md)
+    * [9. Augmented Reality](learn/aframe/ar/README.md)
       * [Marker](learn/aframe/ar/marker/README.md)
         * [Hiro](learn/aframe/ar/marker/hiro.md)
         * [Barcode](learn/aframe/ar/marker/barcode.md)
