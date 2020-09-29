@@ -154,6 +154,7 @@
     * [Scripting](learn/spark/scripting.md)
     * [Upload Effect](learn/spark/upload-effect.md)
     * [Reducing 3D files](learn/spark/reducing-3d.md)
+    * [Reduce File Size](learn/spark/reduce-file-size.md)
   * [TouchDesigner](learn/touchdesigner/README.md)
     * [Navigating](learn/touchdesigner/navigating.md)
     * [Operators](learn/touchdesigner/operators.md)
