@@ -1,7 +1,7 @@
 # Transparent Video
 
 {% hint style="danger" %}
-This does not work on Safari.
+  This does not work on Safari. For a cross-browser solution use GIF.
 {% endhint %}
 
 {% tabs %}
