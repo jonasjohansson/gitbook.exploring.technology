@@ -11,6 +11,7 @@
       * [Model Viewer](learn/aframe/models/model-viewer.md)
     * [6. Media \(video and audio\)](learn/aframe/media/README.md)
       * [Webcam Texture](learn/aframe/media/webcam-texture.md)
+      * [Transparent Video](learn/aframe/media/transparent-video.md)
     * [7. Text](learn/aframe/text/README.md)
       * [Custom Font](learn/aframe/text/custom-font.md)
     * [8. Extra](learn/aframe/extra/README.md)
