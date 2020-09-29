@@ -54,6 +54,14 @@ We can change how the scene is lit by using `<a-light>`. By default if we don’
 <a-light type="point" intensity="2" position="0 0 -2"></a-light>
 ```
 
+### Fog
+
+For atmosphere, go ahead and add some fog by using the `fog` attribute! Use either linear or exponential as the `type`, and play around with the `near` and `far` values to decide where the fog starts and ends.
+
+```markup
+ <a scene fog="type: linear; color: blue; near: 0; far: 10">
+```
+
 ### Preloading assets
 
 Instead of adding the textures above directly as sources we can use A-Frame's builtin asset system. This keeps the code clean and also tells the system to wait with showing all the assets until they have all loaded.
@@ -75,4 +83,6 @@ The manager will present a [loading screen](https://github.com/aframevr/aframe/b
 ```markup
 <a-scene loading-screen="dotsColor: red; backgroundColor: black;"></a-scene>
 ```
+
+
 
