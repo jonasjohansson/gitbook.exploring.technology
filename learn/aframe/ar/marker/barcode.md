@@ -34,5 +34,7 @@ To use it, update the marker `value` number and set the same `matrixCodeType` as
 </html>
 ```
 
-![0, 10, 20](../../../../.gitbook/assets/barcodes%20%282%29.jpg)
+![MatrixCodeType 3x3: 0, 10, 20](../../../../.gitbook/assets/barcodes%20%282%29.jpg)
+
+![MatrixCodeType 4x4: 0, 1, 2](../../../../.gitbook/assets/barcodes4x4.jpg)
 
