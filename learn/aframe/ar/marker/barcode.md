@@ -28,11 +28,7 @@ To use it in code, update the marker `value` number and set the same `matrixCode
 </html>
 ```
 
-![Barcode 0](../../../../.gitbook/assets/0000.png)
-
-![Barcode 1](../../../../.gitbook/assets/0001.png)
 
 
-
-![Barcode 3](../../../../.gitbook/assets/0002%20%281%29.png)
+![Barcode 0, 1, 2](../../../../.gitbook/assets/barcodes.jpg)
 
