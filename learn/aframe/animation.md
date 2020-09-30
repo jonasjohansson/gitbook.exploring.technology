@@ -7,7 +7,7 @@ For animation we can use the `animation` attribute!
   color="orange"
   radius="0.1"
   position="0 2 -2"
-  animation="property: rotation; dir: alternate; dur: 2000; loop: true; from: 0 0 0; to: 0 0 360;"
+  animation="property: rotation; dir: alternate; dur: 2000; loop: true; easing: linear; to: 0 0 360;"
 ></a-cylinder>
 ```
 
@@ -16,7 +16,7 @@ Read the full list of properties [here](https://www.npmjs.com/package/aframe-ani
 ```markup
 <a-cylinder
   color="orange"
-  animation="property: rotation; from: 0 0 0; to: 0 0 360"
+  animation="property: rotation; to: 0 0 360"
   animation__radius="property: radius; from: 0.1; to: 0.5"
 ></a-cylinder>
 ```
