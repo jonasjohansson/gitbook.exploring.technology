@@ -30,5 +30,5 @@ To use it in code, update the marker `value` number and set the same `matrixCode
 
 
 
-![Barcode 0, 1, 2](../../../../.gitbook/assets/barcodes.jpg)
+![Barcode 0, 1, 2](../../../../.gitbook/assets/barcodes%20%281%29.jpg)
 
