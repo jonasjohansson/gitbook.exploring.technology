@@ -2,14 +2,20 @@
 
 Made up of simple patterns, barcodes come in several configurations and are easy to use. Run the [barcode generator](https://au.gmented.com/app/marker/marker.php) to see what they look like, and read about the quality of the [different markers](https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection). 
 
-To use it in code, update the marker `value` number and set the same `matrixCodeType` as used in the generators. The once available are:
+![](../../../../.gitbook/assets/marker-generator%20%281%29.png)
 
-* AR\_MATRIX\_CODE\_3x3
-* AR\_MATRIX\_CODE\_3x3\_HAMMING63
-* AR\_MATRIX\_CODE\_3x3\_PARITY65
-* AR\_MATRIX\_CODE\_4x4
-* AR\_MATRIX\_CODE\_4x4\_BCH\_13\_9\_3
-* AR\_MATRIX\_CODE\_4x4\_BCH\_13\_5\_5
+{% hint style="info" %}
+Notice that the marker image resolution is set to 300 dpi, the barcode dimensions are 4x4 and the correction type is 13,5,5. Identical as what is used in the code below.
+{% endhint %}
+
+To use it, update the marker `value` number and set the same `matrixCodeType` as used in the generator. The once available are:
+
+* 3x3
+* 3x3\_HAMMING63
+* 3x3\_PARITY65
+* 4x4
+* 4x4\_BCH\_13\_9\_3
+* 4x4\_BCH\_13\_5\_5
 
 ```markup
 <html>
