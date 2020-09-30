@@ -20,8 +20,14 @@ To use it in code, update the marker `value` number and set the same `matrixCode
 	<body>
 		<a-scene embedded arjs="detectionMode: mono_and_matrix; matrixCodeType: 4x4_BCH_13_5_5;">
 			<a-marker type="barcode" smooth="true" value="0">
-    		<a-box color="red"></a-box>
-			</a-marker>
+        <a-box color="red"></a-box>
+      </a-marker>
+      <a-marker type="barcode" smooth="true" value="1">
+        <a-box color="green"></a-box>
+      </a-marker>
+      <a-marker type="barcode" smooth="true" value="2">
+        <a-box color="blue"></a-box>
+      </a-marker>
 			<a-entity camera></a-entity>
 		</a-scene>
 	</body>
