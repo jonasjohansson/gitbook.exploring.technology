@@ -25,7 +25,6 @@
       * [Location](learn/aframe/ar/location.md)
       * [Image](learn/aframe/ar/image.md)
       * [Examples](learn/aframe/ar/examples/README.md)
-        * [Ash Tree](learn/aframe/ar/examples/ash-tree.md)
         * [Virtual Dancer](learn/aframe/ar/examples/virtual-dancer.md)
         * [Magic door](learn/aframe/ar/examples/magic-door.md)
     * [🔗 Links](learn/aframe/links.md)
