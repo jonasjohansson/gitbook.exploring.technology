@@ -2,7 +2,7 @@
 
 In code, events can be "listened" too. For markers, it is often interesting to learn when they have been found and lost, and create an action.
 
-The script below will register a component which when used will play all video and sound when a marker is found, and pause them when lost. It is used by adding `marker-toggle` to the `<a-marker>` entity.
+The script below will register a component which when used will play all video and sound when a marker is found, and pause them when lost. It is used by adding `marker-toggle` to the `<a-marker>` entity. The script should be added in `<head>`.
 
 ```markup
 <script>
@@ -22,7 +22,7 @@ The script below will register a component which when used will play all video a
 </script>
 ```
 
-And then you can add a special entity to the `<a-marker>`.
+And then you can add the component to `<a-marker>`.
 
 ```markup
 <a-marker marker-toggle>
