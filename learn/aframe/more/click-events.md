@@ -29,13 +29,22 @@
   </head>
   <body>
     <a-scene>
-      <a-box cursor-listener color="red" position="-2 0 -2"></a-box>
       <a-box
         cursor-listener="url: https://jonasjohansson.se"
-        color="green"
-        position="0 0 -2"
+        position="-2 0 -4"
       ></a-box>
-      <a-box cursor-listener color="blue" position="2 0 -2"></a-box>
+      <a-box
+        cursor-listener
+        animation__mouseenter="property: rotation; startEvents: mouseenter; to: 360 0 360"
+        animation__mouseleave="property: rotation; startEvents: mouseleave; to: 0 0 0"
+        position="0 0 -4"
+      ></a-box>
+      <a-box
+        cursor-listener
+        animation__mouseenter="property: scale; startEvents: mouseenter; to: 2 2 2"
+        animation__mouseleave="property: scale; startEvents: mouseleave; to: 1 1 1"
+        position="2 0 -4"
+      ></a-box>
       <a-entity camera wasd-controls look-controls>
         <a-entity cursor></a-entity>
       </a-entity>
