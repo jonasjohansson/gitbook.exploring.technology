@@ -59,7 +59,8 @@ Due to privacy settings media with sound does not autoplay and must be triggered
   const play = () => {
     window.removeEventListener("click", play);
     window.removeEventListener("touchstart", play);
-    document.querySelectorAll("video, audio").forEach(el => el.play());
+    window.removeEventListener("click", play);
+    document.querySelectorAll("video").forEach(el => el.play());
     document
       .querySelectorAll("[sound],a-sound")
       .forEach(el => el.components.sound.playSound());
