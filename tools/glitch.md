@@ -55,6 +55,10 @@ When using special features such as camera, GPS and the device API you will need
 <!-- <script src="https://gist.githubusercontent.com/jonasjohansson/1e580e1635c02683a980ee48a2b43169/raw/52c555c6b559888dd31d630d7f181118b39055ac/glitch-https.js"></script> -->
 ```
 
+### Remove error "is not defined"
+
+The editor will show a red circle next to lines that use unknown functions, even though the library has been imported. Avoid these prompts by typing `/* globals AFRAME THREE */` where AFRAME and THREE are examples of functions and can be replaced.
+
 ### Upload folders
 
 It's not possible to drag and drop a folder, but there is a fairly painless way! 

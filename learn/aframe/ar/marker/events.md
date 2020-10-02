@@ -10,11 +10,13 @@ The script below will register a component which when used will play all video a
 		init: function () {
 			var marker = this.el
 			marker.addEventListener('markerFound', function () {
-				document.querySelectorAll('video').forEach(el => el.play())
+				// marker.querySelectorAll('video, audio').forEach(el => el.play())
+				document.querySelectorAll('video, audio').forEach(el => el.play())
 				document.querySelectorAll('[sound],a-sound').forEach(el => el.components.sound.playSound())
 			})
 			marker.addEventListener('markerLost', function () {
-				document.querySelectorAll('video').forEach(el => el.pause())
+				// marker.querySelectorAll('video, audio').forEach(el => el.pause())
+				document.querySelectorAll('video, audio').forEach(el => el.pause())
 				document.querySelectorAll('[sound],a-sound').forEach(el => el.components.sound.pauseSound())
 			})
 		}
