@@ -2,6 +2,10 @@
 
 Browsers can present 3D models using the [Model Viewer](https://modelviewer.dev/) component. No interaction available besides control of camera, but enables the model to be viewed in the browser as well as in VR and AR!
 
+{% hint style="info" %}
+Apple devices use USDZ files, which can be made by running the [USDPython script](https://developer.apple.com/download/more/?=USDPython) from Apple's Developer program. 
+{% endhint %}
+
 ```markup
 <html>
   <head>
