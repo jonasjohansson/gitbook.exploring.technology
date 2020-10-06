@@ -1,9 +1,5 @@
 # Street View
 
-Capture 360 images using Google Street View, and upload them 
-
-## Getting started
-
 Install [Street View](https://www.google.com/streetview/) for either [iOS](https://apps.apple.com/us/app/google-street-view/id904418768) or [Android](https://play.google.com/store/apps/details?id=com.google.android.street&hl=en).  Once installed, follow these steps:
 
 1. Open the app and skip the introduction.
