@@ -11,5 +11,9 @@ Once installed, follow these steps:
 
 The 360 panorama image should now be in the photos folder.
 
+{% hint style="success" %}
+If you are participating in a Street View workshop, please forward the image to the person responsible for collection.
+{% endhint %}
+
 ![](../.gitbook/assets/streetview%20%281%29.gif)
 
