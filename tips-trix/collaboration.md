@@ -3,7 +3,7 @@
 Working remote in teams can be a rewarding challenge, and there are several tools available, and it is encouraged to think of digital tools as something that changes. The sooner this fact is accepted, the easier it will be to think freely and make the right choice for the moment.
 
 {% hint style="success" %}
-Check out [Remote Work Canvas](https://docs.google.com/presentation/d/1h6NfQ07xdu9tq-129YNphhQGCKz371HJTLb4vWCcifY/edit#slide=id.g816f5ffe36_1_213) and the [Hyper Island Toolbox](https://toolbox.hyperisland.com/)!
+Check out [Remote Work Canvas](https://docs.google.com/presentation/d/1h6NfQ07xdu9tq-129YNphhQGCKz371HJTLb4vWCcifY/edit#slide=id.g816f5ffe36_1_213), [Hyper Island Toolbox](https://toolbox.hyperisland.com/) and [The Workshopper Playbook](https://theworkshopper.com/playbook/) for inspiration on effective teamwork.
 {% endhint %}
 
 ## Workspace

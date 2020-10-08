@@ -1,6 +1,6 @@
 # Streaming
 
-Setting up a stream can be a daunting task if never done before, both on the software and hardware side. Let's look at the services available, and some hardware and software!
+Setting up a stream can be a daunting task if never done before, both on the software and hardware side. Let's look at the services available, and some hardware and software.
 
 ## Services
 
