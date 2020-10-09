@@ -161,7 +161,3 @@ The magic door effect is made to create the illusion of a room, which can only b
 {% endtab %}
 {% endtabs %}
 
-```
-
-```
-
