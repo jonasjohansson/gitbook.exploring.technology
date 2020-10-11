@@ -49,6 +49,8 @@
       * [Output](learn/arduino/inventory/sound.md)
       * [Motors](learn/arduino/inventory/motors.md)
     * [References](learn/arduino/references.md)
+    * [Buyers Guide](learn/arduino/buyers-guide.md)
+    * [Circuit Playground](learn/arduino/circuit-playground.md)
     * [🌺 Challenges](learn/arduino/learning-challenge/README.md)
       * [Interface](learn/arduino/learning-challenge/interface.md)
       * [Game](learn/arduino/learning-challenge/game.md)
