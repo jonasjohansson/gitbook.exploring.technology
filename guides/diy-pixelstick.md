@@ -2,7 +2,7 @@
 description: Written by Jonas Johansson and Victoria Albrecht
 ---
 
-# DIY Pixelstick
+# Building a DIY Pixelstick
 
 Inspired by [Philippe Dubost light painting](https://www.youtube.com/watch?v=Hau4WGgDPHA), let's build our own Pixelstick using Teensy!
 
