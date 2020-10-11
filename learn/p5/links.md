@@ -15,7 +15,7 @@
 * [Programming Design Systems](http://printingcode.runemadsen.com/)
 * [Interactivity & Computation](http://cmuems.com/2018/60212f/syllabus/overview/)
 
-### Get inspiration
+### Get inspired
 
 * [Open Processing](https://www.openprocessing.org/)
 * [Involving Systems](https://involvingsystems.tumblr.com/)
@@ -62,6 +62,10 @@
 * [https://dam-gallery.de/](https://dam-gallery.de/)
 * [http://audiograph.xyz/](http://audiograph.xyz/)
 * [https://sfpc.io/faq/](https://sfpc.io/faq/)
+
+### Math
+
+* [https://kynd.github.io/p5sketches/handy\_math.html](https://kynd.github.io/p5sketches/handy_math.html)
 
 ### Random
 
