@@ -1,6 +1,6 @@
 # Upload Effect
 
-Ready for some action? Great! There are a few different scenarios for uploading an effect to Instagram, as well as alternatives:
+Ready to upload? Great! There are a few different scenarios for uploading an effect to Instagram, as well as alternatives:
 
 1. Upload through Spark AR Studio. Click **Upload** in the bottom left. It will by default upload an effect titled "Untitled".
 2. Export the effect and upload manually to [Spark AR Hub](https://www.facebook.com/sparkarhub/). In Spark AR Studio click **Upload** in the bottom left. The file can be max **4mb** for Instagram and **10mb** for Facebook. Upload through Spark AR.

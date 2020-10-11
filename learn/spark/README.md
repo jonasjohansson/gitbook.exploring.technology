@@ -4,7 +4,7 @@ description: Written by Jonas Johansson
 
 # Spark
 
-Create Augmented Reality experiences for Instagram and Facebook! While far from as punk as WebAR, Spark has great potential and presents a lower threshold to building robust and fun experiences.
+Build augmented reality experiences for Instagram \(and Facebook\) using Spark AR Studio. While not as punk as using A-Frame and AR.js, Spark has great performance, and since more than a ts    
 
 ### Install
 

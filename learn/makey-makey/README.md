@@ -19,7 +19,7 @@ Makey Makey is an electronic invention tool that allows users to connect everyda
 * Instruction manual
 * Stickers
 
-### Connect
+### Install
 
 There's nothing you need to install, simply connect the Makey Makey with the USB cable to your computer.
 
