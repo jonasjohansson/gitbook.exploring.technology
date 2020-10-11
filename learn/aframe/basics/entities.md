@@ -1,4 +1,4 @@
-# 2. Entities
+# 2. Entities & Components
 
 Within `<a-scene>` entities can be added. There are several types of entities, most with logical names, such as `<a-box>` which unsurprisingly creates a box.
 
@@ -9,7 +9,7 @@ Within `<a-scene>` entities can be added. There are several types of entities, m
 To move the box we use the `position` component which expects three values; x, y and z. By default the box and the camera are both positioned at the `0 0 0` origin, and so we push the box further away by using a negative value in the z-axis.
 
 {% hint style="info" %}
-Components are fantastic! If you want to understand them further, and maybe create your own, [read the documentation](https://aframe.io/docs/1.0.0/core/component.html), and [Writing a Component](../advanced/writing-a-component.md).
+Components are fantastic! If you want to understand them further, and maybe create your own, [read the documentation](https://aframe.io/docs/1.0.0/core/component.html), and the [writing a component](https://aframe.io/docs/1.0.0/introduction/writing-a-component.html) guide.
 {% endhint %}
 
 It's simple to add more boxes, just make sure to have them in different positions.
