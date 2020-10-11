@@ -5,7 +5,7 @@
   * [A-Frame](learn/aframe/README.md)
     * [Basics](learn/aframe/basics/README.md)
       * [1. Scene](learn/aframe/basics/scene.md)
-      * [2. Entities & Components](learn/aframe/basics/entities.md)
+      * [2. Entities](learn/aframe/basics/entities.md)
       * [3. Environment](learn/aframe/basics/environment.md)
       * [4. Animation](learn/aframe/basics/animation.md)
       * [5. Models](learn/aframe/basics/models/README.md)

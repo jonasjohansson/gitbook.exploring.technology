@@ -1,4 +1,4 @@
-# 2. Entities & Components
+# 2. Entities
 
 Within `<a-scene>` entities can be added. There are several types of entities, most with logical names, such as `<a-box>` which unsurprisingly creates a box.
 
