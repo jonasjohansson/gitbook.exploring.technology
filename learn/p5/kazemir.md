@@ -1,4 +1,4 @@
-# 🌼 Kazemir
+# 🏆 Kazemir
 
 Work **individually** and re-create Kazemir Malevich "Black Square and Red Square". This is an exercise using shape, color, rotation and translate.
 
