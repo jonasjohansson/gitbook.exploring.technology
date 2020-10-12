@@ -62,8 +62,8 @@ You want to stay above a minimum value of around 215lumens/m².  If you go  belo
 
 There are many factors that can alter the eye's perception this calculated value including:
 
-* Screen type /Screen gain - reflectivity of the screen
-* Surface type / Material
+* Screen type/Screen gain - reflectivity of the screen
+* Surface type/Material
 * Ambient light 
 
 Your type of surface can also affect your total brightness and contrast. Walls, screens, building exteriors, scrims, front or rear are all decisions that carry their own potential issues. Avoid really dark surfaces at all costs, as they absorb much of your photons and don't reflect as many. However, in some situations gray screens are preferable over white screens because the gray can absorb more of the ambient light and improve contrast.
@@ -71,10 +71,8 @@ Your type of surface can also affect your total brightness and contrast. Walls, 
 {% hint style="info" %}
 If you want to read more about brightness, materials and screen gain here is and important reading.
 
-[http://www.projectorcentral.com/home\_theater\_projector\_buyers\_guide.htm?page=Brightness](http://www.projectorcentral.com/home_theater_projector_buyers_guide.htm?page=Brightness)
-
-[http://www.projectorcentral.com/white\_gray\_projection\_screens.htm](http://www.projectorcentral.com/white_gray_projection_screens.htm)
-
-[http://www.projectorcentral.com/projector\_screens\_gain.htm](http://www.projectorcentral.com/projector_screens_gain.htm)
+* [http://www.projectorcentral.com/home\_theater\_projector\_buyers\_guide.htm?page=Brightness](http://www.projectorcentral.com/home_theater_projector_buyers_guide.htm?page=Brightness)
+* [http://www.projectorcentral.com/white\_gray\_projection\_screens.htm](http://www.projectorcentral.com/white_gray_projection_screens.htm)
+* [http://www.projectorcentral.com/projector\_screens\_gain.htm](http://www.projectorcentral.com/projector_screens_gain.htm)
 {% endhint %}
 
