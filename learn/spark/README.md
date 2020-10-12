@@ -6,6 +6,10 @@ description: Written by Jonas Johansson
 
 Build augmented reality experiences for Instagram \(and Facebook\) using Spark AR Studio.
 
+{% hint style="info" %}
+More than half of the Swedish population have an account on Instagram \([source](https://napoleoncat.com/stats/instagram-users-in-sweden/2020/09)\).
+{% endhint %}
+
 ### Install
 
 Get [Spark AR Studio](https://sparkar.facebook.com/ar-studio/) on desktop and the [Spark AR Player](https://apps.apple.com/us/app/spark-ar-player/id1231451896) on your mobile device. Once installed, open it up and browse around a bit, the **Learn** section is a great place to start. When ready, click **Create New** and choose **New Project** \(or pick an interesting template\).
