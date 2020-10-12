@@ -162,6 +162,7 @@
     * [Reduce File Size](learn/spark/reduce-file-size.md)
     * [Capabilities](learn/spark/capabilities.md)
     * [Instructions](learn/spark/instructions.md)
+    * [🔗 Links](learn/spark/links.md)
   * [TouchDesigner](learn/touchdesigner/README.md)
     * [Navigating](learn/touchdesigner/navigating.md)
     * [Operators](learn/touchdesigner/operators.md)
