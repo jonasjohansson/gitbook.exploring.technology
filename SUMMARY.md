@@ -160,6 +160,8 @@
     * [Upload Effect](learn/spark/upload-effect.md)
     * [Reducing 3D files](learn/spark/reducing-3d.md)
     * [Reduce File Size](learn/spark/reduce-file-size.md)
+    * [Capabilities](learn/spark/capabilities.md)
+    * [Instructions](learn/spark/instructions.md)
   * [TouchDesigner](learn/touchdesigner/README.md)
     * [Navigating](learn/touchdesigner/navigating.md)
     * [Operators](learn/touchdesigner/operators.md)
