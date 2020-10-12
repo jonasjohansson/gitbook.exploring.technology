@@ -8,7 +8,7 @@ A **Face Mask** is a **Face Tracker** combined with a **Face Mesh**. Use the tem
 
 To allow for multiple faces in the same camera view, duplicate the Face Tracker once ready and make sure the duplicated Face Mesh references the new Face Tracker.
 
-![](../../.gitbook/assets/spark-face-mask.png)
+![](../../../.gitbook/assets/spark-face-mask.png)
 
 ### Change Texture
 
@@ -17,5 +17,5 @@ To allow for multiple faces in the same camera view, duplicate the Face Tracker 
 3. Create a new layer and draw your design
 4. Export as PNG and replace the texture in Spark
 
-![](../../.gitbook/assets/spark-change-texture.png)
+![](../../../.gitbook/assets/spark-change-texture.png)
 
