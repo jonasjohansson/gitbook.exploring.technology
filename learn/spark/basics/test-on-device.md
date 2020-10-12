@@ -23,3 +23,5 @@ In the top left you can view all the effects previously uploaded, stored by name
 Always name your project, and duplicate it along with a version number. This will help you when you debug.
 {% endhint %}
 
+Let's return to the desktop app.
+
