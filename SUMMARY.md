@@ -102,6 +102,11 @@
     * [10. Sliders / GUI](learn/cables/5.-sliders-gui.md)
     * [11. Export](learn/cables/export.md)
     * [12. Physics](learn/cables/12.-physics.md)
+  * [Lighting](learn/lighting/README.md)
+    * [Controllers](learn/lighting/controllers.md)
+    * [Connectors](learn/lighting/connectors.md)
+    * [Power](learn/lighting/power.md)
+    * [IP](learn/lighting/ip.md)
   * [Makey Makey](learn/makey-makey/README.md)
     * [Input](learn/makey-makey/input.md)
     * [Output](learn/makey-makey/output.md)
@@ -218,9 +223,4 @@
   * [Streaming](tips-trix/streaming/README.md)
     * [Zoom](tips-trix/streaming/zoom.md)
   * [Various](tips-trix/various.md)
-
-## ☀ Svartljus
-
-* [Lighting](svartljus/lighting/README.md)
-  * [Untitled](svartljus/lighting/untitled.md)
 

@@ -1,0 +1,14 @@
+# IP
+
+The IP Code \(or International Protection Rating, sometimes also interpreted as Ingress Protection Rating\) consists of the letters IP followed by two digits and an optional letter. It classifies the degrees of protection provided against the intrusion of solid objects \(including body parts like hands and fingers\), dust, accidental contact, and water in electrical enclosures. The standard aims to provide users more detailed information than vague marketing terms such as waterproof.
+
+LED-strips often have a rating of 30, 67 or 68.
+
+## IP30
+
+## IP67
+
+## IP68
+
+
+
