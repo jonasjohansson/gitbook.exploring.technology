@@ -2,7 +2,7 @@
 
 Let's make sure the heart is also visible on your mobile device. 
 
-### Preview on Spark AR Player
+### Preview
 
 Click **Test on device** and under **Preview on Spark Player** there should be the connected device and a **Send** button. If not, make sure to open the Spark AR Player app on the connected device.
 
@@ -26,8 +26,6 @@ In the top left you can view all the effects previously uploaded, stored by name
 {% hint style="success" %}
 Always name your project, and duplicate it along with a version number. This will help you when you debug.
 {% endhint %}
-
-Let's return to the desktop app.
 
 ### Send to App
 
