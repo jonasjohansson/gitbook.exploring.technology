@@ -6,10 +6,6 @@ Let's make sure the heart is also visible on your mobile device.
 
 Click **Test on device** and under **Preview on Spark Player** there should be the connected device and a **Send** button. If not, make sure to open the Spark AR Player app is running. Once ready, click **Send**.
 
-{% hint style="warning" %}
-Every time the Spark AR Studio app is updated, the mobile app must also be updated.
-{% endhint %}
-
 On success, there should be a heart dead center of the screen! 
 
 Let's stick around in the mobile app for a while. There are four options in the bottom:
