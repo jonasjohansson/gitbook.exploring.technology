@@ -114,7 +114,6 @@
     * [🏆 Challenges](learn/laser-cutting/puzzle-challenge/README.md)
       * [Badges](learn/laser-cutting/puzzle-challenge/badges.md)
       * [Dexterity Game](learn/laser-cutting/puzzle-challenge/dexterity-game.md)
-  * [Lighting](learn/lighting.md)
   * [Machine Learning \(ml5\)](learn/machine-learning/README.md)
     * [Teachable Machine](learn/machine-learning/teachable-machine/README.md)
       * [Image Classification](learn/machine-learning/teachable-machine/video-classification.md)
@@ -145,7 +144,6 @@
       * [Hommage](learn/p5/challenges/hommage.md)
     * [🔗 Links](learn/p5/links.md)
   * [Projectors](learn/projectors/README.md)
-    * [Laser](learn/projectors/laser.md)
     * [Technology](learn/projectors/technology.md)
     * [Techniques](learn/projectors/techniques.md)
     * [Specifications](learn/projectors/specifications.md)
@@ -220,4 +218,9 @@
   * [Streaming](tips-trix/streaming/README.md)
     * [Zoom](tips-trix/streaming/zoom.md)
   * [Various](tips-trix/various.md)
+
+## ☀ Svartljus
+
+* [Lighting](svartljus/lighting/README.md)
+  * [Untitled](svartljus/lighting/untitled.md)
 

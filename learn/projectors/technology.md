@@ -33,8 +33,6 @@ Set to become the standard for projector technology, laser technology offers rel
 * Lower energy consumption and lower thermal emission
 * Instant on/off capability, flexible brightness adjustment \(20-100%\)
 
-![](https://www.christiedigital.com/img/In-Page%20Images/Laser%20Projection%20Facts%20Page/Typical-laser-phosphor-illumination.png)
-
 There are numerous benefits with a laser light source, but the bottom line is that they more closely address the needs of the market and laser is being adopted in growing numbers. 
 
 {% hint style="danger" %}
