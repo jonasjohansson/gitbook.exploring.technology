@@ -16,3 +16,7 @@ In order to use Spark you also require a Facebook account!
 
 ![](../../.gitbook/assets/spark-create-new.png)
 
+## Getting started
+
+
+
